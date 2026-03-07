@@ -8,20 +8,49 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 07 Mar 2026 00:33:10 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 01:33:15 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Santa Catarina registra queda expressiva em 10 indicadores criminais em fevereiro]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_e5a8cdeeaf945f2802d5d5aab55388af801e3feb/</link>
+<title><![CDATA[Banco do Brasil lança Pix para compras na Argentina]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_b567206c942de7bd16b9b4b7d0ac3bd13f9003df/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 06 Mar 2026 23:32:10 GMT</pubDate>
+<pubDate>Sat, 07 Mar 2026 01:26:40 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:e5a8cdeeaf945f2802d5d5aab55388af801e3feb]]></guid>
-<description><![CDATA[Santa Catarina apresentou redução significativa em diversos crimes no]]></description>
+<guid isPermaLink="false"><![CDATA[sc1multi:b567206c942de7bd16b9b4b7d0ac3bd13f9003df]]></guid>
+<description><![CDATA[O Banco do Brasil lançou o Pix no Exterior, permitindo que clientes façam pagamentos em lojas físicas na Argentina por meio do Pix.]]></description>
 <content:encoded><![CDATA[
-<p>Santa Catarina apresentou redução significativa em diversos crimes no O índice de homicídios atingiu o menor nível dos últimos 19 anos, com 33 casos registrados em fevereiro, uma queda de 10,8% em relação ao mesmo período do ano anterior. Comparado a fevereiro de 2017, quando houve 94 ocorrências, a redução é de 64,9%. O crime de feminicídio também diminuiu, passando de cinco para três casos, uma queda de 40%. Já o latrocínio teve redução total, caindo de dois para zero registros. Morte por intervenção legal de agente do Estado caiu 10%, de dez para nove casos. Lesão corporal seguida de morte manteve um caso, igual ao ano anterior. No geral, mortes violentas caíram 16,4%.</p>
-<p>Além dos crimes contra a vida, houve queda em crimes contra o patrimônio. O roubo diminuiu 18,9% em comparação com o ano anterior, enquanto o roubo de veículos teve redução de 46,7%. O furto de veículos também caiu 9,2%. Crimes como estelionato reduziram 7,2%, com quase 600 casos a menos, e violência doméstica teve queda de 2,2%. O secretário-adjunto da Segurança Pública destacou que esses resultados reforçam a condição de Santa Catarina como o estado mais seguro do país e evidenciam a qualidade do trabalho do governo durante a alta temporada de verão.</p>
-<p>Os dados indicam avanços significativos na segurança pública do estado, motivando a continuidade dos esforços para enfrentar os desafios da área.</p>
+<p>O Banco do Brasil lançou o Pix no Exterior, permitindo que clientes façam pagamentos em lojas físicas na Argentina por meio do Pix. A novidade foi desenvolvida em parceria com o Banco Patagonia e permite que qualquer usuário do Pix realize pagamentos, mesmo sem ser correntista do Banco do Brasil. O pagamento é feito pela leitura de um Código QR exibido pelo comerciante, que pode estar em uma maquininha ou outro dispositivo. O cliente acessa o aplicativo do banco, escaneia o código, confere os dados e confirma a transação sem necessidade de cadastro ou habilitação prévia.</p>
+<p>A operação inclui uma conversão automática de moeda, onde o cliente paga em reais e o comerciante recebe na moeda local, por meio de uma operação de câmbio integrada à transação. O débito sai diretamente da conta corrente ou poupança do usuário no Brasil e aparece no extrato como um Pix comum, com incidência do Imposto sobre Operações Financeiras (IOF).</p>
+<p>A solução utiliza APIs para conectar sistemas financeiros e processar a operação em poucos segundos. Além do Banco Patagonia, a iniciativa conta com a solução de cobranças Wapa e a infraestrutura tecnológica da Coelsa. O Banco do Brasil estuda expandir o Pix no Exterior para outros países da América, Europa e Ásia, especialmente onde há grande presença de brasileiros.</p>
+<p>A iniciativa integra a estratégia do Banco do Brasil de ampliar serviços financeiros digitais e simplificar pagamentos internacionais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem com mandado de prisão é detido pela PM em Pouso Redondo]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_711f41d793aa5f32ffd50f9b18b671050ca6ef3c/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 07 Mar 2026 01:21:45 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:711f41d793aa5f32ffd50f9b18b671050ca6ef3c]]></guid>
+<description><![CDATA[Um homem com mandado de prisão ativo foi preso pela Polícia Militar na tarde desta sexta-feira no bairro Vila Adelaide, em Pouso Redondo.]]></description>
+<content:encoded><![CDATA[
+<p>Um homem com mandado de prisão ativo foi preso pela Polícia Militar na tarde desta sexta-feira no bairro Vila Adelaide, em Pouso Redondo. A guarnição realizava patrulhamento ostensivo pela cidade quando visualizou o suspeito, já conhecido por possuir um mandado de prisão em aberto. Ele foi abordado pelos policiais e informado sobre a ordem judicial.</p>
+<p>Diante da situação, os policiais deram voz de prisão ao homem, que foi conduzido ao Presídio Regional de Rio do Sul, onde permanece à disposição da Justiça. O tema segue em acompanhamento, e novas informações devem ser atualizadas.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Pix agora pode ser usado em compras na Argentina]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_16244cad2d9594a42979c4af84616b44b9dbc5b4/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 07 Mar 2026 01:00:00 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:16244cad2d9594a42979c4af84616b44b9dbc5b4]]></guid>
+<description><![CDATA[Brasileiros podem pagar compras em lojas físicas na Argentina usando Pix, com conversão automática de moeda.]]></description>
+<content:encoded><![CDATA[
+<p>Brasileiros podem pagar compras em lojas físicas na Argentina usando Pix, com conversão automática de moeda. O Banco do Brasil lançou uma funcionalidade que permite pagamentos via Pix em lojas físicas na Argentina, em parceria com o Banco Patagonia. A novidade possibilita que o cliente escaneie o QR Code do comerciante pelo aplicativo do banco, confirme os dados da compra e realize o pagamento.</p>
+<p>O valor é debitado da conta em reais do cliente, enquanto o estabelecimento recebe na moeda local, com conversão automática. A transação aparece no extrato como um Pix comum, incluindo a cobrança do Imposto sobre Operações Financeiras (IOF) aplicado em operações de câmbio.</p>
+<p>A nova modalidade não exige cadastro prévio ou habilitação especial para uso e estreia na Argentina. O Banco do Brasil estuda expandir o Pix no exterior para outros países com grande presença de brasileiros.</p>
+<p>Essa inovação facilita compras de brasileiros no exterior, ampliando as possibilidades de uso do Pix além do território nacional.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
