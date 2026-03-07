@@ -8,49 +8,22 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 07 Mar 2026 01:33:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 02:33:20 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Banco do Brasil lança Pix para compras na Argentina]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_b567206c942de7bd16b9b4b7d0ac3bd13f9003df/</link>
+<title><![CDATA[Novo sistema digital para emissão da CNH registra mais de 4 milhões de processos iniciados]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_b26601476b1104a594d2dd18ee073b6da26b48dc/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Mar 2026 01:26:40 GMT</pubDate>
+<pubDate>Sat, 07 Mar 2026 02:00:00 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:b567206c942de7bd16b9b4b7d0ac3bd13f9003df]]></guid>
-<description><![CDATA[O Banco do Brasil lançou o Pix no Exterior, permitindo que clientes façam pagamentos em lojas físicas na Argentina por meio do Pix.]]></description>
+<guid isPermaLink="false"><![CDATA[sc1multi:b26601476b1104a594d2dd18ee073b6da26b48dc]]></guid>
+<description><![CDATA[O novo sistema para emissão da primeira Carteira Nacional de Habilitação (CNH) já soma mais de 4 milhões de processos iniciados em todo o país, com serviços disponíveis exclusivamente pelos canais oficiais do Governo Federal.]]></description>
 <content:encoded><![CDATA[
-<p>O Banco do Brasil lançou o Pix no Exterior, permitindo que clientes façam pagamentos em lojas físicas na Argentina por meio do Pix. A novidade foi desenvolvida em parceria com o Banco Patagonia e permite que qualquer usuário do Pix realize pagamentos, mesmo sem ser correntista do Banco do Brasil. O pagamento é feito pela leitura de um Código QR exibido pelo comerciante, que pode estar em uma maquininha ou outro dispositivo. O cliente acessa o aplicativo do banco, escaneia o código, confere os dados e confirma a transação sem necessidade de cadastro ou habilitação prévia.</p>
-<p>A operação inclui uma conversão automática de moeda, onde o cliente paga em reais e o comerciante recebe na moeda local, por meio de uma operação de câmbio integrada à transação. O débito sai diretamente da conta corrente ou poupança do usuário no Brasil e aparece no extrato como um Pix comum, com incidência do Imposto sobre Operações Financeiras (IOF).</p>
-<p>A solução utiliza APIs para conectar sistemas financeiros e processar a operação em poucos segundos. Além do Banco Patagonia, a iniciativa conta com a solução de cobranças Wapa e a infraestrutura tecnológica da Coelsa. O Banco do Brasil estuda expandir o Pix no Exterior para outros países da América, Europa e Ásia, especialmente onde há grande presença de brasileiros.</p>
-<p>A iniciativa integra a estratégia do Banco do Brasil de ampliar serviços financeiros digitais e simplificar pagamentos internacionais.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem com mandado de prisão é detido pela PM em Pouso Redondo]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_711f41d793aa5f32ffd50f9b18b671050ca6ef3c/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Mar 2026 01:21:45 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:711f41d793aa5f32ffd50f9b18b671050ca6ef3c]]></guid>
-<description><![CDATA[Um homem com mandado de prisão ativo foi preso pela Polícia Militar na tarde desta sexta-feira no bairro Vila Adelaide, em Pouso Redondo.]]></description>
-<content:encoded><![CDATA[
-<p>Um homem com mandado de prisão ativo foi preso pela Polícia Militar na tarde desta sexta-feira no bairro Vila Adelaide, em Pouso Redondo. A guarnição realizava patrulhamento ostensivo pela cidade quando visualizou o suspeito, já conhecido por possuir um mandado de prisão em aberto. Ele foi abordado pelos policiais e informado sobre a ordem judicial.</p>
-<p>Diante da situação, os policiais deram voz de prisão ao homem, que foi conduzido ao Presídio Regional de Rio do Sul, onde permanece à disposição da Justiça. O tema segue em acompanhamento, e novas informações devem ser atualizadas.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Pix agora pode ser usado em compras na Argentina]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_16244cad2d9594a42979c4af84616b44b9dbc5b4/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 07 Mar 2026 01:00:00 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:16244cad2d9594a42979c4af84616b44b9dbc5b4]]></guid>
-<description><![CDATA[Brasileiros podem pagar compras em lojas físicas na Argentina usando Pix, com conversão automática de moeda.]]></description>
-<content:encoded><![CDATA[
-<p>Brasileiros podem pagar compras em lojas físicas na Argentina usando Pix, com conversão automática de moeda. O Banco do Brasil lançou uma funcionalidade que permite pagamentos via Pix em lojas físicas na Argentina, em parceria com o Banco Patagonia. A novidade possibilita que o cliente escaneie o QR Code do comerciante pelo aplicativo do banco, confirme os dados da compra e realize o pagamento.</p>
-<p>O valor é debitado da conta em reais do cliente, enquanto o estabelecimento recebe na moeda local, com conversão automática. A transação aparece no extrato como um Pix comum, incluindo a cobrança do Imposto sobre Operações Financeiras (IOF) aplicado em operações de câmbio.</p>
-<p>A nova modalidade não exige cadastro prévio ou habilitação especial para uso e estreia na Argentina. O Banco do Brasil estuda expandir o Pix no exterior para outros países com grande presença de brasileiros.</p>
-<p>Essa inovação facilita compras de brasileiros no exterior, ampliando as possibilidades de uso do Pix além do território nacional.</p>
+<p>O novo sistema para emissão da primeira Carteira Nacional de Habilitação (CNH) já soma mais de 4 milhões de processos iniciados em todo o país, com serviços disponíveis exclusivamente pelos canais oficiais do Governo Federal.</p>
+<p>O processo para iniciar a primeira habilitação pode ser feito pelo portal Gov.br ou pelo aplicativo CNH do Brasil, onde o candidato acompanha todas as etapas, desde o curso teórico até a emissão da Permissão para Dirigir (PPD). Embora a abertura do processo seja digital, exames médicos, psicológicos e aulas práticas continuam sendo realizados presencialmente por meio dos Departamentos Estaduais de Trânsito (Detrans) ou profissionais credenciados.</p>
+<p>Mais de 18,7 mil habilitações foram emitidas por meio do aplicativo, e mais de 1 milhão de candidatos concluíram o curso teórico gratuito oferecido na plataforma. A Secretaria Nacional de Trânsito (Senatran) também disponibiliza uma ferramenta para validar a autenticidade da CNH, acessível pelo portal de serviços, garantindo segurança no uso do documento.</p>
+<p>O Ministério dos Transportes reforça que os serviços relacionados à CNH são oferecidos somente pelos canais oficiais e alerta que não realiza atendimento por SMS, telefone, e-mail ou redes sociais.</p>
+<p>O novo sistema digital representa um avanço na transparência e no acesso aos serviços para obtenção da CNH, facilitando o acompanhamento do processo e a verificação da autenticidade do documento.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
