@@ -8,19 +8,33 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina (últimas 24h) reescritas com IA - Evo Web News</description>
-<lastBuildDate>Sat, 04 Apr 2026 22:32:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Apr 2026 23:33:39 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Princípio de incêndio atinge comércio no Centro de Morro da Fumaça]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_147e45518229c3e5bd5376216240c23086bf50ee/</link>
+<title><![CDATA[Jovem morre eletrocutado ao tentar consertar geladeira em SC]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_1295e23685ea12c1de869e7d1bde84ce0d65c70f/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 04 Apr 2026 14:53:44 GMT</pubDate>
+<pubDate>Sat, 04 Apr 2026 22:08:00 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:147e45518229c3e5bd5376216240c23086bf50ee]]></guid>
-<description><![CDATA[Um princípio de incêndio foi registrado na manhã deste sábado em um estabelecimento comercial localizado na rua 20 de Maio, no Centro de Morro da Fumaça.]]></description>
+<guid isPermaLink="false"><![CDATA[sc1multi:1295e23685ea12c1de869e7d1bde84ce0d65c70f]]></guid>
+<description><![CDATA[Um jovem de 23 anos morreu eletrocutado enquanto tentava consertar uma geladeira na cidade de Pouso Redondo, no Alto Vale do Itajaí.]]></description>
 <content:encoded><![CDATA[
-<p>Um princípio de incêndio foi registrado na manhã deste sábado em um estabelecimento comercial localizado na rua 20 de Maio, no Centro de Morro da Fumaça. A ocorrência está em andamento no momento, com atendimento dos órgãos responsáveis para controlar a situação.</p>
-<p>Ainda não há informações adicionais sobre danos ou feridos no local. Mais informações serão divulgadas assim que estiverem disponíveis.</p>
+<p>Um jovem de 23 anos morreu eletrocutado enquanto tentava consertar uma geladeira na cidade de Pouso Redondo, no Alto Vale do Itajaí. A ocorrência foi registrada na tarde de sexta-feira, quando equipes de resgate foram acionadas. Ao chegarem ao local, o jovem já estava sem vida.</p>
+<p>Familiares relataram que a esposa encontrou o jovem caído próximo a um fio com fuga de energia, ligado a uma extensão e em contato com o chão molhado. Ele teria sido eletrocutado durante o conserto da geladeira.</p>
+<p>O jovem, identificado como Matheus de Oliveira Maciel, residia em Pouso Redondo. Amigos e familiares utilizaram as redes sociais para se despedir dele. O caso reforça a importância de cuidados ao lidar com equipamentos elétricos para evitar acidentes fatais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Carro capota após saída de pista em Jaguaruna]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_e6f561a72d4c0c0b90197f4bffb5b1ab664aa129/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Apr 2026 19:10:00 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:e6f561a72d4c0c0b90197f4bffb5b1ab664aa129]]></guid>
+<description><![CDATA[Um veículo capotou na Rodovia Municipal Pedro Barbosa Lemos, no bairro Jabuticabeira, em Jaguaruna, por volta das 12h deste sábado.]]></description>
+<content:encoded><![CDATA[
+<p>Um veículo capotou na Rodovia Municipal Pedro Barbosa Lemos, no bairro Jabuticabeira, em Jaguaruna, por volta das 12h deste sábado. O acidente ocorreu após uma saída de pista seguida de capotamento. O condutor, um homem de 36 anos, estava fora do veículo no momento da chegada das equipes de socorro.</p>
+<p>Apesar da gravidade do acidente, o motorista não apresentava ferimentos aparentes e recusou atendimento médico, permanecendo no local após o atendimento. O carro envolvido no acidente possui placas de Tubarão.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
