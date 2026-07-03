@@ -134,5 +134,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9aa4526d0cda490618c047c43e344fe0ab7add5c/",
     "usedAt": 1783080694176,
     "usedAtIso": "2026-07-03T12:11:34.176Z"
+  },
+  "source:410bbd402609c6b26c2030cba81e99bd8be76a23": {
+    "url": "https://ocp.news/cotidiano/corrida-altera-transito-neste-domingo-em-florianopolis",
+    "title": "Corrida altera trânsito na Beira-Mar Continental em Florianópolis",
+    "guid": "sc1multi:410bbd402609c6b26c2030cba81e99bd8be76a23",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_410bbd402609c6b26c2030cba81e99bd8be76a23/",
+    "usedAt": 1783091492929,
+    "usedAtIso": "2026-07-03T15:11:32.929Z"
+  },
+  "source:34d5bec9591a15232f9c5a9b7038b6ca1f6e823e": {
+    "url": "https://ocp.news/esporte/atletismo-jaraguaense-compete-no-brasileiro-sub-20-com-nove-atletas",
+    "title": "Atletismo de Jaraguá do Sul compete no Brasileiro Sub-20 em Cuiabá",
+    "guid": "sc1multi:34d5bec9591a15232f9c5a9b7038b6ca1f6e823e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34d5bec9591a15232f9c5a9b7038b6ca1f6e823e/",
+    "usedAt": 1783091492929,
+    "usedAtIso": "2026-07-03T15:11:32.929Z"
+  },
+  "source:69ecb84ee34ca9f43fbab708427401a6deb79897": {
+    "url": "https://ocp.news/seguranca/mulher-e-morta-a-facadas-na-frente-da-filha-de-8-anos-em-santa-catarina",
+    "title": "Mulher é morta a facadas em Matos Costa na frente da filha de 8 anos",
+    "guid": "sc1multi:69ecb84ee34ca9f43fbab708427401a6deb79897",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69ecb84ee34ca9f43fbab708427401a6deb79897/",
+    "usedAt": 1783091492929,
+    "usedAtIso": "2026-07-03T15:11:32.929Z"
+  },
+  "source:95c54043de68b3317508fb527fc4abf03a1409c2": {
+    "url": "https://ocp.news/seguranca/homem-e-internado-apos-cair-de-telhado-durante-reparos-em-guaramirim",
+    "title": "Dois homens sofrem quedas durante reparos em telhados em Guaramirim",
+    "guid": "sc1multi:95c54043de68b3317508fb527fc4abf03a1409c2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95c54043de68b3317508fb527fc4abf03a1409c2/",
+    "usedAt": 1783091492929,
+    "usedAtIso": "2026-07-03T15:11:32.929Z"
   }
 }
