@@ -182,5 +182,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3403b867fe10bb6f69e4efc7f94df22bd134debc/",
     "usedAt": 1783098693143,
     "usedAtIso": "2026-07-03T17:11:33.143Z"
+  },
+  "source:1dc1b6160e5726fdf5c8544767368b9c99069bf8": {
+    "url": "https://ocp.news/cotidiano/massa-de-ar-frio-provoca-queda-acentuada-das-temperaturas-em-santa-catarina",
+    "title": "Massa de ar frio provoca queda acentuada das temperaturas em Santa Catarina",
+    "guid": "sc1multi:1dc1b6160e5726fdf5c8544767368b9c99069bf8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1dc1b6160e5726fdf5c8544767368b9c99069bf8/",
+    "usedAt": 1783102292878,
+    "usedAtIso": "2026-07-03T18:11:32.878Z"
+  },
+  "source:30043b5c71764a2abcd3c5a5357abef53baf6266": {
+    "url": "https://ocp.news/seguranca/investigado-por-comandar-envio-de-haxixe-para-todo-o-brasil-e-preso-na-grande-florianopolis",
+    "title": "Homem é preso em Florianópolis por comandar envio de haxixe para o Brasil",
+    "guid": "sc1multi:30043b5c71764a2abcd3c5a5357abef53baf6266",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_30043b5c71764a2abcd3c5a5357abef53baf6266/",
+    "usedAt": 1783102292878,
+    "usedAtIso": "2026-07-03T18:11:32.878Z"
+  },
+  "source:15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9": {
+    "url": "https://ocp.news/cotidiano/golfinho-resgatado-em-laguna-e-escoltado-ate-florianopolis-para-reabilitacao",
+    "title": "Golfinho resgatado em Laguna é levado para reabilitação em Florianópolis",
+    "guid": "sc1multi:15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9/",
+    "usedAt": 1783102292878,
+    "usedAtIso": "2026-07-03T18:11:32.878Z"
+  },
+  "source:c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc": {
+    "url": "https://ocp.news/seguranca/colisao-entre-carro-e-caminhao-deixa-um-morto-na-sc-418-em-campo-alegre",
+    "title": "Colisão entre carro e caminhão mata uma pessoa na SC-418 em Campo Alegre",
+    "guid": "sc1multi:c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc/",
+    "usedAt": 1783102292878,
+    "usedAtIso": "2026-07-03T18:11:32.878Z"
   }
 }
