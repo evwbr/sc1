@@ -214,5 +214,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc/",
     "usedAt": 1783102292878,
     "usedAtIso": "2026-07-03T18:11:32.878Z"
+  },
+  "source:edc38e82cfe06d9d6af0615daae23194c6fb2fd0": {
+    "url": "https://ocp.news/cotidiano/defesa-civil-alerta-para-mare-alta-em-florianopolis-2",
+    "title": "Defesa Civil alerta para maré alta e riscos em Florianópolis",
+    "guid": "sc1multi:edc38e82cfe06d9d6af0615daae23194c6fb2fd0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edc38e82cfe06d9d6af0615daae23194c6fb2fd0/",
+    "usedAt": 1783105894028,
+    "usedAtIso": "2026-07-03T19:11:34.028Z"
+  },
+  "source:4fe3094e534671f3bb25ab63aa3c58baa2018cfb": {
+    "url": "https://ocp.news/cotidiano/prefeitura-cria-bolsao-seguro-para-embarque-e-desembarque-de-estudantes-no-centro-de-florianopolis",
+    "title": "Florianópolis cria bolsão seguro para embarque e desembarque de estudantes no Centro",
+    "guid": "sc1multi:4fe3094e534671f3bb25ab63aa3c58baa2018cfb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fe3094e534671f3bb25ab63aa3c58baa2018cfb/",
+    "usedAt": 1783105894028,
+    "usedAtIso": "2026-07-03T19:11:34.028Z"
+  },
+  "source:e79c329fe9431a09f2453847ec7112eed5472fb9": {
+    "url": "https://ocp.news/esporte/varzeano-de-guaramirim-entra-na-fase-eliminatoria-com-tres-duelos-neste-sabado",
+    "title": "Campeonato Varzeano de Guaramirim inicia fase eliminatória com três jogos",
+    "guid": "sc1multi:e79c329fe9431a09f2453847ec7112eed5472fb9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e79c329fe9431a09f2453847ec7112eed5472fb9/",
+    "usedAt": 1783105894028,
+    "usedAtIso": "2026-07-03T19:11:34.028Z"
   }
 }
