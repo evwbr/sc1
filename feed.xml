@@ -8,20 +8,34 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Sat, 04 Jul 2026 12:14:32 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 13:28:21 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Mulher é presa por furtar R$ 3,2 mil em supermercado de Jaraguá do Sul]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_41d0a7f82a8c240a792a05b6dfc483f9c69b4c94/</link>
+<title><![CDATA[Motorista fica ferido após capotamento em Ascurra, SC]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_2807cb1b5d2e86ed1454c6b83d2ef481f5c4577e/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 04 Jul 2026 11:44:09 GMT</pubDate>
+<pubDate>Sat, 04 Jul 2026 13:18:18 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:41d0a7f82a8c240a792a05b6dfc483f9c69b4c94]]></guid>
-<description><![CDATA[Uma mulher foi detida após ser flagrada furtando produtos em um supermercado de Jaraguá do Sul.]]></description>
+<guid isPermaLink="false"><![CDATA[sc1multi:2807cb1b5d2e86ed1454c6b83d2ef481f5c4577e]]></guid>
+<description><![CDATA[Um motorista ficou ferido após capotar o veículo na madrugada deste sábado em Ascurra, Santa Catarina.]]></description>
 <content:encoded><![CDATA[
-<p>A prisão ocorreu na tarde de sexta-feira, no bairro Barra do Rio Molha, em Jaraguá do Sul, após a equipe de segurança do supermercado identificar a suspeita.</p>
-<p>Durante a abordagem, a Polícia Militar encontrou mercadorias no carro da mulher avaliadas em cerca de R$ 3,2 mil, pertencentes ao estabelecimento.</p>
-<p>Ela recebeu voz de prisão e foi encaminhada à Delegacia de Polícia para os procedimentos legais.</p>
+<p>O acidente ocorreu na madrugada do dia 4 em Ascurra, no Alto Vale do Itajaí.</p>
+<p>As equipes de resgate encontraram o condutor ainda dentro do veículo no local do capotamento.</p>
+<p>Ele recebeu atendimento, foi imobilizado e encaminhado ao Hospital Doutor Waldomiro Colautti, em Ibirama, com ferimentos leves.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Maré alta causa alagamentos e transtornos no litoral catarinense]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_68d016928d2fcfc059b1c3e4152ac2e1a57acab2/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Jul 2026 02:59:36 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:68d016928d2fcfc059b1c3e4152ac2e1a57acab2]]></guid>
+<description><![CDATA[A maré alta provocou alagamentos e bloqueios em ruas de Itajaí, Florianópolis e Tijucas na tarde de sexta-feira.]]></description>
+<content:encoded><![CDATA[
+<p>Em Itajaí, a elevação do nível da água levou à interdição de ruas na região central, com a estação da Defesa Civil registrando 1,96 metro, acima da cota de emergência de 1,70 metro.</p>
+<p>Em Florianópolis, a combinação de maré alta, vento sul e mar agitado causou alagamentos em trechos das rodovias SC-401 e SC-405, gerando lentidão no trânsito.</p>
+<p>Tijucas também enfrentou pontos alagados devido à maré elevada, agravada pela influência de um ciclone extratropical e pela elevação do nível do Rio Itajaí-Açu, que recebe grande volume de água das chuvas no Vale do Itajaí.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
