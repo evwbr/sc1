@@ -262,5 +262,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b6eaf52934060a1956fa6488bd64bd2739d776ce/",
     "usedAt": 1783120293000,
     "usedAtIso": "2026-07-03T23:11:33.000Z"
+  },
+  "source:53cf2a7932bef189e0572023351b99ce12f3aa90": {
+    "url": "https://ocp.news/esporte/juventus-e-sc-jaragua-fazem-derby-decisivo-contra-o-rebaixamento-na-serie-b-do-estadual",
+    "title": "Juventus e SC Jaraguá disputam derby decisivo contra rebaixamento na Série B catarinense",
+    "guid": "sc1multi:53cf2a7932bef189e0572023351b99ce12f3aa90",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53cf2a7932bef189e0572023351b99ce12f3aa90/",
+    "usedAt": 1783134693370,
+    "usedAtIso": "2026-07-04T03:11:33.370Z"
+  },
+  "source:a441eb5753e6e84c9533b55c1a7751f799d05bb8": {
+    "url": "https://ocp.news/esporte/por-reacao-jaragua-futsal-recebe-o-cascavel-para-espantar-ma-fase-na-lnf",
+    "title": "Jaraguá Futsal busca reação contra Cascavel na Liga Nacional em SC",
+    "guid": "sc1multi:a441eb5753e6e84c9533b55c1a7751f799d05bb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a441eb5753e6e84c9533b55c1a7751f799d05bb8/",
+    "usedAt": 1783134693370,
+    "usedAtIso": "2026-07-04T03:11:33.370Z"
   }
 }
