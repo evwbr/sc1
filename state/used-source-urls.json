@@ -326,5 +326,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68d016928d2fcfc059b1c3e4152ac2e1a57acab2/",
     "usedAt": 1783171617899,
     "usedAtIso": "2026-07-04T13:26:57.899Z"
+  },
+  "source:dd12324ec8a97d5ff99a79730736d456099b1a19": {
+    "url": "https://rbatv.com.br/noticias/corpo-de-homem-e-encontrado-no-rio-itajai-acu-em-apiuna",
+    "title": "Corpo de homem é encontrado no Rio Itajaí-Açu em Apiúna",
+    "guid": "sc1multi:9ad515494e69f8287da577ca94e06a63e4370e66",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ad515494e69f8287da577ca94e06a63e4370e66/",
+    "usedAt": 1783172778200,
+    "usedAtIso": "2026-07-04T13:46:18.200Z"
+  },
+  "source:ff36ca0f22adcab978254e25cccecd8729d68d3e": {
+    "url": "https://rbatv.com.br/noticias/mulher-denuncia-violencia-psicologica-e-caso-e-encaminhado-a-policia-em-rio-do-sul",
+    "title": "Mulher denuncia violência psicológica em Rio do Sul e caso é encaminhado à polícia",
+    "guid": "sc1multi:b5927340374870cb216491d3d6dbf80906a7ea64",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5927340374870cb216491d3d6dbf80906a7ea64/",
+    "usedAt": 1783172778200,
+    "usedAtIso": "2026-07-04T13:46:18.200Z"
+  },
+  "source:9200ab0fb3f2798ddff20a38a2bb9fe00c907ce8": {
+    "url": "https://rbatv.com.br/noticias/guarda-municipal-impede-furto-de-cabos-eletricos-e-detem-dois-suspeitos-em-rio-do-sul",
+    "title": "Guarda Municipal de Rio do Sul impede furto de cabos elétricos e detém suspeitos",
+    "guid": "sc1multi:eac26fa71e339debf17b228cdca95e56c757db37",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eac26fa71e339debf17b228cdca95e56c757db37/",
+    "usedAt": 1783172778200,
+    "usedAtIso": "2026-07-04T13:46:18.200Z"
+  },
+  "source:65fef9caacd9868ea38d54bbeb47982824b1a63c": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-encontra-laboratorio-clandestino-com-187-pes-de-maconha-em-blumenau",
+    "title": "Polícia Civil desmantela laboratório clandestino de maconha em Blumenau",
+    "guid": "sc1multi:42fb80ed67ca3f0f4c0a11834f9f23c3918dbffd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42fb80ed67ca3f0f4c0a11834f9f23c3918dbffd/",
+    "usedAt": 1783172778200,
+    "usedAtIso": "2026-07-04T13:46:18.200Z"
+  },
+  "source:95d3ce4ae92996dac7dab13601ce831212e7b2f4": {
+    "url": "https://scportais.com.br/2026/07/03/defesa-civil-alerta-para-queda-acentuada-das-temperaturas-em-santa-catarina",
+    "title": "Defesa Civil alerta para queda acentuada das temperaturas em Santa Catarina",
+    "guid": "sc1multi:1deb8b54d8341a6716bfb1c3d135d41414545287",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1deb8b54d8341a6716bfb1c3d135d41414545287/",
+    "usedAt": 1783172778200,
+    "usedAtIso": "2026-07-04T13:46:18.200Z"
   }
 }
