@@ -2,30 +2,27 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - SC1 (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Sat, 04 Jul 2026 16:14:05 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 17:13:14 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Polícia Penal de SC doa mantas para Maternidade Carmela Dutra]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_96c9a5dcafc7873359b3bb47d06c9cec6c12fb12/</link>
+<title><![CDATA[El Niño e seus impactos no clima de Santa Catarina]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_f6809152300c390c55eecf1033111fd77d2774bb/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 02 Jul 2026 16:17:37 GMT</pubDate>
+<pubDate>Sat, 04 Jul 2026 17:03:53 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:96c9a5dcafc7873359b3bb47d06c9cec6c12fb12]]></guid>
-<description><![CDATA[A Polícia Penal de Santa Catarina entregou 150 mantas à Maternidade Carmela Dutra, em Florianópolis.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-penal-entrega-mantas.webp" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-penal-entrega-mantas.webp" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-penal-entrega-mantas.webp"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:f6809152300c390c55eecf1033111fd77d2774bb]]></guid>
+<description><![CDATA[O fenômeno El Niño provoca aumento das chuvas e riscos de desastres naturais em Santa Catarina.]]></description>
 <content:encoded><![CDATA[
-<p>As mantas serão usadas nos enxovais destinados a mães e recém-nascidos em situação de vulnerabilidade na maternidade da capital catarinense.</p>
-<p>A ação reforça o papel do trabalho prisional como instrumento de ressocialização, beneficiando tanto os detentos envolvidos na produção quanto as famílias atendidas.</p>
-<p>A iniciativa faz parte da política da Polícia Penal de Santa Catarina que incentiva a qualificação profissional e busca reduzir a reincidência criminal.</p>
+<p>O El Niño é um fenômeno climático que ocorre no Oceano Pacífico e afeta o clima em diversas regiões do mundo, incluindo Santa Catarina.</p>
+<p>O aquecimento anormal das águas superficiais do oceano altera a circulação atmosférica, influenciando a formação e o deslocamento das frentes frias que atingem o estado.</p>
+<p>Em Santa Catarina, o fenômeno está associado ao aumento da frequência e intensidade das chuvas, elevando o risco de alagamentos, enxurradas, inundações e deslizamentos de terra.</p>
+<p>O desenvolvimento do El Niño ocorre gradualmente, geralmente atingindo maior intensidade entre a primavera e o verão do Hemisfério Sul, o que exige monitoramento constante dos órgãos especializados.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
