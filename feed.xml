@@ -2,27 +2,106 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - SC1 (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Sat, 04 Jul 2026 17:13:14 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Jul 2026 19:11:03 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[El Niño e seus impactos no clima de Santa Catarina]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_f6809152300c390c55eecf1033111fd77d2774bb/</link>
+<title><![CDATA[Golfinho resgatado em Laguna é escoltado pela PRF até Florianópolis]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_1ee3b6d4067ddb84df6cadb91975a17d4aecc6f5/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 04 Jul 2026 17:03:53 GMT</pubDate>
+<pubDate>Sat, 04 Jul 2026 19:05:06 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:f6809152300c390c55eecf1033111fd77d2774bb]]></guid>
-<description><![CDATA[O fenômeno El Niño provoca aumento das chuvas e riscos de desastres naturais em Santa Catarina.]]></description>
+<guid isPermaLink="false"><![CDATA[sc1multi:1ee3b6d4067ddb84df6cadb91975a17d4aecc6f5]]></guid>
+<description><![CDATA[Um golfinho-nariz-de-garrafa resgatado em Laguna foi escoltado pela Polícia Rodoviária Federal até Florianópolis para garantir transporte seguro.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCaptura-de-tela-2026-07-04-155112.webp%3Foc%3D1783192205" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCaptura-de-tela-2026-07-04-155112.webp%3Foc%3D1783192205" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCaptura-de-tela-2026-07-04-155112.webp%3Foc%3D1783192205"/>
 <content:encoded><![CDATA[
-<p>O El Niño é um fenômeno climático que ocorre no Oceano Pacífico e afeta o clima em diversas regiões do mundo, incluindo Santa Catarina.</p>
-<p>O aquecimento anormal das águas superficiais do oceano altera a circulação atmosférica, influenciando a formação e o deslocamento das frentes frias que atingem o estado.</p>
-<p>Em Santa Catarina, o fenômeno está associado ao aumento da frequência e intensidade das chuvas, elevando o risco de alagamentos, enxurradas, inundações e deslizamentos de terra.</p>
-<p>O desenvolvimento do El Niño ocorre gradualmente, geralmente atingindo maior intensidade entre a primavera e o verão do Hemisfério Sul, o que exige monitoramento constante dos órgãos especializados.</p>
+<p>O golfinho-nariz-de-garrafa foi encontrado encalhado na Praia da Cigana, em Laguna, no Sul de Santa Catarina.</p>
+<p>O animal, um macho jovem com cerca de 1,80 metro, foi resgatado na quinta-feira (2) e transportado na manhã de sexta-feira (3).</p>
+<p>A escolta da Polícia Rodoviária Federal teve como objetivo garantir a segurança do transporte e reduzir o estresse do golfinho durante o trajeto até Florianópolis.</p>
+<p>Se a recuperação do mamífero marinho ocorrer esperado, ele será devolvido ao seu habitat natural no litoral catarinense.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Atleta de São José busca apoio para sonho olímpico no atletismo]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_c65eb57c09e843fb81b7a3fcdda420ef4e39583e/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Jul 2026 19:02:14 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:c65eb57c09e843fb81b7a3fcdda420ef4e39583e]]></guid>
+<description><![CDATA[Maria Clara Branco Corrêa, líder catarinense nas provas com barreiras, busca parceiros para ampliar sua preparação rumo às competições internacionais.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FMaria-Clara-Branco-Correa3.webp" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FMaria-Clara-Branco-Correa3.webp" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FMaria-Clara-Branco-Correa3.webp"/>
+<content:encoded><![CDATA[
+<p>A jovem atleta de São José, Maria Clara Branco Corrêa, destaque no atletismo catarinense, iniciou uma campanha para conquistar apoio da iniciativa privada e fortalecer sua estrutura de treinamento.</p>
+<p>Com 15 anos, ela lidera o ranking brasileiro nas provas com barreiras e já acumula mais de 30 medalhas, além de ser tricampeã estadual e vice-campeã brasileira Sub-16.</p>
+<p>Maria Clara conta com o suporte do Município de São José e do programa Bolsa Atleta, mas busca recursos adicionais para custear viagens, equipamentos, suplementação e acompanhamento médico.</p>
+<p>As empresas parceiras terão suas marcas divulgadas em uniformes e nas redes sociais da atleta, associando suas marcas a valores como disciplina, dedicação e superação.</p>
+<p>O objetivo da atleta é manter a rotina de treinamentos e competir em alto nível para representar Santa Catarina e o Brasil em futuras competições internacionais, incluindo os Jogos Olímpicos.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem é preso por tráfico de drogas em Lontras, Santa Catarina]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_801611f8b77777113388f294f94368e0bc439141/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Jul 2026 18:48:16 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:801611f8b77777113388f294f94368e0bc439141]]></guid>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F01%2Fgiroflex-sirene-viatura-1.webp%3Foc%3D1783192207" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F01%2Fgiroflex-sirene-viatura-1.webp%3Foc%3D1783192207" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F01%2Fgiroflex-sirene-viatura-1.webp%3Foc%3D1783192207"/>
+<content:encoded><![CDATA[
+<p>O suspeito já vinha sendo monitorado pela Polícia Militar e havia sido abordado anteriormente com pequenas quantidades de drogas.</p>
+<p>Durante buscas no veículo, foram encontradas três porções de cocaína, totalizando cerca de 100 gramas, escondidas no banco e no porta-revistas do lado do passageiro.</p>
+<p>Na sequência, os policiais realizaram buscas na residência do homem e localizaram uma balança de precisão, utilizada para fracionar drogas.</p>
+<p>A cocaína, a balança e o veículo foram apreendidos e o suspeito encaminhado à Delegacia de Polícia Civil para os procedimentos legais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Santa Catarina destaca-se no cooperativismo com mais de 250 cooperativas]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_e9c13e478a7ef62d8231ad9383941a893fc1ce49/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Jul 2026 18:00:00 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:e9c13e478a7ef62d8231ad9383941a893fc1ce49]]></guid>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fpag-10-Foto-Freepik-scaled.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fpag-10-Foto-Freepik-scaled.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fpag-10-Foto-Freepik-scaled.jpg"/>
+<content:encoded><![CDATA[
+<p>O cooperativismo tem papel fundamental na economia de Santa Catarina, que conta com mais de 250 cooperativas registradas e um faturamento de 105 bilhões de reais no último ano.</p>
+<p>Mais de 109 mil empregados com carteira assinada atuam nas cooperativas catarinenses, que recolheram mais de quatro bilhões de reais aos cofres públicos.</p>
+<p>Cerca de 5 milhões de catarinenses estão vinculados direta ou indiretamente a cooperativas nos ramos agropecuário, crédito, saúde, transporte, infraestrutura, consumo, trabalho e produção de bens e serviços.</p>
+<p>O modelo cooperativista fortalece as comunidades locais ao manter recursos e decisões dentro da região, promovendo eficiência econômica e melhores condições de vida.</p>
+<p>As cooperativas de energia do estado também contribuem para o desenvolvimento regional, impulsionando a produção agrícola, o comércio e a geração de empregos em áreas rurais e industriais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Criciúma Futsal estreia no Campeonato Brasileiro contra Chapecoense]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_1e606b13d4456913408242acd050c58241cb4ba4/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 04 Jul 2026 17:00:00 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:1e606b13d4456913408242acd050c58241cb4ba4]]></guid>
+<description><![CDATA[O time da Anjo Tintas/FME Criciúma Futsal inicia sua segunda participação no Campeonato Brasileiro enfrentando a Chapecoense em Chapecó.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FFutsal-foto-Rodolfo-May-ACF-divulgacao.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FFutsal-foto-Rodolfo-May-ACF-divulgacao.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FFutsal-foto-Rodolfo-May-ACF-divulgacao.jpg"/>
+<content:encoded><![CDATA[
+<p>A partida de estreia acontece no Oeste catarinense, no sábado, dia 4, às 16 horas, contra a Chapecoense, atual vice-campeã do torneio.</p>
+<p>Em 2025, o Criciúma alcançou as oitavas de final do Campeonato Brasileiro em sua primeira participação.</p>
+<p>A estreia em casa está marcada para o dia 11 de julho, contra o Atlético Piauiense, atual campeão da competição.</p>
+<p>O presidente da Associação Criciúma de Futsal (ACF)/FME/Faculdades Esucri, Márcio Rodrigo Fernandes, destacou a dificuldade dos adversários, mas afirmou que a equipe está preparada.</p>
+<p>Nesta edição, o Campeonato Brasileiro contará com dez equipes que disputarão o título em quatro etapas, com fase classificatória em turno único e playoffs eliminatórios a partir das quartas de final.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
