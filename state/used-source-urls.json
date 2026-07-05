@@ -1,44 +1,4 @@
 {
-  "source:a9a96e384dc0f9e8d88b66952d9aadef6a3a1ad1": {
-    "url": "https://ocp.news/esporte/jaraguaense-e-convocada-para-o-pan-americano-universitario-de-taekwondo",
-    "title": "Jaraguaense Isabelle Dalapria é convocada para Pan-Americano Universitário de Taekwondo",
-    "guid": "sc1multi:a9a96e384dc0f9e8d88b66952d9aadef6a3a1ad1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9a96e384dc0f9e8d88b66952d9aadef6a3a1ad1/",
-    "usedAt": 1783027728501,
-    "usedAtIso": "2026-07-02T21:28:48.501Z"
-  },
-  "source:7acc25e5ff93fdab88d9c08a402a40d0b7fc1ee9": {
-    "url": "https://ocp.news/seguranca/transito-tera-mudancas-em-quatro-pontos-de-jaragua-do-sul-na-noite-de-sexta-feira-3",
-    "title": "Jaraguá do Sul terá mudanças no trânsito em quatro pontos na sexta-feira",
-    "guid": "sc1multi:7acc25e5ff93fdab88d9c08a402a40d0b7fc1ee9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7acc25e5ff93fdab88d9c08a402a40d0b7fc1ee9/",
-    "usedAt": 1783027728501,
-    "usedAtIso": "2026-07-02T21:28:48.501Z"
-  },
-  "source:47b6717e9e8daf595b7656461a36216ec2ce2e24": {
-    "url": "https://ocp.news/esporte/colegio-bom-jesus-conquista-o-titulo-dos-jogos-escolares-sub-13-de-jaragua-do-sul",
-    "title": "Colégio Bom Jesus é campeão dos Jogos Escolares Sub-13 em Jaraguá do Sul",
-    "guid": "sc1multi:47b6717e9e8daf595b7656461a36216ec2ce2e24",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47b6717e9e8daf595b7656461a36216ec2ce2e24/",
-    "usedAt": 1783027728501,
-    "usedAtIso": "2026-07-02T21:28:48.501Z"
-  },
-  "source:4f5273db40d7e3867b96741879d92202d26ddea7": {
-    "url": "https://ocp.news/seguranca/delegada-vai-ouvir-motorista-envolvido-em-acidente-que-matou-duas-jovens-no-norte-de-sc",
-    "title": "Motorista será ouvido em investigação de acidente fatal em Barra Velha",
-    "guid": "sc1multi:4f5273db40d7e3867b96741879d92202d26ddea7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4f5273db40d7e3867b96741879d92202d26ddea7/",
-    "usedAt": 1783027728501,
-    "usedAtIso": "2026-07-02T21:28:48.501Z"
-  },
-  "source:5f0ec363c222fc30621b67e0f8bfc386ee02f96c": {
-    "url": "https://ocp.news/seguranca/a-pedido-do-mpsc-justica-decreta-a-prisao-preventiva-de-padrasto-por-agressao-a-crianca-na-grande-florianopolis",
-    "title": "Justiça decreta prisão preventiva de padrasto por agressão em Palhoça",
-    "guid": "sc1multi:5f0ec363c222fc30621b67e0f8bfc386ee02f96c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f0ec363c222fc30621b67e0f8bfc386ee02f96c/",
-    "usedAt": 1783027728501,
-    "usedAtIso": "2026-07-02T21:28:48.501Z"
-  },
   "source:b2d2a16e89348ca148dbc5ba0f5426dd7eb9cabf": {
     "url": "https://ocp.news/politica/vereadores-pro2poe-afastame2nto-para-acts-acompanharem-filhos-enfermos-em-jaragua-do-sul",
     "title": "Vereador propõe ampliação de atendimento para leucemia em Jaraguá do Sul",
@@ -854,5 +814,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6113db21ab9c7b0d788127d66ecebfd85d4478a/",
     "usedAt": 1783285206632,
     "usedAtIso": "2026-07-05T21:00:06.632Z"
+  },
+  "source:ea132e4e09ec1f5228b27cdbe1a81e249b815286": {
+    "url": "https://tnsul.com/2026/07/05/incendio-destroi-residencia-de-madeira-no-bairro-rio-maina-em-criciuma",
+    "title": "Incêndio destrói residência de madeira no bairro Rio Maina, Criciúma",
+    "guid": "sc1multi:de429fb608c306f1d2a044ac64c568a3510353ae",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de429fb608c306f1d2a044ac64c568a3510353ae/",
+    "usedAt": 1783288806167,
+    "usedAtIso": "2026-07-05T22:00:06.167Z"
   }
 }
