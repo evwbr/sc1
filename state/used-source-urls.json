@@ -1,20 +1,4 @@
 {
-  "source:b2d2a16e89348ca148dbc5ba0f5426dd7eb9cabf": {
-    "url": "https://ocp.news/politica/vereadores-pro2poe-afastame2nto-para-acts-acompanharem-filhos-enfermos-em-jaragua-do-sul",
-    "title": "Vereador propõe ampliação de atendimento para leucemia em Jaraguá do Sul",
-    "guid": "sc1multi:b2d2a16e89348ca148dbc5ba0f5426dd7eb9cabf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b2d2a16e89348ca148dbc5ba0f5426dd7eb9cabf/",
-    "usedAt": 1783030293330,
-    "usedAtIso": "2026-07-02T22:11:33.330Z"
-  },
-  "source:60ea7198a71d4df0db980bfbe0bae0c72ac06ce9": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-assinara-ordem-de-servico-para-pavimentacao-da-rua-martinho-brunelli",
-    "title": "Criciúma inicia pavimentação da rua Martinho Brunelli no bairro Mina União",
-    "guid": "sc1multi:60ea7198a71d4df0db980bfbe0bae0c72ac06ce9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_60ea7198a71d4df0db980bfbe0bae0c72ac06ce9/",
-    "usedAt": 1783030293330,
-    "usedAtIso": "2026-07-02T22:11:33.330Z"
-  },
   "source:e7b1c433f17f463e8830af8435b396513fc45831": {
     "url": "https://ocp.news/esporte/jaragua-futsal-abre-venda-de-novo-lote-de-ingressos-para-duelo-pela-lnf",
     "title": "Jaraguá Futsal inicia venda de ingressos para jogo na Arena Jaraguá",
@@ -822,5 +806,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de429fb608c306f1d2a044ac64c568a3510353ae/",
     "usedAt": 1783288806167,
     "usedAtIso": "2026-07-05T22:00:06.167Z"
+  },
+  "source:e96bd06821cfd45260c03ecc1658f9e2847ce685": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-ao-tentar-furtar-fiacao-de-obra-em-rio-do-sul",
+    "title": "Homem é preso ao tentar furtar fiação em obra de Rio do Sul",
+    "guid": "sc1multi:4d6018eca8dc1ae1faea71f9a065fb901af8430e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4d6018eca8dc1ae1faea71f9a065fb901af8430e/",
+    "usedAt": 1783292406156,
+    "usedAtIso": "2026-07-05T23:00:06.156Z"
+  },
+  "source:6b8cf19adea6b979633352e09e602c6d057ead95": {
+    "url": "https://correiosc.com.br/selecao-brasileira-b-volei-vence-chile-sao-jose-amistosos",
+    "title": "Seleção Brasileira B de vôlei vence Chile em São José, SC",
+    "guid": "sc1multi:f9321a619dd9db1e47d53b2e188a19faeb09ba8f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f9321a619dd9db1e47d53b2e188a19faeb09ba8f/",
+    "usedAt": 1783292406156,
+    "usedAtIso": "2026-07-05T23:00:06.156Z"
   }
 }
