@@ -782,5 +782,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c08992a4b2f506fbea84fb16870e69f9b3946ad/",
     "usedAt": 1783270807090,
     "usedAtIso": "2026-07-05T17:00:07.090Z"
+  },
+  "source:e0e7e0bf5024a5aaa3e23ffae4bf2c17d7b39a7f": {
+    "url": "https://rbatv.com.br/noticias/criminosos-invadem-casa-e-furtam-cinco-armas-de-fogo-em-rio-do-sul",
+    "title": "Criminosos furtam cinco armas de fogo em residência de Rio do Sul",
+    "guid": "sc1multi:f5f0578aff8e9a8b64542bc3006a0298c8fc8917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5f0578aff8e9a8b64542bc3006a0298c8fc8917/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
+  },
+  "source:33bf3723092d8c1ec9e8d17cf0b6123a03991a9c": {
+    "url": "https://rbatv.com.br/noticias/acidente-entre-dois-carros-e-uma-moto-deixa-quatro-feridos-na-br-470-em-lontras",
+    "title": "Acidente na BR-470 em Lontras deixa quatro feridos",
+    "guid": "sc1multi:938efa8510f6a36f7e7d78c06a427ba59ecb0441",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_938efa8510f6a36f7e7d78c06a427ba59ecb0441/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
+  },
+  "source:c84a1afe4a444b4679312026168f3916bd4347a4": {
+    "url": "https://rbatv.com.br/noticias/mulher-fica-ferida-em-acidente-entre-dois-carros-na-br-470-em-rio-do-sul",
+    "title": "Mulher fica ferida em acidente na BR-470 em Rio do Sul",
+    "guid": "sc1multi:3665918485e756ddeeef16813908b08e6e6c8e8d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3665918485e756ddeeef16813908b08e6e6c8e8d/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
+  },
+  "source:6ccc449fc070f33c2266db7132614df61e3b1898": {
+    "url": "https://rbatv.com.br/noticias/principio-de-incendio-atinge-oficina-no-centro-de-ituporanga",
+    "title": "Princípio de incêndio atinge oficina no Centro de Ituporanga",
+    "guid": "sc1multi:0b971345c3461ac28ec7610205d6226764a0213a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0b971345c3461ac28ec7610205d6226764a0213a/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
+  },
+  "source:76b4a9bf95154e95245718fe7df73167fd7851c7": {
+    "url": "https://ocp.news/cotidiano/pedagio-eletronico-em-rodovias-federais-de-sc-deve-comecar-em-2027-tarifas-podem-chegar-a-r-955",
+    "title": "Pedágio eletrônico deve ser implantado em rodovias federais de SC a partir de 2027",
+    "guid": "sc1multi:76b4a9bf95154e95245718fe7df73167fd7851c7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76b4a9bf95154e95245718fe7df73167fd7851c7/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
+  },
+  "source:b27d8066605a3bcfc6f94be0413a2ee787cad20b": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-atendem-atropelamento-nesta-madruga",
+    "title": "Bombeiros de Presidente Getúlio atendem atropelamento na madrugada",
+    "guid": "sc1multi:b60b3a7dcd1b19f70acc4159618d8fb2d1cdc196",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b60b3a7dcd1b19f70acc4159618d8fb2d1cdc196/",
+    "usedAt": 1783278006582,
+    "usedAtIso": "2026-07-05T19:00:06.582Z"
   }
 }
