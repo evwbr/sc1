@@ -1,28 +1,4 @@
 {
-  "source:edc38e82cfe06d9d6af0615daae23194c6fb2fd0": {
-    "url": "https://ocp.news/cotidiano/defesa-civil-alerta-para-mare-alta-em-florianopolis-2",
-    "title": "Defesa Civil alerta para maré alta e riscos em Florianópolis",
-    "guid": "sc1multi:edc38e82cfe06d9d6af0615daae23194c6fb2fd0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edc38e82cfe06d9d6af0615daae23194c6fb2fd0/",
-    "usedAt": 1783105894028,
-    "usedAtIso": "2026-07-03T19:11:34.028Z"
-  },
-  "source:4fe3094e534671f3bb25ab63aa3c58baa2018cfb": {
-    "url": "https://ocp.news/cotidiano/prefeitura-cria-bolsao-seguro-para-embarque-e-desembarque-de-estudantes-no-centro-de-florianopolis",
-    "title": "Florianópolis cria bolsão seguro para embarque e desembarque de estudantes no Centro",
-    "guid": "sc1multi:4fe3094e534671f3bb25ab63aa3c58baa2018cfb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fe3094e534671f3bb25ab63aa3c58baa2018cfb/",
-    "usedAt": 1783105894028,
-    "usedAtIso": "2026-07-03T19:11:34.028Z"
-  },
-  "source:e79c329fe9431a09f2453847ec7112eed5472fb9": {
-    "url": "https://ocp.news/esporte/varzeano-de-guaramirim-entra-na-fase-eliminatoria-com-tres-duelos-neste-sabado",
-    "title": "Campeonato Varzeano de Guaramirim inicia fase eliminatória com três jogos",
-    "guid": "sc1multi:e79c329fe9431a09f2453847ec7112eed5472fb9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e79c329fe9431a09f2453847ec7112eed5472fb9/",
-    "usedAt": 1783105894028,
-    "usedAtIso": "2026-07-03T19:11:34.028Z"
-  },
   "source:82d3be6b8f8e4ee8a03e7ebf56cbbcfe4f2847d3": {
     "url": "https://ocp.news/cotidiano/obituario-de-jaragua-do-sul-e-regiao-de-sexta-feira-3-2",
     "title": "Obituário de Jaraguá do Sul e região em 3 de junho",
@@ -1038,5 +1014,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33b6a1936ff58db3824f48a53108ce7b26219124/",
     "usedAt": 1783364407669,
     "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:40ebcfd1f04c4a81bdd589810ce18c5b34e84ddd": {
+    "url": "https://tnsul.com/2026/07/06/familia-de-trabalhador-morto-durante-coleta-de-lixo-em-icara-cobra-justica",
+    "title": "Família de trabalhador morto em acidente em Içara busca justiça",
+    "guid": "sc1multi:29044eb2177ffbfc1c2f388fed8a874d318c37c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_29044eb2177ffbfc1c2f388fed8a874d318c37c0/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:db5cd52f222f9fdb250b4d57dd7a731f86386dd2": {
+    "url": "https://ocp.news/economia/malwee12-e-premiada-por-camisetas-que-capturam-carbono",
+    "title": "Malwee é premiada por camisetas que capturam carbono da atmosfera",
+    "guid": "sc1multi:db5cd52f222f9fdb250b4d57dd7a731f86386dd2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_db5cd52f222f9fdb250b4d57dd7a731f86386dd2/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:0dfd482450c001c703cc0fd4ca8836066235cb2e": {
+    "url": "https://ocp.news/seguranca/operacao-coluna-sul-o-espetaculo-da-forca-e-o-silencio-das-garantias",
+    "title": "Operação Coluna Sul em Santa Catarina levanta debate sobre garantias legais",
+    "guid": "sc1multi:0dfd482450c001c703cc0fd4ca8836066235cb2e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0dfd482450c001c703cc0fd4ca8836066235cb2e/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:33a9dee326788725c8a825707843fa6347ade2d2": {
+    "url": "https://tnsul.com/2026/07/06/etanol-esta-mais-atrativo-que-a-gasolina-em-santa-catarina",
+    "title": "Etanol é mais vantajoso que gasolina em Santa Catarina, aponta ANP",
+    "guid": "sc1multi:ec3ad70a3d06135f2769dca517e999c9ee484072",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec3ad70a3d06135f2769dca517e999c9ee484072/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:0f8aeec5da506d56702148733fd79462db89393e": {
+    "url": "https://ocp.news/seguranca/motociclista-fica-ferido-apos-colisao-com-carro-em-schroeder",
+    "title": "Motociclista fica ferido após colisão com carro em Schroeder",
+    "guid": "sc1multi:0f8aeec5da506d56702148733fd79462db89393e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f8aeec5da506d56702148733fd79462db89393e/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:a56afa5b6e2032e58f978874e2213eda602d2a59": {
+    "url": "https://ocp.news/esporte/jaraguaense-da-show-no-brasileiro-infantil-de-natacao-e-sobe-tres-vezes-ao-topo-do-podio",
+    "title": "Nadador de Jaraguá do Sul conquista três ouros no Brasileiro Infantil de Natação",
+    "guid": "sc1multi:a56afa5b6e2032e58f978874e2213eda602d2a59",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a56afa5b6e2032e58f978874e2213eda602d2a59/",
+    "usedAt": 1783368007047,
+    "usedAtIso": "2026-07-06T20:00:07.047Z"
   }
 }
