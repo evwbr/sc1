@@ -1,12 +1,4 @@
 {
-  "source:817506dad197d5d0632c7ebfcc5b18d6aac28f38": {
-    "url": "https://ocp.news/seguranca/trabalho1234-conjunto-das-policias-civis-do-rs-e-sc-resulta-na-prisao-de-foragido-por-violencia-domestica",
-    "title": "Polícias Civis do RS e SC prendem foragido por violência doméstica em Guaramirim",
-    "guid": "sc1multi:817506dad197d5d0632c7ebfcc5b18d6aac28f38",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_817506dad197d5d0632c7ebfcc5b18d6aac28f38/",
-    "usedAt": 1783113093266,
-    "usedAtIso": "2026-07-03T21:11:33.266Z"
-  },
   "source:b6eaf52934060a1956fa6488bd64bd2739d776ce": {
     "url": "https://ocp.news/politica/bombeiros-voluntarios-de-guaramirim-sao-homenageados-na-camara-de-vereadores",
     "title": "Bombeiros Voluntários de Guaramirim são homenageados na Câmara Municipal",
@@ -1086,5 +1078,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b59b28d08d6e228fa4c42bcaac5885748fa181ba/",
     "usedAt": 1783371606600,
     "usedAtIso": "2026-07-06T21:00:06.600Z"
+  },
+  "source:95746738d29a92c8435374bbac59248dd65b4a5d": {
+    "url": "https://ocp.news/politica/vereadora-pede-revisao-de-criterios-para-atendimento-integral-nos-cmeis-de-jaragua-do-sul",
+    "title": "Vereadora de Jaraguá do Sul propõe revisão de critérios para CMEIs",
+    "guid": "sc1multi:95746738d29a92c8435374bbac59248dd65b4a5d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95746738d29a92c8435374bbac59248dd65b4a5d/",
+    "usedAt": 1783375207008,
+    "usedAtIso": "2026-07-06T22:00:07.008Z"
+  },
+  "source:7cb2cabe8a2ffdea52c7fc01fd18a182b30ab6a3": {
+    "url": "https://tudoaquisc.com.br/tempo/frio-intenso-alerta-4-floripa-6-alerta-scc",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis e Santa Catarina",
+    "guid": "sc1multi:4472f3211f88c975ad631c81e0795a6e866281e9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4472f3211f88c975ad631c81e0795a6e866281e9/",
+    "usedAt": 1783375207008,
+    "usedAtIso": "2026-07-06T22:00:07.008Z"
+  },
+  "source:0ade264213ca80350f88056dc0f2db0bf7ff628d": {
+    "url": "https://ocp.news/seguranca/revestimentos-weg-reforcam-implementos-rodoviarios-de-gigante-brasileira-do-setor",
+    "title": "WEG reforça implementos rodoviários com revestimentos em Guaramirim",
+    "guid": "sc1multi:0ade264213ca80350f88056dc0f2db0bf7ff628d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ade264213ca80350f88056dc0f2db0bf7ff628d/",
+    "usedAt": 1783375207008,
+    "usedAtIso": "2026-07-06T22:00:07.008Z"
+  },
+  "source:222b8962396650414eef65342daf975b2790bce7": {
+    "url": "https://tnsul.com/2026/07/06/mulher-que-enterrou-cadela-gravida-viva-e-denunciada-pelo-mpsc",
+    "title": "Mulher é denunciada por enterrar cadela grávida viva em Joinville",
+    "guid": "sc1multi:1505199f9d1fddf7a994e4b0d2c5eebf512c20ce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1505199f9d1fddf7a994e4b0d2c5eebf512c20ce/",
+    "usedAt": 1783375207008,
+    "usedAtIso": "2026-07-06T22:00:07.008Z"
   }
 }
