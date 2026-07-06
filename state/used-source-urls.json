@@ -1,20 +1,4 @@
 {
-  "source:0ed3c530bfcbce418f65fde6c00f5b2f491fa110": {
-    "url": "https://ocp.news/seguranca/tentativa-de-furto-em-loterica-termina-com-prisao-de-suspeito-em-schroeder",
-    "title": "Homem é preso após tentativa de furto em lotérica no Centro de Schroeder",
-    "guid": "sc1multi:0ed3c530bfcbce418f65fde6c00f5b2f491fa110",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ed3c530bfcbce418f65fde6c00f5b2f491fa110/",
-    "usedAt": 1783077095718,
-    "usedAtIso": "2026-07-03T11:11:35.718Z"
-  },
-  "source:f9eb5b84a7b7ff7399dbf7dd197e8e5a988f9d12": {
-    "url": "https://ocp.news/colunistas/empresariado-cruzaria-o-voto-nas-eleicoes-majoritarias-de-sc",
-    "title": "Empresariado de Joinville pode cruzar votos nas eleições majoritárias de SC",
-    "guid": "sc1multi:f9eb5b84a7b7ff7399dbf7dd197e8e5a988f9d12",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f9eb5b84a7b7ff7399dbf7dd197e8e5a988f9d12/",
-    "usedAt": 1783077095718,
-    "usedAtIso": "2026-07-03T11:11:35.718Z"
-  },
   "source:2f31508b79fc5dab05d479cef305c41d58f9902b": {
     "url": "https://ocp.news/seguranca/picape-e-flagrada-a-195-km-h-em-trecho-de-obras-da-br-280-em-guaramirim",
     "title": "Picape é flagrada a 195 km/h em trecho de obras da BR-280 em Guaramirim",
@@ -830,5 +814,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0a2fe6330a6730631761971bcb84b6ecdc0342d0/",
     "usedAt": 1783335606256,
     "usedAtIso": "2026-07-06T11:00:06.256Z"
+  },
+  "source:c2224c995e58b7b954d3b0fcb1b5861213dbdcb5": {
+    "url": "https://ocp.news/seguranca/acidente-complica-transito-nas-principais-vias-da-regiao-central-de-florianopolis",
+    "title": "Acidente entre carro de aplicativo e caminhão congestiona trânsito em Florianópolis",
+    "guid": "sc1multi:c2224c995e58b7b954d3b0fcb1b5861213dbdcb5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2224c995e58b7b954d3b0fcb1b5861213dbdcb5/",
+    "usedAt": 1783339206487,
+    "usedAtIso": "2026-07-06T12:00:06.487Z"
+  },
+  "source:4b71d8e7c561a68a299e546ade54fe6d1019394a": {
+    "url": "https://tnsul.com/2026/07/06/homem-tenta-incendiar-policial-durante-atendimento-e-acaba-preso-em-sc",
+    "title": "Homem tenta incendiar policial e é preso em Itapiranga, SC",
+    "guid": "sc1multi:17507995b637b51eefb966eafb0c5e372411c22b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_17507995b637b51eefb966eafb0c5e372411c22b/",
+    "usedAt": 1783339206487,
+    "usedAtIso": "2026-07-06T12:00:06.487Z"
+  },
+  "source:7979ddf701584840eee1df44a96e5d1f926e1d6d": {
+    "url": "https://tnsul.com/2026/07/06/comerciante-e-rendida-e-desmaia-durante-roubo-em-criciuma",
+    "title": "Comerciante é rendida e desmaia durante roubo em Criciúma",
+    "guid": "sc1multi:7615a4addc0a64bc83c3bbdac3478f0dcc296a72",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7615a4addc0a64bc83c3bbdac3478f0dcc296a72/",
+    "usedAt": 1783339206487,
+    "usedAtIso": "2026-07-06T12:00:06.487Z"
+  },
+  "source:d1eee531f193076dd9e6eaf538f254ff5ba67d84": {
+    "url": "https://rbatv.com.br/noticias/criminosos-invadem-obra-e-furtam-ferramentas-durante-a-madrugada-em-rio-do-sul",
+    "title": "Criminosos furtam ferramentas em obra no bairro Santana, Rio do Sul",
+    "guid": "sc1multi:b790534dcafe3e9c766c3632e81d8919f4dbc914",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b790534dcafe3e9c766c3632e81d8919f4dbc914/",
+    "usedAt": 1783339206487,
+    "usedAtIso": "2026-07-06T12:00:06.487Z"
   }
 }
