@@ -1,20 +1,4 @@
 {
-  "source:2f31508b79fc5dab05d479cef305c41d58f9902b": {
-    "url": "https://ocp.news/seguranca/picape-e-flagrada-a-195-km-h-em-trecho-de-obras-da-br-280-em-guaramirim",
-    "title": "Picape é flagrada a 195 km/h em trecho de obras da BR-280 em Guaramirim",
-    "guid": "sc1multi:2f31508b79fc5dab05d479cef305c41d58f9902b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2f31508b79fc5dab05d479cef305c41d58f9902b/",
-    "usedAt": 1783080694176,
-    "usedAtIso": "2026-07-03T12:11:34.176Z"
-  },
-  "source:9aa4526d0cda490618c047c43e344fe0ab7add5c": {
-    "url": "https://ocp.news/seguranca/milagre-cao-de-25-anos-dado-como-morto-apos-e-encontrado-sob-escombros-em-florianopolis",
-    "title": "Cão de 25 anos é encontrado vivo após desabamento em Florianópolis",
-    "guid": "sc1multi:9aa4526d0cda490618c047c43e344fe0ab7add5c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9aa4526d0cda490618c047c43e344fe0ab7add5c/",
-    "usedAt": 1783080694176,
-    "usedAtIso": "2026-07-03T12:11:34.176Z"
-  },
   "source:410bbd402609c6b26c2030cba81e99bd8be76a23": {
     "url": "https://ocp.news/cotidiano/corrida-altera-transito-neste-domingo-em-florianopolis",
     "title": "Corrida altera trânsito na Beira-Mar Continental em Florianópolis",
@@ -846,5 +830,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b790534dcafe3e9c766c3632e81d8919f4dbc914/",
     "usedAt": 1783339206487,
     "usedAtIso": "2026-07-06T12:00:06.487Z"
+  },
+  "source:400f105c7996d128b01277d5e5cf01119947ffc2": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-joinville-divulga-lista-dos-projetos-classificados-na-pnab",
+    "title": "Joinville divulga lista de projetos classificados na PNAB com recorde de inscrições",
+    "guid": "sc1multi:400f105c7996d128b01277d5e5cf01119947ffc2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_400f105c7996d128b01277d5e5cf01119947ffc2/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
+  },
+  "source:a5320e7c68df967e4ff6e0da2ed3929739c48029": {
+    "url": "https://ocp.news/cotidiano/dia-mundial-da-pizza-11-mil-fatias-serao-distribuidas-gratuitamente-em-bc",
+    "title": "Balneário Camboriú distribui 11 mil fatias de pizza em ação no Dia Mundial da Pizza",
+    "guid": "sc1multi:a5320e7c68df967e4ff6e0da2ed3929739c48029",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5320e7c68df967e4ff6e0da2ed3929739c48029/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
+  },
+  "source:929b5c035fbf0a4c5e415d62f9d3cb051959495c": {
+    "url": "https://rbatv.com.br/noticias/elevado-entre-jardim-america-e-canoas-recebe-obras-de-recuperacao-e-manutencao",
+    "title": "Elevado Deputado José Thomé em Rio do Sul passa por obras de recuperação",
+    "guid": "sc1multi:400e219436ebfbf395b7a95dfbe410a39c8dcb79",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_400e219436ebfbf395b7a95dfbe410a39c8dcb79/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
+  },
+  "source:95099e433d4120ce04f4a8c25a9b0e2b96c31307": {
+    "url": "https://ocp.news/seguranca/mulher-morre-apos-ser-vista-sendo-jogada-nua-de-carro-na-grande-florianopolis",
+    "title": "Mulher é encontrada morta após ser jogada de carro em São José",
+    "guid": "sc1multi:95099e433d4120ce04f4a8c25a9b0e2b96c31307",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95099e433d4120ce04f4a8c25a9b0e2b96c31307/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
+  },
+  "source:aad1995823c670857df241a5396c98e082dbfd7e": {
+    "url": "https://tnsul.com/2026/07/06/incendio-em-hotel-deixa-cinco-pessoas-feridas-em-chapeco",
+    "title": "Incêndio em hotel no Centro de Chapecó deixa cinco feridos",
+    "guid": "sc1multi:e3fa4c464cd8c7ddc64c3c2e521f862963a2c7bd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e3fa4c464cd8c7ddc64c3c2e521f862963a2c7bd/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
+  },
+  "source:af2b80649ee6c8edd2ca7a76fd2d5edd5ca26a14": {
+    "url": "https://tnsul.com/2026/07/06/motorista-escapa-com-vida-apos-carro-ficar-submerso-em-lagoa-de-rio-do-sul",
+    "title": "Motorista fica ferido após carro cair em lagoa em Rio do Sul",
+    "guid": "sc1multi:e25c3bb194414ecbb2936e584eba7259cc06cf61",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e25c3bb194414ecbb2936e584eba7259cc06cf61/",
+    "usedAt": 1783342806253,
+    "usedAtIso": "2026-07-06T13:00:06.253Z"
   }
 }
