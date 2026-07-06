@@ -1,12 +1,4 @@
 {
-  "source:a98ee45596697cf39f2b550d6c63629218b54587": {
-    "url": "https://ocp.news/seguranca/policia-civil-localiza-e-prende-em-florianopolis-jovem-foragida-por-trafico-em-ituporanga",
-    "title": "Polícia Civil prende jovem foragida por tráfico em Florianópolis",
-    "guid": "sc1multi:a98ee45596697cf39f2b550d6c63629218b54587",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a98ee45596697cf39f2b550d6c63629218b54587/",
-    "usedAt": 1783041093234,
-    "usedAtIso": "2026-07-03T01:11:33.234Z"
-  },
   "source:e385d7271678c9fd9d03b0be4d59cba7d460eda7": {
     "url": "https://ocp.news/colunistas/carlos-bolsonaro-na-mira-da-justica-eleitoral",
     "title": "TRE-SC suspende publicações contra governador Jorginho Mello em Santa Catarina",
@@ -814,5 +806,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f9321a619dd9db1e47d53b2e188a19faeb09ba8f/",
     "usedAt": 1783292406156,
     "usedAtIso": "2026-07-05T23:00:06.156Z"
+  },
+  "source:254d08469e46a3e6f47eff1555bb9356a76df4db": {
+    "url": "https://tnsul.com/2026/07/05/criciuma-intensifica-trabalhos-de-prevencao-para-periodos-de-chuva",
+    "title": "Criciúma intensifica limpeza de rios para prevenir enchentes no verão",
+    "guid": "sc1multi:7b804f504306383d30e25368f013566a1dd7ab24",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b804f504306383d30e25368f013566a1dd7ab24/",
+    "usedAt": 1783303207184,
+    "usedAtIso": "2026-07-06T02:00:07.184Z"
   }
 }
