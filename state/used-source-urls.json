@@ -1,28 +1,4 @@
 {
-  "source:e385d7271678c9fd9d03b0be4d59cba7d460eda7": {
-    "url": "https://ocp.news/colunistas/carlos-bolsonaro-na-mira-da-justica-eleitoral",
-    "title": "TRE-SC suspende publicações contra governador Jorginho Mello em Santa Catarina",
-    "guid": "sc1multi:e385d7271678c9fd9d03b0be4d59cba7d460eda7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e385d7271678c9fd9d03b0be4d59cba7d460eda7/",
-    "usedAt": 1783073493156,
-    "usedAtIso": "2026-07-03T10:11:33.156Z"
-  },
-  "source:a4af6b9636bb91510f4207f15451383828aa0b43": {
-    "url": "https://ocp.news/cotidiano/defesa-civil-emite-alerta-para-frio-intenso-em-florianopolis-no-final-de-semana",
-    "title": "Defesa Civil alerta para frio intenso em Florianópolis neste fim de semana",
-    "guid": "sc1multi:a4af6b9636bb91510f4207f15451383828aa0b43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4af6b9636bb91510f4207f15451383828aa0b43/",
-    "usedAt": 1783073493156,
-    "usedAtIso": "2026-07-03T10:11:33.156Z"
-  },
-  "source:623e756a5cc455032b08c66900a64e9502a9d4e5": {
-    "url": "https://ocp.news/colunistas/ocp-107-e-expo-150-um-encontro-entre-a-historia-e-o-futuro-de-jaragua-do-sul",
-    "title": "Expo 150 e OCP 107 celebram história e futuro de Jaraguá do Sul",
-    "guid": "sc1multi:623e756a5cc455032b08c66900a64e9502a9d4e5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_623e756a5cc455032b08c66900a64e9502a9d4e5/",
-    "usedAt": 1783073493156,
-    "usedAtIso": "2026-07-03T10:11:33.156Z"
-  },
   "source:0ed3c530bfcbce418f65fde6c00f5b2f491fa110": {
     "url": "https://ocp.news/seguranca/tentativa-de-furto-em-loterica-termina-com-prisao-de-suspeito-em-schroeder",
     "title": "Homem é preso após tentativa de furto em lotérica no Centro de Schroeder",
@@ -814,5 +790,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b804f504306383d30e25368f013566a1dd7ab24/",
     "usedAt": 1783303207184,
     "usedAtIso": "2026-07-06T02:00:07.184Z"
+  },
+  "source:6dec9d0e0a1d20d286bf53d2b4d4066a7617ed33": {
+    "url": "https://tnsul.com/2026/07/06/motorista-recusa-bafometro-apos-derrubar-poste-em-em-balneario-camboriu",
+    "title": "Motorista derruba poste e recusa bafômetro em Balneário Camboriú",
+    "guid": "sc1multi:14f2dd20146c7d89f9e74d3af3fc05e60b6010e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_14f2dd20146c7d89f9e74d3af3fc05e60b6010e7/",
+    "usedAt": 1783335606256,
+    "usedAtIso": "2026-07-06T11:00:06.256Z"
+  },
+  "source:94128d2e1fddb9f03dae98060a6df7125f7176f4": {
+    "url": "https://ocp.news/seguranca/violencia-domestica-duas-mulheres-sao-agredidas-por-companheiros-em-poucas-horas-em-jaragua-do-sul",
+    "title": "Duas mulheres são agredidas por companheiros em Jaraguá do Sul",
+    "guid": "sc1multi:94128d2e1fddb9f03dae98060a6df7125f7176f4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94128d2e1fddb9f03dae98060a6df7125f7176f4/",
+    "usedAt": 1783335606256,
+    "usedAtIso": "2026-07-06T11:00:06.256Z"
+  },
+  "source:2da8614d474fc056542f375b7a7030c292a3cefc": {
+    "url": "https://rbatv.com.br/noticias/prefeitura-de-correia-pinto-atende-a-recomendacao-do-mpsc-e-interdita-hospital-ameacado-por-deslizamentos",
+    "title": "Hospital de Correia Pinto é interditado por risco de deslizamento",
+    "guid": "sc1multi:ab204b4593fe60e2c61555b077f37388db181324",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ab204b4593fe60e2c61555b077f37388db181324/",
+    "usedAt": 1783335606256,
+    "usedAtIso": "2026-07-06T11:00:06.256Z"
+  },
+  "source:f396b1862868f702248a6a9471666b07e89ecc27": {
+    "url": "https://rbatv.com.br/noticias/veiculo-fica-destruido-apos-sair-da-pista-e-atingir-poste-na-br-470",
+    "title": "Veículo fica destruído após sair da pista e atingir poste na BR-470 em Ascurra",
+    "guid": "sc1multi:d3056a506aca953706d560a62d84422893c3edf7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d3056a506aca953706d560a62d84422893c3edf7/",
+    "usedAt": 1783335606256,
+    "usedAtIso": "2026-07-06T11:00:06.256Z"
+  },
+  "source:7729a0c960c1e3bf98e2357d2b8d5f9ae165797b": {
+    "url": "https://rbatv.com.br/noticias/carro-capota-e-fica-submerso-em-lagoa-apos-saida-da-pista-em-rio-do-sul",
+    "title": "Carro capota e fica submerso em lagoa após saída da pista em Rio do Sul",
+    "guid": "sc1multi:0a2fe6330a6730631761971bcb84b6ecdc0342d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0a2fe6330a6730631761971bcb84b6ecdc0342d0/",
+    "usedAt": 1783335606256,
+    "usedAtIso": "2026-07-06T11:00:06.256Z"
   }
 }
