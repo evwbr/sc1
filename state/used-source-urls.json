@@ -1,12 +1,4 @@
 {
-  "source:3403b867fe10bb6f69e4efc7f94df22bd134debc": {
-    "url": "https://ocp.news/politica/vereador-quer-energia-solar-para-reduzir-conta-de-r-120-mil-na-eta-de-guaramirim",
-    "title": "Vereador propõe energia solar para reduzir custos na ETA de Guaramirim",
-    "guid": "sc1multi:3403b867fe10bb6f69e4efc7f94df22bd134debc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3403b867fe10bb6f69e4efc7f94df22bd134debc/",
-    "usedAt": 1783098693143,
-    "usedAtIso": "2026-07-03T17:11:33.143Z"
-  },
   "source:1dc1b6160e5726fdf5c8544767368b9c99069bf8": {
     "url": "https://ocp.news/cotidiano/massa-de-ar-frio-provoca-queda-acentuada-das-temperaturas-em-santa-catarina",
     "title": "Massa de ar frio provoca queda acentuada das temperaturas em Santa Catarina",
@@ -942,5 +934,69 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d26a29f51cb647e6074081ea3d08b5831284b89f/",
     "usedAt": 1783357207013,
     "usedAtIso": "2026-07-06T17:00:07.013Z"
+  },
+  "source:d98106c35c0921a663f2655e1d3652db0ec04ea6": {
+    "url": "https://ocp.news/economia/imersao-sobre-escala-e-crescimento-de-negocios-empresarios-de-alto-desempenho-se-reunem-em-joinville",
+    "title": "Joinville recebe imersão para empresários sobre crescimento e escala de negócios",
+    "guid": "sc1multi:d98106c35c0921a663f2655e1d3652db0ec04ea6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d98106c35c0921a663f2655e1d3652db0ec04ea6/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:feca4c6b381c8efb44816654bdfd54c5c2d17ca4": {
+    "url": "https://ocp.news/seguranca/mulher-fica-ferida-apos-colisao-entre-bicicleta-eletrica-e-bicicleta-em-jaragua-do-sul",
+    "title": "Mulher fica ferida após colisão entre bicicletas em Jaraguá do Sul",
+    "guid": "sc1multi:feca4c6b381c8efb44816654bdfd54c5c2d17ca4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_feca4c6b381c8efb44816654bdfd54c5c2d17ca4/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:9f78bae9451f60ed629668154cfdbf41d2f665fc": {
+    "url": "https://rbatv.com.br/noticias/homem-tenta-atear-fogo-em-policial-com-gasolina-e-acaba-preso-no-oeste-de-sc",
+    "title": "Homem tenta atear fogo em policial e é preso em Itapiranga, SC",
+    "guid": "sc1multi:ebcd909ae37aad570b18f6796276ca088b3a219a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebcd909ae37aad570b18f6796276ca088b3a219a/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:1a76947b257cca48e53368948e8b36e4cf11ec2c": {
+    "url": "https://rbatv.com.br/noticias/familia-procura-homem-que-saiu-do-nordeste-para-trabalhar-em-sc-e-foi-visto-pela-ultima-vez-em-rio-do-sul",
+    "title": "Família busca homem desaparecido em Rio do Sul após viagem ao trabalho em SC",
+    "guid": "sc1multi:c37293884ad17eef75b5714fdfba6e98c2a45fb2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c37293884ad17eef75b5714fdfba6e98c2a45fb2/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:33ab45c97fc1e2f84f31d23e6943a58393283fce": {
+    "url": "https://ocp.news/economia/feirao-de-empregos-bate-recorde-de-participacao-e-admissoes-com-773-pessoas-contratadas",
+    "title": "Feirão de empregos em Florianópolis registra 773 contratações em 2026",
+    "guid": "sc1multi:33ab45c97fc1e2f84f31d23e6943a58393283fce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33ab45c97fc1e2f84f31d23e6943a58393283fce/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:e5cfb58a8d07d6bb4e7cc92d9f8ff902f8134022": {
+    "url": "https://ocp.news/cotidiano/primeiros12-sinais-do-autismo-e-tema-de-workoshop-da-saude-de-jaragua-do-sul-nesta-terca-7",
+    "title": "Workshop sobre primeiros sinais do autismo será realizado em Jaraguá do Sul",
+    "guid": "sc1multi:e5cfb58a8d07d6bb4e7cc92d9f8ff902f8134022",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e5cfb58a8d07d6bb4e7cc92d9f8ff902f8134022/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:7f2fb9dfe31663b4a699b89f22937a176cd0dfa7": {
+    "url": "https://ocp.news/politica/lunelli-critica-candidatura-de-carlos-bolsonaro-amin-nao-precisa-de-gps-para-andar-em-sc",
+    "title": "Antídio Lunelli destaca experiência de Esperidião Amin em Santa Catarina",
+    "guid": "sc1multi:7f2fb9dfe31663b4a699b89f22937a176cd0dfa7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7f2fb9dfe31663b4a699b89f22937a176cd0dfa7/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:e4df00c650094b979c57c78c4c0bc72c1f879961": {
+    "url": "https://tnsul.com/2026/07/06/adolescente-e-atingida-por-disparo-de-arma-de-pressao-em-escola-de-blumenau",
+    "title": "Adolescente é atingida por disparo de arma de pressão em escola de Blumenau",
+    "guid": "sc1multi:b8831ec14968e88d0fa7d6eef36ce70addd7e7ee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8831ec14968e88d0fa7d6eef36ce70addd7e7ee/",
+    "usedAt": 1783360806604,
+    "usedAtIso": "2026-07-06T18:00:06.604Z"
   }
 }
