@@ -1,12 +1,4 @@
 {
-  "source:63ac588b2188fd670f63f979d574f29a43ca4b1c": {
-    "url": "https://ocp.news/cotidiano/com-novo-lancamento-de-vigas-ponte-anemonas-ganha-forma-sobre-o-rio-itaum-acu-em-joinville",
-    "title": "Ponte Anêmonas avança com novo lançamento de vigas em Joinville",
-    "guid": "sc1multi:63ac588b2188fd670f63f979d574f29a43ca4b1c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63ac588b2188fd670f63f979d574f29a43ca4b1c/",
-    "usedAt": 1783095093190,
-    "usedAtIso": "2026-07-03T16:11:33.190Z"
-  },
   "source:3403b867fe10bb6f69e4efc7f94df22bd134debc": {
     "url": "https://ocp.news/politica/vereador-quer-energia-solar-para-reduzir-conta-de-r-120-mil-na-eta-de-guaramirim",
     "title": "Vereador propõe energia solar para reduzir custos na ETA de Guaramirim",
@@ -934,5 +926,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a7344375e3ba44847ab6d5bb1119da931ef18737/",
     "usedAt": 1783353606141,
     "usedAtIso": "2026-07-06T16:00:06.141Z"
+  },
+  "source:2b3ee0aec9e2aed7c936f41b2aefb72f5a4bd0f3": {
+    "url": "https://ocp.news/politica/novo-lanca-rodrigo-livramento-a-deputado-federal-em-evento-em-joinville1",
+    "title": "Novo lança Rodrigo Livramento a deputado federal em Joinville",
+    "guid": "sc1multi:2b3ee0aec9e2aed7c936f41b2aefb72f5a4bd0f3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b3ee0aec9e2aed7c936f41b2aefb72f5a4bd0f3/",
+    "usedAt": 1783357207013,
+    "usedAtIso": "2026-07-06T17:00:07.013Z"
+  },
+  "source:85c6d0d6bfc658bbefa41c7e69738058934873b5": {
+    "url": "https://tnsul.com/2026/07/06/criciuma-assinara-ordem-de-servico-para-renovar-o-museu-augusto-casagrande",
+    "title": "Criciúma assina ordem de serviço para restaurar Museu Augusto Casagrande",
+    "guid": "sc1multi:d26a29f51cb647e6074081ea3d08b5831284b89f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d26a29f51cb647e6074081ea3d08b5831284b89f/",
+    "usedAt": 1783357207013,
+    "usedAtIso": "2026-07-06T17:00:07.013Z"
   }
 }
