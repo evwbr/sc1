@@ -1,36 +1,4 @@
 {
-  "source:1dc1b6160e5726fdf5c8544767368b9c99069bf8": {
-    "url": "https://ocp.news/cotidiano/massa-de-ar-frio-provoca-queda-acentuada-das-temperaturas-em-santa-catarina",
-    "title": "Massa de ar frio provoca queda acentuada das temperaturas em Santa Catarina",
-    "guid": "sc1multi:1dc1b6160e5726fdf5c8544767368b9c99069bf8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1dc1b6160e5726fdf5c8544767368b9c99069bf8/",
-    "usedAt": 1783102292878,
-    "usedAtIso": "2026-07-03T18:11:32.878Z"
-  },
-  "source:30043b5c71764a2abcd3c5a5357abef53baf6266": {
-    "url": "https://ocp.news/seguranca/investigado-por-comandar-envio-de-haxixe-para-todo-o-brasil-e-preso-na-grande-florianopolis",
-    "title": "Homem é preso em Florianópolis por comandar envio de haxixe para o Brasil",
-    "guid": "sc1multi:30043b5c71764a2abcd3c5a5357abef53baf6266",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_30043b5c71764a2abcd3c5a5357abef53baf6266/",
-    "usedAt": 1783102292878,
-    "usedAtIso": "2026-07-03T18:11:32.878Z"
-  },
-  "source:15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9": {
-    "url": "https://ocp.news/cotidiano/golfinho-resgatado-em-laguna-e-escoltado-ate-florianopolis-para-reabilitacao",
-    "title": "Golfinho resgatado em Laguna é levado para reabilitação em Florianópolis",
-    "guid": "sc1multi:15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15cf4439acec0ad5dbc1f33e8a029f1240f4a5d9/",
-    "usedAt": 1783102292878,
-    "usedAtIso": "2026-07-03T18:11:32.878Z"
-  },
-  "source:c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc": {
-    "url": "https://ocp.news/seguranca/colisao-entre-carro-e-caminhao-deixa-um-morto-na-sc-418-em-campo-alegre",
-    "title": "Colisão entre carro e caminhão mata uma pessoa na SC-418 em Campo Alegre",
-    "guid": "sc1multi:c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c86c9a8f784ef4934bdc3e70f44fa8b2b819f7cc/",
-    "usedAt": 1783102292878,
-    "usedAtIso": "2026-07-03T18:11:32.878Z"
-  },
   "source:edc38e82cfe06d9d6af0615daae23194c6fb2fd0": {
     "url": "https://ocp.news/cotidiano/defesa-civil-alerta-para-mare-alta-em-florianopolis-2",
     "title": "Defesa Civil alerta para maré alta e riscos em Florianópolis",
@@ -998,5 +966,77 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8831ec14968e88d0fa7d6eef36ce70addd7e7ee/",
     "usedAt": 1783360806604,
     "usedAtIso": "2026-07-06T18:00:06.604Z"
+  },
+  "source:bea5860c01d9065b4f63e1540643d1fce0f32aa0": {
+    "url": "https://ocp.news/entretenimento/grupo1-taninos-faz-noite-de-rock-em-prol-dos-pianos-da-harmonia-lyra",
+    "title": "Grupo Taninos realiza show de rock para preservar pianos da Harmonia-Lyra em Joinville",
+    "guid": "sc1multi:bea5860c01d9065b4f63e1540643d1fce0f32aa0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bea5860c01d9065b4f63e1540643d1fce0f32aa0/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:9ced81e236307a99d9b1e851fb212414ba536f89": {
+    "url": "https://tudoaquisc.com.br/agenda/festival-literario-antonieta-barros-06070",
+    "title": "Festival Literário em Florianópolis homenageia Antonieta de Barros",
+    "guid": "sc1multi:d298a44c086c42d940af30e3536cb627ad7f36f6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d298a44c086c42d940af30e3536cb627ad7f36f6/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:295ce0b38c4685a5935428a683f58224fee33fe9": {
+    "url": "https://ocp.news/cotidiano/documentario1-revela-as-marcas-do-desenvolvimento-de-joinville-no-rio-cachoeira",
+    "title": "Documentário destaca a história do Rio Cachoeira em Joinville",
+    "guid": "sc1multi:295ce0b38c4685a5935428a683f58224fee33fe9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_295ce0b38c4685a5935428a683f58224fee33fe9/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:8698ec21d5ad154fc53a93c9d0866abc8129ed1d": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-tem-dois-medalhistas-no-brasileiro-de-atletismo-sub-20",
+    "title": "Atletas de Jaraguá do Sul conquistam medalhas no Brasileiro Sub-20 de Atletismo",
+    "guid": "sc1multi:8698ec21d5ad154fc53a93c9d0866abc8129ed1d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8698ec21d5ad154fc53a93c9d0866abc8129ed1d/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:17b1cd7a580c5d6ba2646557776f19bf569ed5d1": {
+    "url": "https://rbatv.com.br/noticias/cantor-da-dupla-gil-adam-fica-ferido-em-acidente-na-br-470-em-agronomica",
+    "title": "Cantor da dupla Gil e Adam fica ferido em acidente na BR-470 em Agronômica",
+    "guid": "sc1multi:5af3545cf49a4a9cd3c59297ffe45b8d292fb829",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5af3545cf49a4a9cd3c59297ffe45b8d292fb829/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:ee4b3cdfe58cd9594d661e89d4a62eb08c46da1f": {
+    "url": "https://correiosc.com.br/arraia-da-freguesia-tera-shows-quadrilhas-e-atracoes-culturais-em-sao-jose",
+    "title": "São José promove segunda edição do Arraiá da Freguesia com shows e quadrilhas",
+    "guid": "sc1multi:5209f974f355b431c507bbf52b2b9f437c4f8401",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5209f974f355b431c507bbf52b2b9f437c4f8401/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:64b55e0eea6dfbc303079d6ed27c5ecf2a925c67": {
+    "url": "https://ocp.news/cotidiano/procuradoria-da-mulher-de-jaragua-do-sul-apresenta-balanco-das-atividades-do-1-semestre-de-2026",
+    "title": "Procuradoria da Mulher de Jaraguá do Sul divulga balanço do 1º semestre de 2026",
+    "guid": "sc1multi:64b55e0eea6dfbc303079d6ed27c5ecf2a925c67",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64b55e0eea6dfbc303079d6ed27c5ecf2a925c67/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:cdd87b9c29ecf134367a50300977dbaac09642e3": {
+    "url": "https://tnsul.com/2026/07/06/laguna-11-reus-sao-condenados-por-corrupcao-e-fraudes-em-laguna",
+    "title": "Onze réus são condenados por corrupção em Laguna, SC",
+    "guid": "sc1multi:7954418762bfcf480112ebdf10227ed2d1cb3211",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7954418762bfcf480112ebdf10227ed2d1cb3211/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
+  },
+  "source:33b6a1936ff58db3824f48a53108ce7b26219124": {
+    "url": "https://ocp.news/cotidiano/vandalismo-prefeitura-de-jaragua-do-sul-repoe-lixeiras-danificadas",
+    "title": "Jaraguá do Sul repõe lixeiras danificadas em pontos da cidade",
+    "guid": "sc1multi:33b6a1936ff58db3824f48a53108ce7b26219124",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33b6a1936ff58db3824f48a53108ce7b26219124/",
+    "usedAt": 1783364407669,
+    "usedAtIso": "2026-07-06T19:00:07.669Z"
   }
 }
