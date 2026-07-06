@@ -1,12 +1,4 @@
 {
-  "source:82d3be6b8f8e4ee8a03e7ebf56cbbcfe4f2847d3": {
-    "url": "https://ocp.news/cotidiano/obituario-de-jaragua-do-sul-e-regiao-de-sexta-feira-3-2",
-    "title": "Obituário de Jaraguá do Sul e região em 3 de junho",
-    "guid": "sc1multi:82d3be6b8f8e4ee8a03e7ebf56cbbcfe4f2847d3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_82d3be6b8f8e4ee8a03e7ebf56cbbcfe4f2847d3/",
-    "usedAt": 1783109493804,
-    "usedAtIso": "2026-07-03T20:11:33.804Z"
-  },
   "source:817506dad197d5d0632c7ebfcc5b18d6aac28f38": {
     "url": "https://ocp.news/seguranca/trabalho1234-conjunto-das-policias-civis-do-rs-e-sc-resulta-na-prisao-de-foragido-por-violencia-domestica",
     "title": "Polícias Civis do RS e SC prendem foragido por violência doméstica em Guaramirim",
@@ -1062,5 +1054,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a56afa5b6e2032e58f978874e2213eda602d2a59/",
     "usedAt": 1783368007047,
     "usedAtIso": "2026-07-06T20:00:07.047Z"
+  },
+  "source:4f73e5b8c62bd2b3f93154db6cd05e6f54e5a2df": {
+    "url": "https://rbatv.com.br/noticias/aviao-de-pequeno-porte-cai-em-restinga-na-praia-de-navegantes",
+    "title": "Avião de pequeno porte cai em restinga na praia de Navegantes",
+    "guid": "sc1multi:ef137c7a6ccc25a6b3ec882be0846de941499e56",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef137c7a6ccc25a6b3ec882be0846de941499e56/",
+    "usedAt": 1783371606600,
+    "usedAtIso": "2026-07-06T21:00:06.600Z"
+  },
+  "source:bb80c58f73fe189f94436e8df615055b6d11ebd6": {
+    "url": "https://ocp.news/cotidiano/jaragua-do-sul-recebe-r-25-milhoes-para-construcao-do-caps-iii-24-horas",
+    "title": "Jaraguá do Sul recebe R$ 2,5 milhões para novo CAPS III 24 horas",
+    "guid": "sc1multi:bb80c58f73fe189f94436e8df615055b6d11ebd6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb80c58f73fe189f94436e8df615055b6d11ebd6/",
+    "usedAt": 1783371606600,
+    "usedAtIso": "2026-07-06T21:00:06.600Z"
+  },
+  "source:1e300fd8b415e611a60a3e066b8af5c2345e54e4": {
+    "url": "https://tnsul.com/2026/07/06/julio-bittencourt-pt-e-empossado-vereador-em-criciuma",
+    "title": "Júlio Bittencourt é empossado vereador em Criciúma",
+    "guid": "sc1multi:f091772ddcc3f522cf0ebc68623a8b607ce8bccb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f091772ddcc3f522cf0ebc68623a8b607ce8bccb/",
+    "usedAt": 1783371606600,
+    "usedAtIso": "2026-07-06T21:00:06.600Z"
+  },
+  "source:b59b28d08d6e228fa4c42bcaac5885748fa181ba": {
+    "url": "https://ocp.news/seguranca/motorista12-de-acidente-que-matou-duas-jovens-na-br-101-em-barra-velha-fica-em-silencio-durante-depoimento",
+    "title": "Motorista permanece em silêncio após acidente fatal na BR-101 em Barra Velha",
+    "guid": "sc1multi:b59b28d08d6e228fa4c42bcaac5885748fa181ba",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b59b28d08d6e228fa4c42bcaac5885748fa181ba/",
+    "usedAt": 1783371606600,
+    "usedAtIso": "2026-07-06T21:00:06.600Z"
   }
 }
