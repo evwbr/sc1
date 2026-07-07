@@ -1,44 +1,4 @@
 {
-  "source:6f00a66e67da7044f2517d897f432783baa140d5": {
-    "url": "https://rbatv.com.br/noticias/golfinho-resgatado-em-sc-e-escoltado-pela-prf-durante-transporte",
-    "title": "Golfinho resgatado em Laguna é escoltado pela PRF até Florianópolis",
-    "guid": "sc1multi:1ee3b6d4067ddb84df6cadb91975a17d4aecc6f5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ee3b6d4067ddb84df6cadb91975a17d4aecc6f5/",
-    "usedAt": 1783192181305,
-    "usedAtIso": "2026-07-04T19:09:41.305Z"
-  },
-  "source:791a9e1bc28a4df501f4180513e484fa50ba7e61": {
-    "url": "https://correiosc.com.br/maria-clara-atleta-catarinense-patrocinio-olimpico",
-    "title": "Atleta de São José busca apoio para sonho olímpico no atletismo",
-    "guid": "sc1multi:c65eb57c09e843fb81b7a3fcdda420ef4e39583e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c65eb57c09e843fb81b7a3fcdda420ef4e39583e/",
-    "usedAt": 1783192181305,
-    "usedAtIso": "2026-07-04T19:09:41.305Z"
-  },
-  "source:b652f2cd2760226fa28ea468cb9059e4b0209998": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-trafico-de-drogas-em-lontras-2",
-    "title": "Homem é preso por tráfico de drogas em Lontras, Santa Catarina",
-    "guid": "sc1multi:801611f8b77777113388f294f94368e0bc439141",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_801611f8b77777113388f294f94368e0bc439141/",
-    "usedAt": 1783192181305,
-    "usedAtIso": "2026-07-04T19:09:41.305Z"
-  },
-  "source:64b99c169bc8884da36308ce53a706c6cdcc66a8": {
-    "url": "https://tnsul.com/2026/07/04/data-para-celebrar-o-cooperativismo-no-mundo-inteiro",
-    "title": "Santa Catarina destaca-se no cooperativismo com mais de 250 cooperativas",
-    "guid": "sc1multi:e9c13e478a7ef62d8231ad9383941a893fc1ce49",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e9c13e478a7ef62d8231ad9383941a893fc1ce49/",
-    "usedAt": 1783192181305,
-    "usedAtIso": "2026-07-04T19:09:41.305Z"
-  },
-  "source:466663592902cb57ebc504bc778b2e1e1e369e92": {
-    "url": "https://tnsul.com/2026/07/04/criciuma-futsal-estreia-no-campeonato-brasileiro",
-    "title": "Criciúma Futsal estreia no Campeonato Brasileiro contra Chapecoense",
-    "guid": "sc1multi:1e606b13d4456913408242acd050c58241cb4ba4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1e606b13d4456913408242acd050c58241cb4ba4/",
-    "usedAt": 1783192181305,
-    "usedAtIso": "2026-07-04T19:09:41.305Z"
-  },
   "source:a7f278e6fbb0569f618bf271e1256ac9c6ccba9b": {
     "url": "https://tnsul.com/2026/07/04/prefeitura-de-criciuma-entrega-obras-e-autoriza-novos-investimentos",
     "title": "Criciúma investe em pavimentação, saúde e esporte para bairros locais",
@@ -1174,5 +1134,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc5574274dd3d8e7cf966fd0b7ad1233db30f1d7/",
     "usedAt": 1783450806794,
     "usedAtIso": "2026-07-07T19:00:06.794Z"
+  },
+  "source:88cc906ecb7b21089be12ab702de555bd8135a08": {
+    "url": "https://tudoaquisc.com.br/transito/via-expressa-bmw-idoso",
+    "title": "Homem de 64 anos morre atropelado por BMW na Via Expressa em Palhoça",
+    "guid": "sc1multi:6767648fb31b678871cbe9255be53cd792d1de2e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6767648fb31b678871cbe9255be53cd792d1de2e/",
+    "usedAt": 1783454407273,
+    "usedAtIso": "2026-07-07T20:00:07.273Z"
+  },
+  "source:1fa2ed449edeab81bfc13ae19e8b9b4a855710b3": {
+    "url": "https://ocp.news/politica/marcel-van-hattem-reafirma-apoio-a-zema-e-cita-aliancas-entre-novo-e-pl-em-sc-e-rs",
+    "title": "Marcel van Hattem destaca alianças entre Novo e PL em Santa Catarina",
+    "guid": "sc1multi:1fa2ed449edeab81bfc13ae19e8b9b4a855710b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1fa2ed449edeab81bfc13ae19e8b9b4a855710b3/",
+    "usedAt": 1783454407273,
+    "usedAtIso": "2026-07-07T20:00:07.273Z"
+  },
+  "source:490ac8a42ced76b3429676c4bb0080163dd3e969": {
+    "url": "https://ocp.news/cotidiano/dnit-fara-interdicoes-na-br-280-entre-araquari-e-guaramirim",
+    "title": "DNIT fará interdições na BR-280 entre Araquari e Guaramirim em Santa Catarina",
+    "guid": "sc1multi:490ac8a42ced76b3429676c4bb0080163dd3e969",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_490ac8a42ced76b3429676c4bb0080163dd3e969/",
+    "usedAt": 1783454407273,
+    "usedAtIso": "2026-07-07T20:00:07.273Z"
+  },
+  "source:1f1864d56f6eefad6bdc28d8f1e8e332161de30e": {
+    "url": "https://tnsul.com/2026/07/07/criciuma-visita-a-ponte-preta-em-busca-da-lideranca-na-serie-b",
+    "title": "Criciúma enfrenta Ponte Preta em busca da liderança da Série B",
+    "guid": "sc1multi:777155505b45f67a9ab9dabd8d913f22a5a8106e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_777155505b45f67a9ab9dabd8d913f22a5a8106e/",
+    "usedAt": 1783454407273,
+    "usedAtIso": "2026-07-07T20:00:07.273Z"
   }
 }
