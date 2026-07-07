@@ -1,68 +1,4 @@
 {
-  "source:fa9fad01e2eea69be6a7337ca502cc77c7f03943": {
-    "url": "https://rbatv.com.br/noticias/motorista-fica-ferido-apos-capotamento-em-ascurra",
-    "title": "Motorista fica ferido após capotamento em Ascurra, SC",
-    "guid": "sc1multi:2807cb1b5d2e86ed1454c6b83d2ef481f5c4577e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2807cb1b5d2e86ed1454c6b83d2ef481f5c4577e/",
-    "usedAt": 1783171617899,
-    "usedAtIso": "2026-07-04T13:26:57.899Z"
-  },
-  "source:f66b56118718ba80dbdd133430036fc209c52d6f": {
-    "url": "https://rbatv.com.br/noticias/mare-alta-provoca-alagamentos-em-cidades-do-litoral-catarinense",
-    "title": "Maré alta causa alagamentos e transtornos no litoral catarinense",
-    "guid": "sc1multi:68d016928d2fcfc059b1c3e4152ac2e1a57acab2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68d016928d2fcfc059b1c3e4152ac2e1a57acab2/",
-    "usedAt": 1783171617899,
-    "usedAtIso": "2026-07-04T13:26:57.899Z"
-  },
-  "source:dd12324ec8a97d5ff99a79730736d456099b1a19": {
-    "url": "https://rbatv.com.br/noticias/corpo-de-homem-e-encontrado-no-rio-itajai-acu-em-apiuna",
-    "title": "Corpo de homem é encontrado no Rio Itajaí-Açu em Apiúna",
-    "guid": "sc1multi:9ad515494e69f8287da577ca94e06a63e4370e66",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ad515494e69f8287da577ca94e06a63e4370e66/",
-    "usedAt": 1783172778200,
-    "usedAtIso": "2026-07-04T13:46:18.200Z"
-  },
-  "source:ff36ca0f22adcab978254e25cccecd8729d68d3e": {
-    "url": "https://rbatv.com.br/noticias/mulher-denuncia-violencia-psicologica-e-caso-e-encaminhado-a-policia-em-rio-do-sul",
-    "title": "Mulher denuncia violência psicológica em Rio do Sul e caso é encaminhado à polícia",
-    "guid": "sc1multi:b5927340374870cb216491d3d6dbf80906a7ea64",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5927340374870cb216491d3d6dbf80906a7ea64/",
-    "usedAt": 1783172778200,
-    "usedAtIso": "2026-07-04T13:46:18.200Z"
-  },
-  "source:9200ab0fb3f2798ddff20a38a2bb9fe00c907ce8": {
-    "url": "https://rbatv.com.br/noticias/guarda-municipal-impede-furto-de-cabos-eletricos-e-detem-dois-suspeitos-em-rio-do-sul",
-    "title": "Guarda Municipal de Rio do Sul impede furto de cabos elétricos e detém suspeitos",
-    "guid": "sc1multi:eac26fa71e339debf17b228cdca95e56c757db37",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eac26fa71e339debf17b228cdca95e56c757db37/",
-    "usedAt": 1783172778200,
-    "usedAtIso": "2026-07-04T13:46:18.200Z"
-  },
-  "source:65fef9caacd9868ea38d54bbeb47982824b1a63c": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-encontra-laboratorio-clandestino-com-187-pes-de-maconha-em-blumenau",
-    "title": "Polícia Civil desmantela laboratório clandestino de maconha em Blumenau",
-    "guid": "sc1multi:42fb80ed67ca3f0f4c0a11834f9f23c3918dbffd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42fb80ed67ca3f0f4c0a11834f9f23c3918dbffd/",
-    "usedAt": 1783172778200,
-    "usedAtIso": "2026-07-04T13:46:18.200Z"
-  },
-  "source:95d3ce4ae92996dac7dab13601ce831212e7b2f4": {
-    "url": "https://scportais.com.br/2026/07/03/defesa-civil-alerta-para-queda-acentuada-das-temperaturas-em-santa-catarina",
-    "title": "Defesa Civil alerta para queda acentuada das temperaturas em Santa Catarina",
-    "guid": "sc1multi:1deb8b54d8341a6716bfb1c3d135d41414545287",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1deb8b54d8341a6716bfb1c3d135d41414545287/",
-    "usedAt": 1783172778200,
-    "usedAtIso": "2026-07-04T13:46:18.200Z"
-  },
-  "source:465e7e959a3601208034a2b0920c0d1183dc6277": {
-    "url": "https://rbatv.com.br/noticias/pai-filha-de-um-ano-e-adolescente-morrem-em-grave-acidente-na-serra-dona-francisca",
-    "title": "Pai, filha e enteado morrem em acidente na SC-418 entre Joinville e Campo Alegre",
-    "guid": "sc1multi:81aaa0dfa001c83f99f0c9a0fae995df755b792c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81aaa0dfa001c83f99f0c9a0fae995df755b792c/",
-    "usedAt": 1783173252284,
-    "usedAtIso": "2026-07-04T13:54:12.284Z"
-  },
   "source:2cfbd879bb1d70b9372877d17fda1ff0b602bb25": {
     "url": "https://ocp.news/seguranca/lixeiras-recem-instaladas-sao-destruidas-por-vandalos-em-jaragua-do-sul",
     "title": "Vândalos destroem lixeiras recém-instaladas no bairro Rau em Jaraguá do Sul",
@@ -1182,5 +1118,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_920870b5a672a3ed93d72053f8e0148147fca712/",
     "usedAt": 1783429206491,
     "usedAtIso": "2026-07-07T13:00:06.491Z"
+  },
+  "source:33c76ffcb229bcb007fbe5c802a53fb1bdb3f7b8": {
+    "url": "https://tnsul.com/2026/07/07/jovem-e-encontrado-morto-em-area-de-mata-em-navegantes",
+    "title": "Jovem é encontrado morto em área de mata no bairro São Paulo, Navegantes",
+    "guid": "sc1multi:64cf3dea0e6dff799d607979108670c6a982b593",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64cf3dea0e6dff799d607979108670c6a982b593/",
+    "usedAt": 1783432806222,
+    "usedAtIso": "2026-07-07T14:00:06.222Z"
+  },
+  "source:b9d05ea42c0ab9435d12c2725accf91adc710318": {
+    "url": "https://ocp.news/cotidiano/edicao-de-julho-do-workshop-mamae-e-bebe-esta-com-inscricoes-abertas-em-jaragua-do-sul",
+    "title": "Workshop Mamãe e Bebê aborda uso seguro de medicamentos em Jaraguá do Sul",
+    "guid": "sc1multi:b9d05ea42c0ab9435d12c2725accf91adc710318",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b9d05ea42c0ab9435d12c2725accf91adc710318/",
+    "usedAt": 1783432806222,
+    "usedAtIso": "2026-07-07T14:00:06.222Z"
+  },
+  "source:aa865a11e7026385d408598af5e3fbc86104c5a1": {
+    "url": "https://correiosc.com.br/operacao-pao-e-circo-investiga-fraude-em-licitacoes-de-shows-em-santa-catarina",
+    "title": "Operação Pão e Circo investiga fraude em licitações de shows em Santa Catarina",
+    "guid": "sc1multi:3a1d68e667671e9dfab508cde0585a9bcbc2af9f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3a1d68e667671e9dfab508cde0585a9bcbc2af9f/",
+    "usedAt": 1783432806222,
+    "usedAtIso": "2026-07-07T14:00:06.222Z"
+  },
+  "source:d6023e4b140854a8f39b006c1ab7296d6e5e95ac": {
+    "url": "https://correiosc.com.br/maria-clara-de-sao-jose-conquista-prata-no-brasileiro-sub-21",
+    "title": "Maria Clara conquista prata no Brasileiro Sub-21 de Atletismo",
+    "guid": "sc1multi:ac4b400aa5e3a8e06595b4b5ae3c1295a933a1ec",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac4b400aa5e3a8e06595b4b5ae3c1295a933a1ec/",
+    "usedAt": 1783432806222,
+    "usedAtIso": "2026-07-07T14:00:06.222Z"
   }
 }
