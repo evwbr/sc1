@@ -1,20 +1,4 @@
 {
-  "source:8a0e876cee453a1d5ffa82fd2520e447a16c8bc3": {
-    "url": "https://ocp.news/colunistas/lunelli-ganha-corpo-na-disputa-ao-senado",
-    "title": "Antídio Lunelli ganha força na disputa ao Senado por Santa Catarina",
-    "guid": "sc1multi:8a0e876cee453a1d5ffa82fd2520e447a16c8bc3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a0e876cee453a1d5ffa82fd2520e447a16c8bc3/",
-    "usedAt": 1783159893686,
-    "usedAtIso": "2026-07-04T10:11:33.686Z"
-  },
-  "source:c1b48962d710fac34c8f2d96493ffd1a650d82d6": {
-    "url": "https://ocp.news/colunistas/contagem-regressiva",
-    "title": "Santa Catarina se prepara para eleições com polarização nacional em foco",
-    "guid": "sc1multi:c1b48962d710fac34c8f2d96493ffd1a650d82d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1b48962d710fac34c8f2d96493ffd1a650d82d6/",
-    "usedAt": 1783159893686,
-    "usedAtIso": "2026-07-04T10:11:33.686Z"
-  },
   "source:41d0a7f82a8c240a792a05b6dfc483f9c69b4c94": {
     "url": "https://ocp.news/seguranca/mulher-e-presa-suspeita-de-furtar-r-32-mil-em-produtos-de-supermercado-em-jaragua-do-sul",
     "title": "Mulher é presa por furtar R$ 3,2 mil em supermercado de Jaraguá do Sul",
@@ -1126,5 +1110,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8fdbda6fc74dd0418f1f013857704075e690fa92/",
     "usedAt": 1783418406338,
     "usedAtIso": "2026-07-07T10:00:06.338Z"
+  },
+  "source:19861494b33f55905dc2ca4797b41e1e3376581f": {
+    "url": "https://tnsul.com/2026/07/07/incendio-atinge-marcenaria-e-mobiliza-bombeiros-em-criciuma",
+    "title": "Incêndio atinge marcenaria e residência no bairro Milanese em Criciúma",
+    "guid": "sc1multi:fe761e58b251000d48981b8dd905f4acd6082e9c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe761e58b251000d48981b8dd905f4acd6082e9c/",
+    "usedAt": 1783422006508,
+    "usedAtIso": "2026-07-07T11:00:06.508Z"
+  },
+  "source:c3541eb15318e27e1f651c28b7dc63fa276ac2c0": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-resgatam-cao-ilhado-em-rio-e-procuram-pelo-dono-em-sao-jose",
+    "title": "Bombeiros resgatam cão ilhado em rio de São José e buscam dono",
+    "guid": "sc1multi:0337066af2d4102362005df384f0d889fc515689",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0337066af2d4102362005df384f0d889fc515689/",
+    "usedAt": 1783422006508,
+    "usedAtIso": "2026-07-07T11:00:06.508Z"
+  },
+  "source:c8a5c9466f253c0cfa0e96360fc60bfd07443335": {
+    "url": "https://ocp.news/cotidiano/defesa-civil-emite-alerta-de-frio-intenso-ate-quarta-feira-em-florianopolis",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis até quarta-feira",
+    "guid": "sc1multi:c8a5c9466f253c0cfa0e96360fc60bfd07443335",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c8a5c9466f253c0cfa0e96360fc60bfd07443335/",
+    "usedAt": 1783422006508,
+    "usedAtIso": "2026-07-07T11:00:06.508Z"
   }
 }
