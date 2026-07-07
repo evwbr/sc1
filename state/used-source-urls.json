@@ -1,12 +1,4 @@
 {
-  "source:f6809152300c390c55eecf1033111fd77d2774bb": {
-    "url": "https://ocp.news/cotidiano/el-nino-o-que-e-o-fenomeno-e-como-ele-influencia-o-clima-em-santa-catarina",
-    "title": "El Niño e seus impactos no clima de Santa Catarina",
-    "guid": "sc1multi:f6809152300c390c55eecf1033111fd77d2774bb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6809152300c390c55eecf1033111fd77d2774bb/",
-    "usedAt": 1783185094181,
-    "usedAtIso": "2026-07-04T17:11:34.181Z"
-  },
   "source:6f00a66e67da7044f2517d897f432783baa140d5": {
     "url": "https://rbatv.com.br/noticias/golfinho-resgatado-em-sc-e-escoltado-pela-prf-durante-transporte",
     "title": "Golfinho resgatado em Laguna é escoltado pela PRF até Florianópolis",
@@ -1086,5 +1078,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_959f82b336256bf96140dcba27077928af523e1c/",
     "usedAt": 1783443606212,
     "usedAtIso": "2026-07-07T17:00:06.212Z"
+  },
+  "source:9625bf950a2e9da7274ce7d9181add5e8f5c73d7": {
+    "url": "https://ocp.news/seguranca/mpsc-denuncia-mulher-por-enterrar-cachorra-viva-em-joinville",
+    "title": "MPSC denuncia mulher por enterrar cachorra viva em Joinville",
+    "guid": "sc1multi:9625bf950a2e9da7274ce7d9181add5e8f5c73d7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9625bf950a2e9da7274ce7d9181add5e8f5c73d7/",
+    "usedAt": 1783447206451,
+    "usedAtIso": "2026-07-07T18:00:06.451Z"
+  },
+  "source:9e52061ee5fedf0b7ad3799e16e6efb34b5898d5": {
+    "url": "https://tudoaquisc.com.br/transito/leilao-da-prf-647-carros-sc-070",
+    "title": "PRF realiza leilão com 647 veículos apreendidos em Santa Catarina",
+    "guid": "sc1multi:522e5e4b837f2ecec837aac08394a72f1cd80600",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_522e5e4b837f2ecec837aac08394a72f1cd80600/",
+    "usedAt": 1783447206451,
+    "usedAtIso": "2026-07-07T18:00:06.451Z"
+  },
+  "source:b6f7af0cc42d1a5022a0770b63d35a9b30bd1dd1": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-concerto-gratuito-ribeirao-da-ilha",
+    "title": "Camerata Florianópolis realiza concerto gratuito no Ribeirão da Ilha",
+    "guid": "sc1multi:d4411206cd3d2c77eac0abac20a36c42597ce1dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d4411206cd3d2c77eac0abac20a36c42597ce1dd/",
+    "usedAt": 1783447206451,
+    "usedAtIso": "2026-07-07T18:00:06.451Z"
+  },
+  "source:f474473760f1c4260b42f507176b5700aab420fe": {
+    "url": "https://rbatv.com.br/noticias/operacao-tapa-buracos-em-ruas-asfaltadas-comeca-pela-alameda-aristiliano-ramos-em-rio-do-sul",
+    "title": "Rio do Sul inicia operação de tapa-buracos na Alameda Aristiliano Ramos",
+    "guid": "sc1multi:45944ef5f64ba12e74ea0e4dcd296db3c8286872",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_45944ef5f64ba12e74ea0e4dcd296db3c8286872/",
+    "usedAt": 1783447206451,
+    "usedAtIso": "2026-07-07T18:00:06.451Z"
+  },
+  "source:dbe34b126fc1c1b6679199b24788ff390486a05c": {
+    "url": "https://ocp.news/politica/prefeito-de-governador-celso-ramos-e-afastado-do-cargo-na-operacao-pao-e-circo",
+    "title": "Prefeito de Governador Celso Ramos é afastado na operação contra cartel de eventos",
+    "guid": "sc1multi:dbe34b126fc1c1b6679199b24788ff390486a05c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dbe34b126fc1c1b6679199b24788ff390486a05c/",
+    "usedAt": 1783447206451,
+    "usedAtIso": "2026-07-07T18:00:06.451Z"
   }
 }
