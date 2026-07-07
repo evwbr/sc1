@@ -1,92 +1,4 @@
 {
-  "source:2cfbd879bb1d70b9372877d17fda1ff0b602bb25": {
-    "url": "https://ocp.news/seguranca/lixeiras-recem-instaladas-sao-destruidas-por-vandalos-em-jaragua-do-sul",
-    "title": "Vândalos destroem lixeiras recém-instaladas no bairro Rau em Jaraguá do Sul",
-    "guid": "sc1multi:2cfbd879bb1d70b9372877d17fda1ff0b602bb25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cfbd879bb1d70b9372877d17fda1ff0b602bb25/",
-    "usedAt": 1783179881560,
-    "usedAtIso": "2026-07-04T15:44:41.560Z"
-  },
-  "source:b064670345682f67c9c1870cacb46de2aebc9160": {
-    "url": "https://tnsul.com/2026/07/04/tigre-recebe-o-sport-e-mira-a-lideranca-da-serie-b-do-brasileiro",
-    "title": "Criciúma enfrenta Sport em busca da liderança da Série B",
-    "guid": "sc1multi:1ee7e3baf5ba706207b37e28549b597d277259a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ee7e3baf5ba706207b37e28549b597d277259a3/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:d155c95592fbcdef6241f25e91d823a9f677e62e": {
-    "url": "https://ocp.news/politica/adriano-silva-afirma-que-novo-tem-missao-de-resgatar-a-esperanca-na-politica",
-    "title": "Adriano Silva destaca missão do Novo em resgatar esperança na política em Joinville",
-    "guid": "sc1multi:d155c95592fbcdef6241f25e91d823a9f677e62e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d155c95592fbcdef6241f25e91d823a9f677e62e/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:9acbd0dc2ebd9b1825f9568de9eeb9bc0423b329": {
-    "url": "https://ocp.news/politica/partido-novo-reune-liderancas-em-joinville-e-lanca-pre-candidatura-de-adriano-silva-a-vice-governador",
-    "title": "Partido Novo lança pré-candidatura de Adriano Silva a vice-governador em Joinville",
-    "guid": "sc1multi:9acbd0dc2ebd9b1825f9568de9eeb9bc0423b329",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9acbd0dc2ebd9b1825f9568de9eeb9bc0423b329/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:becef0e1e8ac5725b66283a1fe9118e3c112a834": {
-    "url": "https://tnsul.com/2026/07/04/bandidos-arrombam-loja-e-levam-cinco-televisores-em-criciuma",
-    "title": "Loja é arrombada e cinco televisores são furtados em Criciúma",
-    "guid": "sc1multi:466fb6cfa05538a60d30b79e40c13160e6ae9b90",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_466fb6cfa05538a60d30b79e40c13160e6ae9b90/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:2444385e1a938ff351a16b642d6421ef538180cf": {
-    "url": "https://tnsul.com/2026/07/04/criminosos-invadem-empresa-e-furtam-arma-e-caminhonete-em-praia-grande",
-    "title": "Criminosos furtam arma e caminhonete em empresa de Praia Grande",
-    "guid": "sc1multi:4bd307538d43ed817ade2f069c9426cb21cd935b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bd307538d43ed817ade2f069c9426cb21cd935b/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:4c042c25d1783a4a04c57440d2e6cbc3146c3541": {
-    "url": "https://tnsul.com/2026/07/03/apos-ser-resgatado-em-laguna-golfinho-e-transferido-para-reabilitacao",
-    "title": "Golfinho resgatado em Laguna é transferido para reabilitação em Florianópolis",
-    "guid": "sc1multi:05dc3bb3d6c13b03d19e0055c1ec58c63ec4715a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_05dc3bb3d6c13b03d19e0055c1ec58c63ec4715a/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:ec88d81728386059d61297a7af4afc2cfb5bff2e": {
-    "url": "https://tnsul.com/2026/07/03/agora-incendio-atinge-cobertura-de-predio-em-criciuma-confira-as-imagens",
-    "title": "Incêndio atinge cobertura de prédio no Centro de Criciúma",
-    "guid": "sc1multi:7dad16f2acf8c164e2ea39bbb0429b1a937a6910",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7dad16f2acf8c164e2ea39bbb0429b1a937a6910/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:852f6ffdbb4d9bf8a4c97ae095205a24a515d94f": {
-    "url": "https://tudoaquisc.com.br/transito/rcaos-na-capital-mare-alta-0405",
-    "title": "Maré alta causa congestionamento na SC-405 em Florianópolis",
-    "guid": "sc1multi:bc361aae696afb386da9be38077a7c94576eaf1d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc361aae696afb386da9be38077a7c94576eaf1d/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:83f1417c072545614b1fee2aa6c5d20c93fffd4f": {
-    "url": "https://ocp.news/cotidiano/ocp-leva-107-anos-de-historia-do-jornalismo-de-jaragua-do-sul-ao-espaco-memoria-da-expo-150",
-    "title": "celebra 107 anos no Espaço Memória da Expo 150 em Jaraguá do Sul",
-    "guid": "sc1multi:83f1417c072545614b1fee2aa6c5d20c93fffd4f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83f1417c072545614b1fee2aa6c5d20c93fffd4f/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
-  "source:f46752452d48839b4f4696e44ddbd382a6153b73": {
-    "url": "https://scportais.com.br/2026/07/03/sobe-numero-de-municipios-catarinenses-em-situacao-de-emergencia-apos-temporais",
-    "title": "Seis municípios catarinenses decretam situação de emergência após temporais",
-    "guid": "sc1multi:628c4dbace44600e91cc137a0a713f75da3fe01e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_628c4dbace44600e91cc137a0a713f75da3fe01e/",
-    "usedAt": 1783180659403,
-    "usedAtIso": "2026-07-04T15:57:39.403Z"
-  },
   "source:54c35441c7b3e68ecaab9f3601a8aa9f5b44c68a": {
     "url": "https://tnsul.com/2026/07/04/castan-valoriza-sequencia-do-criciuma-e-projeta-reencontro-com-o-sport",
     "title": "Criciúma valoriza sequência positiva e projeta duelo contra o Sport",
@@ -1206,5 +1118,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e48e700a2f444eec4985780c69359b1ba1ea0b75/",
     "usedAt": 1783436406501,
     "usedAtIso": "2026-07-07T15:00:06.501Z"
+  },
+  "source:b3fb76ea9973531eb8f80caa43eba078bcd03232": {
+    "url": "https://tudoaquisc.com.br/politica/lei-orelha-punicao-sc-maus-0707",
+    "title": "Lei Orelha amplia punições por maus-tratos a animais em Santa Catarina",
+    "guid": "sc1multi:595566b9fca57d85c910720306dab141ee20c0a5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_595566b9fca57d85c910720306dab141ee20c0a5/",
+    "usedAt": 1783440007164,
+    "usedAtIso": "2026-07-07T16:00:07.164Z"
+  },
+  "source:9fe7ed2bcb4358f4c6099025ddeb92ad987a06d1": {
+    "url": "https://tnsul.com/2026/07/07/imagens-casarao-centenario-de-criciuma-tera-restauracao-completa",
+    "title": "Museu Histórico de Criciúma passará por restauração completa",
+    "guid": "sc1multi:01be2c5547e9a3d182310cbb81fa99ffcb5ff69a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01be2c5547e9a3d182310cbb81fa99ffcb5ff69a/",
+    "usedAt": 1783440007164,
+    "usedAtIso": "2026-07-07T16:00:07.164Z"
+  },
+  "source:a4516a9b46f909944dfc9d07cb199722b4cb877e": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-tem-o-maior-numero-de-participantes-no-transcatarina-2026",
+    "title": "Jaraguá do Sul lidera participação no 18º Transcatarina 2026",
+    "guid": "sc1multi:a4516a9b46f909944dfc9d07cb199722b4cb877e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4516a9b46f909944dfc9d07cb199722b4cb877e/",
+    "usedAt": 1783440007164,
+    "usedAtIso": "2026-07-07T16:00:07.164Z"
   }
 }
