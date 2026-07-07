@@ -1,12 +1,4 @@
 {
-  "source:a7f278e6fbb0569f618bf271e1256ac9c6ccba9b": {
-    "url": "https://tnsul.com/2026/07/04/prefeitura-de-criciuma-entrega-obras-e-autoriza-novos-investimentos",
-    "title": "Criciúma investe em pavimentação, saúde e esporte para bairros locais",
-    "guid": "sc1multi:0feb2f90a0aa7893d1baa3ce22c70d8963030bb0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0feb2f90a0aa7893d1baa3ce22c70d8963030bb0/",
-    "usedAt": 1783195207352,
-    "usedAtIso": "2026-07-04T20:00:07.352Z"
-  },
   "source:28733c7b9cffd0e3da5f1e1bf48bfb51126a58a4": {
     "url": "https://ocp.news/cotidiano/prefeitura-inicia-entrega-de-telhas-para-familias-afetadas-pela-chuva-de-granizo-em-jaragua-do-sul",
     "title": "Prefeitura de Jaraguá do Sul inicia entrega de telhas para famílias afetadas por granizo",
@@ -1166,5 +1158,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_777155505b45f67a9ab9dabd8d913f22a5a8106e/",
     "usedAt": 1783454407273,
     "usedAtIso": "2026-07-07T20:00:07.273Z"
+  },
+  "source:4bac1814bdd460d58338c46297aba9d25e1333c7": {
+    "url": "https://ocp.news/seguranca/acidente-grave-entre-caminhao-e-ciclomotor-deixa-motociclista-ferido-em-jaragua-do-sul",
+    "title": "Acidente entre caminhão e ciclomotor fere motociclista em Jaraguá do Sul",
+    "guid": "sc1multi:4bac1814bdd460d58338c46297aba9d25e1333c7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bac1814bdd460d58338c46297aba9d25e1333c7/",
+    "usedAt": 1783457785524,
+    "usedAtIso": "2026-07-07T20:56:25.524Z"
+  },
+  "source:d90fa92b54f0b1deb3c2236a9f7b572d0456ed9e": {
+    "url": "https://ocp.news/esporte/handebol-de-massaranduba-representara-sc-em-dois-campeonatos-nacionais",
+    "title": "Handebol feminino de Massaranduba representará Santa Catarina em campeonatos nacionais",
+    "guid": "sc1multi:d90fa92b54f0b1deb3c2236a9f7b572d0456ed9e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d90fa92b54f0b1deb3c2236a9f7b572d0456ed9e/",
+    "usedAt": 1783457785524,
+    "usedAtIso": "2026-07-07T20:56:25.524Z"
   }
 }
