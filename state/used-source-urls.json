@@ -1,12 +1,4 @@
 {
-  "source:41d0a7f82a8c240a792a05b6dfc483f9c69b4c94": {
-    "url": "https://ocp.news/seguranca/mulher-e-presa-suspeita-de-furtar-r-32-mil-em-produtos-de-supermercado-em-jaragua-do-sul",
-    "title": "Mulher é presa por furtar R$ 3,2 mil em supermercado de Jaraguá do Sul",
-    "guid": "sc1multi:41d0a7f82a8c240a792a05b6dfc483f9c69b4c94",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_41d0a7f82a8c240a792a05b6dfc483f9c69b4c94/",
-    "usedAt": 1783167093497,
-    "usedAtIso": "2026-07-04T12:11:33.497Z"
-  },
   "source:fa9fad01e2eea69be6a7337ca502cc77c7f03943": {
     "url": "https://rbatv.com.br/noticias/motorista-fica-ferido-apos-capotamento-em-ascurra",
     "title": "Motorista fica ferido após capotamento em Ascurra, SC",
@@ -1150,5 +1142,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a122aa33ee30b9cd9214f5316fca1bf4fa094d4f/",
     "usedAt": 1783425606564,
     "usedAtIso": "2026-07-07T12:00:06.564Z"
+  },
+  "source:e29286227eb61a6286e8149c214af01cb40ae78c": {
+    "url": "https://rbatv.com.br/saude/cis-tera-vacinacao-no-terceiro-sabado-de-cada-mes-ate-novembro",
+    "title": "Rio do Sul mantém vacinação no terceiro sábado do mês até novembro",
+    "guid": "sc1multi:4bb96e47fb524696e033037c72485dd386636712",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bb96e47fb524696e033037c72485dd386636712/",
+    "usedAt": 1783429206491,
+    "usedAtIso": "2026-07-07T13:00:06.491Z"
+  },
+  "source:e7b38bb2b165061ffa1d942a26f05e6de1a0db33": {
+    "url": "https://tnsul.com/2026/07/07/colisao-frontal-entre-carros-deixa-dois-feridos-em-icara",
+    "title": "Colisão frontal deixa dois feridos no bairro Barracão, em Içara",
+    "guid": "sc1multi:8edcc5724967e0d45da73d3191878622861d9e56",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8edcc5724967e0d45da73d3191878622861d9e56/",
+    "usedAt": 1783429206491,
+    "usedAtIso": "2026-07-07T13:00:06.491Z"
+  },
+  "source:2c2e0c5687be04f5e363396f2b6b2f358b39551a": {
+    "url": "https://tnsul.com/2026/07/07/motorista-morre-apos-carreta-carregada-de-madeira-tombar-na-br-101",
+    "title": "Motorista morre após carreta tombar na BR-101 em Tubarão",
+    "guid": "sc1multi:b15a4256dec7f51cdb309c83e9120f97a00c4678",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b15a4256dec7f51cdb309c83e9120f97a00c4678/",
+    "usedAt": 1783429206491,
+    "usedAtIso": "2026-07-07T13:00:06.491Z"
+  },
+  "source:d7cdc6cb69741bed922e8c166c200ca95ac333d9": {
+    "url": "https://ocp.news/cotidiano/oktoberfest-blumenau-tera-espaco-dedicado-aos-clubes-de-caca-e-tiro",
+    "title": "Oktoberfest Blumenau terá espaço dedicado aos clubes de caça e tiro",
+    "guid": "sc1multi:d7cdc6cb69741bed922e8c166c200ca95ac333d9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7cdc6cb69741bed922e8c166c200ca95ac333d9/",
+    "usedAt": 1783429206491,
+    "usedAtIso": "2026-07-07T13:00:06.491Z"
+  },
+  "source:920870b5a672a3ed93d72053f8e0148147fca712": {
+    "url": "https://ocp.news/politica/camara-de-vereadores-de-joinville-aprova-criacao-de-politica-de-estimulo-ao-empreendedorismo-feminino",
+    "title": "Joinville aprova política municipal para estimular empreendedorismo feminino",
+    "guid": "sc1multi:920870b5a672a3ed93d72053f8e0148147fca712",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_920870b5a672a3ed93d72053f8e0148147fca712/",
+    "usedAt": 1783429206491,
+    "usedAtIso": "2026-07-07T13:00:06.491Z"
   }
 }
