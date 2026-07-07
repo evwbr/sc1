@@ -1,20 +1,4 @@
 {
-  "source:28733c7b9cffd0e3da5f1e1bf48bfb51126a58a4": {
-    "url": "https://ocp.news/cotidiano/prefeitura-inicia-entrega-de-telhas-para-familias-afetadas-pela-chuva-de-granizo-em-jaragua-do-sul",
-    "title": "Prefeitura de Jaraguá do Sul inicia entrega de telhas para famílias afetadas por granizo",
-    "guid": "sc1multi:28733c7b9cffd0e3da5f1e1bf48bfb51126a58a4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_28733c7b9cffd0e3da5f1e1bf48bfb51126a58a4/",
-    "usedAt": 1783198806299,
-    "usedAtIso": "2026-07-04T21:00:06.299Z"
-  },
-  "source:728273f60e1d5f687ec820b90a4bb7ea1e71c927": {
-    "url": "https://ocp.news/esporte/juventus-massacra-o-jaragua-reacende-esperanca-na-serie-b-e-praticamente-rebaixa-o-rival",
-    "title": "Juventus goleia Jaraguá e mantém esperança na Série B do Catarinense",
-    "guid": "sc1multi:728273f60e1d5f687ec820b90a4bb7ea1e71c927",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_728273f60e1d5f687ec820b90a4bb7ea1e71c927/",
-    "usedAt": 1783198806299,
-    "usedAtIso": "2026-07-04T21:00:06.299Z"
-  },
   "source:9a797c3f0d099e49fc1b225490263d24ed327446": {
     "url": "https://ocp.news/cotidiano/motociclista-morre-apos-perder-o-controle-da-moto-em-curva-em-araquari",
     "title": "Motociclista morre após perder controle da moto em Araquari",
@@ -1174,5 +1158,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d90fa92b54f0b1deb3c2236a9f7b572d0456ed9e/",
     "usedAt": 1783457785524,
     "usedAtIso": "2026-07-07T20:56:25.524Z"
+  },
+  "source:89d25f0c1e23578fe9b91e0254b332ba29ee9f1b": {
+    "url": "https://tudoaquisc.com.br/entretenimento/circuito-gastronomico-centro-0707",
+    "title": "Circuito gastronômico no Centro Histórico busca movimentar bares em Santa Catarina",
+    "guid": "sc1multi:65b6f91d206e7c99a5b50682c5629f987a247591",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_65b6f91d206e7c99a5b50682c5629f987a247591/",
+    "usedAt": 1783458006742,
+    "usedAtIso": "2026-07-07T21:00:06.742Z"
+  },
+  "source:8c69af1dcb233b62cec24b041ed578ec0dd4012c": {
+    "url": "https://ocp.news/entretenimento/jaragua-do-sul-150-anos-confira-os-eventos-programados-para-sexta-10-sabado-11-e-domingo-12",
+    "title": "Jaraguá do Sul celebra 150 anos com eventos culturais e festivos",
+    "guid": "sc1multi:8c69af1dcb233b62cec24b041ed578ec0dd4012c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c69af1dcb233b62cec24b041ed578ec0dd4012c/",
+    "usedAt": 1783458006742,
+    "usedAtIso": "2026-07-07T21:00:06.742Z"
+  },
+  "source:b94d3bfa858b674fb800b2df0fab7d7fe8b3f4af": {
+    "url": "https://ocp.news/seguranca/militar-de-20-anos-morre-em-acidente-com-blindado-do-exercito-durante-treinamento",
+    "title": "Militar de Joinville morre em acidente com blindado durante treinamento no RS",
+    "guid": "sc1multi:b94d3bfa858b674fb800b2df0fab7d7fe8b3f4af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b94d3bfa858b674fb800b2df0fab7d7fe8b3f4af/",
+    "usedAt": 1783458006742,
+    "usedAtIso": "2026-07-07T21:00:06.742Z"
   }
 }
