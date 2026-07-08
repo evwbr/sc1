@@ -9,24 +9,25 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Wed, 08 Jul 2026 22:02:04 GMT</lastBuildDate>
+<lastBuildDate>Wed, 08 Jul 2026 23:01:01 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Surfista de Florianópolis Laura Raupp fica em 4º no Ballito Pro Jr]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_252afbad9a594131dc5db52fc5b6e48b58267434/</link>
+<title><![CDATA[Rio do Sul instala estações hidrológicas para alertas de cheias]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_c7ea3343dad6b89b55150c2eeb846d6b43df37c8/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Wed, 08 Jul 2026 21:34:24 GMT</pubDate>
+<pubDate>Wed, 08 Jul 2026 22:13:38 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:252afbad9a594131dc5db52fc5b6e48b58267434]]></guid>
-<description><![CDATA[A catarinense Laura Raupp conquistou o quarto lugar no Ballito Pro Junior na África do Sul.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fsnapinsta.com_.br-6a4ec0906d886.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fsnapinsta.com_.br-6a4ec0906d886.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fsnapinsta.com_.br-6a4ec0906d886.jpg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:c7ea3343dad6b89b55150c2eeb846d6b43df37c8]]></guid>
+<description><![CDATA[Rio do Sul vai instalar estações hidrológicas em cinco ribeirões para melhorar alertas de cheias.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fb2689506-3bd3-4fd8-a8e8-6892440139d3-1024x683.webp%3Foc%3D1783551639" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fb2689506-3bd3-4fd8-a8e8-6892440139d3-1024x683.webp%3Foc%3D1783551639" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fb2689506-3bd3-4fd8-a8e8-6892440139d3-1024x683.webp%3Foc%3D1783551639"/>
 <content:encoded><![CDATA[
-<p>Laura Raupp, representante de Florianópolis, destacou-se na competição internacional de surfe Ballito Pro Junior, realizada na África do Sul.</p>
-<p>Atual campeã brasileira da categoria adulta feminina, a atleta de 19 anos alcançou a quarta colocação na disputa que teve sua final nesta quarta-feira (8).</p>
-<p>Em 2025, Laura já havia se destacado na praia de Willard, em Ballito, ao garantir o terceiro lugar entre os adultos, resultado que pretende repetir ou superar na etapa principal a partir do domingo (12).</p>
-<p>O Ballito Pro adulto terá suas disputas até o sábado seguinte (18), com a participação da surfista catarinense.</p>
+<p>A Prefeitura de Rio do Sul ampliará o monitoramento hidrológico com a instalação de estações em cinco ribeirões da cidade: Valada São Paulo, Taboão, Itoupava, Fundo Canoas e Ribeirão do Tigre.</p>
+<p>A instalação dos equipamentos começará em julho e também incluirá a reforma dos sistemas já existentes nas pontes Dom Tito Buss, Pamplona e Laranjeiras.</p>
+<p>O monitoramento permitirá identificar alterações rapidamente, acompanhar a evolução das cheias e auxiliar a Defesa Civil na emissão de alertas mais precisos para as áreas afetadas.</p>
+<p>A empresa responsável pelo sistema, originada de uma startup da Universidade Federal de Minas Gerais, atua na prevenção e emissão de alertas em desastres naturais.</p>
+<p>O objetivo é fortalecer a prevenção e melhorar a orientação à população com informações técnicas em tempo real para agir com antecedência.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
