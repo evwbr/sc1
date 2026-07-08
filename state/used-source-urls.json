@@ -326,5 +326,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_640a4eea6c10176e61260993a163b5fe44f3edc3/",
     "usedAt": 1783497606514,
     "usedAtIso": "2026-07-08T08:00:06.514Z"
+  },
+  "source:9dfc5312253591b7ec21f6561c18c7e3a6e20207": {
+    "url": "https://rbatv.com.br/noticias/disparos-em-via-publica-levam-pm-a-desarticular-ponto-de-trafico-e-prender-dois-homens-em-pomerode",
+    "title": "PM prende dois homens após disparos e desarticula ponto de tráfico em Pomerode",
+    "guid": "sc1multi:2be59717a00d5562ff17650e604fe6f55d3a6a23",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2be59717a00d5562ff17650e604fe6f55d3a6a23/",
+    "usedAt": 1783508406488,
+    "usedAtIso": "2026-07-08T11:00:06.488Z"
+  },
+  "source:b0d3da4af11b32c915016fb4a2745fb7143766a7": {
+    "url": "https://rbatv.com.br/noticias/suspeito-de-trafico-e-preso-com-cocaina-pronta-para-venda-no-centro-de-timbo",
+    "title": "Suspeito é preso com cocaína pronta para venda no Centro de Timbó",
+    "guid": "sc1multi:e164b269d30c34640517f1a98d6d5362aa4b05a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e164b269d30c34640517f1a98d6d5362aa4b05a3/",
+    "usedAt": 1783508406488,
+    "usedAtIso": "2026-07-08T11:00:06.488Z"
+  },
+  "source:2bc09ee605d6f31417c40177756b34e925e44365": {
+    "url": "https://tnsul.com/2026/07/08/homem-morre-esfaqueado-e-outro-e-ferido-em-tentativa-de-assalto-em-criciuma",
+    "title": "Homem morre esfaqueado e outro é ferido em tentativa de assalto em Criciúma",
+    "guid": "sc1multi:291c43bded399766bb9dc7b35401526a76004b7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_291c43bded399766bb9dc7b35401526a76004b7e/",
+    "usedAt": 1783508406488,
+    "usedAtIso": "2026-07-08T11:00:06.488Z"
+  },
+  "source:f4a0f62916ce7aaadefd1ea7d1cc196441977243": {
+    "url": "https://rbatv.com.br/noticias/jovem-e-preso-apos-fuga-em-alta-velocidade-com-moto-adulterada-em-apiuna",
+    "title": "Jovem é preso em Apiúna após fuga com moto adulterada",
+    "guid": "sc1multi:764e8c7a1205bb35ff0583247a93bb893b1b2d19",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_764e8c7a1205bb35ff0583247a93bb893b1b2d19/",
+    "usedAt": 1783508406488,
+    "usedAtIso": "2026-07-08T11:00:06.488Z"
+  },
+  "source:e00927ee54c902dfd567dfbc2653a34e826f96b1": {
+    "url": "https://rbatv.com.br/noticias/incendio-destroi-galpao-de-madeireira-e-causa-prejuizo-de-r-12-mil-em-presidente-getulio",
+    "title": "Incêndio destrói galpão de madeireira em Presidente Getúlio",
+    "guid": "sc1multi:6c8621886c946a5481edf79eb927d490b4445f63",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c8621886c946a5481edf79eb927d490b4445f63/",
+    "usedAt": 1783508406488,
+    "usedAtIso": "2026-07-08T11:00:06.488Z"
   }
 }
