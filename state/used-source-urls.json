@@ -262,5 +262,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_564cccab746afcdcb294e6d38542368937033640/",
     "usedAt": 1783468806285,
     "usedAtIso": "2026-07-08T00:00:06.285Z"
+  },
+  "source:1c18acb033dfa41ad7add477f191bc6d110d32ab": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-ao-hospital-em-estado-gravissimo-apos-acidente-na-sc-350-em-aurora",
+    "title": "Homem fica gravemente ferido em acidente na SC-350, em Aurora",
+    "guid": "sc1multi:b1033b64f8c7ca3480a4ba8af17f76246bbe0bf0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b1033b64f8c7ca3480a4ba8af17f76246bbe0bf0/",
+    "usedAt": 1783472406299,
+    "usedAtIso": "2026-07-08T01:00:06.299Z"
+  },
+  "source:37ae3e4d678522446bdb025a0e31b78c055a153a": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-localiza-mulher-que-estava-desaparecida-em-agrolandia",
+    "title": "Polícia Civil encontra professora desaparecida em Agrolândia",
+    "guid": "sc1multi:5f65a50effbaddb621772908d00486c3f7d14585",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f65a50effbaddb621772908d00486c3f7d14585/",
+    "usedAt": 1783472406299,
+    "usedAtIso": "2026-07-08T01:00:06.299Z"
   }
 }
