@@ -550,5 +550,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f546108fde904a341af0b99946f159fe89b0489e/",
     "usedAt": 1783526407069,
     "usedAtIso": "2026-07-08T16:00:07.069Z"
+  },
+  "source:144bcd1a822d4821a4233ff2d082c592fafbd221": {
+    "url": "https://ocp.news/seguranca/incendio-em-comercio-e-controlado-no-sul-da-ilha-em-florianopolis",
+    "title": "Incêndio em comércio no Alto Ribeirão é controlado pelo Corpo de Bombeiros",
+    "guid": "sc1multi:144bcd1a822d4821a4233ff2d082c592fafbd221",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_144bcd1a822d4821a4233ff2d082c592fafbd221/",
+    "usedAt": 1783530006517,
+    "usedAtIso": "2026-07-08T17:00:06.517Z"
+  },
+  "source:f495de4c9b930a82df706ffffe36ea8000f5d5e4": {
+    "url": "https://correiosc.com.br/sao-jose-inicia-fiscalizacao-faixa-exclusiva-onibus-avenida-kennedy",
+    "title": "São José inicia fiscalização da faixa exclusiva para ônibus na Avenida Presidente Kennedy",
+    "guid": "sc1multi:1390ed68edf188dc4927201c81b8e3fdad58c90c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1390ed68edf188dc4927201c81b8e3fdad58c90c/",
+    "usedAt": 1783530006517,
+    "usedAtIso": "2026-07-08T17:00:06.517Z"
+  },
+  "source:5ac403fb7531822dcaa1b0fc165e3814ad043129": {
+    "url": "https://ocp.news/cotidiano/hospital1-sao-jose-recebe-homenagem-na-alesc-pelos-90-anos-de-historia",
+    "title": "Hospital São José é homenageado na Alesc pelos 90 anos em Jaraguá do Sul",
+    "guid": "sc1multi:5ac403fb7531822dcaa1b0fc165e3814ad043129",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ac403fb7531822dcaa1b0fc165e3814ad043129/",
+    "usedAt": 1783530006517,
+    "usedAtIso": "2026-07-08T17:00:06.517Z"
+  },
+  "source:63dc2f093e9bce27cdfe242f0ed68f40f9442deb": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/adolescente-sequestrada-morta-sc-080",
+    "title": "Adolescente sequestrada é encontrada morta no Oeste de Santa Catarina",
+    "guid": "sc1multi:18bc540919745b8291ae4cb93d350ac19c1701dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_18bc540919745b8291ae4cb93d350ac19c1701dd/",
+    "usedAt": 1783530006517,
+    "usedAtIso": "2026-07-08T17:00:06.517Z"
   }
 }
