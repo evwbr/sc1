@@ -414,5 +414,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_236e8ab2dbc708fde3d6d195550d1c95fdcbde21/",
     "usedAt": 1783512006400,
     "usedAtIso": "2026-07-08T12:00:06.400Z"
+  },
+  "source:3dc494bb170b6237e74f3fffc781233f8ccc74d9": {
+    "url": "https://rbatv.com.br/noticias/incendio-destroi-quatro-viaturas-da-seguranca-publica-e-policia-investiga-acao-criminosa-em-araquari",
+    "title": "Incêndio destrói quatro viaturas da Segurança Pública em Araquari",
+    "guid": "sc1multi:6c33cb5ccd2a37a79743355102707e4b7a72baeb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c33cb5ccd2a37a79743355102707e4b7a72baeb/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
+  },
+  "source:2cb5f2a70481ea736f3d6dd7efcec50a9cb8f659": {
+    "url": "https://rbatv.com.br/noticias/mais-de-140-motos-irregulares-sao-retiradas-de-circulacao-em-rio-do-sul",
+    "title": "Guarda Municipal de Rio do Sul retira mais de 140 motos irregulares",
+    "guid": "sc1multi:8467784f59125c7b7df35d76a0d559a134f9e2d4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8467784f59125c7b7df35d76a0d559a134f9e2d4/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
+  },
+  "source:fd25d2959bb876539868c71e2f0533767d7a5af6": {
+    "url": "https://ocp.news/informe/the-one-leva-modelo-de-gestao-estrategica-para-profissionais-da-saude-e-promove-evento-de-imersao-em-jaragua-do-sul",
+    "title": "THE ONE promove evento de gestão para profissionais da saúde em Jaraguá do Sul",
+    "guid": "sc1multi:fd25d2959bb876539868c71e2f0533767d7a5af6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd25d2959bb876539868c71e2f0533767d7a5af6/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
+  },
+  "source:96663d316455713e685386912f09c144a0da230e": {
+    "url": "https://ocp.news/cotidiano/acao-conjunta-prende-casal-em-flagrante-por-maus-tratos-a-animais-em-blumenau",
+    "title": "Casal é preso em flagrante por maus-tratos a animais em Blumenau",
+    "guid": "sc1multi:96663d316455713e685386912f09c144a0da230e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_96663d316455713e685386912f09c144a0da230e/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
+  },
+  "source:8226205a4f944a15aa9f806f94fb65e3ee219d60": {
+    "url": "https://ocp.news/cotidiano/manutencao-emergencial-na-rua-dona-francisca-interrompe-temporariamente-a-operacao-da-estacao-de-tratamento-em-joinville",
+    "title": "Manutenção emergencial na ETA Cubatão afeta abastecimento em Joinville",
+    "guid": "sc1multi:8226205a4f944a15aa9f806f94fb65e3ee219d60",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8226205a4f944a15aa9f806f94fb65e3ee219d60/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
+  },
+  "source:8a6e93951d14806c9e156da3dfcb1120f198b7a1": {
+    "url": "https://ocp.news/seguranca/incendio-criminoso-destroi-quatro-veiculos-da-seguranca-publica-em-araquari",
+    "title": "Incêndio criminoso destrói veículos da segurança pública em Araquari",
+    "guid": "sc1multi:8a6e93951d14806c9e156da3dfcb1120f198b7a1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a6e93951d14806c9e156da3dfcb1120f198b7a1/",
+    "usedAt": 1783515606621,
+    "usedAtIso": "2026-07-08T13:00:06.621Z"
   }
 }
