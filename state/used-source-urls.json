@@ -294,5 +294,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5209f974f355b431c507bbf52b2b9f437c4f8401/",
     "usedAt": 1783476016722,
     "usedAtIso": "2026-07-08T02:00:16.722Z"
+  },
+  "source:0562407f4fe0a2756cf8b2948d25127525cf1780": {
+    "url": "https://ocp.news/esporte/arena-jaragua-recebe-amistoso-de-volei-masculino-entre-brasil-e-chile",
+    "title": "Arena Jaraguá recebe amistoso de vôlei masculino entre Brasil e Chile",
+    "guid": "sc1multi:0562407f4fe0a2756cf8b2948d25127525cf1780",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0562407f4fe0a2756cf8b2948d25127525cf1780/",
+    "usedAt": 1783483207165,
+    "usedAtIso": "2026-07-08T04:00:07.165Z"
+  },
+  "source:b20b5f842611edb1b0a0c9d04fb62cb41d077a81": {
+    "url": "https://ocp.news/esporte/juventus-visita-o-blumenau-em-jogo-atrasado-pela-serie-b-do-catarinense",
+    "title": "Juventus enfrenta Blumenau em jogo atrasado da Série B do Catarinense",
+    "guid": "sc1multi:b20b5f842611edb1b0a0c9d04fb62cb41d077a81",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b20b5f842611edb1b0a0c9d04fb62cb41d077a81/",
+    "usedAt": 1783483207165,
+    "usedAtIso": "2026-07-08T04:00:07.165Z"
   }
 }
