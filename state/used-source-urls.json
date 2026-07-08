@@ -526,5 +526,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dde93e4419c82d9f0cbbf53a68444c2467f2126b/",
     "usedAt": 1783522806237,
     "usedAtIso": "2026-07-08T15:00:06.237Z"
+  },
+  "source:ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d": {
+    "url": "https://ocp.news/cotidiano/hospital-sao-jose-recebe-homenagem-na-alesc-pelos-90-anos-de-historia",
+    "title": "Hospital São José é homenageado na Alesc pelos 90 anos em Jaraguá do Sul",
+    "guid": "sc1multi:ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d/",
+    "usedAt": 1783526407069,
+    "usedAtIso": "2026-07-08T16:00:07.069Z"
+  },
+  "source:9e4bab4fda12ddd918882c41d750f12877214625": {
+    "url": "https://tudoaquisc.com.br/tempo/frio-em-santa-catarina-39-cidades-serra-07",
+    "title": "Frio intenso em Santa Catarina registra temperaturas abaixo de zero em 39 cidades",
+    "guid": "sc1multi:658927d13606769b9bb45af02da4e2b07692a938",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_658927d13606769b9bb45af02da4e2b07692a938/",
+    "usedAt": 1783526407069,
+    "usedAtIso": "2026-07-08T16:00:07.069Z"
+  },
+  "source:f546108fde904a341af0b99946f159fe89b0489e": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-volta-a-sediar-torneio-da-federacao-catarinense-de-tenis",
+    "title": "Jaraguá do Sul recebe torneio da Federação Catarinense de Tênis em julho",
+    "guid": "sc1multi:f546108fde904a341af0b99946f159fe89b0489e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f546108fde904a341af0b99946f159fe89b0489e/",
+    "usedAt": 1783526407069,
+    "usedAtIso": "2026-07-08T16:00:07.069Z"
   }
 }
