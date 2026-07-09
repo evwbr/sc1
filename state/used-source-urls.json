@@ -782,5 +782,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c7ea3343dad6b89b55150c2eeb846d6b43df37c8/",
     "usedAt": 1783551606762,
     "usedAtIso": "2026-07-08T23:00:06.762Z"
+  },
+  "source:393c6d2edbd46705bc92bac72675ea762da758ef": {
+    "url": "https://ocp.news/seguranca/motorista-e-preso-apos-perseguicao-policial-entre-jaragua-do-sul-e-massaranduba",
+    "title": "Motorista é preso após perseguição entre Jaraguá do Sul e Massaranduba",
+    "guid": "sc1multi:393c6d2edbd46705bc92bac72675ea762da758ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_393c6d2edbd46705bc92bac72675ea762da758ef/",
+    "usedAt": 1783558806502,
+    "usedAtIso": "2026-07-09T01:00:06.502Z"
+  },
+  "source:16abb5c78c22b65c8c95316f64f486ce08e4da5f": {
+    "url": "https://ocp.news/seguranca/suspeito-de-incendiar-viaturas-da-seguranca-publica-em-araquari-e-preso-horas-apos-o-ataque",
+    "title": "Suspeito de incendiar viaturas em Araquari é preso horas após ataque",
+    "guid": "sc1multi:16abb5c78c22b65c8c95316f64f486ce08e4da5f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_16abb5c78c22b65c8c95316f64f486ce08e4da5f/",
+    "usedAt": 1783558806502,
+    "usedAtIso": "2026-07-09T01:00:06.502Z"
   }
 }
