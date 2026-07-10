@@ -1398,5 +1398,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a0b67838766f3b2095d385ab4c19e01ca7d56ba/",
     "usedAt": 1783684806839,
     "usedAtIso": "2026-07-10T12:00:06.839Z"
+  },
+  "source:faba7404cd994751455f61dd41db8e596821e1ec": {
+    "url": "https://ocp.news/economia/santa-catarina-esta-entre-os-estados-que-mais-pedem-pizza-por-delivery-no-brasil-veja-os-sabores-preferidos",
+    "title": "Santa Catarina está entre os estados que mais pedem pizza por delivery no Brasil",
+    "guid": "sc1multi:faba7404cd994751455f61dd41db8e596821e1ec",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_faba7404cd994751455f61dd41db8e596821e1ec/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
+  },
+  "source:bfe33aba0a4d951b73572344dbaeb1b14bc6dd3e": {
+    "url": "https://correiosc.com.br/corrida-safety-run-altera-transito-florianopolis-domingo-12",
+    "title": "Corrida Safety Run altera trânsito em Florianópolis neste sábado",
+    "guid": "sc1multi:3c6aa36e4811914599d35fb781845a19fa4953cc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c6aa36e4811914599d35fb781845a19fa4953cc/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
+  },
+  "source:a8d9875f07e4969da35ec4bd357fa530aea5139c": {
+    "url": "https://tudoaquisc.com.br/transito/ponte-anita-garibaldi-1007",
+    "title": "Ponte Anita Garibaldi em Laguna é interditada para reparos emergenciais",
+    "guid": "sc1multi:4e3003d207dbb98ad7d2dd8168f0d7461c98b7e0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3003d207dbb98ad7d2dd8168f0d7461c98b7e0/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
+  },
+  "source:e8fc250fffa43953619231db31926fd5614ba647": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-trafico-de-drogas-durante-abordagem-da-pm-em-timbo",
+    "title": "Homem é preso por tráfico de drogas durante abordagem em Timbó",
+    "guid": "sc1multi:c0d9b4c7ca25a464ef541a5a6a72886c451352a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c0d9b4c7ca25a464ef541a5a6a72886c451352a9/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
+  },
+  "source:0bea5d75a6f8e9faa521fe60bc95b0aba52c8c50": {
+    "url": "https://rbatv.com.br/noticias/companheiro-de-mulher-morta-apos-ser-arrastada-por-carro-e-abandonada-em-sao-jose-e-preso",
+    "title": "Companheiro é preso após mulher ser encontrada morta em São José",
+    "guid": "sc1multi:f6d5a74a7a981dadb56a69663ecf7afd6c5c1bcd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6d5a74a7a981dadb56a69663ecf7afd6c5c1bcd/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
+  },
+  "source:f5edef6d817d7f2bfa4e0ab82766ad79ed15a95d": {
+    "url": "https://rbatv.com.br/noticias/homem-condenado-a-mais-de-sete-anos-e-preso-apos-descumprir-regras-do-regime-semiaberto-em-rio-do-sul",
+    "title": "Homem é preso em Rio do Sul por descumprir regras do regime semiaberto",
+    "guid": "sc1multi:07e9f79bdf41b23dae86b6bfd01aeb346ae93487",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07e9f79bdf41b23dae86b6bfd01aeb346ae93487/",
+    "usedAt": 1783688408087,
+    "usedAtIso": "2026-07-10T13:00:08.087Z"
   }
 }
