@@ -1294,5 +1294,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2edb934a119a09ca9d7febb2c61077383fa45dd5/",
     "usedAt": 1783634406008,
     "usedAtIso": "2026-07-09T22:00:06.008Z"
+  },
+  "source:fe9ea61f5813eaa9a8c692c84a269ca1129d6b77": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-atendem-incendio-em-edificacao-comercial-em-sao-joaquim",
+    "title": "Incêndio destrói parte de edificação comercial em São Joaquim",
+    "guid": "sc1multi:a0a97bb654ea2af9d308189fa0a8a72d39d3ef8a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a0a97bb654ea2af9d308189fa0a8a72d39d3ef8a/",
+    "usedAt": 1783641606907,
+    "usedAtIso": "2026-07-10T00:00:06.907Z"
+  },
+  "source:f8ad3552b7110186191e2088bbbdb7b02ee086be": {
+    "url": "https://ocp.news/politica/guaramirim-envia-primeira-carga-de-doacoes-para-vitimas-de-terremoto-na-venezuela",
+    "title": "Guaramirim envia doações para vítimas do terremoto na Venezuela",
+    "guid": "sc1multi:f8ad3552b7110186191e2088bbbdb7b02ee086be",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8ad3552b7110186191e2088bbbdb7b02ee086be/",
+    "usedAt": 1783641606907,
+    "usedAtIso": "2026-07-10T00:00:06.907Z"
+  },
+  "source:167e138ea281035b48b248e497d67d6140c72252": {
+    "url": "https://ocp.news/economia/dr-aromas-ingredientes-reduz-emissoes-de-gases-de-efeito-estufa-em-26",
+    "title": "DR Aromas reduz emissões de gases em 26% em Jaraguá do Sul",
+    "guid": "sc1multi:167e138ea281035b48b248e497d67d6140c72252",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_167e138ea281035b48b248e497d67d6140c72252/",
+    "usedAt": 1783641606907,
+    "usedAtIso": "2026-07-10T00:00:06.907Z"
+  },
+  "source:270351e1a3cca880eb84d323134fd40f307b9710": {
+    "url": "https://tnsul.com/2026/07/09/ponte-anita-garibaldi-e-interditada-nos-dois-sentidos-para-reparos",
+    "title": "Ponte Anita Garibaldi na BR-101 Sul é interditada para reparos emergenciais",
+    "guid": "sc1multi:6dfa2df422c1da714b3b2271e10230a3a9ce0ef1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6dfa2df422c1da714b3b2271e10230a3a9ce0ef1/",
+    "usedAt": 1783641606907,
+    "usedAtIso": "2026-07-10T00:00:06.907Z"
   }
 }
