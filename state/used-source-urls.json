@@ -1,60 +1,4 @@
 {
-  "source:b3fb76ea9973531eb8f80caa43eba078bcd03232": {
-    "url": "https://tudoaquisc.com.br/politica/lei-orelha-punicao-sc-maus-0707",
-    "title": "Lei Orelha amplia punições por maus-tratos a animais em Santa Catarina",
-    "guid": "sc1multi:595566b9fca57d85c910720306dab141ee20c0a5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_595566b9fca57d85c910720306dab141ee20c0a5/",
-    "usedAt": 1783440007164,
-    "usedAtIso": "2026-07-07T16:00:07.164Z"
-  },
-  "source:9fe7ed2bcb4358f4c6099025ddeb92ad987a06d1": {
-    "url": "https://tnsul.com/2026/07/07/imagens-casarao-centenario-de-criciuma-tera-restauracao-completa",
-    "title": "Museu Histórico de Criciúma passará por restauração completa",
-    "guid": "sc1multi:01be2c5547e9a3d182310cbb81fa99ffcb5ff69a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01be2c5547e9a3d182310cbb81fa99ffcb5ff69a/",
-    "usedAt": 1783440007164,
-    "usedAtIso": "2026-07-07T16:00:07.164Z"
-  },
-  "source:a4516a9b46f909944dfc9d07cb199722b4cb877e": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-tem-o-maior-numero-de-participantes-no-transcatarina-2026",
-    "title": "Jaraguá do Sul lidera participação no 18º Transcatarina 2026",
-    "guid": "sc1multi:a4516a9b46f909944dfc9d07cb199722b4cb877e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4516a9b46f909944dfc9d07cb199722b4cb877e/",
-    "usedAt": 1783440007164,
-    "usedAtIso": "2026-07-07T16:00:07.164Z"
-  },
-  "source:c85e44c47f087e234b779d97da06b53f55fc2fd2": {
-    "url": "https://ocp.news/seguranca/pm-prende-suspeita-e-recupera-r-300-mil-em-joias-horas-apos-roubo-a-joalheria-em-joinville",
-    "title": "PM prende suspeita e recupera joias após roubo em Joinville",
-    "guid": "sc1multi:c85e44c47f087e234b779d97da06b53f55fc2fd2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c85e44c47f087e234b779d97da06b53f55fc2fd2/",
-    "usedAt": 1783443606212,
-    "usedAtIso": "2026-07-07T17:00:06.212Z"
-  },
-  "source:53f5edcada6b109ed1d0f91f8e0e53532c6808fd": {
-    "url": "https://ocp.news/esporte/jaraguaenses-garantem-podio-no-campeonato-brasileiro-de-bmx",
-    "title": "Ciclistas de Jaraguá do Sul conquistam pódio no Brasileiro de BMX",
-    "guid": "sc1multi:53f5edcada6b109ed1d0f91f8e0e53532c6808fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53f5edcada6b109ed1d0f91f8e0e53532c6808fd/",
-    "usedAt": 1783443606212,
-    "usedAtIso": "2026-07-07T17:00:06.212Z"
-  },
-  "source:378d4c81c272c3e34bb0532a477a11ef35bc5b8e": {
-    "url": "https://tnsul.com/2026/07/07/camara-solicita-manutencao-das-calcadas-da-praca-nereu-ramos",
-    "title": "Câmara de Criciúma solicita manutenção das calçadas da praça Nereu Ramos",
-    "guid": "sc1multi:b7bf84d8e69c1eddd68877fbbbf06139fbc4e875",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b7bf84d8e69c1eddd68877fbbbf06139fbc4e875/",
-    "usedAt": 1783443606212,
-    "usedAtIso": "2026-07-07T17:00:06.212Z"
-  },
-  "source:7dcc14a396cda6fe08995b18a194b29903d49121": {
-    "url": "https://correiosc.com.br/duas-novas-pontes-rio-imarui-sertao-do-maruim-sao-jose",
-    "title": "São José vai construir duas pontes no Sertão do Maruim sobre o Rio Imaruí",
-    "guid": "sc1multi:959f82b336256bf96140dcba27077928af523e1c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_959f82b336256bf96140dcba27077928af523e1c/",
-    "usedAt": 1783443606212,
-    "usedAtIso": "2026-07-07T17:00:06.212Z"
-  },
   "source:9625bf950a2e9da7274ce7d9181add5e8f5c73d7": {
     "url": "https://ocp.news/seguranca/mpsc-denuncia-mulher-por-enterrar-cachorra-viva-em-joinville",
     "title": "MPSC denuncia mulher por enterrar cachorra viva em Joinville",
@@ -1502,5 +1446,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_244ecea3d169dbfceab0429d844c9b4b6dd5b67d/",
     "usedAt": 1783699206271,
     "usedAtIso": "2026-07-10T16:00:06.271Z"
+  },
+  "source:0e86a61b54fb75d246d997b1a0c356a05e9d60dd": {
+    "url": "https://ocp.news/entretenimento/evento-gratuito-olhares-de-jaragua-celebra-os-150-anos-da-cidade-com-concerto-especial-na-scar",
+    "title": "Concerto 'Olhares de Jaraguá' celebra 150 anos de Jaraguá do Sul",
+    "guid": "sc1multi:0e86a61b54fb75d246d997b1a0c356a05e9d60dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e86a61b54fb75d246d997b1a0c356a05e9d60dd/",
+    "usedAt": 1783702806438,
+    "usedAtIso": "2026-07-10T17:00:06.438Z"
+  },
+  "source:a793c6eaae9fa8687437cc706cca9fe13abac4fc": {
+    "url": "https://correiosc.com.br/procon-sao-jose-fiscaliza-academias-encontra-irregularidades",
+    "title": "Procon de São José fiscaliza academias e encontra irregularidades",
+    "guid": "sc1multi:97e3d67183569fbb2e1ce5b857e96131e2ebbc9d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97e3d67183569fbb2e1ce5b857e96131e2ebbc9d/",
+    "usedAt": 1783702806438,
+    "usedAtIso": "2026-07-10T17:00:06.438Z"
   }
 }
