@@ -1,60 +1,4 @@
 {
-  "source:55bd3cf117999d507088749527c514749a47d2ee": {
-    "url": "https://correiosc.com.br/instituicoes-conveniadas-abrem-vagas-remanescentes-educacao-infantil-sao-jose",
-    "title": "São José oferece vagas remanescentes na Educação Infantil em instituições filantrópicas",
-    "guid": "sc1multi:f11938563f52e7159d276474b9492a446785f44b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f11938563f52e7159d276474b9492a446785f44b/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:281000a38cab026ae2d045b524acf84e10ab74c7": {
-    "url": "https://tnsul.com/2026/07/07/sistema-de-cobranca-do-transporte-coletivo-de-criciuma-passa-por-mudancas",
-    "title": "Criciúma implanta novo sistema de bilhetagem eletrônica no transporte coletivo",
-    "guid": "sc1multi:3f50b141a05231bcd87f4fcc75b7cb2fd0821598",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f50b141a05231bcd87f4fcc75b7cb2fd0821598/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:da478baf6f1a71c5ef2cd28d1be1ab4260d36d0d": {
-    "url": "https://tudoaquisc.com.br/pets/castracao-animais-avanca-sc-070",
-    "title": "Santa Catarina investe R$ 12,9 milhões em castração de animais",
-    "guid": "sc1multi:4e08fd7cde262302419348a2831d531dd43ef193",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e08fd7cde262302419348a2831d531dd43ef193/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:229a447d2ea0612d6a2b7e2fbb0daaf7e6e7b001": {
-    "url": "https://tudoaquisc.com.br/politica/prefeito-sc-afastado-0707",
-    "title": "Prefeito de Governador Celso Ramos é afastado por fraude em licitações",
-    "guid": "sc1multi:48ab358d1c9a9e16c8d9d7693e2c38346890fb8a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48ab358d1c9a9e16c8d9d7693e2c38346890fb8a/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:92c449d39d0714b2afbce6eb115e475aab12b2d9": {
-    "url": "https://scportais.com.br/2026/07/07/prefeito-de-governador-celso-ramos-e-afastado-apos-investigacao-de-fraudes",
-    "title": "Prefeito de Governador Celso Ramos é afastado por fraudes em licitações",
-    "guid": "sc1multi:d85e545003fdc02ed2f61d6363d032495de7cede",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d85e545003fdc02ed2f61d6363d032495de7cede/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:df15e57a04bd016923f362dbb749d192b6ae145b": {
-    "url": "https://ocp.news/informe/garten-shopping-inaugura-nova-loja-de-moda-masculina",
-    "title": "Garten Shopping inaugura loja de moda masculina em Joinville",
-    "guid": "sc1multi:df15e57a04bd016923f362dbb749d192b6ae145b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df15e57a04bd016923f362dbb749d192b6ae145b/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
-  "source:b7ddf959de7d115b5f87d14086e414e20044c922": {
-    "url": "https://tnsul.com/2026/07/07/nova-rotatoria-no-bairro-santa-augusta-mira-em-seguranca-na-area-escolar",
-    "title": "Nova rotatória no bairro Santa Augusta melhora segurança em Criciúma",
-    "guid": "sc1multi:fc5574274dd3d8e7cf966fd0b7ad1233db30f1d7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc5574274dd3d8e7cf966fd0b7ad1233db30f1d7/",
-    "usedAt": 1783450806794,
-    "usedAtIso": "2026-07-07T19:00:06.794Z"
-  },
   "source:88cc906ecb7b21089be12ab702de555bd8135a08": {
     "url": "https://tudoaquisc.com.br/transito/via-expressa-bmw-idoso",
     "title": "Homem de 64 anos morre atropelado por BMW na Via Expressa em Palhoça",
@@ -1518,5 +1462,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a2f4159c33ad9b60462e6497ca9a2732c6bfb6d9/",
     "usedAt": 1783710006676,
     "usedAtIso": "2026-07-10T19:00:06.676Z"
+  },
+  "source:41889f05a3a1fcc6245c6f228775d3c39790f9cd": {
+    "url": "https://ocp.news/cotidiano/hospital-veterinario-de-florianopolis-ultrapassa-40-mil-procedimentos-no-1o-trimestre-de-funcionamento",
+    "title": "Hospital Veterinário de Florianópolis realiza 40 mil procedimentos no primeiro trimestre",
+    "guid": "sc1multi:41889f05a3a1fcc6245c6f228775d3c39790f9cd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_41889f05a3a1fcc6245c6f228775d3c39790f9cd/",
+    "usedAt": 1783713606199,
+    "usedAtIso": "2026-07-10T20:00:06.199Z"
+  },
+  "source:dd130b939d85057c9a3de23f5f3a83debaaeed98": {
+    "url": "https://tudoaquisc.com.br/pets/hospital-veterinario-40-mil-300",
+    "title": "Hospital Veterinário de Florianópolis realiza 40 mil procedimentos em três meses",
+    "guid": "sc1multi:ad30b847058463008f797c4f0cc20acc42a06034",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad30b847058463008f797c4f0cc20acc42a06034/",
+    "usedAt": 1783713606199,
+    "usedAtIso": "2026-07-10T20:00:06.199Z"
   }
 }
