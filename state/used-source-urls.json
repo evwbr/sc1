@@ -1,20 +1,4 @@
 {
-  "source:55628934415839f24c0715fa78cc365e24f536c2": {
-    "url": "https://tnsul.com/2026/07/07/carro-pega-fogo-em-garagem-de-predio-no-centro-de-morro-da-fumaca",
-    "title": "Carro pega fogo em garagem de prédio no Centro de Morro da Fumaça",
-    "guid": "sc1multi:de0ebe4d12528e60f26a63eff40fb07cedea8f52",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de0ebe4d12528e60f26a63eff40fb07cedea8f52/",
-    "usedAt": 1783468806285,
-    "usedAtIso": "2026-07-08T00:00:06.285Z"
-  },
-  "source:43fab3dcefa4beb41cc23a9e4d6bf4dce646176e": {
-    "url": "https://tnsul.com/2026/07/07/capotamento-com-vitima-e-registrado-na-br-101-em-criciuma",
-    "title": "Motorista fica preso após capotamento na BR-101 em Criciúma",
-    "guid": "sc1multi:564cccab746afcdcb294e6d38542368937033640",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_564cccab746afcdcb294e6d38542368937033640/",
-    "usedAt": 1783468806285,
-    "usedAtIso": "2026-07-08T00:00:06.285Z"
-  },
   "source:1c18acb033dfa41ad7add477f191bc6d110d32ab": {
     "url": "https://rbatv.com.br/noticias/homem-e-conduzido-ao-hospital-em-estado-gravissimo-apos-acidente-na-sc-350-em-aurora",
     "title": "Homem fica gravemente ferido em acidente na SC-350, em Aurora",
@@ -1470,5 +1454,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8c695e235119d568f30afceb6b4136ac5d6a5a8/",
     "usedAt": 1783724414029,
     "usedAtIso": "2026-07-10T23:00:14.029Z"
+  },
+  "source:d1a546dfd35cb3ceb9e48d88f5cd8237aabd1cbb": {
+    "url": "https://tnsul.com/2026/07/10/ponte-anita-garibaldi-segue-interditada-e-fluxo-na-br-101-e-desviado",
+    "title": "Ponte Anita Garibaldi em Laguna segue interditada para manutenção estrutural",
+    "guid": "sc1multi:7c4c5378a05a39fbd1cfbabff37025bba689b7ce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7c4c5378a05a39fbd1cfbabff37025bba689b7ce/",
+    "usedAt": 1783728007198,
+    "usedAtIso": "2026-07-11T00:00:07.198Z"
+  },
+  "source:5e82ee32b62cc3133ccb78f66c68e21c6f601181": {
+    "url": "https://ocp.news/seguranca/mais-de-8-kg-de-maconha-sao-apreendidos-durante-acao-da-pm-em-joinville",
+    "title": "Mais de 8 kg de maconha são apreendidos em ação da PM em Joinville",
+    "guid": "sc1multi:5e82ee32b62cc3133ccb78f66c68e21c6f601181",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e82ee32b62cc3133ccb78f66c68e21c6f601181/",
+    "usedAt": 1783728007198,
+    "usedAtIso": "2026-07-11T00:00:07.198Z"
   }
 }
