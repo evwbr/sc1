@@ -1,20 +1,4 @@
 {
-  "source:1c18acb033dfa41ad7add477f191bc6d110d32ab": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-ao-hospital-em-estado-gravissimo-apos-acidente-na-sc-350-em-aurora",
-    "title": "Homem fica gravemente ferido em acidente na SC-350, em Aurora",
-    "guid": "sc1multi:b1033b64f8c7ca3480a4ba8af17f76246bbe0bf0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b1033b64f8c7ca3480a4ba8af17f76246bbe0bf0/",
-    "usedAt": 1783472406299,
-    "usedAtIso": "2026-07-08T01:00:06.299Z"
-  },
-  "source:37ae3e4d678522446bdb025a0e31b78c055a153a": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-localiza-mulher-que-estava-desaparecida-em-agrolandia",
-    "title": "Polícia Civil encontra professora desaparecida em Agrolândia",
-    "guid": "sc1multi:5f65a50effbaddb621772908d00486c3f7d14585",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f65a50effbaddb621772908d00486c3f7d14585/",
-    "usedAt": 1783472406299,
-    "usedAtIso": "2026-07-08T01:00:06.299Z"
-  },
   "source:c6315ddb5b2b58e917d77f916b2b46576e51cb6f": {
     "url": "https://rbatv.com.br/noticias/motociclista-e-caroneiro-ficam-feridos-em-colisao-com-carro-no-bairro-canoas-em-rio-do-sul",
     "title": "Motociclista e caroneira ficam feridos em colisão no bairro Canoas, Rio do Sul",
@@ -1470,5 +1454,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e82ee32b62cc3133ccb78f66c68e21c6f601181/",
     "usedAt": 1783728007198,
     "usedAtIso": "2026-07-11T00:00:07.198Z"
+  },
+  "source:755022cc8bdb0bbe73c91c88b6a3e31629f298db": {
+    "url": "https://rbatv.com.br/noticias/nordestino-procurado-pela-familia-e-localizado-em-sao-cristovao-do-sul",
+    "title": "Nordestino procurado pela família é encontrado em São Cristóvão do Sul",
+    "guid": "sc1multi:695d960ddbfedb9a0f8510765dcf086ec883bec7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_695d960ddbfedb9a0f8510765dcf086ec883bec7/",
+    "usedAt": 1783731606786,
+    "usedAtIso": "2026-07-11T01:00:06.786Z"
+  },
+  "source:717e9c3f86aa96d268a3bb12b0f417afe5c73400": {
+    "url": "https://ocp.news/seguranca/mae-e-bebe-de-tres-meses-sao-atropelados-as-margens-de-rodovia-em-sc",
+    "title": "Mãe e bebê são atropelados na rodovia Valmor Canela em Forquilhinha",
+    "guid": "sc1multi:717e9c3f86aa96d268a3bb12b0f417afe5c73400",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_717e9c3f86aa96d268a3bb12b0f417afe5c73400/",
+    "usedAt": 1783731606786,
+    "usedAtIso": "2026-07-11T01:00:06.786Z"
   }
 }
