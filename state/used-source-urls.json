@@ -1,100 +1,4 @@
 {
-  "source:5a10eb28c7f05799fb8181241c4fa405e428f862": {
-    "url": "https://tnsul.com/2026/07/08/carro-e-destruido-por-incendio-em-garagem-de-predio-em-morro-da-fumaca",
-    "title": "Carro é destruído por incêndio em garagem de prédio em Morro da Fumaça",
-    "guid": "sc1multi:240daeaad0147ccee88073c238cd1c2f8dc8e707",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_240daeaad0147ccee88073c238cd1c2f8dc8e707/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:325b55cdf86aef4c7e71e3e901f0119a8c102242": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-realiza-preparacao-previa-para-a-reforma-da-casa-de-passagem-indigena",
-    "title": "Florianópolis inicia obras para reforma da Casa de Passagem Indígena",
-    "guid": "sc1multi:325b55cdf86aef4c7e71e3e901f0119a8c102242",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_325b55cdf86aef4c7e71e3e901f0119a8c102242/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:e7063c0ee8c0e78af78febfe9610994b75a29fff": {
-    "url": "https://ocp.news/seguranca/bombeiros-resgatam-cao-ilhado-em-rio-na-grande-florianopolis",
-    "title": "Bombeiros resgatam cão ilhado em rio no bairro Sertão do Maruim",
-    "guid": "sc1multi:e7063c0ee8c0e78af78febfe9610994b75a29fff",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7063c0ee8c0e78af78febfe9610994b75a29fff/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:d04fef075b25c58ec7a717fb33c6f0b0600ff19b": {
-    "url": "https://tnsul.com/2026/07/08/idoso-fica-gravemente-ferido-apos-colisao-entre-dois-veiculos-na-sc-283",
-    "title": "Idoso fica gravemente ferido após colisão na SC-283 em Águas de Chapecó",
-    "guid": "sc1multi:1c94c3949ef25305f349b86e95c7431e9dbd0cd5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1c94c3949ef25305f349b86e95c7431e9dbd0cd5/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:9020a674f6f9ae55d00eaf1431c96ff2e1795303": {
-    "url": "https://ocp.news/cotidiano/frio-comeca-a-perder-a-intensidade-em-florianopolis-confira-a-previsao-do-tempo",
-    "title": "Frio perde intensidade e temperaturas sobem em Florianópolis nesta semana",
-    "guid": "sc1multi:9020a674f6f9ae55d00eaf1431c96ff2e1795303",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9020a674f6f9ae55d00eaf1431c96ff2e1795303/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:b2140c652a6c016a69c14087370a26064f2c5ff2": {
-    "url": "https://rbatv.com.br/noticias/casal-e-preso-por-maus-tratos-apos-policia-encontrar-mais-de-30-animais-em-situacao-de-abandono-em-blumenau",
-    "title": "Casal é preso por maus-tratos a mais de 30 animais em Blumenau",
-    "guid": "sc1multi:236e8ab2dbc708fde3d6d195550d1c95fdcbde21",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_236e8ab2dbc708fde3d6d195550d1c95fdcbde21/",
-    "usedAt": 1783512006400,
-    "usedAtIso": "2026-07-08T12:00:06.400Z"
-  },
-  "source:3dc494bb170b6237e74f3fffc781233f8ccc74d9": {
-    "url": "https://rbatv.com.br/noticias/incendio-destroi-quatro-viaturas-da-seguranca-publica-e-policia-investiga-acao-criminosa-em-araquari",
-    "title": "Incêndio destrói quatro viaturas da Segurança Pública em Araquari",
-    "guid": "sc1multi:6c33cb5ccd2a37a79743355102707e4b7a72baeb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c33cb5ccd2a37a79743355102707e4b7a72baeb/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
-  "source:2cb5f2a70481ea736f3d6dd7efcec50a9cb8f659": {
-    "url": "https://rbatv.com.br/noticias/mais-de-140-motos-irregulares-sao-retiradas-de-circulacao-em-rio-do-sul",
-    "title": "Guarda Municipal de Rio do Sul retira mais de 140 motos irregulares",
-    "guid": "sc1multi:8467784f59125c7b7df35d76a0d559a134f9e2d4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8467784f59125c7b7df35d76a0d559a134f9e2d4/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
-  "source:fd25d2959bb876539868c71e2f0533767d7a5af6": {
-    "url": "https://ocp.news/informe/the-one-leva-modelo-de-gestao-estrategica-para-profissionais-da-saude-e-promove-evento-de-imersao-em-jaragua-do-sul",
-    "title": "THE ONE promove evento de gestão para profissionais da saúde em Jaraguá do Sul",
-    "guid": "sc1multi:fd25d2959bb876539868c71e2f0533767d7a5af6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd25d2959bb876539868c71e2f0533767d7a5af6/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
-  "source:96663d316455713e685386912f09c144a0da230e": {
-    "url": "https://ocp.news/cotidiano/acao-conjunta-prende-casal-em-flagrante-por-maus-tratos-a-animais-em-blumenau",
-    "title": "Casal é preso em flagrante por maus-tratos a animais em Blumenau",
-    "guid": "sc1multi:96663d316455713e685386912f09c144a0da230e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_96663d316455713e685386912f09c144a0da230e/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
-  "source:8226205a4f944a15aa9f806f94fb65e3ee219d60": {
-    "url": "https://ocp.news/cotidiano/manutencao-emergencial-na-rua-dona-francisca-interrompe-temporariamente-a-operacao-da-estacao-de-tratamento-em-joinville",
-    "title": "Manutenção emergencial na ETA Cubatão afeta abastecimento em Joinville",
-    "guid": "sc1multi:8226205a4f944a15aa9f806f94fb65e3ee219d60",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8226205a4f944a15aa9f806f94fb65e3ee219d60/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
-  "source:8a6e93951d14806c9e156da3dfcb1120f198b7a1": {
-    "url": "https://ocp.news/seguranca/incendio-criminoso-destroi-quatro-veiculos-da-seguranca-publica-em-araquari",
-    "title": "Incêndio criminoso destrói veículos da segurança pública em Araquari",
-    "guid": "sc1multi:8a6e93951d14806c9e156da3dfcb1120f198b7a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a6e93951d14806c9e156da3dfcb1120f198b7a1/",
-    "usedAt": 1783515606621,
-    "usedAtIso": "2026-07-08T13:00:06.621Z"
-  },
   "source:425bf94994cfc29fb59377bf57c9fb4884d6d542": {
     "url": "https://tnsul.com/2026/07/08/mae-que-facilitava-abusos-sexuais-contra-filhas-e-condenada-a-117-anos",
     "title": "Mãe é condenada a 117 anos por facilitar abusos sexuais em Criciúma",
@@ -1422,5 +1326,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1f839c616f5228b3d868aeb52b058252df01fd0/",
     "usedAt": 1783767606751,
     "usedAtIso": "2026-07-11T11:00:06.751Z"
+  },
+  "source:7d836476cfbd28a38f28a2bbe1e321e750c7793d": {
+    "url": "https://rbatv.com.br/noticias/dois-homens-sao-conduzidos-a-delegacia-apos-trocarem-agressoes-em-estabelecimento-comercial-em-rio-do-sul",
+    "title": "Dois homens são levados à delegacia após briga em comércio de Rio do Sul",
+    "guid": "sc1multi:54cf1bc8ae4ad6c23315e448b17e250650288e40",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54cf1bc8ae4ad6c23315e448b17e250650288e40/",
+    "usedAt": 1783774806891,
+    "usedAtIso": "2026-07-11T13:00:06.891Z"
   }
 }
