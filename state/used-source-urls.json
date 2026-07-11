@@ -1,44 +1,4 @@
 {
-  "source:3da31a3bc1e1f8265249ab0a7f09114825bd3332": {
-    "url": "https://tnsul.com/2026/07/08/camara-instala-frente-parlamentar-em-defesa-do-hospital-sao-jose",
-    "title": "Câmara de Criciúma cria frente parlamentar em defesa do Hospital São José",
-    "guid": "sc1multi:b573c72a62e204993777784bc0c9c71f6c57a9a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b573c72a62e204993777784bc0c9c71f6c57a9a8/",
-    "usedAt": 1783522806237,
-    "usedAtIso": "2026-07-08T15:00:06.237Z"
-  },
-  "source:69de09d23dc34fa751fb48e8af0d5b8a81b1b210": {
-    "url": "https://ocp.news/esporte/evento-de-basquete-transforma-inscricao-em-doacao-e-beneficia-biblioteca-de-jaragua-do-sul",
-    "title": "Evento de basquete em Jaraguá do Sul arrecada livros para biblioteca municipal",
-    "guid": "sc1multi:69de09d23dc34fa751fb48e8af0d5b8a81b1b210",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69de09d23dc34fa751fb48e8af0d5b8a81b1b210/",
-    "usedAt": 1783522806237,
-    "usedAtIso": "2026-07-08T15:00:06.237Z"
-  },
-  "source:ff6e50ff2af5edd1c57916d519872bcac39411b8": {
-    "url": "https://tnsul.com/2026/07/08/idosa-morre-apos-ser-encontrada-em-condicoes-precarias-em-lages",
-    "title": "Idosa morre após ser encontrada em condições precárias em Lages",
-    "guid": "sc1multi:79a74387963cdfc9bd80fccd41b05dac57fd07f1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_79a74387963cdfc9bd80fccd41b05dac57fd07f1/",
-    "usedAt": 1783522806237,
-    "usedAtIso": "2026-07-08T15:00:06.237Z"
-  },
-  "source:6a158e7ecd39d6c70278c4e630fbf5dd5092a1ef": {
-    "url": "https://ocp.news/cotidiano/parque-linear-do-bairro-amizade-avanca-e-sera-entregue-ate-outubro",
-    "title": "Parque Linear do bairro Amizade em Jaraguá do Sul será entregue até outubro",
-    "guid": "sc1multi:6a158e7ecd39d6c70278c4e630fbf5dd5092a1ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a158e7ecd39d6c70278c4e630fbf5dd5092a1ef/",
-    "usedAt": 1783522806237,
-    "usedAtIso": "2026-07-08T15:00:06.237Z"
-  },
-  "source:bfbad60f214e2307a0c29e71991a0094e8c73f88": {
-    "url": "https://correiosc.com.br/crise-avai-queda-figueirense-decepcao-selecao-brasileira",
-    "title": "Avaí e Figueirense enfrentam dificuldades nas Séries B e C do Brasileiro",
-    "guid": "sc1multi:dde93e4419c82d9f0cbbf53a68444c2467f2126b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dde93e4419c82d9f0cbbf53a68444c2467f2126b/",
-    "usedAt": 1783522806237,
-    "usedAtIso": "2026-07-08T15:00:06.237Z"
-  },
   "source:ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d": {
     "url": "https://ocp.news/cotidiano/hospital-sao-jose-recebe-homenagem-na-alesc-pelos-90-anos-de-historia",
     "title": "Hospital São José é homenageado na Alesc pelos 90 anos em Jaraguá do Sul",
@@ -1366,5 +1326,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed955be6fde4cec9561463e4d40c7ce044384768/",
     "usedAt": 1783782006065,
     "usedAtIso": "2026-07-11T15:00:06.065Z"
+  },
+  "source:c1d6747708468207c5e4ec6156367de0aba2469a": {
+    "url": "https://ocp.news/esporte/campeonato-varzeano-de-guaramirim-tem-rodada-adiada",
+    "title": "Rodada do Campeonato Varzeano de Guaramirim é adiada para 18 de julho",
+    "guid": "sc1multi:c1d6747708468207c5e4ec6156367de0aba2469a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1d6747708468207c5e4ec6156367de0aba2469a/",
+    "usedAt": 1783785606232,
+    "usedAtIso": "2026-07-11T16:00:06.232Z"
+  },
+  "source:60bfb12507dc4530a80f9af219682f79ce244b5c": {
+    "url": "https://correiosc.com.br/maria-vitoria-atleta-sao-jose-destaque-basquete-nacional",
+    "title": "Maria Vitória lidera São José no basquete 3×3 com destaque nacional",
+    "guid": "sc1multi:7b60751e0cb0469a60e9f9c1f59c67f12726919f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b60751e0cb0469a60e9f9c1f59c67f12726919f/",
+    "usedAt": 1783785606232,
+    "usedAtIso": "2026-07-11T16:00:06.232Z"
+  },
+  "source:51370689a02601956e36dd1d3e5af01bd1122435": {
+    "url": "https://ocp.news/seguranca/mulher-usa-dinheiro-do-aluguel-no-jogo-do-tigrinho-e-briga-familiar-termina-na-delegacia-em-jaragua-do-sul",
+    "title": "Briga familiar em Jaraguá do Sul termina na delegacia após uso de dinheiro do aluguel em jogo",
+    "guid": "sc1multi:51370689a02601956e36dd1d3e5af01bd1122435",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_51370689a02601956e36dd1d3e5af01bd1122435/",
+    "usedAt": 1783785606232,
+    "usedAtIso": "2026-07-11T16:00:06.232Z"
   }
 }
