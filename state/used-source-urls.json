@@ -1,28 +1,4 @@
 {
-  "source:425bf94994cfc29fb59377bf57c9fb4884d6d542": {
-    "url": "https://tnsul.com/2026/07/08/mae-que-facilitava-abusos-sexuais-contra-filhas-e-condenada-a-117-anos",
-    "title": "Mãe é condenada a 117 anos por facilitar abusos sexuais em Criciúma",
-    "guid": "sc1multi:cf609e10d73b53ca050d083e10e00d611c10a664",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf609e10d73b53ca050d083e10e00d611c10a664/",
-    "usedAt": 1783519209702,
-    "usedAtIso": "2026-07-08T14:00:09.702Z"
-  },
-  "source:3d7e85800cf39b36d5c9b970bb0987d4f1fb2012": {
-    "url": "https://ocp.news/seguranca/motociclista-e-levado-ao-hospital-apos-acidente-com-caminhao-em-jaragua-do-sul",
-    "title": "Motociclista fica ferido após colisão com caminhão em Jaraguá do Sul",
-    "guid": "sc1multi:3d7e85800cf39b36d5c9b970bb0987d4f1fb2012",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3d7e85800cf39b36d5c9b970bb0987d4f1fb2012/",
-    "usedAt": 1783519209702,
-    "usedAtIso": "2026-07-08T14:00:09.702Z"
-  },
-  "source:4b00afc66562121660272afc57c4a64785782ab4": {
-    "url": "https://ocp.news/politica/pgr-defende-responsabilizacao-de-ministro-catarinense-do-stj-em-caso-de-importunacao-sexual",
-    "title": "PGR defende responsabilização de ministro catarinense do STJ por importunação sexual",
-    "guid": "sc1multi:4b00afc66562121660272afc57c4a64785782ab4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b00afc66562121660272afc57c4a64785782ab4/",
-    "usedAt": 1783519209702,
-    "usedAtIso": "2026-07-08T14:00:09.702Z"
-  },
   "source:3da31a3bc1e1f8265249ab0a7f09114825bd3332": {
     "url": "https://tnsul.com/2026/07/08/camara-instala-frente-parlamentar-em-defesa-do-hospital-sao-jose",
     "title": "Câmara de Criciúma cria frente parlamentar em defesa do Hospital São José",
@@ -1358,5 +1334,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_da40db1180a9254d415c1962d7359403f52c49f0/",
     "usedAt": 1783778406358,
     "usedAtIso": "2026-07-11T14:00:06.358Z"
+  },
+  "source:d2d7a952826db87c57a3213d940547b1ca14b02f": {
+    "url": "https://rbatv.com.br/noticias/casal-com-moeda-falsa-e-conduzido-a-policia-federal",
+    "title": "Casal é detido com moeda falsa em Pomerode",
+    "guid": "sc1multi:b9fae06a2305b371864fcb785941d6b03d686f79",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b9fae06a2305b371864fcb785941d6b03d686f79/",
+    "usedAt": 1783782006065,
+    "usedAtIso": "2026-07-11T15:00:06.065Z"
+  },
+  "source:0381d41b0494ab8e24e6dd3479d3b3675fb1d0c9": {
+    "url": "https://tnsul.com/2026/07/11/casal-e-preso-em-associacao-por-trafico-de-drogas-em-mercearia-de-criciuma",
+    "title": "Casal é preso por tráfico de drogas em mercearia de Criciúma",
+    "guid": "sc1multi:f7a3d59d61e17cceabc7e3c87583c4e7badf41f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7a3d59d61e17cceabc7e3c87583c4e7badf41f9/",
+    "usedAt": 1783782006065,
+    "usedAtIso": "2026-07-11T15:00:06.065Z"
+  },
+  "source:545d10cb7029523e4babd65d69003e153c855afe": {
+    "url": "https://rbatv.com.br/noticias/jovens-sao-conduzidos-a-delegacia-por-trafico-de-drogas-em-blumenau",
+    "title": "Quatro jovens são conduzidos por tráfico de drogas em Blumenau",
+    "guid": "sc1multi:634131f7739499572fed09ad76836996c50b27a0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_634131f7739499572fed09ad76836996c50b27a0/",
+    "usedAt": 1783782006065,
+    "usedAtIso": "2026-07-11T15:00:06.065Z"
+  },
+  "source:ed955be6fde4cec9561463e4d40c7ce044384768": {
+    "url": "https://ocp.news/seguranca/neblina-pode-ter-contribuido-para-colisao-fatal-na-br-280-em-corupa",
+    "title": "Neblina contribui para colisão frontal na BR-280 em Corupá",
+    "guid": "sc1multi:ed955be6fde4cec9561463e4d40c7ce044384768",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed955be6fde4cec9561463e4d40c7ce044384768/",
+    "usedAt": 1783782006065,
+    "usedAtIso": "2026-07-11T15:00:06.065Z"
   }
 }
