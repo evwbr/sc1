@@ -1,28 +1,4 @@
 {
-  "source:ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d": {
-    "url": "https://ocp.news/cotidiano/hospital-sao-jose-recebe-homenagem-na-alesc-pelos-90-anos-de-historia",
-    "title": "Hospital São José é homenageado na Alesc pelos 90 anos em Jaraguá do Sul",
-    "guid": "sc1multi:ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad8f36814e6a7b63957ae5f0ef097fa4e7ecbf1d/",
-    "usedAt": 1783526407069,
-    "usedAtIso": "2026-07-08T16:00:07.069Z"
-  },
-  "source:9e4bab4fda12ddd918882c41d750f12877214625": {
-    "url": "https://tudoaquisc.com.br/tempo/frio-em-santa-catarina-39-cidades-serra-07",
-    "title": "Frio intenso em Santa Catarina registra temperaturas abaixo de zero em 39 cidades",
-    "guid": "sc1multi:658927d13606769b9bb45af02da4e2b07692a938",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_658927d13606769b9bb45af02da4e2b07692a938/",
-    "usedAt": 1783526407069,
-    "usedAtIso": "2026-07-08T16:00:07.069Z"
-  },
-  "source:f546108fde904a341af0b99946f159fe89b0489e": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-volta-a-sediar-torneio-da-federacao-catarinense-de-tenis",
-    "title": "Jaraguá do Sul recebe torneio da Federação Catarinense de Tênis em julho",
-    "guid": "sc1multi:f546108fde904a341af0b99946f159fe89b0489e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f546108fde904a341af0b99946f159fe89b0489e/",
-    "usedAt": 1783526407069,
-    "usedAtIso": "2026-07-08T16:00:07.069Z"
-  },
   "source:144bcd1a822d4821a4233ff2d082c592fafbd221": {
     "url": "https://ocp.news/seguranca/incendio-em-comercio-e-controlado-no-sul-da-ilha-em-florianopolis",
     "title": "Incêndio em comércio no Alto Ribeirão é controlado pelo Corpo de Bombeiros",
@@ -1350,5 +1326,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_51370689a02601956e36dd1d3e5af01bd1122435/",
     "usedAt": 1783785606232,
     "usedAtIso": "2026-07-11T16:00:06.232Z"
+  },
+  "source:b119aa21dff1b1e67ae497344d0dde63accc1733": {
+    "url": "https://ocp.news/cotidiano/festa-estadual-do-colono-e-aberta-com-milhares-de-pessoas-em-jaragua-do-sul",
+    "title": "31ª Festa Estadual do Colono é aberta em Jaraguá do Sul com grande público",
+    "guid": "sc1multi:b119aa21dff1b1e67ae497344d0dde63accc1733",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b119aa21dff1b1e67ae497344d0dde63accc1733/",
+    "usedAt": 1783789206367,
+    "usedAtIso": "2026-07-11T17:00:06.367Z"
   }
 }
