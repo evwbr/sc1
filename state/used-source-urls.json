@@ -1,12 +1,4 @@
 {
-  "source:6827dc0b6c411d03dfaf1d024e7c8aaf57a0b02f": {
-    "url": "https://rbatv.com.br/noticias/rio-do-sul-tera-estacoes-hidrologicas-em-cinco-ribeiroes-para-reforcar-alertas-de-cheias",
-    "title": "Rio do Sul instala estações hidrológicas para alertas de cheias",
-    "guid": "sc1multi:c7ea3343dad6b89b55150c2eeb846d6b43df37c8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c7ea3343dad6b89b55150c2eeb846d6b43df37c8/",
-    "usedAt": 1783551606762,
-    "usedAtIso": "2026-07-08T23:00:06.762Z"
-  },
   "source:393c6d2edbd46705bc92bac72675ea762da758ef": {
     "url": "https://ocp.news/seguranca/motorista-e-preso-apos-perseguicao-policial-entre-jaragua-do-sul-e-massaranduba",
     "title": "Motorista é preso após perseguição entre Jaraguá do Sul e Massaranduba",
@@ -1142,5 +1134,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0fa69cfbc8ab8100978f7e73ae0c0cddba20f12f/",
     "usedAt": 1783807205870,
     "usedAtIso": "2026-07-11T22:00:05.870Z"
+  },
+  "source:448c117b3a168e45e8f6f960b05fd65cf7624e5c": {
+    "url": "https://rbatv.com.br/noticias/motorista-fica-ferido-em-colisao-frontal-em-ituporanga",
+    "title": "Motorista fica ferido em colisão frontal na BR-470 em Ituporanga",
+    "guid": "sc1multi:d6601db86237755c82e26b34512346c84f8dc891",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6601db86237755c82e26b34512346c84f8dc891/",
+    "usedAt": 1783814406678,
+    "usedAtIso": "2026-07-12T00:00:06.678Z"
+  },
+  "source:0655ba44908d4aab1bf8435df57903d1c0e2315b": {
+    "url": "https://tnsul.com/2026/07/11/representante-do-brasil-unesc-encerra-mundial-escolar-de-volei-no-top-10",
+    "title": "Equipe feminina do Colégio Unesc termina Mundial Escolar de Vôlei no top 10",
+    "guid": "sc1multi:ac7f327e3655d8d634de59c730253bce3a37b3ba",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac7f327e3655d8d634de59c730253bce3a37b3ba/",
+    "usedAt": 1783814406678,
+    "usedAtIso": "2026-07-12T00:00:06.678Z"
+  },
+  "source:8399c8b4481435326e8cb8d435b2dea32a550e86": {
+    "url": "https://rbatv.com.br/noticias/muro-de-residencia-desaba-em-lages",
+    "title": "Muro de residência desaba em Lages e Defesa Civil é acionada",
+    "guid": "sc1multi:af187c1507d4509ad7cbe37b9f00dc22243f6249",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af187c1507d4509ad7cbe37b9f00dc22243f6249/",
+    "usedAt": 1783814406678,
+    "usedAtIso": "2026-07-12T00:00:06.678Z"
   }
 }
