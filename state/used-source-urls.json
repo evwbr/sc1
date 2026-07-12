@@ -1,20 +1,4 @@
 {
-  "source:393c6d2edbd46705bc92bac72675ea762da758ef": {
-    "url": "https://ocp.news/seguranca/motorista-e-preso-apos-perseguicao-policial-entre-jaragua-do-sul-e-massaranduba",
-    "title": "Motorista é preso após perseguição entre Jaraguá do Sul e Massaranduba",
-    "guid": "sc1multi:393c6d2edbd46705bc92bac72675ea762da758ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_393c6d2edbd46705bc92bac72675ea762da758ef/",
-    "usedAt": 1783558806502,
-    "usedAtIso": "2026-07-09T01:00:06.502Z"
-  },
-  "source:16abb5c78c22b65c8c95316f64f486ce08e4da5f": {
-    "url": "https://ocp.news/seguranca/suspeito-de-incendiar-viaturas-da-seguranca-publica-em-araquari-e-preso-horas-apos-o-ataque",
-    "title": "Suspeito de incendiar viaturas em Araquari é preso horas após ataque",
-    "guid": "sc1multi:16abb5c78c22b65c8c95316f64f486ce08e4da5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_16abb5c78c22b65c8c95316f64f486ce08e4da5f/",
-    "usedAt": 1783558806502,
-    "usedAtIso": "2026-07-09T01:00:06.502Z"
-  },
   "source:00c18f731e35da549f3c9714d75e91e362d6dab6": {
     "url": "https://tudoaquisc.com.br/esporte/jaguaruna-surfe-ondas",
     "title": "Jaguaruna é declarada Capital Nacional das Maiores Ondas do Brasil",
@@ -1158,5 +1142,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af187c1507d4509ad7cbe37b9f00dc22243f6249/",
     "usedAt": 1783814406678,
     "usedAtIso": "2026-07-12T00:00:06.678Z"
+  },
+  "source:6cdfdd79f1bdfb32b8b7a871ab229f493f8414a6": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-goleia-sao-jose-na-arena-e-encosta-de-vez-no-g-4-da-liga-nacional",
+    "title": "Jaraguá Futsal goleia São José e se aproxima do G-4 da Liga Nacional",
+    "guid": "sc1multi:6cdfdd79f1bdfb32b8b7a871ab229f493f8414a6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6cdfdd79f1bdfb32b8b7a871ab229f493f8414a6/",
+    "usedAt": 1783818006961,
+    "usedAtIso": "2026-07-12T01:00:06.961Z"
+  },
+  "source:c02dc5e4db42b896cf0866f37b0833e73c035ebe": {
+    "url": "https://rbatv.com.br/noticias/com-fortes-chuvas-na-regiao-muro-de-residencia-desaba-em-ituporanga",
+    "title": "Muro de residência desaba em Ituporanga após fortes chuvas",
+    "guid": "sc1multi:1c0eca6aa5b2f3dcba4e0ab4b11b410ab71b689a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1c0eca6aa5b2f3dcba4e0ab4b11b410ab71b689a/",
+    "usedAt": 1783818006961,
+    "usedAtIso": "2026-07-12T01:00:06.961Z"
+  },
+  "source:1cb1e39ab56d04a53dbad86cc019c2649891aed5": {
+    "url": "https://scportais.com.br/2026/07/10/governador-demite-sete-servidores-publicos-e-cassa-quatro-aposentadorias-entenda-os-motivos",
+    "title": "Governador de SC demite sete servidores e cassa quatro aposentadorias",
+    "guid": "sc1multi:18aa47978d965f80c1cca963231c86bfcd362eca",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_18aa47978d965f80c1cca963231c86bfcd362eca/",
+    "usedAt": 1783818006961,
+    "usedAtIso": "2026-07-12T01:00:06.961Z"
   }
 }
