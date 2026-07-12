@@ -766,5 +766,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a7cebde168a369844eecbbec52b17bb949d9bfef/",
     "usedAt": 1783890006015,
     "usedAtIso": "2026-07-12T21:00:06.015Z"
+  },
+  "source:f6e30495ba1e6069c072ce4794ad0ab5ea6779cf": {
+    "url": "https://ocp.news/seguranca/colisao-entre-tres-veiculos-deixa-tres-pessoas-feridas-no-bairro-ilha-da-figueira",
+    "title": "Colisão entre três veículos deixa três feridos em Jaraguá do Sul",
+    "guid": "sc1multi:f6e30495ba1e6069c072ce4794ad0ab5ea6779cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6e30495ba1e6069c072ce4794ad0ab5ea6779cf/",
+    "usedAt": 1783897206682,
+    "usedAtIso": "2026-07-12T23:00:06.682Z"
+  },
+  "source:b61c4b3eb09a18aa79d45fdeb64745e1bde9c0a0": {
+    "url": "https://tnsul.com/2026/07/12/dois-foragidos-sao-recapturados-em-menos-de-seis-horas-em-criciuma-e-icara",
+    "title": "Polícia Militar recaptura dois foragidos em Criciúma e Içara",
+    "guid": "sc1multi:e979354737bc863a48b594524513026406bc8200",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e979354737bc863a48b594524513026406bc8200/",
+    "usedAt": 1783897206682,
+    "usedAtIso": "2026-07-12T23:00:06.682Z"
+  },
+  "source:f50371beae1e3bf32bc9d25030cdc7f6e28f134e": {
+    "url": "https://tnsul.com/2026/07/12/homem-que-torturou-esposa-na-frente-da-filha-de-9-anos-e-condenado-a-prisao",
+    "title": "Homem é condenado por torturar esposa na frente da filha em Lindóia do Sul",
+    "guid": "sc1multi:89ab1c61049506973ed0b4774ba26db2fe0581dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_89ab1c61049506973ed0b4774ba26db2fe0581dc/",
+    "usedAt": 1783897206682,
+    "usedAtIso": "2026-07-12T23:00:06.682Z"
   }
 }
