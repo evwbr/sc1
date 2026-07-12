@@ -1,44 +1,4 @@
 {
-  "source:764bd257561144a274253a9b33a11f195aeed77b": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-registram-mais-de-12-mil-atendimentos-no-primeiro-semestre-de-2026",
-    "title": "Bombeiros Voluntários de Presidente Getúlio atendem mais de 1,2 mil ocorrências em seis meses",
-    "guid": "sc1multi:aa723848ff46bb85b1b7e250b3726f8c3091df4e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa723848ff46bb85b1b7e250b3726f8c3091df4e/",
-    "usedAt": 1783616408776,
-    "usedAtIso": "2026-07-09T17:00:08.776Z"
-  },
-  "source:3239bec4bed733e155ac4620ff68e4c04837315d": {
-    "url": "https://tnsul.com/2026/07/09/criciuma-maratona-cultural-reunira-afroempreendedores-e-artistas",
-    "title": "Criciúma promove 1ª Maratona Multicultural com artistas e afroempreendedores",
-    "guid": "sc1multi:6ae8f6abb3f065c41237150bab418c7b67f67bf3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ae8f6abb3f065c41237150bab418c7b67f67bf3/",
-    "usedAt": 1783616408776,
-    "usedAtIso": "2026-07-09T17:00:08.776Z"
-  },
-  "source:76956eb29a088561378e2ff224faa7fbdcada1f6": {
-    "url": "https://ocp.news/seguranca/policia-militar-recupera-motocicleta-furtada-poucas-horas-apos-o-crime-em-joinville",
-    "title": "Polícia Militar recupera motocicleta furtada em Joinville na madrugada",
-    "guid": "sc1multi:76956eb29a088561378e2ff224faa7fbdcada1f6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76956eb29a088561378e2ff224faa7fbdcada1f6/",
-    "usedAt": 1783616408776,
-    "usedAtIso": "2026-07-09T17:00:08.776Z"
-  },
-  "source:f166d9d64bc7352edd83913a43edc9064188c240": {
-    "url": "https://ocp.news/entretenimento/quarteto-de-cordas-art4-apresenta-recital-da-turne-transiberiana-em-jaragua-do-sul-nesta-sexta-10",
-    "title": "Quarteto de Cordas Art4 apresenta recital da Turnê Transiberiana em Jaraguá do Sul",
-    "guid": "sc1multi:f166d9d64bc7352edd83913a43edc9064188c240",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f166d9d64bc7352edd83913a43edc9064188c240/",
-    "usedAt": 1783616408776,
-    "usedAtIso": "2026-07-09T17:00:08.776Z"
-  },
-  "source:297448d84b92fa9416d7ef51f003a15ae36ce634": {
-    "url": "https://ocp.news/esporte/torneio-de-futebol-7-em-jaragua-do-sul-abre-inscricoes-com-r-10-mil-em-premiacao",
-    "title": "Inscrições abertas para Copa Soccer Jaraguá de Futebol 7 com R$ 10 mil em prêmios",
-    "guid": "sc1multi:297448d84b92fa9416d7ef51f003a15ae36ce634",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_297448d84b92fa9416d7ef51f003a15ae36ce634/",
-    "usedAt": 1783616408776,
-    "usedAtIso": "2026-07-09T17:00:08.776Z"
-  },
   "source:8fa9781b1c33da102656aae4612d01df8778454c": {
     "url": "https://rbatv.com.br/noticias/carro-furtado-em-apiuna-e-recuperado-pela-policia-militar-em-rio-do-sul-apos-perseguicao",
     "title": "Polícia Militar recupera carro furtado em Apiúna após perseguição em Rio do Sul",
@@ -950,5 +910,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b250c28911af76c02a250370d87ddd9478b16996/",
     "usedAt": 1783875607438,
     "usedAtIso": "2026-07-12T17:00:07.438Z"
+  },
+  "source:bef0683f32dcf67a635198e89553577947a19cf1": {
+    "url": "https://tnsul.com/2026/07/12/criciuma-conta-com-casa-de-acolhimento-para-mulheres-vitimas-de-violencia-2",
+    "title": "Criciúma inaugura Casa de Acolhimento para mulheres vítimas de violência",
+    "guid": "sc1multi:08f84b6850aac214fca4d70faef481d4f18d5f84",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_08f84b6850aac214fca4d70faef481d4f18d5f84/",
+    "usedAt": 1783879206299,
+    "usedAtIso": "2026-07-12T18:00:06.299Z"
   }
 }
