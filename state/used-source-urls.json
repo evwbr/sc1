@@ -1,60 +1,4 @@
 {
-  "source:9a3ced56156efe823ebad3658d00ab7224f031fa": {
-    "url": "https://ocp.news/cotidiano/operacao-do-procon-de-florianopolis-aponta-falhas-em-instituicoes-de-longa-permanencia-para-idosos",
-    "title": "Procon de Florianópolis autua instituições de longa permanência para idosos",
-    "guid": "sc1multi:9a3ced56156efe823ebad3658d00ab7224f031fa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9a3ced56156efe823ebad3658d00ab7224f031fa/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:52165d9461e074ff0fd6515862df3c5fa910d9e2": {
-    "url": "https://ocp.news/seguranca/duas-pessoas-sao-resgatadas-de-incendio-em-predio-na-grande-florianopolis",
-    "title": "Duas pessoas são resgatadas de incêndio em prédio comercial em São José",
-    "guid": "sc1multi:52165d9461e074ff0fd6515862df3c5fa910d9e2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_52165d9461e074ff0fd6515862df3c5fa910d9e2/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:e24da83a14b6b9e21dab7367cbd59fb01ebf9a25": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-sao-jose-inconscientes",
-    "title": "Incêndio em loja de São José deixa duas pessoas hospitalizadas",
-    "guid": "sc1multi:c9a1930c7ffd9eebf0a116020da284a848aac3e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9a1930c7ffd9eebf0a116020da284a848aac3e7/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:8f58f6255f3d79861771d5a0ad38d0aa9065f189": {
-    "url": "https://ocp.news/cotidiano/encontrados-vestigios-da-antiga-estacao-radiotelegrafica-em-florianopolis",
-    "title": "Vestígios da antiga Estação Radiotelegráfica são encontrados em Florianópolis",
-    "guid": "sc1multi:8f58f6255f3d79861771d5a0ad38d0aa9065f189",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f58f6255f3d79861771d5a0ad38d0aa9065f189/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:9ecb3ea54d93e5a536b928ef81c6f37b0487a704": {
-    "url": "https://ocp.news/cotidiano/prefeitura-abre-area-de-estacionamento-em-bairro-de-florianopolis",
-    "title": "Prefeitura de Florianópolis inicia obras para ampliar estacionamento no Córrego Grande",
-    "guid": "sc1multi:9ecb3ea54d93e5a536b928ef81c6f37b0487a704",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ecb3ea54d93e5a536b928ef81c6f37b0487a704/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:15dc7a2e5c0c6a19414706285348792b834aa496": {
-    "url": "https://ocp.news/esporte/sao-jose-recebe-ultimo-duelo-entre-brasil-e-chile-pela-serie-de-amistosos-em-sc",
-    "title": "São José recebe último amistoso entre Brasil e Chile no voleibol masculino",
-    "guid": "sc1multi:15dc7a2e5c0c6a19414706285348792b834aa496",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15dc7a2e5c0c6a19414706285348792b834aa496/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
-  "source:e5c4f0c8f4706e569458e3886e79071aba8f5a9a": {
-    "url": "https://tnsul.com/2026/07/09/mulher-foge-de-casa-e-sofre-crise-de-ansiedade-apos-ameacas-em-criciuma",
-    "title": "Mulher foge de casa após ameaças e sofre crise de ansiedade em Criciúma",
-    "guid": "sc1multi:2471cdf51bac948ea6afe722236e1974db9b76f4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2471cdf51bac948ea6afe722236e1974db9b76f4/",
-    "usedAt": 1783602006290,
-    "usedAtIso": "2026-07-09T13:00:06.290Z"
-  },
   "source:67dbd09dc9740a089d87160f180ee0a69c016b24": {
     "url": "https://tnsul.com/2026/07/09/criminosos-furtam-casa-de-madeira-e-deixam-apenas-o-banheiro-em-sc",
     "title": "Criminosos desmontam e furtam casa de madeira em Porto União",
@@ -1054,5 +998,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a92a92e641cec1f82f7691f6098681895379d0f3/",
     "usedAt": 1783857606646,
     "usedAtIso": "2026-07-12T12:00:06.646Z"
+  },
+  "source:79531a9775c90d7fdcc03bd3410c1b98b13542b9": {
+    "url": "https://tnsul.com/2026/07/12/caravaggio-precisa-vencer-o-lanterna-da-serie-b-do-catarinense",
+    "title": "Caravaggio busca vitória contra Jaraguá na Série B do Catarinense",
+    "guid": "sc1multi:50cf5fea688485890e860a2bf4f55be2bd25add9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_50cf5fea688485890e860a2bf4f55be2bd25add9/",
+    "usedAt": 1783861206439,
+    "usedAtIso": "2026-07-12T13:00:06.439Z"
   }
 }
