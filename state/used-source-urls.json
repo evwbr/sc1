@@ -1,44 +1,4 @@
 {
-  "source:073f2519f789148c08f68603cc069f21168afc85": {
-    "url": "https://rbatv.com.br/noticias/obras-de-contencao-interditam-trecho-da-estrada-geral-bom-fim-a-partir-de-segunda-feira-13",
-    "title": "Obras interditam trecho da Estrada Geral Bom Fim em Rio do Sul",
-    "guid": "sc1multi:18b412838636e89a9401981c7f43d9950bb41dbb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_18b412838636e89a9401981c7f43d9950bb41dbb/",
-    "usedAt": 1783724414029,
-    "usedAtIso": "2026-07-10T23:00:14.029Z"
-  },
-  "source:7f5f51990bfe50c9399fa04eeac5982b49fce228": {
-    "url": "https://tnsul.com/2026/07/10/br-101-segue-com-longas-filas-no-sentido-norte-sul",
-    "title": "Ponte Anita Garibaldi bloqueada causa filas na BR-101 Sul em Santa Catarina",
-    "guid": "sc1multi:40deb9543362f23edcb90d3a1f90e9374cac252a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40deb9543362f23edcb90d3a1f90e9374cac252a/",
-    "usedAt": 1783724414029,
-    "usedAtIso": "2026-07-10T23:00:14.029Z"
-  },
-  "source:7163ae239d708cd1d749f4755708bb1a330f4337": {
-    "url": "https://ocp.news/seguranca/ex-guarda-vidas-de-sc-morre-apos-acidente-de-moto-em-porto-belo",
-    "title": "Ex-guarda-vidas morre em acidente de moto em Porto Belo",
-    "guid": "sc1multi:7163ae239d708cd1d749f4755708bb1a330f4337",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7163ae239d708cd1d749f4755708bb1a330f4337/",
-    "usedAt": 1783724414029,
-    "usedAtIso": "2026-07-10T23:00:14.029Z"
-  },
-  "source:2a2c4503c1f61d35fb40e603c9442b04d855e1d2": {
-    "url": "https://tnsul.com/2026/07/10/policia-militar-inaugura-ponto-de-apoio-na-praca-nereu-ramos-em-criciuma",
-    "title": "Polícia Militar inaugura novo ponto de apoio na Praça Nereu Ramos, Criciúma",
-    "guid": "sc1multi:9dacda5ca26219c984fb29cd3a7341e39c0d30f9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9dacda5ca26219c984fb29cd3a7341e39c0d30f9/",
-    "usedAt": 1783724414029,
-    "usedAtIso": "2026-07-10T23:00:14.029Z"
-  },
-  "source:f8c695e235119d568f30afceb6b4136ac5d6a5a8": {
-    "url": "https://ocp.news/seguranca/mulher-e-agredida-durante-desentendimento-familiar-e-cunhado-acaba-preso-em-jaragua-do-sul",
-    "title": "Homem é preso após agredir cunhada em Jaraguá do Sul",
-    "guid": "sc1multi:f8c695e235119d568f30afceb6b4136ac5d6a5a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8c695e235119d568f30afceb6b4136ac5d6a5a8/",
-    "usedAt": 1783724414029,
-    "usedAtIso": "2026-07-10T23:00:14.029Z"
-  },
   "source:d1a546dfd35cb3ceb9e48d88f5cd8237aabd1cbb": {
     "url": "https://tnsul.com/2026/07/10/ponte-anita-garibaldi-segue-interditada-e-fluxo-na-br-101-e-desviado",
     "title": "Ponte Anita Garibaldi em Laguna segue interditada para manutenção estrutural",
