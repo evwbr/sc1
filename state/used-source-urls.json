@@ -1030,5 +1030,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fa694e983bec65d1231a423ba9949282e6831659/",
     "usedAt": 1784408406184,
     "usedAtIso": "2026-07-18T21:00:06.184Z"
+  },
+  "source:f7d84958a0f128d76555fc8edaba78b1ec57b459": {
+    "url": "https://ocp.news/esporte/sport-club-jaragua-e-goleado-pelo-metropolitano-na-serie-b",
+    "title": "Sport Club Jaraguá é goleado pelo Metropolitano na Série B do Catarinense",
+    "guid": "sc1multi:f7d84958a0f128d76555fc8edaba78b1ec57b459",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7d84958a0f128d76555fc8edaba78b1ec57b459/",
+    "usedAt": 1784412006297,
+    "usedAtIso": "2026-07-18T22:00:06.297Z"
+  },
+  "source:605a23bac41fbb4cce150fd26975a6d7de6dc14f": {
+    "url": "https://tnsul.com/2026/07/18/icara-casa-e-parcialmente-queimada",
+    "title": "Incêndio atinge cozinha de residência em Içara",
+    "guid": "sc1multi:e7489faed5e3bea459e509e10087519ac3c5da76",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7489faed5e3bea459e509e10087519ac3c5da76/",
+    "usedAt": 1784412006297,
+    "usedAtIso": "2026-07-18T22:00:06.297Z"
+  },
+  "source:407eb892229741fbc011024fdd70b5a02e7e7472": {
+    "url": "https://ocp.news/seguranca/discussao-entre-casal-termina-com-os-dois-feridos-e-levados-a-delegacia-em-guaramirim",
+    "title": "Discussão entre casal em Guaramirim termina com feridos e ida à delegacia",
+    "guid": "sc1multi:407eb892229741fbc011024fdd70b5a02e7e7472",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_407eb892229741fbc011024fdd70b5a02e7e7472/",
+    "usedAt": 1784412006297,
+    "usedAtIso": "2026-07-18T22:00:06.297Z"
+  },
+  "source:7983c393d6fc360a72ec8d080c82d4822a2898fe": {
+    "url": "https://tnsul.com/2026/07/18/tigre-vence-e-amplia-vantagem-na-lideranca-da-serie-b",
+    "title": "Criciúma vence Vila Nova e amplia liderança na Série B",
+    "guid": "sc1multi:24b6e6bbbfc32bfc6bb53a3964681c746c63a803",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_24b6e6bbbfc32bfc6bb53a3964681c746c63a803/",
+    "usedAt": 1784412006297,
+    "usedAtIso": "2026-07-18T22:00:06.297Z"
   }
 }
