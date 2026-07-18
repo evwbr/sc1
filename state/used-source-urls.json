@@ -814,5 +814,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214d267d28154370a21edfc43a8e8d3c9bd783dd/",
     "usedAt": 1784340007219,
     "usedAtIso": "2026-07-18T02:00:07.219Z"
+  },
+  "source:56d4c8033bcf1326953165b27e05b0a4cc6f31e2": {
+    "url": "https://ocp.news/esporte/juventus-recebe-rival-direto-em-duelo-decisivo-pela-permanencia-na-serie-b",
+    "title": "Juventus enfrenta Fluminense em duelo decisivo na Série B catarinense",
+    "guid": "sc1multi:56d4c8033bcf1326953165b27e05b0a4cc6f31e2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56d4c8033bcf1326953165b27e05b0a4cc6f31e2/",
+    "usedAt": 1784350806244,
+    "usedAtIso": "2026-07-18T05:00:06.244Z"
+  },
+  "source:dcea0b7844ea3ab255f6e9a05d2f4a8d3ba150cc": {
+    "url": "https://scportais.com.br/2026/07/16/camara-de-joinville-devolve-mais-r-2-milhoes-a-prefeitura-e-total-chega-a-r-73-milhoes",
+    "title": "Câmara de Joinville devolve R$ 2 milhões à Prefeitura e total chega a R$ 73 milhões",
+    "guid": "sc1multi:ea9242dbc67174e190e7131758ed253b7821123f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ea9242dbc67174e190e7131758ed253b7821123f/",
+    "usedAt": 1784350806244,
+    "usedAtIso": "2026-07-18T05:00:06.244Z"
   }
 }
