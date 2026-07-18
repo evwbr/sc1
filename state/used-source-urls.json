@@ -886,5 +886,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b77cca927e7816f576ae0131af8507d9281fc097/",
     "usedAt": 1784379606390,
     "usedAtIso": "2026-07-18T13:00:06.390Z"
+  },
+  "source:a90fc284e824c574a8784cd4b0e65bcc82560937": {
+    "url": "https://rbatv.com.br/noticias/guarda-municipal-auxilia-em-atendimento-a-bebe-engasgado-no-centro-de-rio-do-sul",
+    "title": "Guarda Municipal de Rio do Sul auxilia bebê engasgado no Centro da cidade",
+    "guid": "sc1multi:4bf28d62cb946367c0606ab22d09a4c82df6843d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bf28d62cb946367c0606ab22d09a4c82df6843d/",
+    "usedAt": 1784383207250,
+    "usedAtIso": "2026-07-18T14:00:07.250Z"
+  },
+  "source:539fbabffe355226807c26d03dd551c84c57cb78": {
+    "url": "https://ocp.news/seguranca/santa-catarina-lidera-indice-de-acidentes-em-rodovias-federais-e-registra-o-dobro-da-media-nacional-de-mortes",
+    "title": "Santa Catarina lidera acidentes e mortes em rodovias federais no país",
+    "guid": "sc1multi:539fbabffe355226807c26d03dd551c84c57cb78",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_539fbabffe355226807c26d03dd551c84c57cb78/",
+    "usedAt": 1784383207250,
+    "usedAtIso": "2026-07-18T14:00:07.250Z"
+  },
+  "source:2e950050167f7ee8b02d8e5fa4493b5f7873be14": {
+    "url": "https://rbatv.com.br/noticias/operacao-conjunta-entre-pmsc-e-prf-apreende-3-550-quilos-de-cocaina-em-santa-catarina",
+    "title": "PMSC e PRF apreendem 3,55 toneladas de cocaína em Navegantes e Blumenau",
+    "guid": "sc1multi:02ea78af85f3b06a4a32066cb058d1a04d076df1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_02ea78af85f3b06a4a32066cb058d1a04d076df1/",
+    "usedAt": 1784383207250,
+    "usedAtIso": "2026-07-18T14:00:07.250Z"
   }
 }
