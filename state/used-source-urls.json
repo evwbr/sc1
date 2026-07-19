@@ -1222,5 +1222,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e4e47fbc398bd6bac392e5c430d4f0b29ea3817/",
     "usedAt": 1784484006124,
     "usedAtIso": "2026-07-19T18:00:06.124Z"
+  },
+  "source:85aef43526964dab05cafe89241ff6a0e796c4df": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-samu-e-arcanjo-03-atendem-acidente-de-transito-em-vitor-meireles",
+    "title": "Acidente de trânsito mobiliza equipes de resgate em Vitor Meireles",
+    "guid": "sc1multi:7cb6d05c5f497efe033480fba42a1855127292e9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cb6d05c5f497efe033480fba42a1855127292e9/",
+    "usedAt": 1784491206912,
+    "usedAtIso": "2026-07-19T20:00:06.912Z"
+  },
+  "source:ba9bc8bb7e241a513d87a69515ff1f4e47aa0c69": {
+    "url": "https://rbatv.com.br/noticias/briga-por-causa-de-camiseta-de-time-termina-na-delegacia-em-rio-do-sul",
+    "title": "Briga por camiseta de time termina na delegacia em Rio do Sul",
+    "guid": "sc1multi:6f922a71b1a9dd97f3951b0097e942e28c04c4c3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6f922a71b1a9dd97f3951b0097e942e28c04c4c3/",
+    "usedAt": 1784491206912,
+    "usedAtIso": "2026-07-19T20:00:06.912Z"
   }
 }
