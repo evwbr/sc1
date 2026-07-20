@@ -1,28 +1,4 @@
 {
-  "source:29b390b04e922669e332f38cb3c82b63af077731": {
-    "url": "https://tnsul.com/2026/07/17/criciuma-recebe-o-vila-nova-no-majestoso",
-    "title": "Criciúma enfrenta Vila Nova pela 18ª rodada da Série B no Majestoso",
-    "guid": "sc1multi:1c74977f5c043692dd554fd2b079b2e1a74d3b4e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1c74977f5c043692dd554fd2b079b2e1a74d3b4e/",
-    "usedAt": 1784322006290,
-    "usedAtIso": "2026-07-17T21:00:06.290Z"
-  },
-  "source:d43f00cbf1b85bed31b9fc8252d27f7b77742eaf": {
-    "url": "https://tudoaquisc.com.br/esporte/istepos-futebol-americano",
-    "title": "Istepôs e outros times de Santa Catarina estreiam no Brasileiro de Futebol Americano",
-    "guid": "sc1multi:34778771fdf33b2b5590e011933ecad0e2f66e84",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34778771fdf33b2b5590e011933ecad0e2f66e84/",
-    "usedAt": 1784322006290,
-    "usedAtIso": "2026-07-17T21:00:06.290Z"
-  },
-  "source:9dcd4c15f7261a98ab073d44f7087db26239746d": {
-    "url": "https://ocp.news/seguranca/mulher-e-encontrada-amarrada-e-amordacada-dentro-de-carro-em-sc",
-    "title": "Mulher é encontrada amarrada e ferida em carro na área rural de Biguaçu",
-    "guid": "sc1multi:9dcd4c15f7261a98ab073d44f7087db26239746d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9dcd4c15f7261a98ab073d44f7087db26239746d/",
-    "usedAt": 1784325606141,
-    "usedAtIso": "2026-07-17T22:00:06.141Z"
-  },
   "source:f3734c79675d6f6d7e9795ac0b008a69c049233f": {
     "url": "https://tnsul.com/2026/07/17/homem-que-esfaqueou-companheira-na-frente-do-filho-de-6-anos-sera-julgado",
     "title": "Homem será julgado por tentativa de feminicídio em Meleiro",
@@ -910,5 +886,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c645c539b7b62a6675157ae22551cea7470de99/",
     "usedAt": 1784581206243,
     "usedAtIso": "2026-07-20T21:00:06.243Z"
+  },
+  "source:395ab1638de368adccfd3deaeb24606b2e8c41ad": {
+    "url": "https://tnsul.com/2026/07/20/voto-pelo-sul-mobiliza-regiao-por-mais-representatividade-politica",
+    "title": "Campanha Voto pelo Sul busca fortalecer representatividade política em SC",
+    "guid": "sc1multi:3b00b39d119db08675c8a01547bb7c051467475b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b00b39d119db08675c8a01547bb7c051467475b/",
+    "usedAt": 1784584806555,
+    "usedAtIso": "2026-07-20T22:00:06.555Z"
+  },
+  "source:d2e16607f3338ea561d97d89e3df7324a9cc71c5": {
+    "url": "https://ocp.news/politica/vereador-pede-melhorias-para-evitar-alagamentos-na-estrada-ponta-comprida-em-guaramirim",
+    "title": "Vereador de Guaramirim solicita melhorias para evitar alagamentos na Estrada Ponta Comprida",
+    "guid": "sc1multi:d2e16607f3338ea561d97d89e3df7324a9cc71c5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2e16607f3338ea561d97d89e3df7324a9cc71c5/",
+    "usedAt": 1784584806555,
+    "usedAtIso": "2026-07-20T22:00:06.555Z"
+  },
+  "source:c61fa258a1f1ab2422cafaa5741a4aeec90bf96a": {
+    "url": "https://tudoaquisc.com.br/tempo/frente-fria-avanca-estado-frio-chuva-20-07",
+    "title": "Frente fria provoca queda de temperatura e temporais em Santa Catarina",
+    "guid": "sc1multi:f409c8de554aa7ce710c36fdf61d24f01d94a5b9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f409c8de554aa7ce710c36fdf61d24f01d94a5b9/",
+    "usedAt": 1784584806555,
+    "usedAtIso": "2026-07-20T22:00:06.555Z"
   }
 }
