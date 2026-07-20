@@ -1,36 +1,4 @@
 {
-  "source:73b726f15ca0a2501474b0edae0d7f08ed39694e": {
-    "url": "https://rbatv.com.br/noticias/motociclista-fica-preso-sob-carreta-e-sofre-ferimentos-graves-em-acidente-em-lages",
-    "title": "Motociclista fica gravemente ferido após acidente com carreta em Lages",
-    "guid": "sc1multi:a44728579445bea55a98e786b6e45a77274bfc54",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a44728579445bea55a98e786b6e45a77274bfc54/",
-    "usedAt": 1784286007406,
-    "usedAtIso": "2026-07-17T11:00:07.406Z"
-  },
-  "source:9973b7366e96de896129d3a511da9696823b1ab0": {
-    "url": "https://tnsul.com/2026/07/17/idoso-sofre-queda-de-seis-metros-e-e-resgatado-de-helicoptero-em-sc",
-    "title": "Idoso é resgatado de helicóptero após queda em Laguna",
-    "guid": "sc1multi:3a58d2a510e4769ac00f560b45fa33182e8bf7e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3a58d2a510e4769ac00f560b45fa33182e8bf7e8/",
-    "usedAt": 1784286007406,
-    "usedAtIso": "2026-07-17T11:00:07.406Z"
-  },
-  "source:79aacb4119bdc5468537be8f34ee404ce1da7862": {
-    "url": "https://ocp.news/seguranca/policial-salva-bebe-de-cinco-meses-engasgado-em-jaragua-do-sul",
-    "title": "Policial Militar salva bebê engasgado em Jaraguá do Sul",
-    "guid": "sc1multi:79aacb4119bdc5468537be8f34ee404ce1da7862",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_79aacb4119bdc5468537be8f34ee404ce1da7862/",
-    "usedAt": 1784286007406,
-    "usedAtIso": "2026-07-17T11:00:07.406Z"
-  },
-  "source:549ae4469e833232e59b3cb2ff0f3a395f52f531": {
-    "url": "https://ocp.news/cotidiano/confira-a-previsao-do-tempo-para-o-fim-de-semana-em-florianopolis-2",
-    "title": "Previsão do tempo indica mudanças em Florianópolis e Santa Catarina no fim de semana",
-    "guid": "sc1multi:549ae4469e833232e59b3cb2ff0f3a395f52f531",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_549ae4469e833232e59b3cb2ff0f3a395f52f531/",
-    "usedAt": 1784286007406,
-    "usedAtIso": "2026-07-17T11:00:07.406Z"
-  },
   "source:f1d0fa51fc541134e8997a850ec5a1abfc22e881": {
     "url": "https://tnsul.com/2026/07/17/homem-e-preso-apos-atear-fogo-em-galhos-e-provocar-incendio-em-sc",
     "title": "Homem é preso por provocar incêndio em Xanxerê, Santa Catarina",
@@ -950,5 +918,61 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_722278aba7f0eee6fefc7449819c5a8c2f221608/",
     "usedAt": 1784545206601,
     "usedAtIso": "2026-07-20T11:00:06.601Z"
+  },
+  "source:d704942e1dcf736f54854c84b242997cf8b513c3": {
+    "url": "https://tnsul.com/2026/07/20/incendio-destroi-area-de-vegetacao-e-bambuzal-em-criciuma",
+    "title": "Incêndio destrói vegetação e bambuzal em Criciúma",
+    "guid": "sc1multi:96b5063b11cd432ebe7965f2ef341af29819b23b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_96b5063b11cd432ebe7965f2ef341af29819b23b/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:b73b9c8cc2d20f070765bdf0de5ccdab603a87f9": {
+    "url": "https://ocp.news/seguranca/guarda-municipal-de-joinville-recebe-novo-armamento-para-atividades-operacionais",
+    "title": "Guarda Municipal de Joinville recebe novo armamento para operações",
+    "guid": "sc1multi:b73b9c8cc2d20f070765bdf0de5ccdab603a87f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b73b9c8cc2d20f070765bdf0de5ccdab603a87f9/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:04ec638749e072a9181845433ad08b51782f7433": {
+    "url": "https://tnsul.com/2026/07/20/semana-comeca-com-chuva-apos-termometros-chegarem-a-36oc-no-sul",
+    "title": "Semana começa com chuva após recorde de calor no Sul de Santa Catarina",
+    "guid": "sc1multi:d11ebddac89b4050e79f66e40414540acf1eb297",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d11ebddac89b4050e79f66e40414540acf1eb297/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:b87820d772786875be59693a12c7bc7fdee07042": {
+    "url": "https://ocp.news/seguranca/motorista-morre-passageiros-ficam-feridos-e-bebe-sai-ileso-de-grave-acidente-em-sc",
+    "title": "Motorista morre e passageiros ficam feridos em acidente na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:b87820d772786875be59693a12c7bc7fdee07042",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b87820d772786875be59693a12c7bc7fdee07042/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:eb5ad23eb2434be90218db19c25fe9693b411a83": {
+    "url": "https://ocp.news/seguranca/discussao-por-som-automotivo-termina-em-vias-de-fato-em-guaramirim",
+    "title": "Discussão por som automotivo termina em confusão em Guaramirim",
+    "guid": "sc1multi:eb5ad23eb2434be90218db19c25fe9693b411a83",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eb5ad23eb2434be90218db19c25fe9693b411a83/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:ecae2f7217c161232e1e66e214145c71bdb4e18b": {
+    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-durante-a-semana-em-florianopolis-e-regiao",
+    "title": "Defesa Civil prevê tempo instável em Florianópolis e região durante a semana",
+    "guid": "sc1multi:ecae2f7217c161232e1e66e214145c71bdb4e18b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ecae2f7217c161232e1e66e214145c71bdb4e18b/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
+  },
+  "source:c45cf7ca05caf93ec4bdec7d1ff67cc0005892ab": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-agredir-menino-de-10-anos-e-ameacar-ex-em-jaragua-do-sul",
+    "title": "Homem é preso após agredir menino de 10 anos em Jaraguá do Sul",
+    "guid": "sc1multi:c45cf7ca05caf93ec4bdec7d1ff67cc0005892ab",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c45cf7ca05caf93ec4bdec7d1ff67cc0005892ab/",
+    "usedAt": 1784548806097,
+    "usedAtIso": "2026-07-20T12:00:06.097Z"
   }
 }
