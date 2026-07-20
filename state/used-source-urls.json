@@ -1,36 +1,4 @@
 {
-  "source:17a675caa94e2e140137ea16270871d9a956a5b2": {
-    "url": "https://tnsul.com/2026/07/17/festa-de-sao-cristovao-sera-realizada-nos-dias-25-e-26-de-julho-em-criciuma",
-    "title": "Festa de São Cristóvão será realizada em Criciúma nos dias 25 e 26 de julho",
-    "guid": "sc1multi:7edeec6e18fd6f5707c36c6db1bbc4e132610f66",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7edeec6e18fd6f5707c36c6db1bbc4e132610f66/",
-    "usedAt": 1784318407185,
-    "usedAtIso": "2026-07-17T20:00:07.185Z"
-  },
-  "source:cfb48393b2441008d44d8624ebf30ef067ef40a4": {
-    "url": "https://ocp.news/cotidiano/operacao-solo-legal-14-unidades-irregulares-sao-demolidas-em-bairro-de-florianopolis",
-    "title": "Operação Solo Legal demole 14 unidades irregulares no Rio Vermelho, Florianópolis",
-    "guid": "sc1multi:cfb48393b2441008d44d8624ebf30ef067ef40a4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cfb48393b2441008d44d8624ebf30ef067ef40a4/",
-    "usedAt": 1784318407185,
-    "usedAtIso": "2026-07-17T20:00:07.185Z"
-  },
-  "source:d81038dbc18345d1685f7b7d2a665b174f7a56f5": {
-    "url": "https://ocp.news/seguranca/curso-de-bombeiros-voluntarios-tera-treinamento-de-busca-e-salvamento-em-schroeder",
-    "title": "Bombeiros Voluntários de Schroeder realizam treinamento de busca e salvamento",
-    "guid": "sc1multi:d81038dbc18345d1685f7b7d2a665b174f7a56f5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d81038dbc18345d1685f7b7d2a665b174f7a56f5/",
-    "usedAt": 1784318407185,
-    "usedAtIso": "2026-07-17T20:00:07.185Z"
-  },
-  "source:f6834994345f74b27829ac02f1abc76b1f69d1e6": {
-    "url": "https://ocp.news/cultura-2/forum-da-comarca-de-jaragua-do-sul-recebe-peregrinacao-de-nossa-senhora-de-fatima",
-    "title": "Fórum de Jaraguá do Sul recebe peregrinação de Nossa Senhora de Fátima",
-    "guid": "sc1multi:f6834994345f74b27829ac02f1abc76b1f69d1e6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6834994345f74b27829ac02f1abc76b1f69d1e6/",
-    "usedAt": 1784318407185,
-    "usedAtIso": "2026-07-17T20:00:07.185Z"
-  },
   "source:29b390b04e922669e332f38cb3c82b63af077731": {
     "url": "https://tnsul.com/2026/07/17/criciuma-recebe-o-vila-nova-no-majestoso",
     "title": "Criciúma enfrenta Vila Nova pela 18ª rodada da Série B no Majestoso",
@@ -934,5 +902,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_282b4053b9e21df7dc3cc2c2eef6979159c53b1f/",
     "usedAt": 1784577606517,
     "usedAtIso": "2026-07-20T20:00:06.517Z"
+  },
+  "source:6c645c539b7b62a6675157ae22551cea7470de99": {
+    "url": "https://ocp.news/esporte/jaraguaense-celebra-primeira-conquista-com-a-camisa-do-coritiba",
+    "title": "Jaraguaense de 12 anos é vice-campeão da New Cup pelo Coritiba",
+    "guid": "sc1multi:6c645c539b7b62a6675157ae22551cea7470de99",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c645c539b7b62a6675157ae22551cea7470de99/",
+    "usedAt": 1784581206243,
+    "usedAtIso": "2026-07-20T21:00:06.243Z"
   }
 }
