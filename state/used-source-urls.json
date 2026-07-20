@@ -918,5 +918,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b1f51af01d0621bdca999884a6eedefe7e28bc9/",
     "usedAt": 1784512806199,
     "usedAtIso": "2026-07-20T02:00:06.199Z"
+  },
+  "source:fb560295c10f1e1eed422404688ae496d4cf5c9b": {
+    "url": "https://rbatv.com.br/noticias/carreta-tomba-e-carro-capota-em-acidente-na-br-470-em-otacilio-costa",
+    "title": "Carreta tomba e carro capota em acidente na BR-470 em Otacílio Costa",
+    "guid": "sc1multi:1c737538e478df447b006759a16f934c90fb17d2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1c737538e478df447b006759a16f934c90fb17d2/",
+    "usedAt": 1784545206601,
+    "usedAtIso": "2026-07-20T11:00:06.601Z"
+  },
+  "source:5271b58bb8784449516c8fd9fb33fb16d1956e50": {
+    "url": "https://rbatv.com.br/noticias/incendio-destroi-galpao-agricola-e-causa-prejuizo-de-r-1-milhao-em-ituporanga",
+    "title": "Incêndio destrói galpão agrícola e causa prejuízo de R$ 1 milhão em Ituporanga",
+    "guid": "sc1multi:94e0adf939e7e552d165ea9d2c6bc4bee8e0fda0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94e0adf939e7e552d165ea9d2c6bc4bee8e0fda0/",
+    "usedAt": 1784545206601,
+    "usedAtIso": "2026-07-20T11:00:06.601Z"
+  },
+  "source:6a63a1eb73a706cda4d800e07c825ed5c66730e6": {
+    "url": "https://rbatv.com.br/noticias/incendio-atinge-residencia-em-ituporanga",
+    "title": "Incêndio atinge residência no bairro Perimbó em Ituporanga",
+    "guid": "sc1multi:7ce5b38abec8f16b7025e69bde4545ad3ab8eff5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ce5b38abec8f16b7025e69bde4545ad3ab8eff5/",
+    "usedAt": 1784545206601,
+    "usedAtIso": "2026-07-20T11:00:06.601Z"
+  },
+  "source:349043b1429a45faddfbd3ebe88e1002bf25cff2": {
+    "url": "https://rbatv.com.br/noticias/carro-despenca-em-ribanceira-em-rodeio-e-mulher-e-arremessada-para-fora-do-veiculo",
+    "title": "Mulher fica ferida após carro cair em ribanceira em Rodeio",
+    "guid": "sc1multi:722278aba7f0eee6fefc7449819c5a8c2f221608",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_722278aba7f0eee6fefc7449819c5a8c2f221608/",
+    "usedAt": 1784545206601,
+    "usedAtIso": "2026-07-20T11:00:06.601Z"
   }
 }
