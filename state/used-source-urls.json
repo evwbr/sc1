@@ -1,52 +1,4 @@
 {
-  "source:f9e34ac2b8aa7847d1d059f930f4ad92813d9471": {
-    "url": "https://tnsul.com/2026/07/17/casarao-antigo-e-atingido-por-incendio-durante-a-madrugada-em-indaial",
-    "title": "Incêndio atinge casarão antigo em Indaial durante a madrugada",
-    "guid": "sc1multi:5fbefadc35ab6c05ff3d487f509aebb729a09904",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fbefadc35ab6c05ff3d487f509aebb729a09904/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
-  "source:c03f24cebbcb9e02932a1a8b6cbb618e8b7881be": {
-    "url": "https://ocp.news/cotidiano/tempestades-e-granizo-atingem-rio-grande-do-sul",
-    "title": "Tempestades e granizo atingem o Rio Grande do Sul e afetam Santa Catarina",
-    "guid": "sc1multi:c03f24cebbcb9e02932a1a8b6cbb618e8b7881be",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c03f24cebbcb9e02932a1a8b6cbb618e8b7881be/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
-  "source:207f14f49d37f68b60556e3188e339a7814a2814": {
-    "url": "https://ocp.news/seguranca/bombeiros-realizam-parto-de-emergencia-dentro-de-ambulancia-em-sao-joao-do-itaperiu",
-    "title": "Bombeiras realizam parto de emergência em ambulância em São João do Itaperiú",
-    "guid": "sc1multi:207f14f49d37f68b60556e3188e339a7814a2814",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_207f14f49d37f68b60556e3188e339a7814a2814/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
-  "source:722ca379521767ee9b52380534fcfa27276782b9": {
-    "url": "https://ocp.news/seguranca/misterio-em-sc-homem-sai-de-casa-e-e-encontrado-morto-cinco-dias-depois",
-    "title": "Homem desaparecido é encontrado morto em lago de Itá, SC",
-    "guid": "sc1multi:722ca379521767ee9b52380534fcfa27276782b9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_722ca379521767ee9b52380534fcfa27276782b9/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
-  "source:fd24111123407ae6a91162c3d523b5e828205dad": {
-    "url": "https://ocp.news/cotidiano/br-280-tera-interdicoes-temporarias-para-lancamento-de-vigas-em-araquari",
-    "title": "BR-280 terá interdições temporárias para lançamento de vigas em Araquari",
-    "guid": "sc1multi:fd24111123407ae6a91162c3d523b5e828205dad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd24111123407ae6a91162c3d523b5e828205dad/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
-  "source:d845f996a765c241236ff4346e99a5e25b160fba": {
-    "url": "https://ocp.news/cotidiano/quadra-coberta-do-ceu-aventureiro-em-joinville-recebe-obras-de-revitalizacao",
-    "title": "Obras revitalizam quadra coberta do CEU Aventureiro em Joinville",
-    "guid": "sc1multi:d845f996a765c241236ff4346e99a5e25b160fba",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d845f996a765c241236ff4346e99a5e25b160fba/",
-    "usedAt": 1784300406135,
-    "usedAtIso": "2026-07-17T15:00:06.135Z"
-  },
   "source:b3aaaa87372383fb599b852e7d29e9eaeb33583d": {
     "url": "https://tnsul.com/2026/07/17/mulher-e-encontrada-com-maos-e-pes-amarrados-dentro-de-carro-em-sc",
     "title": "Mulher é encontrada amarrada dentro de carro em área rural de Biguaçu",
@@ -926,5 +878,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8acf978f06e7d1f267d0c3db880104e1302e3f4/",
     "usedAt": 1784556008789,
     "usedAtIso": "2026-07-20T14:00:08.789Z"
+  },
+  "source:e7be83db4c2987895bc7bb027abf02a2481c3d78": {
+    "url": "https://correiosc.com.br/frente-fria-traz-temporais-e-derruba-temperaturas-em-santa-catarina",
+    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:e931a814595a4ca3bb90ce6bc3d3083d492a872e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e931a814595a4ca3bb90ce6bc3d3083d492a872e/",
+    "usedAt": 1784559607811,
+    "usedAtIso": "2026-07-20T15:00:07.811Z"
+  },
+  "source:2273894d5815c4316e23a63804e1af719633d17d": {
+    "url": "https://ocp.news/cotidiano/florianopolis-recebe-11o-forum-internacional-de-patrimonio-arquitetonico-brasil-portugal",
+    "title": "Florianópolis sedia 11º Fórum Internacional de Patrimônio Arquitetônico Brasil-Portugal",
+    "guid": "sc1multi:2273894d5815c4316e23a63804e1af719633d17d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2273894d5815c4316e23a63804e1af719633d17d/",
+    "usedAt": 1784559607811,
+    "usedAtIso": "2026-07-20T15:00:07.811Z"
+  },
+  "source:89776c4373df5124dfd13a9599cee8a79e490d6d": {
+    "url": "https://ocp.news/esporte/semifinais-do-varzeano-de-guaramirim-estao-definidas-2",
+    "title": "Semifinais do Campeonato Varzeano de Guaramirim estão definidas",
+    "guid": "sc1multi:89776c4373df5124dfd13a9599cee8a79e490d6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_89776c4373df5124dfd13a9599cee8a79e490d6d/",
+    "usedAt": 1784559607811,
+    "usedAtIso": "2026-07-20T15:00:07.811Z"
   }
 }
