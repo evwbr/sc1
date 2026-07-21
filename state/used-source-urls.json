@@ -1,12 +1,4 @@
 {
-  "source:fa694e983bec65d1231a423ba9949282e6831659": {
-    "url": "https://ocp.news/cotidiano/jaragua-do-sul-150-anos-uma-noite-que-celebrou-a-historia-a-fe-e-a-musica",
-    "title": "Jaraguá do Sul celebra 150 anos com evento gospel e música",
-    "guid": "sc1multi:fa694e983bec65d1231a423ba9949282e6831659",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fa694e983bec65d1231a423ba9949282e6831659/",
-    "usedAt": 1784408406184,
-    "usedAtIso": "2026-07-18T21:00:06.184Z"
-  },
   "source:f7d84958a0f128d76555fc8edaba78b1ec57b459": {
     "url": "https://ocp.news/esporte/sport-club-jaragua-e-goleado-pelo-metropolitano-na-serie-b",
     "title": "Sport Club Jaraguá é goleado pelo Metropolitano na Série B do Catarinense",
@@ -1182,5 +1174,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cf1bed8e4e059321cacd4353715cdf2eb829d73/",
     "usedAt": 1784664006517,
     "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:0e1864678c36bf058e9b68bd776f08b17480dbbd": {
+    "url": "https://ocp.news/seguranca/homem-usa-dados-do-proprio-irmao-durante-abordagem-e-e-detido-em-schroeder",
+    "title": "Homem é detido em Schroeder após usar dados falsos do irmão em abordagem",
+    "guid": "sc1multi:0e1864678c36bf058e9b68bd776f08b17480dbbd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e1864678c36bf058e9b68bd776f08b17480dbbd/",
+    "usedAt": 1784667606738,
+    "usedAtIso": "2026-07-21T21:00:06.738Z"
+  },
+  "source:f9d388d8ca3998a7f82c9cff9b6493f1a15d8709": {
+    "url": "https://rbatv.com.br/noticias/hospital-regional-pede-ajuda-para-identificar-paciente-vitima-de-acidente-em-rio-do-sul",
+    "title": "Hospital Regional de Rio do Sul busca identificar paciente vítima de acidente",
+    "guid": "sc1multi:15a601f31334248431f30b0101b1ac1fb3c88aee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15a601f31334248431f30b0101b1ac1fb3c88aee/",
+    "usedAt": 1784667606738,
+    "usedAtIso": "2026-07-21T21:00:06.738Z"
+  },
+  "source:b97c7f47f60a7b6bab1a615694ae9500f71daaaf": {
+    "url": "https://tnsul.com/2026/07/21/saude-de-icara-promove-campanha-para-reforcar-cuidados-com-a-saude-bucal",
+    "title": "Içara promove campanha para reforçar cuidados com a saúde bucal infantil",
+    "guid": "sc1multi:c80b20ac245f7d00f5eb2f078c8ce248db7fbd29",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80b20ac245f7d00f5eb2f078c8ce248db7fbd29/",
+    "usedAt": 1784667606738,
+    "usedAtIso": "2026-07-21T21:00:06.738Z"
+  },
+  "source:da47d89c9f3093fd6b0b95552a53f333133293d9": {
+    "url": "https://ocp.news/esporte/equipe-jaraguaense-se-classifica-a-fase-final-do-estadual-de-volei-sub-19-feminino",
+    "title": "Equipe de Jaraguá do Sul avança à fase final do Estadual de Vôlei Sub-19 Feminino",
+    "guid": "sc1multi:da47d89c9f3093fd6b0b95552a53f333133293d9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_da47d89c9f3093fd6b0b95552a53f333133293d9/",
+    "usedAt": 1784667606738,
+    "usedAtIso": "2026-07-21T21:00:06.738Z"
   }
 }
