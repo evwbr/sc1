@@ -1,20 +1,4 @@
 {
-  "source:170208d501d03377faa96bceb9791f5121d840ef": {
-    "url": "https://tnsul.com/2026/07/18/parto-acontece-dentro-de-ambulancia-em-jaguaruna",
-    "title": "Bebê nasce dentro de ambulância em Jaguaruna, Santa Catarina",
-    "guid": "sc1multi:045c13939f0aa579b06e64c338b52563c2293729",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_045c13939f0aa579b06e64c338b52563c2293729/",
-    "usedAt": 1784394007335,
-    "usedAtIso": "2026-07-18T17:00:07.335Z"
-  },
-  "source:68508781b1becf3e33cc232187646235395b1ac1": {
-    "url": "https://ocp.news/seguranca/operacoes-em-sc-apreendem-378-toneladas-de-drogas-em-menos-de-24-horas",
-    "title": "Operações em SC apreendem 3,78 toneladas de drogas em menos de 24 horas",
-    "guid": "sc1multi:68508781b1becf3e33cc232187646235395b1ac1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68508781b1becf3e33cc232187646235395b1ac1/",
-    "usedAt": 1784394007335,
-    "usedAtIso": "2026-07-18T17:00:07.335Z"
-  },
   "source:f43bc3743f4d8d7db5bd043d01d55e250a478963": {
     "url": "https://tnsul.com/2026/07/18/praia-da-ferrugem-recebe-nova-geracao-catarinense-de-surfe",
     "title": "Praia da Ferrugem recebe etapa do Circuito Catarinense de Surfe Infantil",
@@ -1062,5 +1046,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7018c1693a7fe824097cb657b8aeb133361e0ec/",
     "usedAt": 1784649608719,
     "usedAtIso": "2026-07-21T16:00:08.719Z"
+  },
+  "source:27d586fd9a9d507b99bc277afe42dd96375407a6": {
+    "url": "https://ocp.news/seguranca/homem-e-abordado-apos-ameacar-vigilante-em-espaco-publico-de-jaragua-do-sul",
+    "title": "Homem ameaça vigilante em espaço público de Jaraguá do Sul",
+    "guid": "sc1multi:27d586fd9a9d507b99bc277afe42dd96375407a6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27d586fd9a9d507b99bc277afe42dd96375407a6/",
+    "usedAt": 1784653210067,
+    "usedAtIso": "2026-07-21T17:00:10.067Z"
+  },
+  "source:e3074ecec7a4c0151de8b35d27576797d5b9476e": {
+    "url": "https://correiosc.com.br/ifsc-abre-concurso-publico-com-65-vagas",
+    "title": "IFSC abre concurso com 65 vagas para técnicos e professores em Santa Catarina",
+    "guid": "sc1multi:039082507d68a2ef4c0355869e82c6767400620c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_039082507d68a2ef4c0355869e82c6767400620c/",
+    "usedAt": 1784653210067,
+    "usedAtIso": "2026-07-21T17:00:10.067Z"
+  },
+  "source:b1c5823d638cc71c4847ac4cf54e0c0d85b84e4e": {
+    "url": "https://correiosc.com.br/sao-jose-inicia-autuacao-de-motoristas-por-uso-irregular-da-faixa-exclusiva",
+    "title": "São José inicia autuação por uso irregular da faixa exclusiva na Avenida Presidente Kennedy",
+    "guid": "sc1multi:7d1e2557f04faa68a16d7dcdbfaccca7b74bcc9e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d1e2557f04faa68a16d7dcdbfaccca7b74bcc9e/",
+    "usedAt": 1784653210067,
+    "usedAtIso": "2026-07-21T17:00:10.067Z"
   }
 }
