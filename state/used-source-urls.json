@@ -1,12 +1,4 @@
 {
-  "source:e3e5fd4922b8c082253a073d692ae9da7490efbf": {
-    "url": "https://tnsul.com/2026/07/17/sobe-para-quatro-o-numero-de-mortos-em-acidente-de-onibus-no-oeste-de-sc",
-    "title": "Quatro mortos em acidente de ônibus na SC-492 em Maravilha",
-    "guid": "sc1multi:214d267d28154370a21edfc43a8e8d3c9bd783dd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214d267d28154370a21edfc43a8e8d3c9bd783dd/",
-    "usedAt": 1784340007219,
-    "usedAtIso": "2026-07-18T02:00:07.219Z"
-  },
   "source:56d4c8033bcf1326953165b27e05b0a4cc6f31e2": {
     "url": "https://ocp.news/esporte/juventus-recebe-rival-direto-em-duelo-decisivo-pela-permanencia-na-serie-b",
     "title": "Juventus enfrenta Fluminense em duelo decisivo na Série B catarinense",
@@ -966,5 +958,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cbbb8ca0fe6e1b9d8daf54fcaef180a7501c629/",
     "usedAt": 1784599206261,
     "usedAtIso": "2026-07-21T02:00:06.261Z"
+  },
+  "source:655c5362cbb2fc028a37a3df3ad502ce7f4622d9": {
+    "url": "https://scportais.com.br/2026/07/20/tjsc-determina-devolucao-de-aparelhos-eletronicos-apreendidos-na-operacao-entre-lobos",
+    "title": "TJSC determina devolução de aparelhos apreendidos na Operação Entre Lobos",
+    "guid": "sc1multi:2d73bd1144f969a09e742c7b7128b17f87907237",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2d73bd1144f969a09e742c7b7128b17f87907237/",
+    "usedAt": 1784602806473,
+    "usedAtIso": "2026-07-21T03:00:06.473Z"
   }
 }
