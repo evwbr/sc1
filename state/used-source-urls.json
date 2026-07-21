@@ -1,20 +1,4 @@
 {
-  "source:eb5b30cf99f40bc0828da56f95f4722e8b52e92a": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-e-arcanjo-03-resgatam-vitima-de-acidente-com-maquina-agricola-em-santa-terezinha",
-    "title": "Bombeiros resgatam vítima de acidente agrícola em Santa Terezinha",
-    "guid": "sc1multi:5b6c01db83545663b9e31142985e6c7cce8ee8cd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b6c01db83545663b9e31142985e6c7cce8ee8cd/",
-    "usedAt": 1784336406495,
-    "usedAtIso": "2026-07-18T01:00:06.495Z"
-  },
-  "source:8104b202bda94e48b8f0b1577d152b4729d45362": {
-    "url": "https://tudoaquisc.com.br/esporte/sao-bernardo-avai-serie-b-26",
-    "title": "Avaí empata com São Bernardo e permanece na zona de rebaixamento da Série B",
-    "guid": "sc1multi:152c4023836b32d73aa6163c7997306e2a7fe43f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_152c4023836b32d73aa6163c7997306e2a7fe43f/",
-    "usedAt": 1784336406495,
-    "usedAtIso": "2026-07-18T01:00:06.495Z"
-  },
   "source:e3e5fd4922b8c082253a073d692ae9da7490efbf": {
     "url": "https://tnsul.com/2026/07/17/sobe-para-quatro-o-numero-de-mortos-em-acidente-de-onibus-no-oeste-de-sc",
     "title": "Quatro mortos em acidente de ônibus na SC-492 em Maravilha",
@@ -942,5 +926,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4f55352682ec4ac2e910f2147a6254dbed7adb06/",
     "usedAt": 1784595606376,
     "usedAtIso": "2026-07-21T01:00:06.376Z"
+  },
+  "source:3b284f6410207fa3486c5d901c633feda6622bbf": {
+    "url": "https://correiosc.com.br/sorriso-maroto-confirmado-reveillon-2027-florianopolis",
+    "title": "Sorriso Maroto confirmado no Réveillon 2027 de Florianópolis",
+    "guid": "sc1multi:5cc7c26bc3dc9f3e34edb7926ef4015516ecb0b0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5cc7c26bc3dc9f3e34edb7926ef4015516ecb0b0/",
+    "usedAt": 1784599206261,
+    "usedAtIso": "2026-07-21T02:00:06.261Z"
+  },
+  "source:bd6083075969f1e08c8cd6ee28c458f0a3c1c9d6": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-agredir-esposa-ameacar-filho-e-danificar-casa-em-blumenau",
+    "title": "Homem é preso por agressão e ameaça em Blumenau",
+    "guid": "sc1multi:bab6494065cf22fdba0af3053ddb3da37495168f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bab6494065cf22fdba0af3053ddb3da37495168f/",
+    "usedAt": 1784599206261,
+    "usedAtIso": "2026-07-21T02:00:06.261Z"
+  },
+  "source:a073424551d89a695dcaf02d20c09e5183cfc8c0": {
+    "url": "https://rbatv.com.br/noticias/motorista-fica-inconsciente-apos-colisao-frontal-na-br-470-em-pouso-redondo",
+    "title": "Motorista fica inconsciente após colisão frontal na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:f6acdee52e39f4502bcc0c9c69aebe4bd2e4a8dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6acdee52e39f4502bcc0c9c69aebe4bd2e4a8dd/",
+    "usedAt": 1784599206261,
+    "usedAtIso": "2026-07-21T02:00:06.261Z"
+  },
+  "source:9a5db2b136db5e26cb026b64d1183864b96fd98e": {
+    "url": "https://rbatv.com.br/noticias/motociclista-sofre-fratura-exposta-apos-colisao-na-br-470-em-rio-do-sul",
+    "title": "Motociclista sofre fratura exposta após colisão na BR-470 em Rio do Sul",
+    "guid": "sc1multi:aca720461035b3066d5383444bb53c139f33ad84",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aca720461035b3066d5383444bb53c139f33ad84/",
+    "usedAt": 1784599206261,
+    "usedAtIso": "2026-07-21T02:00:06.261Z"
+  },
+  "source:59dc94f1da1926089540b01ad73bf6bb0c301cb4": {
+    "url": "https://scportais.com.br/2026/07/20/renegociacao-das-dividas-rurais-avanca-e-pode-devolver-capacidade-de-investimento-ao-produtor",
+    "title": "Renegociação das dívidas rurais beneficia produtores de Santa Catarina",
+    "guid": "sc1multi:7cbbb8ca0fe6e1b9d8daf54fcaef180a7501c629",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cbbb8ca0fe6e1b9d8daf54fcaef180a7501c629/",
+    "usedAt": 1784599206261,
+    "usedAtIso": "2026-07-21T02:00:06.261Z"
   }
 }
