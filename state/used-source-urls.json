@@ -1,36 +1,4 @@
 {
-  "source:36d1d7a1b252acc7eda83a011904b95c5258fdf8": {
-    "url": "https://tnsul.com/2026/07/18/idoso-morre-em-colisao-entre-caminhao-e-caminhonete-na-sc-283",
-    "title": "Idoso morre em colisão entre caminhão e caminhonete na SC-283 em Caibi",
-    "guid": "sc1multi:3152a8a32f599c0ce0ba22be0718c5fa5a8a37e4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3152a8a32f599c0ce0ba22be0718c5fa5a8a37e4/",
-    "usedAt": 1784379606390,
-    "usedAtIso": "2026-07-18T13:00:06.390Z"
-  },
-  "source:c7166af72c97622d7cb470e7a87e6a9a15118b6a": {
-    "url": "https://rbatv.com.br/noticias/homem-e-encontrado-morto-a-margem-do-rio-benedito-proximo-a-br-470",
-    "title": "Homem é encontrado morto às margens do Rio Benedito em Indaial",
-    "guid": "sc1multi:db12446b8328f77ce08ea62b42ea7bbd9027ba83",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_db12446b8328f77ce08ea62b42ea7bbd9027ba83/",
-    "usedAt": 1784379606390,
-    "usedAtIso": "2026-07-18T13:00:06.390Z"
-  },
-  "source:48b6a033d690713482f94f9e349e899aab963faf": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-prestam-atendimento-a-mae-e-recem-nascido-apos-parto-em-residencia",
-    "title": "Bombeiros de Presidente Getúlio atendem parto domiciliar e encaminham mãe e bebê",
-    "guid": "sc1multi:3317e337f9ee8dca7e3f25c258e637387279bd6f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3317e337f9ee8dca7e3f25c258e637387279bd6f/",
-    "usedAt": 1784379606390,
-    "usedAtIso": "2026-07-18T13:00:06.390Z"
-  },
-  "source:b77cca927e7816f576ae0131af8507d9281fc097": {
-    "url": "https://ocp.news/seguranca/motociclista-empina-moto-resiste-a-abordagem-e-tem-veiculo-recolhido-em-jaragua-do-sul",
-    "title": "Motociclista empina moto e tem veículo recolhido em Jaraguá do Sul",
-    "guid": "sc1multi:b77cca927e7816f576ae0131af8507d9281fc097",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b77cca927e7816f576ae0131af8507d9281fc097/",
-    "usedAt": 1784379606390,
-    "usedAtIso": "2026-07-18T13:00:06.390Z"
-  },
   "source:a90fc284e824c574a8784cd4b0e65bcc82560937": {
     "url": "https://rbatv.com.br/noticias/guarda-municipal-auxilia-em-atendimento-a-bebe-engasgado-no-centro-de-rio-do-sul",
     "title": "Guarda Municipal de Rio do Sul auxilia bebê engasgado no Centro da cidade",
@@ -1078,5 +1046,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2eb467e3e0c56e351ccc7afa8056929257695e4/",
     "usedAt": 1784638806005,
     "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:7529cf39503e6babeaef997b3ac9265ed31c730f": {
+    "url": "https://tnsul.com/2026/07/21/idoso-sofre-parada-cardiaca-e-e-socorrido-pelos-bombeiros-em-forquilhinha",
+    "title": "Idoso sofre parada cardíaca e é socorrido em Forquilhinha",
+    "guid": "sc1multi:2b4099044d6a04a235a24630d4207c5e569194ac",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b4099044d6a04a235a24630d4207c5e569194ac/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd": {
+    "url": "https://ocp.news/entretenimento/a-odisseia-novo-epico-de-christopher-nolan-estreia-em-cinema-shopping-de-florianopolis",
+    "title": "Filme 'A Odisseia' estreia em cinema de Florianópolis com tela gigante",
+    "guid": "sc1multi:b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb": {
+    "url": "https://ocp.news/seguranca/pmsc-recupera-13-celulares-e-um-tablet-roubados-de-loja-em-florianopolis",
+    "title": "Polícia Militar recupera celulares roubados em Florianópolis e cumpre mandado",
+    "guid": "sc1multi:9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:045c7d3735817746a60afa8831aad255c0272fa5": {
+    "url": "https://ocp.news/politica/julia-zanatta-coleta-assinatura-para-pedir-impeachment-de-lula",
+    "title": "Deputada Júlia Zanatta coleta assinaturas para impeachment de Lula",
+    "guid": "sc1multi:045c7d3735817746a60afa8831aad255c0272fa5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_045c7d3735817746a60afa8831aad255c0272fa5/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:cecaf80a1d769f0e1bb579d0e790849d723153ac": {
+    "url": "https://ocp.news/esporte/bocha-veja-a-classificacao-do-municipal-de-jaragua-do-sul-apos-o-fim-do-turno",
+    "title": "Campeonato Municipal de Bocha de Jaraguá do Sul avança para o returno",
+    "guid": "sc1multi:cecaf80a1d769f0e1bb579d0e790849d723153ac",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cecaf80a1d769f0e1bb579d0e790849d723153ac/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:86acf6e2c3b8454eb9177e1f028a3d99f99435fe": {
+    "url": "https://ocp.news/seguranca/homem-investigado-por-ataque-com-canivete-e-preso-em-jaragua-do-sul-defesa-afirma-que-vai-recorrer",
+    "title": "Homem é preso por ataque com canivete em Jaraguá do Sul",
+    "guid": "sc1multi:86acf6e2c3b8454eb9177e1f028a3d99f99435fe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_86acf6e2c3b8454eb9177e1f028a3d99f99435fe/",
+    "usedAt": 1784642406335,
+    "usedAtIso": "2026-07-21T14:00:06.335Z"
   }
 }
