@@ -1,28 +1,4 @@
 {
-  "source:a90fc284e824c574a8784cd4b0e65bcc82560937": {
-    "url": "https://rbatv.com.br/noticias/guarda-municipal-auxilia-em-atendimento-a-bebe-engasgado-no-centro-de-rio-do-sul",
-    "title": "Guarda Municipal de Rio do Sul auxilia bebê engasgado no Centro da cidade",
-    "guid": "sc1multi:4bf28d62cb946367c0606ab22d09a4c82df6843d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bf28d62cb946367c0606ab22d09a4c82df6843d/",
-    "usedAt": 1784383207250,
-    "usedAtIso": "2026-07-18T14:00:07.250Z"
-  },
-  "source:539fbabffe355226807c26d03dd551c84c57cb78": {
-    "url": "https://ocp.news/seguranca/santa-catarina-lidera-indice-de-acidentes-em-rodovias-federais-e-registra-o-dobro-da-media-nacional-de-mortes",
-    "title": "Santa Catarina lidera acidentes e mortes em rodovias federais no país",
-    "guid": "sc1multi:539fbabffe355226807c26d03dd551c84c57cb78",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_539fbabffe355226807c26d03dd551c84c57cb78/",
-    "usedAt": 1784383207250,
-    "usedAtIso": "2026-07-18T14:00:07.250Z"
-  },
-  "source:2e950050167f7ee8b02d8e5fa4493b5f7873be14": {
-    "url": "https://rbatv.com.br/noticias/operacao-conjunta-entre-pmsc-e-prf-apreende-3-550-quilos-de-cocaina-em-santa-catarina",
-    "title": "PMSC e PRF apreendem 3,55 toneladas de cocaína em Navegantes e Blumenau",
-    "guid": "sc1multi:02ea78af85f3b06a4a32066cb058d1a04d076df1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_02ea78af85f3b06a4a32066cb058d1a04d076df1/",
-    "usedAt": 1784383207250,
-    "usedAtIso": "2026-07-18T14:00:07.250Z"
-  },
   "source:a5420bc8abd0caecc7706d929824c75910397ad4": {
     "url": "https://tnsul.com/2026/07/18/so-a-vitoria-interessa-ao-caravaggio-na-serie-b-do-catarinense",
     "title": "Caravaggio busca vitória para manter sonho de título na Série B catarinense",
@@ -1094,5 +1070,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_86acf6e2c3b8454eb9177e1f028a3d99f99435fe/",
     "usedAt": 1784642406335,
     "usedAtIso": "2026-07-21T14:00:06.335Z"
+  },
+  "source:8236807ec29884e7db60dd4bc42711622edefe36": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-goleia-adversarios-na-arena-e-avanca-as-semifinais-do-estadual-sub-15",
+    "title": "Jaraguá Futsal avança às semifinais do Catarinense Sub-15 com três goleadas",
+    "guid": "sc1multi:8236807ec29884e7db60dd4bc42711622edefe36",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8236807ec29884e7db60dd4bc42711622edefe36/",
+    "usedAt": 1784646006488,
+    "usedAtIso": "2026-07-21T15:00:06.488Z"
+  },
+  "source:b13f47f8cd2fe1d8d6403a047b756c3d52816054": {
+    "url": "https://tnsul.com/2026/07/21/colisao-entre-moto-e-carro-deixa-motociclista-ferido-no-centro-de-laguna",
+    "title": "Motociclista fica ferido após colisão com carro no Centro de Laguna",
+    "guid": "sc1multi:f3a870f6992434714227d2819c77d14c47f3f9e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3a870f6992434714227d2819c77d14c47f3f9e7/",
+    "usedAt": 1784646006488,
+    "usedAtIso": "2026-07-21T15:00:06.488Z"
+  },
+  "source:63d81d90a67ab47a3f0705b4729410a9d66ad74b": {
+    "url": "https://ocp.news/cotidiano/guaramirim-apresenta-masterplan-com-planejamento-para-os-proximos-30-anos",
+    "title": "Guaramirim apresenta Masterplan para desenvolvimento dos próximos 30 anos",
+    "guid": "sc1multi:63d81d90a67ab47a3f0705b4729410a9d66ad74b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63d81d90a67ab47a3f0705b4729410a9d66ad74b/",
+    "usedAt": 1784646006488,
+    "usedAtIso": "2026-07-21T15:00:06.488Z"
+  },
+  "source:8b3b30b25f3377f93fdf3cf36260ef7b1702c449": {
+    "url": "https://ocp.news/cotidiano/jaragua-do-sul-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro",
+    "title": "Jaraguá do Sul transfere ponto facultativo do Dia do Servidor Público para 30 de outubro",
+    "guid": "sc1multi:8b3b30b25f3377f93fdf3cf36260ef7b1702c449",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b3b30b25f3377f93fdf3cf36260ef7b1702c449/",
+    "usedAt": 1784646006488,
+    "usedAtIso": "2026-07-21T15:00:06.488Z"
   }
 }
