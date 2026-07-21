@@ -1,12 +1,4 @@
 {
-  "source:f43bc3743f4d8d7db5bd043d01d55e250a478963": {
-    "url": "https://tnsul.com/2026/07/18/praia-da-ferrugem-recebe-nova-geracao-catarinense-de-surfe",
-    "title": "Praia da Ferrugem recebe etapa do Circuito Catarinense de Surfe Infantil",
-    "guid": "sc1multi:e5d36ed87d1c51bf087faaf5b480fdd0da1c6082",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e5d36ed87d1c51bf087faaf5b480fdd0da1c6082/",
-    "usedAt": 1784397606491,
-    "usedAtIso": "2026-07-18T18:00:06.491Z"
-  },
   "source:42399f301401057465dffcc85425f4bb53886211": {
     "url": "https://tnsul.com/2026/07/18/final-do-campeonato-icarense-taca-icara-65-anos-acontece-neste-domingo",
     "title": "Final do Campeonato Içarense e Quarentão movimentam Içara neste domingo",
@@ -1086,5 +1078,85 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b15c9d87acf9cb9cb2b60d179bc8e0fbfad47341/",
     "usedAt": 1784656806415,
     "usedAtIso": "2026-07-21T18:00:06.415Z"
+  },
+  "source:2789aa0f1027c99f1dbb29874c6034262a3293c6": {
+    "url": "https://ocp.news/politica/vereadores-aprovam-criacao-de-selos-para-incentivar-destinacao-do-imposto-de-renda",
+    "title": "Jaraguá do Sul cria selos para incentivar destinação do Imposto de Renda",
+    "guid": "sc1multi:2789aa0f1027c99f1dbb29874c6034262a3293c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2789aa0f1027c99f1dbb29874c6034262a3293c6/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:e3e4f06ff7e3053173158b7247acdf54a8f9795c": {
+    "url": "https://rbatv.com.br/noticias/mecanica-e-arrombada-e-tem-ferramentas-furtadas-em-rio-do-sul",
+    "title": "Ferramentas são furtadas em mecânica no bairro Canta Galo, Rio do Sul",
+    "guid": "sc1multi:82c8a0b3c155e9db7816b2d03bbc88e622de36e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_82c8a0b3c155e9db7816b2d03bbc88e622de36e7/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:60f265abe22f29c08546320b7470b8e1b0681d3c": {
+    "url": "https://ocp.news/cotidiano/interdicoes-na-rua-dona-francisca-em-pirabeiraba-alteram-transito-e-itinerarios-de-onibus-nesta-semana",
+    "title": "Interdições na rua Dona Francisca em Pirabeiraba alteram trânsito e ônibus",
+    "guid": "sc1multi:60f265abe22f29c08546320b7470b8e1b0681d3c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_60f265abe22f29c08546320b7470b8e1b0681d3c/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:91ec70228609f6b1d39daae9c768ea8b37f0f5c4": {
+    "url": "https://rbatv.com.br/noticias/ponte-entre-o-bremer-e-a-barra-da-itoupava-e-liberada-apos-reforma",
+    "title": "Ponte Cláudio Baldo entre Bremer e Barra da Itoupava é liberada em Rio do Sul",
+    "guid": "sc1multi:f17c998fd497400f70821fc7c4b8c12bf7263a0e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f17c998fd497400f70821fc7c4b8c12bf7263a0e/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:ade39aabce92c6a05295492cbb196cfbbc02a9b5": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-guaramirim-abre-chamamento-para-empresas-interessadas-em-doar-itens-para-o-desfile-festivo-dos-77-anos",
+    "title": "Guaramirim abre chamamento para doação de itens ao desfile dos 77 anos",
+    "guid": "sc1multi:ade39aabce92c6a05295492cbb196cfbbc02a9b5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ade39aabce92c6a05295492cbb196cfbbc02a9b5/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:ab023effa883920607e5f39d6a473609d1db770d": {
+    "url": "https://tnsul.com/2026/07/21/icara-proprietario-recebe-multa-e-teme-punicao-injusta-por-lixo-em-terreno",
+    "title": "Proprietário de terreno em Içara questiona multa por lixo no loteamento",
+    "guid": "sc1multi:5c56af417b0af4d687bf1a995082316c34350cc7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5c56af417b0af4d687bf1a995082316c34350cc7/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:0b3767fdabf8285066262560524e225d8e3a01f5": {
+    "url": "https://ocp.news/cotidiano/kolonistenfest1-reune-mais-de-35-mil-pessoas-na-sociedade-alianca",
+    "title": "Kolonistenfest reúne mais de 35 mil pessoas em Jaraguá do Sul",
+    "guid": "sc1multi:0b3767fdabf8285066262560524e225d8e3a01f5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0b3767fdabf8285066262560524e225d8e3a01f5/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:774c7fd4fe771301fa0d530661953fbffb253a44": {
+    "url": "https://ocp.news/cotidiano/concurso-do-ifsc-abre-65-vagas-em-santa-catarina-com-salarios-de-ate-r-132-mil",
+    "title": "IFSC abre 65 vagas em Santa Catarina com salários de até R$ 13,2 mil",
+    "guid": "sc1multi:774c7fd4fe771301fa0d530661953fbffb253a44",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_774c7fd4fe771301fa0d530661953fbffb253a44/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:9713e48e5f2d011be6f8b5fa5bdbd735049015ce": {
+    "url": "https://tnsul.com/2026/07/21/apos-perder-parte-da-perna-por-infeccao-moradora-de-criciuma-busca-apoio",
+    "title": "Moradora de Criciúma busca apoio após amputação por infecção rara",
+    "guid": "sc1multi:739cde99a016d42c0802d866dd99407b267c42cb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_739cde99a016d42c0802d866dd99407b267c42cb/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:1ecdad02a65cb86dc5e20b0ac4b080fff088f29f": {
+    "url": "https://tudoaquisc.com.br/agenda/evento-mulher-negra-latino-americana-26",
+    "title": "Florianópolis realiza evento em homenagem ao Dia da Mulher Negra Latino-Americana e Caribenha",
+    "guid": "sc1multi:459218d846b0ec12a6ecd9bb4eaff6b8da19a42b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_459218d846b0ec12a6ecd9bb4eaff6b8da19a42b/",
+    "usedAt": 1784660406530,
+    "usedAtIso": "2026-07-21T19:00:06.530Z"
   }
 }
