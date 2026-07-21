@@ -1,12 +1,4 @@
 {
-  "source:da0d581f59d6be87928ac071bc42c350689f459a": {
-    "url": "https://tnsul.com/2026/07/18/falha-nos-freios-de-caminhao-provoca-colisao-e-deixa-dois-feridos",
-    "title": "Falha nos freios de caminhão causa acidente e deixa dois feridos em Tubarão",
-    "guid": "sc1multi:a36a68d4fdd9202daa4543be0e7460515bdd9deb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a36a68d4fdd9202daa4543be0e7460515bdd9deb/",
-    "usedAt": 1784372406593,
-    "usedAtIso": "2026-07-18T11:00:06.593Z"
-  },
   "source:8a1236d3920408822918dde1c0a38bdd2a455c0d": {
     "url": "https://tnsul.com/2026/07/18/tigre-faz-confronto-direto-pela-lideranca-da-serie-b-do-brasileiro",
     "title": "Criciúma enfrenta Vila Nova em confronto direto pela liderança da Série B",
@@ -942,5 +934,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2d73bd1144f969a09e742c7b7128b17f87907237/",
     "usedAt": 1784602806473,
     "usedAtIso": "2026-07-21T03:00:06.473Z"
+  },
+  "source:ea960aa8ca0a6fad5a8f207485f859262f1445e3": {
+    "url": "https://tnsul.com/2026/07/21/motociclista-fica-gravemente-ferido-apos-colisao-com-carro-na-sc-434",
+    "title": "Motociclista fica gravemente ferido após colisão na SC-434 em Garopaba",
+    "guid": "sc1multi:f2a5f3a04ac2ff5cb06e8f022acc07fc66fc4e24",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f2a5f3a04ac2ff5cb06e8f022acc07fc66fc4e24/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
+  },
+  "source:175393542e2dd62a069cb5f14be77b3ebffbb677": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/apreendidos-prf-sc-210726",
+    "title": "PRF apreende carga ilegal de iPhones e remédios em Itapema, SC",
+    "guid": "sc1multi:69fb5a766cac5f33b6b94941b282f7cc3b62b5ce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69fb5a766cac5f33b6b94941b282f7cc3b62b5ce/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
+  },
+  "source:3d78d79fba151dea4c22d2f6b96a33da2f85eb6c": {
+    "url": "https://rbatv.com.br/noticias/fabrica-de-moveis-e-atingida-por-incendio-em-salete",
+    "title": "Incêndio atinge fábrica de móveis em Salete, Santa Catarina",
+    "guid": "sc1multi:a0cbe54ca4b69727c9d2e6d21235ebedef1b4a65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a0cbe54ca4b69727c9d2e6d21235ebedef1b4a65/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
+  },
+  "source:7e1f271fc390238ceff63928ee16c262360cbb53": {
+    "url": "https://tnsul.com/2026/07/21/homem-fica-ferido-apos-ser-atropelado-na-br-101-em-sombrio",
+    "title": "Homem fica ferido após atropelamento na BR-101 em Sombrio",
+    "guid": "sc1multi:19bea172c11e1cbfcc59bb08275abca100728030",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19bea172c11e1cbfcc59bb08275abca100728030/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
+  },
+  "source:cc08a9965efb7b10548b1ee531418f6274228034": {
+    "url": "https://rbatv.com.br/noticias/operacao-de-combate-a-incendio-em-silo-dura-cerca-de-10-horas-em-pouso-redondo",
+    "title": "Incêndio em silo mobiliza bombeiros por 10 horas em Pouso Redondo",
+    "guid": "sc1multi:a6f3ffc2419dbe834953fae8048f9e300abf6d6e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6f3ffc2419dbe834953fae8048f9e300abf6d6e/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
+  },
+  "source:f15b735da0d064f8d2746dc1fac0fd4ed6fa57a9": {
+    "url": "https://ocp.news/cotidiano/frente-fria-muda-o-tempo-e-aumenta-o-risco-de-temporais-em-florianopolis-e-regiao",
+    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:f15b735da0d064f8d2746dc1fac0fd4ed6fa57a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f15b735da0d064f8d2746dc1fac0fd4ed6fa57a9/",
+    "usedAt": 1784631609302,
+    "usedAtIso": "2026-07-21T11:00:09.302Z"
   }
 }
