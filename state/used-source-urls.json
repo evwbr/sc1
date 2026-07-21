@@ -1,36 +1,4 @@
 {
-  "source:f7d84958a0f128d76555fc8edaba78b1ec57b459": {
-    "url": "https://ocp.news/esporte/sport-club-jaragua-e-goleado-pelo-metropolitano-na-serie-b",
-    "title": "Sport Club Jaraguá é goleado pelo Metropolitano na Série B do Catarinense",
-    "guid": "sc1multi:f7d84958a0f128d76555fc8edaba78b1ec57b459",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7d84958a0f128d76555fc8edaba78b1ec57b459/",
-    "usedAt": 1784412006297,
-    "usedAtIso": "2026-07-18T22:00:06.297Z"
-  },
-  "source:605a23bac41fbb4cce150fd26975a6d7de6dc14f": {
-    "url": "https://tnsul.com/2026/07/18/icara-casa-e-parcialmente-queimada",
-    "title": "Incêndio atinge cozinha de residência em Içara",
-    "guid": "sc1multi:e7489faed5e3bea459e509e10087519ac3c5da76",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7489faed5e3bea459e509e10087519ac3c5da76/",
-    "usedAt": 1784412006297,
-    "usedAtIso": "2026-07-18T22:00:06.297Z"
-  },
-  "source:407eb892229741fbc011024fdd70b5a02e7e7472": {
-    "url": "https://ocp.news/seguranca/discussao-entre-casal-termina-com-os-dois-feridos-e-levados-a-delegacia-em-guaramirim",
-    "title": "Discussão entre casal em Guaramirim termina com feridos e ida à delegacia",
-    "guid": "sc1multi:407eb892229741fbc011024fdd70b5a02e7e7472",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_407eb892229741fbc011024fdd70b5a02e7e7472/",
-    "usedAt": 1784412006297,
-    "usedAtIso": "2026-07-18T22:00:06.297Z"
-  },
-  "source:7983c393d6fc360a72ec8d080c82d4822a2898fe": {
-    "url": "https://tnsul.com/2026/07/18/tigre-vence-e-amplia-vantagem-na-lideranca-da-serie-b",
-    "title": "Criciúma vence Vila Nova e amplia liderança na Série B",
-    "guid": "sc1multi:24b6e6bbbfc32bfc6bb53a3964681c746c63a803",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_24b6e6bbbfc32bfc6bb53a3964681c746c63a803/",
-    "usedAt": 1784412006297,
-    "usedAtIso": "2026-07-18T22:00:06.297Z"
-  },
   "source:23c68eee073f272cb9b38b82476d7f523f9b3972": {
     "url": "https://tnsul.com/2026/07/18/caravaggio-vacila-e-cede-empate-ao-nacao",
     "title": "Caravaggio empata com Nação e complica classificação na Série B catarinense",
@@ -1206,5 +1174,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_da47d89c9f3093fd6b0b95552a53f333133293d9/",
     "usedAt": 1784667606738,
     "usedAtIso": "2026-07-21T21:00:06.738Z"
+  },
+  "source:fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-do-sul-aprova-mocao-para-ampliar-emissao-de-identidades",
+    "title": "Câmara de Jaraguá do Sul aprova moção para ampliar emissão de identidades",
+    "guid": "sc1multi:fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef/",
+    "usedAt": 1784671206862,
+    "usedAtIso": "2026-07-21T22:00:06.862Z"
+  },
+  "source:1478d4376138358754f49d033c038ba58edb258e": {
+    "url": "https://tnsul.com/2026/07/21/criciuma-tem-o-8o-maior-eleitorado-de-sc-e-amrec-passa-de-360-mil-eleitores",
+    "title": "Criciúma tem o 8º maior eleitorado de Santa Catarina nas Eleições 2026",
+    "guid": "sc1multi:0bb6fb7ca304d60f9369da43ae2e91a818d8caec",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0bb6fb7ca304d60f9369da43ae2e91a818d8caec/",
+    "usedAt": 1784671206862,
+    "usedAtIso": "2026-07-21T22:00:06.862Z"
   }
 }
