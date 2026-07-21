@@ -1,12 +1,4 @@
 {
-  "source:8a1236d3920408822918dde1c0a38bdd2a455c0d": {
-    "url": "https://tnsul.com/2026/07/18/tigre-faz-confronto-direto-pela-lideranca-da-serie-b-do-brasileiro",
-    "title": "Criciúma enfrenta Vila Nova em confronto direto pela liderança da Série B",
-    "guid": "sc1multi:51224cb746cfa32b54c70b46f193aec9a70399c3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_51224cb746cfa32b54c70b46f193aec9a70399c3/",
-    "usedAt": 1784376006186,
-    "usedAtIso": "2026-07-18T12:00:06.186Z"
-  },
   "source:36d1d7a1b252acc7eda83a011904b95c5258fdf8": {
     "url": "https://tnsul.com/2026/07/18/idoso-morre-em-colisao-entre-caminhao-e-caminhonete-na-sc-283",
     "title": "Idoso morre em colisão entre caminhão e caminhonete na SC-283 em Caibi",
@@ -1014,5 +1006,77 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_988139f4a7de4b7f0b4b035c7674f4b67a41ffe3/",
     "usedAt": 1784635205987,
     "usedAtIso": "2026-07-21T12:00:05.987Z"
+  },
+  "source:97bf80b9783cdd2b3ca6b973bae755f6249fad02": {
+    "url": "https://ocp.news/economia/comeca-a-fenacom-maior-feira-da-construcao-civil-na-grande-florianopolis",
+    "title": "Fenacom 2026 inicia em São José com mais de 120 marcas da construção civil",
+    "guid": "sc1multi:97bf80b9783cdd2b3ca6b973bae755f6249fad02",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97bf80b9783cdd2b3ca6b973bae755f6249fad02/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:f64124a7de90d9b20b28b21d6c57413fe5dccaed": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-sao-jose-publica-nova-data-para-licitacao-internacional-da-beira-mar-de-barreiros",
+    "title": "São José anuncia nova data para licitação da Beira-Mar de Barreiros",
+    "guid": "sc1multi:f64124a7de90d9b20b28b21d6c57413fe5dccaed",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f64124a7de90d9b20b28b21d6c57413fe5dccaed/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:1ff8af83b0e5d26d84e8843e74a86f566f1693f6": {
+    "url": "https://ocp.news/cotidiano/procon-de-blumenau-finaliza-etapa-de-fiscalizacao-em-mais-de-60-postos-de-combustiveis-da-cidade",
+    "title": "Procon de Blumenau fiscaliza preços em 66 postos de combustíveis",
+    "guid": "sc1multi:1ff8af83b0e5d26d84e8843e74a86f566f1693f6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ff8af83b0e5d26d84e8843e74a86f566f1693f6/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:0295205a1645619ca64fecca37369ed40111c848": {
+    "url": "https://ocp.news/esporte/amigos-do-pexinga-e-o-campeao-do-campeonato-municipal-de-futebol-de-criciuma",
+    "title": "Amigos do Pexinga conquista Campeonato Municipal de Futebol de Criciúma",
+    "guid": "sc1multi:0295205a1645619ca64fecca37369ed40111c848",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0295205a1645619ca64fecca37369ed40111c848/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:3e1eeeaa9d1c30196e7a088b59c1bf6f182d153d": {
+    "url": "https://ocp.news/politica/eleitores-fora-do-domicilio-eleitoral-podem-solicitar-voto-em-transito-saiba-como",
+    "title": "Eleitores de Santa Catarina podem solicitar voto em trânsito até 20 de agosto",
+    "guid": "sc1multi:3e1eeeaa9d1c30196e7a088b59c1bf6f182d153d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e1eeeaa9d1c30196e7a088b59c1bf6f182d153d/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:faf59b31bdc38d5da4800a0bfe0b11abee68132e": {
+    "url": "https://tnsul.com/2026/07/21/baleia-jubarte-encalhada-em-praia-mobiliza-forca-tarefa-em-sc",
+    "title": "Baleia-jubarte morta é encontrada em São Francisco do Sul",
+    "guid": "sc1multi:a95a0ddc12757ee82ce0bf1af38aa4efeff2cb1d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a95a0ddc12757ee82ce0bf1af38aa4efeff2cb1d/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:56fb669c56e28877cc594617c4886f006bfe2994": {
+    "url": "https://rbatv.com.br/noticias/colisao-entre-quatro-veiculos-deixa-cinco-feridos-na-br-470-em-rio-do-sul",
+    "title": "Colisão entre quatro veículos deixa cinco feridos na BR-470 em Rio do Sul",
+    "guid": "sc1multi:bde13f22ecac5c6c5c944cf6d8ab216979441eb3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bde13f22ecac5c6c5c944cf6d8ab216979441eb3/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:345969a68744f5bdefc962b1d289b1acffbf5e1c": {
+    "url": "https://correiosc.com.br/prf-intercepta-carreta-com-carga-milionaria-de-eletronicos-e-insumos-medicos-em-santa-catarina",
+    "title": "PRF apreende carga milionária de eletrônicos em Itapema",
+    "guid": "sc1multi:1506ad526c0a97de3f8269234f18804b9de791de",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1506ad526c0a97de3f8269234f18804b9de791de/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
+  },
+  "source:5585f30dcca1f5b5a13347d3c93b4bcc5cac9946": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/greve-ifood-210726",
+    "title": "Greve dos entregadores do iFood começa nesta terça em Florianópolis",
+    "guid": "sc1multi:d2eb467e3e0c56e351ccc7afa8056929257695e4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2eb467e3e0c56e351ccc7afa8056929257695e4/",
+    "usedAt": 1784638806005,
+    "usedAtIso": "2026-07-21T13:00:06.005Z"
   }
 }
