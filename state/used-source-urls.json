@@ -1,28 +1,4 @@
 {
-  "source:42399f301401057465dffcc85425f4bb53886211": {
-    "url": "https://tnsul.com/2026/07/18/final-do-campeonato-icarense-taca-icara-65-anos-acontece-neste-domingo",
-    "title": "Final do Campeonato Içarense e Quarentão movimentam Içara neste domingo",
-    "guid": "sc1multi:0871fe27900db46f1c18bde4d7681a2874a76c26",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0871fe27900db46f1c18bde4d7681a2874a76c26/",
-    "usedAt": 1784401207133,
-    "usedAtIso": "2026-07-18T19:00:07.133Z"
-  },
-  "source:669aa601047c3c1bc98c7456be35bf07c6751bdc": {
-    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-as-margens-do-rio-benedito-em-indaial",
-    "title": "Homem é encontrado morto às margens do Rio Benedito em Indaial",
-    "guid": "sc1multi:669aa601047c3c1bc98c7456be35bf07c6751bdc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_669aa601047c3c1bc98c7456be35bf07c6751bdc/",
-    "usedAt": 1784401207133,
-    "usedAtIso": "2026-07-18T19:00:07.133Z"
-  },
-  "source:478161db0e0e877de0f094b64b131332b4d57978": {
-    "url": "https://ocp.news/seguranca/homem-morre-apos-ser-esfaqueado-em-joinville-companheira-diz-que-reagiu-a-enforcamento",
-    "title": "Homem morre após ser esfaqueado em Joinville durante briga com companheira",
-    "guid": "sc1multi:478161db0e0e877de0f094b64b131332b4d57978",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_478161db0e0e877de0f094b64b131332b4d57978/",
-    "usedAt": 1784404806096,
-    "usedAtIso": "2026-07-18T20:00:06.096Z"
-  },
   "source:fa694e983bec65d1231a423ba9949282e6831659": {
     "url": "https://ocp.news/cotidiano/jaragua-do-sul-150-anos-uma-noite-que-celebrou-a-historia-a-fe-e-a-musica",
     "title": "Jaraguá do Sul celebra 150 anos com evento gospel e música",
@@ -1158,5 +1134,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_459218d846b0ec12a6ecd9bb4eaff6b8da19a42b/",
     "usedAt": 1784660406530,
     "usedAtIso": "2026-07-21T19:00:06.530Z"
+  },
+  "source:fa2a33a453721dd169a1236dc99d64abfad2e0d8": {
+    "url": "https://ocp.news/seguranca/pericia-provoca-interdicao-temporaria-na-rua-roberto-ziemann-em-jaragua-do-sul",
+    "title": "Rua Roberto Ziemann é interditada para perícia em Jaraguá do Sul",
+    "guid": "sc1multi:fa2a33a453721dd169a1236dc99d64abfad2e0d8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fa2a33a453721dd169a1236dc99d64abfad2e0d8/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:0af1927b7bbc825f86b1183b149d6e723450c25f": {
+    "url": "https://tnsul.com/2026/07/21/projeto-traz-ranking-com-as-50-cidades-de-sc-que-maus-maltrata-animais",
+    "title": "Ministério Público lança projeto contra maus-tratos a animais em Santa Catarina",
+    "guid": "sc1multi:f59c4680bfbfff6276561c84be285940d82ad3c7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f59c4680bfbfff6276561c84be285940d82ad3c7/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:6b747aa755df0de6110d02f3aeab35dc3bc635c9": {
+    "url": "https://ocp.news/politica/camara-realiza-solenidade-nesta-quarta-feira-pelos-150-de-jaragua-do-sul",
+    "title": "Jaraguá do Sul celebra 150 anos com solenidade na Câmara Municipal",
+    "guid": "sc1multi:6b747aa755df0de6110d02f3aeab35dc3bc635c9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b747aa755df0de6110d02f3aeab35dc3bc635c9/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:4b648b68b79696215acc310c28a57db9cf13cbcd": {
+    "url": "https://tnsul.com/2026/07/21/mp-acusa-irregularidades-em-contratacao-do-cisamrec",
+    "title": "MP investiga irregularidades em contratação do Cisamrec em Criciúma",
+    "guid": "sc1multi:7ba0be5a678c71e0895de0a38601669c81cbe419",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ba0be5a678c71e0895de0a38601669c81cbe419/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:bb0901b18e955166cbdd7c34c3414afb07daeef5": {
+    "url": "https://rbatv.com.br/noticias/homem-e-flagrado-com-cinco-aves-silvestres-mantidas-em-cativeiro-em-agrolandia",
+    "title": "Homem é flagrado com aves silvestres em cativeiro em Agrolândia",
+    "guid": "sc1multi:b986854759936ec1e5d8942ecb33147093fd3d9c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b986854759936ec1e5d8942ecb33147093fd3d9c/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
+  },
+  "source:2cf1bed8e4e059321cacd4353715cdf2eb829d73": {
+    "url": "https://ocp.news/cotidiano/santa-catarina-esta-sob-quatro-alertas-do-inmet-para-vendaval-tempestades-e-chuva-acumulada",
+    "title": "Santa Catarina recebe quatro alertas do Inmet para vendavais e tempestades",
+    "guid": "sc1multi:2cf1bed8e4e059321cacd4353715cdf2eb829d73",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cf1bed8e4e059321cacd4353715cdf2eb829d73/",
+    "usedAt": 1784664006517,
+    "usedAtIso": "2026-07-21T20:00:06.517Z"
   }
 }
