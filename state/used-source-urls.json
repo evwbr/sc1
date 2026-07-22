@@ -1,12 +1,4 @@
 {
-  "source:36e57f10d446c6173a0352e6e0e8ba60f86e1a58": {
-    "url": "https://tnsul.com/2026/07/19/motociclista-morre-apos-colisao-com-carro-no-bairro-morro-estevao",
-    "title": "Motociclista morre após colisão com carro em Criciúma",
-    "guid": "sc1multi:fc9691b12df7cf294d0851600652f484f70fcd28",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc9691b12df7cf294d0851600652f484f70fcd28/",
-    "usedAt": 1784458806311,
-    "usedAtIso": "2026-07-19T11:00:06.311Z"
-  },
   "source:bdafb9f3d6213d10bc342cc060fbaaf41d6c9476": {
     "url": "https://tnsul.com/2026/07/19/colisao-entre-duas-motocicletas-deixa-dois-jovens-mortos-em-tubarao",
     "title": "Acidente entre motocicletas mata dois jovens em Tubarão",
@@ -1206,5 +1198,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62a9c2b9e42e72b3236887ef86940bd042be3282/",
     "usedAt": 1784696407094,
     "usedAtIso": "2026-07-22T05:00:07.094Z"
+  },
+  "source:e31616bd178a98133e1aa223dc02c154b3319c12": {
+    "url": "https://ocp.news/cotidiano/frente-fria-altera-tempo-em-florianopolis-confira-a-previsao",
+    "title": "Frente fria provoca instabilidade e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:e31616bd178a98133e1aa223dc02c154b3319c12",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e31616bd178a98133e1aa223dc02c154b3319c12/",
+    "usedAt": 1784718006621,
+    "usedAtIso": "2026-07-22T11:00:06.621Z"
   }
 }
