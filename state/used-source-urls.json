@@ -1,28 +1,4 @@
 {
-  "source:9e32cfc68fd7be10b3a7ae646e3520b0ec0c640d": {
-    "url": "https://tnsul.com/2026/07/18/criciuma-novo-chafariz-leva-diversao-a-criancas-no-parque-das-nacoes",
-    "title": "Novo chafariz interativo anima crianças no Parque das Nações em Criciúma",
-    "guid": "sc1multi:09ac07bdfbe0507b1de1058da34109ae6d97f130",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_09ac07bdfbe0507b1de1058da34109ae6d97f130/",
-    "usedAt": 1784422806395,
-    "usedAtIso": "2026-07-19T01:00:06.395Z"
-  },
-  "source:0332e6f0bb10ae4683d7f9ada41eb3513563905f": {
-    "url": "https://rbatv.com.br/noticias/ponte-anita-garibaldi-tera-trafego-parcialmente-liberado-a-partir-deste-domingo",
-    "title": "Tráfego na Ponte Anita Garibaldi em Laguna será parcialmente liberado",
-    "guid": "sc1multi:ac3dfe741122e824c2313e3408d722de0522dcf7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac3dfe741122e824c2313e3408d722de0522dcf7/",
-    "usedAt": 1784422806395,
-    "usedAtIso": "2026-07-19T01:00:06.395Z"
-  },
-  "source:e74079b55e907c1fc05befc05ac80036d8bf1c8f": {
-    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-moto-mobiliza-equipes-de-resgate-na-br-470-em-ascurra",
-    "title": "Colisão entre carro e moto mobiliza resgate na BR-470 em Ascurra",
-    "guid": "sc1multi:2a0396ff42713f2262aec8af333100fbc3bcfef6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a0396ff42713f2262aec8af333100fbc3bcfef6/",
-    "usedAt": 1784422806395,
-    "usedAtIso": "2026-07-19T01:00:06.395Z"
-  },
   "source:36e57f10d446c6173a0352e6e0e8ba60f86e1a58": {
     "url": "https://tnsul.com/2026/07/19/motociclista-morre-apos-colisao-com-carro-no-bairro-morro-estevao",
     "title": "Motociclista morre após colisão com carro em Criciúma",
@@ -1198,5 +1174,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f05a49ece93d3024556053bc803f866cd21cff0/",
     "usedAt": 1784682006144,
     "usedAtIso": "2026-07-22T01:00:06.144Z"
+  },
+  "source:5c0d9776de02e9f12ed14de08c3d02f334f9c279": {
+    "url": "https://tnsul.com/2026/07/21/batida-frontal-deixa-motorista-preso-as-ferragens",
+    "title": "Acidente entre carro e moto deixa motorista preso em Criciúma",
+    "guid": "sc1multi:0030de651ae4e4e908cce6d6458720d5afaf38db",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0030de651ae4e4e908cce6d6458720d5afaf38db/",
+    "usedAt": 1784685606529,
+    "usedAtIso": "2026-07-22T02:00:06.529Z"
   }
 }
