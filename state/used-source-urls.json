@@ -1,20 +1,4 @@
 {
-  "source:be24cfe2d5c88675e4277197f902372ad0e5a753": {
-    "url": "https://tnsul.com/2026/07/19/criciuma-estudantes-participam-do-6o-campeonato-interclubes-de-cubo-magico",
-    "title": "Estudantes de Criciúma participam do 6º Campeonato Interclubes de Cubo Mágico",
-    "guid": "sc1multi:7740c989950956196ef3dc1dd9aff9f9b352c485",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7740c989950956196ef3dc1dd9aff9f9b352c485/",
-    "usedAt": 1784473208096,
-    "usedAtIso": "2026-07-19T15:00:08.096Z"
-  },
-  "source:151e31b5c70a7c5dd4697980b0016a19ad653578": {
-    "url": "https://tnsul.com/2026/07/19/adolescente-de-15-anos-morre-apos-acidente-de-motocicleta-em-maracaja",
-    "title": "Adolescente morre após acidente de moto na BR-101 em Maracajá",
-    "guid": "sc1multi:60710e6877d2cd84f9295772e995d09e1b9abfbf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_60710e6877d2cd84f9295772e995d09e1b9abfbf/",
-    "usedAt": 1784473208096,
-    "usedAtIso": "2026-07-19T15:00:08.096Z"
-  },
   "source:9652970aac37d6c3dd7b180fc7b5b0ae052e89a1": {
     "url": "https://ocp.news/seguranca/jovem-de-26-anos-e-morto-a-tiros-dentro-de-casa-em-lages",
     "title": "Jovem de 26 anos é morto a tiros em Lages, Santa Catarina",
@@ -1270,5 +1254,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07ac082a5d067357fb08a882bfd97ca20cb94f6b/",
     "usedAt": 1784732406758,
     "usedAtIso": "2026-07-22T15:00:06.758Z"
+  },
+  "source:999a896c4c680e4eef982231d3b70ec222b84d82": {
+    "url": "https://tudoaquisc.com.br/obras/trevo-do-itacorubi-ganha-obra-s-2026-22-07",
+    "title": "Trevo do Itacorubi recebe obras para reduzir congestionamentos em Florianópolis",
+    "guid": "sc1multi:c2593a3dbd3c98415703b1caee5fa24ad4aaf123",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2593a3dbd3c98415703b1caee5fa24ad4aaf123/",
+    "usedAt": 1784736006645,
+    "usedAtIso": "2026-07-22T16:00:06.645Z"
+  },
+  "source:83c15a29020666f197cdaac1e4aa8122789299ba": {
+    "url": "https://tnsul.com/2026/07/22/incendio-atinge-casa-de-madeira-e-mobiliza-bombeiros-em-lages",
+    "title": "Incêndio destrói casa de madeira em Lages e mobiliza bombeiros",
+    "guid": "sc1multi:c1196310bf409913f26d2f5552a09024d532a545",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1196310bf409913f26d2f5552a09024d532a545/",
+    "usedAt": 1784736006645,
+    "usedAtIso": "2026-07-22T16:00:06.645Z"
+  },
+  "source:9fdc6a2154522c5f865a6796fe7a8955e7e3ae4f": {
+    "url": "https://tudoaquisc.com.br/policia/sequestro-em-icara-pai-foge-227",
+    "title": "Sequestro em Içara termina com resgate de mãe e filha sem ferimentos",
+    "guid": "sc1multi:d985be41be27aac5759a025a48377a3a81b2c80a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d985be41be27aac5759a025a48377a3a81b2c80a/",
+    "usedAt": 1784736006645,
+    "usedAtIso": "2026-07-22T16:00:06.645Z"
   }
 }
