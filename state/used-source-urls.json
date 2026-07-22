@@ -1,28 +1,4 @@
 {
-  "source:9652970aac37d6c3dd7b180fc7b5b0ae052e89a1": {
-    "url": "https://ocp.news/seguranca/jovem-de-26-anos-e-morto-a-tiros-dentro-de-casa-em-lages",
-    "title": "Jovem de 26 anos é morto a tiros em Lages, Santa Catarina",
-    "guid": "sc1multi:9652970aac37d6c3dd7b180fc7b5b0ae052e89a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9652970aac37d6c3dd7b180fc7b5b0ae052e89a1/",
-    "usedAt": 1784480406395,
-    "usedAtIso": "2026-07-19T17:00:06.395Z"
-  },
-  "source:e97cfc9cb9ebbea189d426b5939b0ecf28d9208b": {
-    "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-e-reaberta-com-trafego-parcial-obras-devem-seguir-por-ate-60-dias",
-    "title": "Ponte Anita Garibaldi em Laguna é reaberta com tráfego parcial",
-    "guid": "sc1multi:e97cfc9cb9ebbea189d426b5939b0ecf28d9208b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e97cfc9cb9ebbea189d426b5939b0ecf28d9208b/",
-    "usedAt": 1784484006124,
-    "usedAtIso": "2026-07-19T18:00:06.124Z"
-  },
-  "source:73aa0e65d3b3bd00e497a623a2ec643b95753f1f": {
-    "url": "https://rbatv.com.br/noticias/cinco-pessoas-ficam-feridas-apos-saida-de-pista-e-colisao-contra-barranco-na-sc-340-em-vitor-meireles",
-    "title": "Cinco ficam feridas após saída de pista na SC-340 em Vitor Meireles",
-    "guid": "sc1multi:2e4e47fbc398bd6bac392e5c430d4f0b29ea3817",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e4e47fbc398bd6bac392e5c430d4f0b29ea3817/",
-    "usedAt": 1784484006124,
-    "usedAtIso": "2026-07-19T18:00:06.124Z"
-  },
   "source:85aef43526964dab05cafe89241ff6a0e796c4df": {
     "url": "https://rbatv.com.br/noticias/bombeiros-samu-e-arcanjo-03-atendem-acidente-de-transito-em-vitor-meireles",
     "title": "Acidente de trânsito mobiliza equipes de resgate em Vitor Meireles",
@@ -1278,5 +1254,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d985be41be27aac5759a025a48377a3a81b2c80a/",
     "usedAt": 1784736006645,
     "usedAtIso": "2026-07-22T16:00:06.645Z"
+  },
+  "source:5174f559f5edb5ab3b8e10d36307e34679b4b045": {
+    "url": "https://ocp.news/economia/obra-de-r-19-milhoes-vai-criar-corredor-turistico-entre-santa-catarina-e-rio-grande-do-sul",
+    "title": "Obra de R$ 19 milhões cria corredor turístico entre SC e RS",
+    "guid": "sc1multi:5174f559f5edb5ab3b8e10d36307e34679b4b045",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5174f559f5edb5ab3b8e10d36307e34679b4b045/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
+  },
+  "source:4883a47b7501973db395c2c9521084fa7534d75a": {
+    "url": "https://ocp.news/politica/vereadores-mirins-de-guaramirim-elegem-mesa-diretora-para-o-segundo-semestre",
+    "title": "Vereadores mirins de Guaramirim elegem nova mesa diretora para 2026",
+    "guid": "sc1multi:4883a47b7501973db395c2c9521084fa7534d75a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4883a47b7501973db395c2c9521084fa7534d75a/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
+  },
+  "source:d7f582f4b7431481d4d553c68c94a0f48222c42c": {
+    "url": "https://ocp.news/economia/multinacional-italiana-com-faturamento-bilionario-compra-empresa-catarinense-do-setor-plastico",
+    "title": "Multinacional italiana compra fabricante catarinense Cristal Embalagens",
+    "guid": "sc1multi:d7f582f4b7431481d4d553c68c94a0f48222c42c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7f582f4b7431481d4d553c68c94a0f48222c42c/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
+  },
+  "source:e977d6fbbfe0da5dfe599f76fc93512a75242074": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-disparar-arma-e-ameacar-vizinho-em-joinville",
+    "title": "Homem é preso após disparar arma e ameaçar vizinho em Joinville",
+    "guid": "sc1multi:e977d6fbbfe0da5dfe599f76fc93512a75242074",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e977d6fbbfe0da5dfe599f76fc93512a75242074/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
+  },
+  "source:7b51189b555784d63019fb634886aa5b72bd61a7": {
+    "url": "https://ocp.news/informe/hospital-jaragua-firma-parceria-para-oferecer-curso-tecnico-em-enfermagem-em-jaragua-do-sul",
+    "title": "Hospital Jaraguá oferece curso técnico em Enfermagem em Jaraguá do Sul",
+    "guid": "sc1multi:7b51189b555784d63019fb634886aa5b72bd61a7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b51189b555784d63019fb634886aa5b72bd61a7/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
+  },
+  "source:cb9ff468e92bf5b0fb23c69754cc549a5d545d9e": {
+    "url": "https://tudoaquisc.com.br/tempo/chuva-em-santa-catarina-100-mmm",
+    "title": "Chuva intensa em Santa Catarina causa alagamentos e deslizamentos",
+    "guid": "sc1multi:7929ff77cb11945895d631e7448d4ddf2e2f5b4f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7929ff77cb11945895d631e7448d4ddf2e2f5b4f/",
+    "usedAt": 1784743207776,
+    "usedAtIso": "2026-07-22T18:00:07.776Z"
   }
 }
