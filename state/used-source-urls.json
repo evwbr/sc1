@@ -1,20 +1,4 @@
 {
-  "source:85aef43526964dab05cafe89241ff6a0e796c4df": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-samu-e-arcanjo-03-atendem-acidente-de-transito-em-vitor-meireles",
-    "title": "Acidente de trânsito mobiliza equipes de resgate em Vitor Meireles",
-    "guid": "sc1multi:7cb6d05c5f497efe033480fba42a1855127292e9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cb6d05c5f497efe033480fba42a1855127292e9/",
-    "usedAt": 1784491206912,
-    "usedAtIso": "2026-07-19T20:00:06.912Z"
-  },
-  "source:ba9bc8bb7e241a513d87a69515ff1f4e47aa0c69": {
-    "url": "https://rbatv.com.br/noticias/briga-por-causa-de-camiseta-de-time-termina-na-delegacia-em-rio-do-sul",
-    "title": "Briga por camiseta de time termina na delegacia em Rio do Sul",
-    "guid": "sc1multi:6f922a71b1a9dd97f3951b0097e942e28c04c4c3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6f922a71b1a9dd97f3951b0097e942e28c04c4c3/",
-    "usedAt": 1784491206912,
-    "usedAtIso": "2026-07-19T20:00:06.912Z"
-  },
   "source:70d7c53930b64d478c7194014a715abf26fb8c72": {
     "url": "https://rbatv.com.br/noticias/bombeiros-combatem-incendio-em-residencia-de-dois-andares-em-taio",
     "title": "Incêndio atinge residência de dois andares em Taió",
@@ -1422,5 +1406,61 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a9d288d660547682eaeb6c19a938fdc250820ad/",
     "usedAt": 1784750406865,
     "usedAtIso": "2026-07-22T20:00:06.865Z"
+  },
+  "source:a79862e79cd683efafb777bf68531a6a61fee5cd": {
+    "url": "https://tnsul.com/2026/07/22/homem-tenta-atravessar-area-alagada-e-acaba-ilhado-em-criciuma",
+    "title": "Homem fica ilhado ao tentar atravessar área alagada em Criciúma",
+    "guid": "sc1multi:4eb032002efdd3afc691da9482b23db63f665c66",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4eb032002efdd3afc691da9482b23db63f665c66/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:25ddb5cc899ce3ccb6853b8072a9924cbf888141": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-furtar-whisky-e-sabonete-em-supermercado-de-jaragua-do-sul",
+    "title": "Homem é preso por furtar whisky e sabonete em Jaraguá do Sul",
+    "guid": "sc1multi:25ddb5cc899ce3ccb6853b8072a9924cbf888141",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25ddb5cc899ce3ccb6853b8072a9924cbf888141/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:842cc9436199c376dafa88717ac6670e64f7207b": {
+    "url": "https://ocp.news/informe/ocp-vagas-clinicorp-contrata-recepcionista",
+    "title": "Clinicorp abre vaga para recepcionista em Jaraguá do Sul",
+    "guid": "sc1multi:842cc9436199c376dafa88717ac6670e64f7207b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_842cc9436199c376dafa88717ac6670e64f7207b/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:e474fefa52ac1cbe17325ca7c9516956bc47b95b": {
+    "url": "https://ocp.news/esporte/juventus-perde-para-o-metropolitano-e-fica-em-situacao-delicada-na-serie-b",
+    "title": "Juventus perde para Metropolitano e se complica na Série B catarinense",
+    "guid": "sc1multi:e474fefa52ac1cbe17325ca7c9516956bc47b95b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e474fefa52ac1cbe17325ca7c9516956bc47b95b/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:5aa8f4fd940a3c4cd226c920750e6538f084a222": {
+    "url": "https://ocp.news/informe/csm-doa-betoneira-para-ong-viva-bicho-e-apoia-cuidado-de-mais-de-580-animais",
+    "title": "CSM doa betoneira para ONG Viva Bicho em Balneário Camboriú",
+    "guid": "sc1multi:5aa8f4fd940a3c4cd226c920750e6538f084a222",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5aa8f4fd940a3c4cd226c920750e6538f084a222/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:72b90df877e528e78475d5cd36701426f682b8df": {
+    "url": "https://tnsul.com/2026/07/22/homem-que-tentou-matar-companheira-na-frente-do-filho-e-condenado-a-14-anos",
+    "title": "Homem é condenado a 14 anos por tentativa de feminicídio em Meleiro",
+    "guid": "sc1multi:941dc900f021e6d0deec884de7b510509a617d13",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_941dc900f021e6d0deec884de7b510509a617d13/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
+  },
+  "source:60dc7dfd3ea4cce186fad7f34f62b76cd3ccbffa": {
+    "url": "https://ocp.news/cotidiano/sc-jaragua-sofre-nova-goleada-e-amplia-campanha-desastrosa-na-serie-b",
+    "title": "SC Jaraguá sofre goleada de 7 a 0 para o Guarani na Série B catarinense",
+    "guid": "sc1multi:60dc7dfd3ea4cce186fad7f34f62b76cd3ccbffa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_60dc7dfd3ea4cce186fad7f34f62b76cd3ccbffa/",
+    "usedAt": 1784754007093,
+    "usedAtIso": "2026-07-22T21:00:07.093Z"
   }
 }
