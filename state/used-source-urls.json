@@ -1,12 +1,4 @@
 {
-  "source:6c645c539b7b62a6675157ae22551cea7470de99": {
-    "url": "https://ocp.news/esporte/jaraguaense-celebra-primeira-conquista-com-a-camisa-do-coritiba",
-    "title": "Jaraguaense de 12 anos é vice-campeão da New Cup pelo Coritiba",
-    "guid": "sc1multi:6c645c539b7b62a6675157ae22551cea7470de99",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c645c539b7b62a6675157ae22551cea7470de99/",
-    "usedAt": 1784581206243,
-    "usedAtIso": "2026-07-20T21:00:06.243Z"
-  },
   "source:395ab1638de368adccfd3deaeb24606b2e8c41ad": {
     "url": "https://tnsul.com/2026/07/20/voto-pelo-sul-mobiliza-regiao-por-mais-representatividade-politica",
     "title": "Campanha Voto pelo Sul busca fortalecer representatividade política em SC",
@@ -1502,5 +1494,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ddb32e16babed7c009f62a57831c6b38fcb8a95/",
     "usedAt": 1784836807572,
     "usedAtIso": "2026-07-23T20:00:07.572Z"
+  },
+  "source:c8a8a0008fedb4556c4f3bb317b70d86d1b823ae": {
+    "url": "https://tnsul.com/2026/07/23/pf-atua-na-prisao-de-foragido-da-justica-catarinense",
+    "title": "Polícia Federal prende foragido da Justiça de Criciúma na Espanha",
+    "guid": "sc1multi:e053ed70c22129bf399aae34f36552666f0e416b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e053ed70c22129bf399aae34f36552666f0e416b/",
+    "usedAt": 1784840406728,
+    "usedAtIso": "2026-07-23T21:00:06.728Z"
+  },
+  "source:80a3777d7ccf098c5797ff8eb19acf72cd31aeb0": {
+    "url": "https://tnsul.com/2026/07/23/homem-que-tentou-matar-ex-sogro-com-caminhao-e-condenado-a-10-anos",
+    "title": "Homem é condenado a 10 anos por tentativa de homicídio em Tubarão",
+    "guid": "sc1multi:712d62be9e785526f4ee1af217631efd1f317575",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_712d62be9e785526f4ee1af217631efd1f317575/",
+    "usedAt": 1784840406728,
+    "usedAtIso": "2026-07-23T21:00:06.728Z"
+  },
+  "source:9d1191e08ff0e6d49f6ce2b3c13399e42ac7e4b7": {
+    "url": "https://ocp.news/esporte/jaraguaense-acerta-com-clube-paulista-e-mira-novo-acesso-no-volei-nacional",
+    "title": "Jaraguaense Guilherme Rech reforça clube paulista no vôlei nacional",
+    "guid": "sc1multi:9d1191e08ff0e6d49f6ce2b3c13399e42ac7e4b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d1191e08ff0e6d49f6ce2b3c13399e42ac7e4b7/",
+    "usedAt": 1784840406728,
+    "usedAtIso": "2026-07-23T21:00:06.728Z"
   }
 }
