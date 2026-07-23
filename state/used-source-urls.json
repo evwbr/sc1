@@ -1558,5 +1558,61 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b4620e5132c9eaf757bc7fb95784a2a4686aa57/",
     "usedAt": 1784782806632,
     "usedAtIso": "2026-07-23T05:00:06.632Z"
+  },
+  "source:d8f21d540db468880a3057f7569d35f254fca353": {
+    "url": "https://rbatv.com.br/noticias/homem-acusado-de-tortura-e-maus-tratos-contra-tres-criancas-e-preso-em-itajai",
+    "title": "Homem é preso em Itajaí por tortura e maus-tratos contra crianças",
+    "guid": "sc1multi:39e3c2ff7ab07ea95d0f3d498340d902ef926ed1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39e3c2ff7ab07ea95d0f3d498340d902ef926ed1/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:6b47f0155a98ce5511590c19b5f255d15ee9dd2a": {
+    "url": "https://rbatv.com.br/noticias/justica-obriga-ibirama-a-garantir-transporte-exclusivo-para-paciente-com-deficiencia",
+    "title": "Justiça determina transporte exclusivo para paciente com deficiência em Ibirama",
+    "guid": "sc1multi:4b05ee5adde57e51a6f3fc14c809def17c53ad91",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b05ee5adde57e51a6f3fc14c809def17c53ad91/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:a7eed3ce13f8abe0f37b63eaa9eeb5ab2d2f71f4": {
+    "url": "https://rbatv.com.br/noticias/motocicleta-furtada-durante-a-madrugada-e-recuperada-no-mesmo-dia-em-indaial",
+    "title": "Motocicleta furtada em Indaial é recuperada no mesmo dia pela PM",
+    "guid": "sc1multi:65355eb01fb01b2899edc8b04f47863ba061676a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_65355eb01fb01b2899edc8b04f47863ba061676a/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:de28c7f3b3f08c77758c2c78c88f86f4410da420": {
+    "url": "https://rbatv.com.br/noticias/24-municipios-de-sc-registraram-mais-de-100-mm-de-chuva-em-um-dia",
+    "title": "24 municípios de Santa Catarina registram mais de 100 mm de chuva em um dia",
+    "guid": "sc1multi:02e903d9e5e42de4956d950eb9ec68e64bbedb43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_02e903d9e5e42de4956d950eb9ec68e64bbedb43/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:3108575a4823c534db906458829b4eb5baa4de25": {
+    "url": "https://rbatv.com.br/noticias/incendio-atinge-silo-de-empresa-de-moveis-e-mobiliza-bombeiros-por-mais-de-duas-horas-em-indaial",
+    "title": "Incêndio atinge silo de empresa de móveis em Indaial e mobiliza bombeiros",
+    "guid": "sc1multi:56d7ac6d7ef05e82cf03df831697e38442704e61",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56d7ac6d7ef05e82cf03df831697e38442704e61/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:0fd4c29583be5c387b91c9bcdcca76fef6b70ff6": {
+    "url": "https://ocp.news/cotidiano/tempo-estavel-deve-mudar-com-chegada-do-vento-sul-em-florianopolis",
+    "title": "Vento sul provoca mudança no tempo em Florianópolis e região",
+    "guid": "sc1multi:0fd4c29583be5c387b91c9bcdcca76fef6b70ff6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0fd4c29583be5c387b91c9bcdcca76fef6b70ff6/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
+  },
+  "source:1d485724337750f2216a3c2aabc85469c5670a82": {
+    "url": "https://ocp.news/cotidiano/iniciada-construcao-de-passarela-ambiental-sobre-nas-dunas-em-praia-de-florianopolis",
+    "title": "Florianópolis inicia construção de passarela ambiental nas dunas da Joaquina",
+    "guid": "sc1multi:1d485724337750f2216a3c2aabc85469c5670a82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1d485724337750f2216a3c2aabc85469c5670a82/",
+    "usedAt": 1784804406449,
+    "usedAtIso": "2026-07-23T11:00:06.449Z"
   }
 }
