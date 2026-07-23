@@ -1,100 +1,4 @@
 {
-  "source:51d129c197bad4b67818ac0d05c103e814d50f9f": {
-    "url": "https://ocp.news/seguranca/motociclista-envolvido-em-acidente-com-crianca-na-garupa-carregava-10-pedras-de-crack",
-    "title": "Motociclista com crack se envolve em acidente com criança em Jaraguá do Sul",
-    "guid": "sc1multi:51d129c197bad4b67818ac0d05c103e814d50f9f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_51d129c197bad4b67818ac0d05c103e814d50f9f/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:8e3269b7693bb26a2efdaf4c3c1ba87699e7b134": {
-    "url": "https://ocp.news/seguranca/dois-homens-ficam-feridos-apos-colisao-entre-carro-e-moto-no-bairro-vieira",
-    "title": "Colisão entre carro e moto deixa dois feridos no bairro Vieira, Jaraguá do Sul",
-    "guid": "sc1multi:8e3269b7693bb26a2efdaf4c3c1ba87699e7b134",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e3269b7693bb26a2efdaf4c3c1ba87699e7b134/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:ae1dd0d73ef19c3806f3626f4ab94684ec0df6ca": {
-    "url": "https://ocp.news/esporte/jaraguaenses-dao-show-no-meeting-paralimpico-de-atletismo",
-    "title": "Paratletas de Jaraguá do Sul conquistam seis medalhas em Curitiba",
-    "guid": "sc1multi:ae1dd0d73ef19c3806f3626f4ab94684ec0df6ca",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ae1dd0d73ef19c3806f3626f4ab94684ec0df6ca/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:797254a833a2e9b80950259f9edf884e8e4f941a": {
-    "url": "https://ocp.news/cotidiano/equipamentos-de-cpap-sao-entregues-a-pacientes-do-vale-do-itapocu",
-    "title": "Vale do Itapocu recebe 39 equipamentos de CPAP para pacientes do SUS",
-    "guid": "sc1multi:797254a833a2e9b80950259f9edf884e8e4f941a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_797254a833a2e9b80950259f9edf884e8e4f941a/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:3931ee467216a8d998a94c7716d4c668a329b8a9": {
-    "url": "https://ocp.news/esporte/equipe-jaraguaense-e-campea-de-etapa-e-esta-no-topo-do-estadual-de-carabina-deitado",
-    "title": "Equipe de Jaraguá do Sul lidera Campeonato Catarinense de Carabina Deitado",
-    "guid": "sc1multi:3931ee467216a8d998a94c7716d4c668a329b8a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3931ee467216a8d998a94c7716d4c668a329b8a9/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:566a8b4293fbdec54a06038a449e8e431d4fe102": {
-    "url": "https://correiosc.com.br/sao-jose-conquista-seis-medalhas-no-atletismo-dos-joguinhos-abertos-de-sc",
-    "title": "Atletismo de São José conquista seis medalhas nos Joguinhos Abertos",
-    "guid": "sc1multi:2cb0546e26d1891d11da4f1f502aad8b406000a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cb0546e26d1891d11da4f1f502aad8b406000a8/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:26b0d35e28ad256960242fdfcfb012e3812799bf": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/maus-tratos-mpsc-2007",
-    "title": "Florianópolis, São José e Palhoça lideram maus-tratos a animais em SC",
-    "guid": "sc1multi:cb426c415243663fe2caf5476bb6cee936b99228",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb426c415243663fe2caf5476bb6cee936b99228/",
-    "usedAt": 1784574007248,
-    "usedAtIso": "2026-07-20T19:00:07.248Z"
-  },
-  "source:b91716638ccad7bc8f5ad2f8a4acb2f90aff71f7": {
-    "url": "https://ocp.news/cotidiano/dengue-monitoramento-identifica-reducao-da-presenca-do-mosquito-transmissor-em-jaragua-do-sul",
-    "title": "Jaraguá do Sul registra redução de focos do mosquito da dengue",
-    "guid": "sc1multi:b91716638ccad7bc8f5ad2f8a4acb2f90aff71f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91716638ccad7bc8f5ad2f8a4acb2f90aff71f7/",
-    "usedAt": 1784577606517,
-    "usedAtIso": "2026-07-20T20:00:06.517Z"
-  },
-  "source:0262a273f0db474bac4c9ad56639c8e465f35788": {
-    "url": "https://ocp.news/cotidiano/jaragua-do-sul-inicia-obras-do-memorial-da-celebracao-para-os-150-anos",
-    "title": "Jaraguá do Sul inicia obras do Memorial da Celebração para os 150 anos",
-    "guid": "sc1multi:0262a273f0db474bac4c9ad56639c8e465f35788",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0262a273f0db474bac4c9ad56639c8e465f35788/",
-    "usedAt": 1784577606517,
-    "usedAtIso": "2026-07-20T20:00:06.517Z"
-  },
-  "source:5833a7c61714ab45ab059c825c44805c5fa252c3": {
-    "url": "https://tnsul.com/2026/07/20/homem-que-tentou-matar-companheira-na-frente-do-filho-sera-julgado-amanha",
-    "title": "Homem será julgado por tentativa de feminicídio em Meleiro",
-    "guid": "sc1multi:7c2cd97a2f05f68cfbc02ec0c7fbfe73bf77e771",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7c2cd97a2f05f68cfbc02ec0c7fbfe73bf77e771/",
-    "usedAt": 1784577606517,
-    "usedAtIso": "2026-07-20T20:00:06.517Z"
-  },
-  "source:2181da3c15afd86f4fc9f73d15659f8edc612793": {
-    "url": "https://ocp.news/informe/estudantes-de-medicina-da-faculdade-estacio-idomed-realizam-avaliacao-preventiva-do-pe-diabetico-em-ubss-de-jaragua-do-sul",
-    "title": "Estudantes de Medicina da Estácio IDOMED avaliam pé diabético em Jaraguá do Sul",
-    "guid": "sc1multi:2181da3c15afd86f4fc9f73d15659f8edc612793",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2181da3c15afd86f4fc9f73d15659f8edc612793/",
-    "usedAt": 1784577606517,
-    "usedAtIso": "2026-07-20T20:00:06.517Z"
-  },
-  "source:282b4053b9e21df7dc3cc2c2eef6979159c53b1f": {
-    "url": "https://ocp.news/cultura-2/guaramirim-homenageia-herois-da-feb-em-solenidade-pelos-82-anos-do-desembarque-na-italia",
-    "title": "Guaramirim homenageia heróis da FEB em cerimônia pelos 82 anos do desembarque na Itália",
-    "guid": "sc1multi:282b4053b9e21df7dc3cc2c2eef6979159c53b1f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_282b4053b9e21df7dc3cc2c2eef6979159c53b1f/",
-    "usedAt": 1784577606517,
-    "usedAtIso": "2026-07-20T20:00:06.517Z"
-  },
   "source:6c645c539b7b62a6675157ae22551cea7470de99": {
     "url": "https://ocp.news/esporte/jaraguaense-celebra-primeira-conquista-com-a-camisa-do-coritiba",
     "title": "Jaraguaense de 12 anos é vice-campeão da New Cup pelo Coritiba",
@@ -1566,5 +1470,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_349558036c38a58fbf5c57fe63faacbd3503bee1/",
     "usedAt": 1784833206431,
     "usedAtIso": "2026-07-23T19:00:06.431Z"
+  },
+  "source:e87820fb2edc38221e9c484904a558509281e447": {
+    "url": "https://tnsul.com/2026/07/23/homem-que-matou-a-tia-com-quem-mantinha-relacionamento-amoroso-e-condenado",
+    "title": "Homem é condenado por matar tia afetiva em Criciúma",
+    "guid": "sc1multi:3728ca795a09f09fed98daa68b75b5e499a35e3f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3728ca795a09f09fed98daa68b75b5e499a35e3f/",
+    "usedAt": 1784836807572,
+    "usedAtIso": "2026-07-23T20:00:07.572Z"
+  },
+  "source:c946c87cdee85d3545ba85e80c71493c553bffb7": {
+    "url": "https://tudoaquisc.com.br/transito/acidentes-em-santa-catarina-23",
+    "title": "Acidentes em rodovias federais de Santa Catarina lideram ranking nacional",
+    "guid": "sc1multi:e78c9b0cf40e48ea621800a8b47e84ae68a106af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e78c9b0cf40e48ea621800a8b47e84ae68a106af/",
+    "usedAt": 1784836807572,
+    "usedAtIso": "2026-07-23T20:00:07.572Z"
+  },
+  "source:b8fc9d92d0f5c717a49881b81ceea24ad6a3e410": {
+    "url": "https://ocp.news/economia/sebrae-apresenta-resultados-na-regiao-norte-de-sc-e-amplia-dialogo-com-liderancas-locais",
+    "title": "Sebrae apresenta resultados e amplia diálogo com lideranças em Jaraguá do Sul",
+    "guid": "sc1multi:b8fc9d92d0f5c717a49881b81ceea24ad6a3e410",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8fc9d92d0f5c717a49881b81ceea24ad6a3e410/",
+    "usedAt": 1784836807572,
+    "usedAtIso": "2026-07-23T20:00:07.572Z"
+  },
+  "source:0ddb32e16babed7c009f62a57831c6b38fcb8a95": {
+    "url": "https://ocp.news/entretenimento/espetaculo-inspirado-em-frozen-tera-apresentacao-gratuita-em-florianopolis",
+    "title": "Espetáculo inspirado em Frozen será apresentado gratuitamente em Florianópolis",
+    "guid": "sc1multi:0ddb32e16babed7c009f62a57831c6b38fcb8a95",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ddb32e16babed7c009f62a57831c6b38fcb8a95/",
+    "usedAt": 1784836807572,
+    "usedAtIso": "2026-07-23T20:00:07.572Z"
   }
 }
