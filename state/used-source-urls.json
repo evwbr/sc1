@@ -1,52 +1,4 @@
 {
-  "source:6089d9c77aad4877c1b42f448628ebd2067a20d7": {
-    "url": "https://ocp.news/seguranca/mulher-e-presa-suspeita-de-matar-companheiro-durante-discussao-em-joinville",
-    "title": "Mulher é presa suspeita de matar companheiro durante discussão em Joinville",
-    "guid": "sc1multi:6089d9c77aad4877c1b42f448628ebd2067a20d7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6089d9c77aad4877c1b42f448628ebd2067a20d7/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
-  "source:c2ccc4e299107f5fa174da855bb424913e3586bb": {
-    "url": "https://correiosc.com.br/sao-jose-recebe-missao-solidaria-marista",
-    "title": "Missão Solidária Marista realiza ações em São José, Santa Catarina",
-    "guid": "sc1multi:095ae931e0a78a86413198332157eb7c4e0f7045",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_095ae931e0a78a86413198332157eb7c4e0f7045/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
-  "source:fa25e9e0a96d809fde7baaed190e3ad4a649372a": {
-    "url": "https://rbatv.com.br/noticias/limpeza-de-reservatorios-pode-provocar-falta-de-agua-em-bairros-de-lontras-nesta-semana",
-    "title": "Limpeza de reservatórios pode causar falta de água em bairros de Lontras",
-    "guid": "sc1multi:3bbdc161781007845400f948555ce0f076f27579",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bbdc161781007845400f948555ce0f076f27579/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
-  "source:efbb3140285d5f257096d2eaa981f1823ce3c4c6": {
-    "url": "https://ocp.news/cotidiano/ranking-dos-maus-tratos-mpsc-fiscaliza-politicas-publicas-de-protecao-animal-em-municipios-de-sc",
-    "title": "MPSC fiscaliza políticas públicas de proteção animal em municípios de Santa Catarina",
-    "guid": "sc1multi:efbb3140285d5f257096d2eaa981f1823ce3c4c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_efbb3140285d5f257096d2eaa981f1823ce3c4c6/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
-  "source:b5e9dc7956aff7387aae9a6376899e546abd84bb": {
-    "url": "https://ocp.news/cotidiano/bikes-compartilhadas-crescem-em-numero-de-usuarios-no-1o-semestre-em-florianopolis",
-    "title": "Bicicletas compartilhadas crescem em usuários no primeiro semestre em Florianópolis",
-    "guid": "sc1multi:b5e9dc7956aff7387aae9a6376899e546abd84bb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5e9dc7956aff7387aae9a6376899e546abd84bb/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
-  "source:16f8ac61e864cf002c8939908953a3e9ae7dba7d": {
-    "url": "https://correiosc.com.br/construcao-irregular-area-publica-demolida-prefeitura-sao-jose",
-    "title": "Prefeitura de São José demole construção irregular em área pública",
-    "guid": "sc1multi:dd70ae38d52e17c44a8c13f82ab1e7486a6c479a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd70ae38d52e17c44a8c13f82ab1e7486a6c479a/",
-    "usedAt": 1784570406418,
-    "usedAtIso": "2026-07-20T18:00:06.418Z"
-  },
   "source:51d129c197bad4b67818ac0d05c103e814d50f9f": {
     "url": "https://ocp.news/seguranca/motociclista-envolvido-em-acidente-com-crianca-na-garupa-carregava-10-pedras-de-crack",
     "title": "Motociclista com crack se envolve em acidente com criança em Jaraguá do Sul",
@@ -1558,5 +1510,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ed65ed552bcfbbc0a5ddb46aae97f6415e19202/",
     "usedAt": 1784826006867,
     "usedAtIso": "2026-07-23T17:00:06.867Z"
+  },
+  "source:b4c815b5331b1adbdb6d49fc568f5ad48b638d3c": {
+    "url": "https://tnsul.com/2026/07/23/tjsc-mantem-condenacao-de-diacono-pelo-crime-de-estupro-de-vulneravel",
+    "title": "Tribunal de Santa Catarina mantém condenação de diácono por estupro de vulnerável",
+    "guid": "sc1multi:be3edaa92e889ce3c580a4956fce80a2a31547eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be3edaa92e889ce3c580a4956fce80a2a31547eb/",
+    "usedAt": 1784829606456,
+    "usedAtIso": "2026-07-23T18:00:06.456Z"
+  },
+  "source:0cfa6d18a6a975cb4aefc6c743f9581737db04b9": {
+    "url": "https://ocp.news/cotidiano/camara-celebra-150-anos-de-jaragua-do-sul-em-solenidade",
+    "title": "Jaraguá do Sul celebra 150 anos com homenagens a instituições locais",
+    "guid": "sc1multi:0cfa6d18a6a975cb4aefc6c743f9581737db04b9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0cfa6d18a6a975cb4aefc6c743f9581737db04b9/",
+    "usedAt": 1784829606456,
+    "usedAtIso": "2026-07-23T18:00:06.456Z"
   }
 }
