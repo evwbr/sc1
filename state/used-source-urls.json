@@ -1,44 +1,4 @@
 {
-  "source:e7be83db4c2987895bc7bb027abf02a2481c3d78": {
-    "url": "https://correiosc.com.br/frente-fria-traz-temporais-e-derruba-temperaturas-em-santa-catarina",
-    "title": "Frente fria provoca temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:e931a814595a4ca3bb90ce6bc3d3083d492a872e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e931a814595a4ca3bb90ce6bc3d3083d492a872e/",
-    "usedAt": 1784559607811,
-    "usedAtIso": "2026-07-20T15:00:07.811Z"
-  },
-  "source:2273894d5815c4316e23a63804e1af719633d17d": {
-    "url": "https://ocp.news/cotidiano/florianopolis-recebe-11o-forum-internacional-de-patrimonio-arquitetonico-brasil-portugal",
-    "title": "Florianópolis sedia 11º Fórum Internacional de Patrimônio Arquitetônico Brasil-Portugal",
-    "guid": "sc1multi:2273894d5815c4316e23a63804e1af719633d17d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2273894d5815c4316e23a63804e1af719633d17d/",
-    "usedAt": 1784559607811,
-    "usedAtIso": "2026-07-20T15:00:07.811Z"
-  },
-  "source:89776c4373df5124dfd13a9599cee8a79e490d6d": {
-    "url": "https://ocp.news/esporte/semifinais-do-varzeano-de-guaramirim-estao-definidas-2",
-    "title": "Semifinais do Campeonato Varzeano de Guaramirim estão definidas",
-    "guid": "sc1multi:89776c4373df5124dfd13a9599cee8a79e490d6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_89776c4373df5124dfd13a9599cee8a79e490d6d/",
-    "usedAt": 1784559607811,
-    "usedAtIso": "2026-07-20T15:00:07.811Z"
-  },
-  "source:d93d843096417d0b400b18bf3272ced487965a24": {
-    "url": "https://tnsul.com/2026/07/20/carro-destroi-parte-de-casa-em-sc-apos-motorista-sofrer-mal-subito",
-    "title": "Caminhonete invade casa em Joaçaba após motorista sofrer mal súbito",
-    "guid": "sc1multi:102b4b8b2baa5b4de2415a5cf8cef60fc3db64bf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_102b4b8b2baa5b4de2415a5cf8cef60fc3db64bf/",
-    "usedAt": 1784563206140,
-    "usedAtIso": "2026-07-20T16:00:06.140Z"
-  },
-  "source:1c928e194256d07c50c648b987dfe1cf47a9e22f": {
-    "url": "https://tnsul.com/2026/07/20/colisao-entre-carro-e-autopropelido-deixa-homem-morto-na-sc-401",
-    "title": "Homem morre em colisão entre carro e autopropelido na SC-401 em Florianópolis",
-    "guid": "sc1multi:4f1bbc847f20cd3b61823a2b59cfaf1a3fbda02a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4f1bbc847f20cd3b61823a2b59cfaf1a3fbda02a/",
-    "usedAt": 1784563206140,
-    "usedAtIso": "2026-07-20T16:00:06.140Z"
-  },
   "source:1648c8ce6ac0330ffa2ec6ba71794649c333ee97": {
     "url": "https://rbatv.com.br/noticias/incendio-destroi-parte-deresidencia-em-taio-e-policia-investiga-possivel-acao-criminosa",
     "title": "Incêndio destrói parte de residência em Taió e polícia investiga ação criminosa",
@@ -1558,5 +1518,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0624d1d4ca2ff37b7184cca952ee34634d4967b1/",
     "usedAt": 1784818807799,
     "usedAtIso": "2026-07-23T15:00:07.799Z"
+  },
+  "source:c8ebcabe9bb0030c7e82b438df9eb90c11148a3d": {
+    "url": "https://tnsul.com/2026/07/23/colisao-entre-dois-carros-deixa-home-preso-as-ferragens-na-br-282",
+    "title": "Colisão na BR-282 em Erval Velho deixa homem preso às ferragens",
+    "guid": "sc1multi:04a2ab6fe3542578c378a97834a91a421587c8bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_04a2ab6fe3542578c378a97834a91a421587c8bc/",
+    "usedAt": 1784822406595,
+    "usedAtIso": "2026-07-23T16:00:06.595Z"
+  },
+  "source:dab8d7767caf1c28e4452d4c1b07a021c68a6348": {
+    "url": "https://tnsul.com/2026/07/23/acao-arrecada-15-tonelada-de-doacoes-para-venezuela-mas-falta-transporte",
+    "title": "Campanha em Criciúma arrecada 1,5 tonelada de doações para Venezuela",
+    "guid": "sc1multi:cda84d60ee83595fcdcaec9e3921c54880df3794",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cda84d60ee83595fcdcaec9e3921c54880df3794/",
+    "usedAt": 1784822406595,
+    "usedAtIso": "2026-07-23T16:00:06.595Z"
+  },
+  "source:f0559b55bf3f31b14952dbc8a7e6ac6192f3301e": {
+    "url": "https://ocp.news/esporte/veja-o-que-o-juventus-precisa-para-escapar-do-rebaixamento-na-serie-b-do-catarinense",
+    "title": "Juventus precisa vencer e torcer para escapar do rebaixamento na Série B catarinense",
+    "guid": "sc1multi:f0559b55bf3f31b14952dbc8a7e6ac6192f3301e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0559b55bf3f31b14952dbc8a7e6ac6192f3301e/",
+    "usedAt": 1784822406595,
+    "usedAtIso": "2026-07-23T16:00:06.595Z"
+  },
+  "source:a4a2de176cc5960c7f107435399157266656e788": {
+    "url": "https://tudoaquisc.com.br/economia/interdicao-do-bradesco-48-horas",
+    "title": "Agência do Bradesco é interditada por 48 horas em Florianópolis",
+    "guid": "sc1multi:42f2c47fd74d1d10003ed94698b2769b67dd599e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42f2c47fd74d1d10003ed94698b2769b67dd599e/",
+    "usedAt": 1784822406595,
+    "usedAtIso": "2026-07-23T16:00:06.595Z"
   }
 }
