@@ -1,28 +1,4 @@
 {
-  "source:395ab1638de368adccfd3deaeb24606b2e8c41ad": {
-    "url": "https://tnsul.com/2026/07/20/voto-pelo-sul-mobiliza-regiao-por-mais-representatividade-politica",
-    "title": "Campanha Voto pelo Sul busca fortalecer representatividade política em SC",
-    "guid": "sc1multi:3b00b39d119db08675c8a01547bb7c051467475b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b00b39d119db08675c8a01547bb7c051467475b/",
-    "usedAt": 1784584806555,
-    "usedAtIso": "2026-07-20T22:00:06.555Z"
-  },
-  "source:d2e16607f3338ea561d97d89e3df7324a9cc71c5": {
-    "url": "https://ocp.news/politica/vereador-pede-melhorias-para-evitar-alagamentos-na-estrada-ponta-comprida-em-guaramirim",
-    "title": "Vereador de Guaramirim solicita melhorias para evitar alagamentos na Estrada Ponta Comprida",
-    "guid": "sc1multi:d2e16607f3338ea561d97d89e3df7324a9cc71c5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2e16607f3338ea561d97d89e3df7324a9cc71c5/",
-    "usedAt": 1784584806555,
-    "usedAtIso": "2026-07-20T22:00:06.555Z"
-  },
-  "source:c61fa258a1f1ab2422cafaa5741a4aeec90bf96a": {
-    "url": "https://tudoaquisc.com.br/tempo/frente-fria-avanca-estado-frio-chuva-20-07",
-    "title": "Frente fria provoca queda de temperatura e temporais em Santa Catarina",
-    "guid": "sc1multi:f409c8de554aa7ce710c36fdf61d24f01d94a5b9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f409c8de554aa7ce710c36fdf61d24f01d94a5b9/",
-    "usedAt": 1784584806555,
-    "usedAtIso": "2026-07-20T22:00:06.555Z"
-  },
   "source:aebcf099ce425c3d62e20a15e6152e6f7bf52c45": {
     "url": "https://rbatv.com.br/noticias/prf-apreende-carga-milionaria-de-eletronicos-e-insumos-medicos-escondida-em-carreta-em-sc",
     "title": "PRF apreende carga milionária de eletrônicos e insumos médicos em Santa Catarina",
@@ -1518,5 +1494,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d1191e08ff0e6d49f6ce2b3c13399e42ac7e4b7/",
     "usedAt": 1784840406728,
     "usedAtIso": "2026-07-23T21:00:06.728Z"
+  },
+  "source:870ca67753a2b935718169b6338ca2835c08042a": {
+    "url": "https://ocp.news/seguranca/justica-condena-antt-a-indenizar-municipios-por-congestionamentos-na-br-101-em-sc",
+    "title": "Justiça determina indenização da ANTT a municípios por congestionamentos na BR-101 em SC",
+    "guid": "sc1multi:870ca67753a2b935718169b6338ca2835c08042a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_870ca67753a2b935718169b6338ca2835c08042a/",
+    "usedAt": 1784844010524,
+    "usedAtIso": "2026-07-23T22:00:10.524Z"
+  },
+  "source:ded3bf149366c181dd004efd583f2cd5a9f399ac": {
+    "url": "https://tudoaquisc.com.br/obras/limpeza-de-rios-capital-florianopolis-23-7",
+    "title": "Florianópolis intensifica limpeza de rios para prevenir enchentes",
+    "guid": "sc1multi:605d1d0af1cccb96713e08d5b747a2c8b98d79a5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_605d1d0af1cccb96713e08d5b747a2c8b98d79a5/",
+    "usedAt": 1784844010524,
+    "usedAtIso": "2026-07-23T22:00:10.524Z"
+  },
+  "source:b26abb7be1090ef91425f57b72b63764d7273a10": {
+    "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-diacono-por-estupro-de-vulneravel",
+    "title": "TJSC mantém condenação de diácono por estupro de vulnerável em SC",
+    "guid": "sc1multi:b26abb7be1090ef91425f57b72b63764d7273a10",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b26abb7be1090ef91425f57b72b63764d7273a10/",
+    "usedAt": 1784844010524,
+    "usedAtIso": "2026-07-23T22:00:10.524Z"
   }
 }
