@@ -1,28 +1,4 @@
 {
-  "source:1648c8ce6ac0330ffa2ec6ba71794649c333ee97": {
-    "url": "https://rbatv.com.br/noticias/incendio-destroi-parte-deresidencia-em-taio-e-policia-investiga-possivel-acao-criminosa",
-    "title": "Incêndio destrói parte de residência em Taió e polícia investiga ação criminosa",
-    "guid": "sc1multi:27387636f7d5903b7fff60d7edd251b15c427cda",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27387636f7d5903b7fff60d7edd251b15c427cda/",
-    "usedAt": 1784566806446,
-    "usedAtIso": "2026-07-20T17:00:06.446Z"
-  },
-  "source:3c0510cdd6a4c0b0d1b604feec8859e323080664": {
-    "url": "https://ocp.news/esporte/equipe-jaraguaense-goleia-confirma-lideranca-e-vai-a-final-da-copa-sc-sub-20-feminina",
-    "title": "Secel/Meninas de Jaraguá avança à final da Copa SC Sub-20 Feminina",
-    "guid": "sc1multi:3c0510cdd6a4c0b0d1b604feec8859e323080664",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c0510cdd6a4c0b0d1b604feec8859e323080664/",
-    "usedAt": 1784566806446,
-    "usedAtIso": "2026-07-20T17:00:06.446Z"
-  },
-  "source:7dcf3528fc7f80a499320ac636a932a7ee48010b": {
-    "url": "https://ocp.news/cotidiano/veja-a-programacao-da-semana-de-aniversario-de-jaragua-do-sul",
-    "title": "Jaraguá do Sul celebra 150 anos com programação cultural intensa",
-    "guid": "sc1multi:7dcf3528fc7f80a499320ac636a932a7ee48010b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7dcf3528fc7f80a499320ac636a932a7ee48010b/",
-    "usedAt": 1784566806446,
-    "usedAtIso": "2026-07-20T17:00:06.446Z"
-  },
   "source:6089d9c77aad4877c1b42f448628ebd2067a20d7": {
     "url": "https://ocp.news/seguranca/mulher-e-presa-suspeita-de-matar-companheiro-durante-discussao-em-joinville",
     "title": "Mulher é presa suspeita de matar companheiro durante discussão em Joinville",
@@ -1550,5 +1526,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42f2c47fd74d1d10003ed94698b2769b67dd599e/",
     "usedAt": 1784822406595,
     "usedAtIso": "2026-07-23T16:00:06.595Z"
+  },
+  "source:9b3163a6293209eb63b271507543dc7d1bf3a9cc": {
+    "url": "https://ocp.news/economia/dona-da-brastemp-e-consul-fecha-fabrica-veja-o-que-muda-no-brasil",
+    "title": "Whirlpool mantém produção em Joinville após fábrica no México",
+    "guid": "sc1multi:9b3163a6293209eb63b271507543dc7d1bf3a9cc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b3163a6293209eb63b271507543dc7d1bf3a9cc/",
+    "usedAt": 1784826006867,
+    "usedAtIso": "2026-07-23T17:00:06.867Z"
+  },
+  "source:097443df197c70604999c07137a94566b69ee2fd": {
+    "url": "https://tudoaquisc.com.br/seguranca/mortes-violentas-sc-a-taxa-23-7",
+    "title": "Santa Catarina registra menor taxa de mortes violentas do país em 2025",
+    "guid": "sc1multi:1d753bdb7507e0515e0b342961d903774326ec98",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1d753bdb7507e0515e0b342961d903774326ec98/",
+    "usedAt": 1784826006867,
+    "usedAtIso": "2026-07-23T17:00:06.867Z"
+  },
+  "source:bb0e9efe68a2aa2aedab2036b1e3fabc8de15233": {
+    "url": "https://correiosc.com.br/procon-florianopolis-interdita-agencia-bradesco-praca-xv-48-horas",
+    "title": "Procon de Florianópolis interdita agência do Bradesco na Praça XV",
+    "guid": "sc1multi:02df7e40ddffa9ec560aa54a2114be74768c50c9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_02df7e40ddffa9ec560aa54a2114be74768c50c9/",
+    "usedAt": 1784826006867,
+    "usedAtIso": "2026-07-23T17:00:06.867Z"
+  },
+  "source:175f50ec3c0a5bd10d77893c5ee6d0928063bf9c": {
+    "url": "https://tnsul.com/2026/07/23/criciumense-mariana-sartor-disputa-vaga-na-alesc-pelo-psol",
+    "title": "Mariana Sartor, de Criciúma, disputa vaga na Alesc pelo PSOL",
+    "guid": "sc1multi:6ed65ed552bcfbbc0a5ddb46aae97f6415e19202",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ed65ed552bcfbbc0a5ddb46aae97f6415e19202/",
+    "usedAt": 1784826006867,
+    "usedAtIso": "2026-07-23T17:00:06.867Z"
   }
 }
