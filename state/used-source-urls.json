@@ -1,60 +1,4 @@
 {
-  "source:002851d157e8dedda624ccb6b9e5e074125c8d10": {
-    "url": "https://tnsul.com/2026/07/20/colisao-entre-carro-e-caminhao-deixa-homem-ferido-na-br-101-em-tubarao-2",
-    "title": "Homem fica ferido em colisão entre carro e caminhão na BR-101 em Tubarão",
-    "guid": "sc1multi:c59c70afc63dc0a8ddf673b752a790829d77fc33",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c59c70afc63dc0a8ddf673b752a790829d77fc33/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:af7a90176f19ba51c29b53905918f634beb69f57": {
-    "url": "https://ocp.news/cotidiano/concurso1-da-agricultura-de-sc-abre-20-vagas-com-salario-de-r-115-mil-para-qualquer-graduacao",
-    "title": "Concurso da Agricultura de SC oferece 20 vagas com salário de R$ 11,5 mil",
-    "guid": "sc1multi:af7a90176f19ba51c29b53905918f634beb69f57",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af7a90176f19ba51c29b53905918f634beb69f57/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:f46b8ecf8a925ac731d09d0bf0a2b5690c337f6e": {
-    "url": "https://ocp.news/economia/confira1-as-1-505-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
-    "title": "Sine de Jaraguá do Sul oferece 1.505 vagas de emprego nesta semana",
-    "guid": "sc1multi:f46b8ecf8a925ac731d09d0bf0a2b5690c337f6e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f46b8ecf8a925ac731d09d0bf0a2b5690c337f6e/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:2faf6d041d8c3e198bced8755a26f37880a5269f": {
-    "url": "https://ocp.news/entretenimento/tercas-sonoras-recebe-gui-natel-e-jade-deja-em-florianopolis",
-    "title": "Terças Sonoras apresenta Gui Natel e Jade Dejá em Florianópolis",
-    "guid": "sc1multi:2faf6d041d8c3e198bced8755a26f37880a5269f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2faf6d041d8c3e198bced8755a26f37880a5269f/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:d1183320a205a72a9288cc3c8c03f64309710f70": {
-    "url": "https://ocp.news/seguranca/motorista-e-preso-por-embriaguez-apos-acidente-em-jaragua-do-sul",
-    "title": "Motorista é preso por embriaguez após acidente em Jaraguá do Sul",
-    "guid": "sc1multi:d1183320a205a72a9288cc3c8c03f64309710f70",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d1183320a205a72a9288cc3c8c03f64309710f70/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:e25622119d473699c6830e86d5418d72752cd5fe": {
-    "url": "https://ocp.news/seguranca/brigas-apos-a-final-da-copa-do-mundo-deixa-ao-menos-nove-feridos-em-sc",
-    "title": "Brigas após final da Copa do Mundo deixam nove feridos em Santa Catarina",
-    "guid": "sc1multi:e25622119d473699c6830e86d5418d72752cd5fe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e25622119d473699c6830e86d5418d72752cd5fe/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
-  "source:fbeb512b0d3c7260811bda99ce58f180f84ac66e": {
-    "url": "https://tnsul.com/2026/07/20/homem-e-preso-apos-agredir-menino-de-10-anos-e-ameacar-ex-companheira-em-sc",
-    "title": "Homem é preso após agredir enteado e ameaçar ex-companheira em Jaraguá do Sul",
-    "guid": "sc1multi:a2374871a37fc8d2329c7a311247e2eedb6a717b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a2374871a37fc8d2329c7a311247e2eedb6a717b/",
-    "usedAt": 1784552409075,
-    "usedAtIso": "2026-07-20T13:00:09.075Z"
-  },
   "source:e6496ac5df56bfaba6068606a48e764dd89371b2": {
     "url": "https://ocp.news/seguranca/ladroes-usam-escada-desligam-cameras-e-furtam-equipamentos-da-sede-dos-flanaticos-em-jaragua-do-sul",
     "title": "Sede dos Flanáticos em Jaraguá do Sul é furtada durante a madrugada",
@@ -1614,5 +1558,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1699fb90c726923a0f3edde00a4a526f4a15e6ee/",
     "usedAt": 1784811606782,
     "usedAtIso": "2026-07-23T13:00:06.782Z"
+  },
+  "source:a0a7666c878a3a0468b30ac908b4a9036b84eb9b": {
+    "url": "https://ocp.news/seguranca/furto-em-shopping-termina-com-mulher-presa-em-jaragua-do-sul",
+    "title": "Mulher é presa por furto em shopping no Centro de Jaraguá do Sul",
+    "guid": "sc1multi:a0a7666c878a3a0468b30ac908b4a9036b84eb9b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a0a7666c878a3a0468b30ac908b4a9036b84eb9b/",
+    "usedAt": 1784815206823,
+    "usedAtIso": "2026-07-23T14:00:06.823Z"
+  },
+  "source:2c948262b5079dd86f8e1523bf0aebf8cfd46a21": {
+    "url": "https://tnsul.com/2026/07/23/colisao-entre-caminhonete-e-moto-deixa-adolescente-gravemente-ferido-em-sc",
+    "title": "Adolescente fica gravemente ferido em colisão na SC-163 em Descanso",
+    "guid": "sc1multi:de7e45b1c02191a3065c5139447d545f519188d2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de7e45b1c02191a3065c5139447d545f519188d2/",
+    "usedAt": 1784815206823,
+    "usedAtIso": "2026-07-23T14:00:06.823Z"
+  },
+  "source:c22e5d062a234f2ed07340d56c51b48a6b43270a": {
+    "url": "https://tnsul.com/2026/07/23/homem-e-esfaqueado-durante-assalto-no-centro-de-criciuma",
+    "title": "Homem é esfaqueado durante assalto no Centro de Criciúma",
+    "guid": "sc1multi:c1cb7ae7192d369b1535390bc786a75eaf1f7895",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1cb7ae7192d369b1535390bc786a75eaf1f7895/",
+    "usedAt": 1784815206823,
+    "usedAtIso": "2026-07-23T14:00:06.823Z"
+  },
+  "source:2e3ac5554f39eee79ade4e542b7fa4afafb3e29f": {
+    "url": "https://ocp.news/seguranca/santa-catarina-registra-a-menor-taxa-de-mortes-violentas-do-brasil-e-supera-sao-paulo",
+    "title": "Santa Catarina registra menor taxa de mortes violentas do Brasil em 2025",
+    "guid": "sc1multi:2e3ac5554f39eee79ade4e542b7fa4afafb3e29f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e3ac5554f39eee79ade4e542b7fa4afafb3e29f/",
+    "usedAt": 1784815206823,
+    "usedAtIso": "2026-07-23T14:00:06.823Z"
   }
 }
