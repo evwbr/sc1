@@ -1,36 +1,4 @@
 {
-  "source:8236807ec29884e7db60dd4bc42711622edefe36": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-goleia-adversarios-na-arena-e-avanca-as-semifinais-do-estadual-sub-15",
-    "title": "Jaraguá Futsal avança às semifinais do Catarinense Sub-15 com três goleadas",
-    "guid": "sc1multi:8236807ec29884e7db60dd4bc42711622edefe36",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8236807ec29884e7db60dd4bc42711622edefe36/",
-    "usedAt": 1784646006488,
-    "usedAtIso": "2026-07-21T15:00:06.488Z"
-  },
-  "source:b13f47f8cd2fe1d8d6403a047b756c3d52816054": {
-    "url": "https://tnsul.com/2026/07/21/colisao-entre-moto-e-carro-deixa-motociclista-ferido-no-centro-de-laguna",
-    "title": "Motociclista fica ferido após colisão com carro no Centro de Laguna",
-    "guid": "sc1multi:f3a870f6992434714227d2819c77d14c47f3f9e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3a870f6992434714227d2819c77d14c47f3f9e7/",
-    "usedAt": 1784646006488,
-    "usedAtIso": "2026-07-21T15:00:06.488Z"
-  },
-  "source:63d81d90a67ab47a3f0705b4729410a9d66ad74b": {
-    "url": "https://ocp.news/cotidiano/guaramirim-apresenta-masterplan-com-planejamento-para-os-proximos-30-anos",
-    "title": "Guaramirim apresenta Masterplan para desenvolvimento dos próximos 30 anos",
-    "guid": "sc1multi:63d81d90a67ab47a3f0705b4729410a9d66ad74b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63d81d90a67ab47a3f0705b4729410a9d66ad74b/",
-    "usedAt": 1784646006488,
-    "usedAtIso": "2026-07-21T15:00:06.488Z"
-  },
-  "source:8b3b30b25f3377f93fdf3cf36260ef7b1702c449": {
-    "url": "https://ocp.news/cotidiano/jaragua-do-sul-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro",
-    "title": "Jaraguá do Sul transfere ponto facultativo do Dia do Servidor Público para 30 de outubro",
-    "guid": "sc1multi:8b3b30b25f3377f93fdf3cf36260ef7b1702c449",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b3b30b25f3377f93fdf3cf36260ef7b1702c449/",
-    "usedAt": 1784646006488,
-    "usedAtIso": "2026-07-21T15:00:06.488Z"
-  },
   "source:16ef16b21ce7ca9d47e50935650b932033fbeb84": {
     "url": "https://ocp.news/esporte/jaraguaense-e-eleito-o-melhor-goleiro-da-liga-do-cazaquistao-de-futsal",
     "title": "Jaraguaense é eleito melhor goleiro da Liga do Cazaquistão de Futsal",
@@ -1454,5 +1422,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_22c6780c078c104dba65a07f5dab55626538a9b1/",
     "usedAt": 1784901606768,
     "usedAtIso": "2026-07-24T14:00:06.768Z"
+  },
+  "source:f1282ae9c2da9690be652ba6a2bb96a2908cdd24": {
+    "url": "https://ocp.news/seguranca/homem-e-alvo-pela-terceira-vez-de-operacao-por-exploracao-sexual-infantil-em-sc",
+    "title": "Homem é alvo pela terceira vez de operação por exploração sexual infantil em Camboriú",
+    "guid": "sc1multi:f1282ae9c2da9690be652ba6a2bb96a2908cdd24",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1282ae9c2da9690be652ba6a2bb96a2908cdd24/",
+    "usedAt": 1784905207196,
+    "usedAtIso": "2026-07-24T15:00:07.196Z"
+  },
+  "source:8aaeecff4da6503b130eb8e2d5e30e5cbd2974ed": {
+    "url": "https://tnsul.com/2026/07/24/jovem-de-17-anos-morre-em-acidente-entre-motocicleta-e-hilux-em-criciuma",
+    "title": "Adolescente morre em colisão entre motocicleta e Hilux em Criciúma",
+    "guid": "sc1multi:f677920c829d761e468c879d9f3a3ae7f64d0569",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f677920c829d761e468c879d9f3a3ae7f64d0569/",
+    "usedAt": 1784905207196,
+    "usedAtIso": "2026-07-24T15:00:07.196Z"
+  },
+  "source:a483d5611053156606687de025d1a93f937c765e": {
+    "url": "https://tnsul.com/2026/07/24/estudante-de-odontologia-e-encontrado-morto-horas-apos-ser-preso-em-sc",
+    "title": "Estudante de odontologia morre em penitenciária de São Cristóvão do Sul",
+    "guid": "sc1multi:8af19cd4f548c887871525643ed572cb361315d8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8af19cd4f548c887871525643ed572cb361315d8/",
+    "usedAt": 1784905207196,
+    "usedAtIso": "2026-07-24T15:00:07.196Z"
+  },
+  "source:6caef1ad86995390dd7840bae31aebd402d711aa": {
+    "url": "https://ocp.news/politica/colombo-reforca-pre-candidatura-e-destaca-chapa-com-joao-rodrigues-chiodini-amin-e-lunelli",
+    "title": "Raimundo Colombo reforça pré-candidatura e destaca chapa para Santa Catarina",
+    "guid": "sc1multi:6caef1ad86995390dd7840bae31aebd402d711aa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6caef1ad86995390dd7840bae31aebd402d711aa/",
+    "usedAt": 1784905207196,
+    "usedAtIso": "2026-07-24T15:00:07.196Z"
   }
 }
