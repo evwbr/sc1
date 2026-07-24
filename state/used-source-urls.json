@@ -1,52 +1,4 @@
 {
-  "source:0e1864678c36bf058e9b68bd776f08b17480dbbd": {
-    "url": "https://ocp.news/seguranca/homem-usa-dados-do-proprio-irmao-durante-abordagem-e-e-detido-em-schroeder",
-    "title": "Homem é detido em Schroeder após usar dados falsos do irmão em abordagem",
-    "guid": "sc1multi:0e1864678c36bf058e9b68bd776f08b17480dbbd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e1864678c36bf058e9b68bd776f08b17480dbbd/",
-    "usedAt": 1784667606738,
-    "usedAtIso": "2026-07-21T21:00:06.738Z"
-  },
-  "source:f9d388d8ca3998a7f82c9cff9b6493f1a15d8709": {
-    "url": "https://rbatv.com.br/noticias/hospital-regional-pede-ajuda-para-identificar-paciente-vitima-de-acidente-em-rio-do-sul",
-    "title": "Hospital Regional de Rio do Sul busca identificar paciente vítima de acidente",
-    "guid": "sc1multi:15a601f31334248431f30b0101b1ac1fb3c88aee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15a601f31334248431f30b0101b1ac1fb3c88aee/",
-    "usedAt": 1784667606738,
-    "usedAtIso": "2026-07-21T21:00:06.738Z"
-  },
-  "source:b97c7f47f60a7b6bab1a615694ae9500f71daaaf": {
-    "url": "https://tnsul.com/2026/07/21/saude-de-icara-promove-campanha-para-reforcar-cuidados-com-a-saude-bucal",
-    "title": "Içara promove campanha para reforçar cuidados com a saúde bucal infantil",
-    "guid": "sc1multi:c80b20ac245f7d00f5eb2f078c8ce248db7fbd29",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80b20ac245f7d00f5eb2f078c8ce248db7fbd29/",
-    "usedAt": 1784667606738,
-    "usedAtIso": "2026-07-21T21:00:06.738Z"
-  },
-  "source:da47d89c9f3093fd6b0b95552a53f333133293d9": {
-    "url": "https://ocp.news/esporte/equipe-jaraguaense-se-classifica-a-fase-final-do-estadual-de-volei-sub-19-feminino",
-    "title": "Equipe de Jaraguá do Sul avança à fase final do Estadual de Vôlei Sub-19 Feminino",
-    "guid": "sc1multi:da47d89c9f3093fd6b0b95552a53f333133293d9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_da47d89c9f3093fd6b0b95552a53f333133293d9/",
-    "usedAt": 1784667606738,
-    "usedAtIso": "2026-07-21T21:00:06.738Z"
-  },
-  "source:fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef": {
-    "url": "https://ocp.news/politica/camara-de-jaragua-do-sul-aprova-mocao-para-ampliar-emissao-de-identidades",
-    "title": "Câmara de Jaraguá do Sul aprova moção para ampliar emissão de identidades",
-    "guid": "sc1multi:fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe09f481e2d795eda0ad39f7a5bfc4c3db2a5cef/",
-    "usedAt": 1784671206862,
-    "usedAtIso": "2026-07-21T22:00:06.862Z"
-  },
-  "source:1478d4376138358754f49d033c038ba58edb258e": {
-    "url": "https://tnsul.com/2026/07/21/criciuma-tem-o-8o-maior-eleitorado-de-sc-e-amrec-passa-de-360-mil-eleitores",
-    "title": "Criciúma tem o 8º maior eleitorado de Santa Catarina nas Eleições 2026",
-    "guid": "sc1multi:0bb6fb7ca304d60f9369da43ae2e91a818d8caec",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0bb6fb7ca304d60f9369da43ae2e91a818d8caec/",
-    "usedAt": 1784671206862,
-    "usedAtIso": "2026-07-21T22:00:06.862Z"
-  },
   "source:aa5e8f50e383c0cfbc1a30990edc99ba8ad2824e": {
     "url": "https://rbatv.com.br/noticias/temporais-atingem-73-cidades-do-rio-grande-do-sul-sc-tambem-esta-em-alerta",
     "title": "Santa Catarina em alerta por temporais que atingem o Rio Grande do Sul",
@@ -1374,5 +1326,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ed626b756100a8b3f899382cb60e82737659199/",
     "usedAt": 1784926806477,
     "usedAtIso": "2026-07-24T21:00:06.477Z"
+  },
+  "source:33deaf01c70c2e31e63900b76e76d3048b76d111": {
+    "url": "https://tudoaquisc.com.br/esporte/criciuma-ruan-carvalho-serie-b",
+    "title": "Criciúma lidera a Série B com campanha histórica em 2026",
+    "guid": "sc1multi:d5243dd4bf7b7922fabe3c5ad48d757cbdbb7518",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5243dd4bf7b7922fabe3c5ad48d757cbdbb7518/",
+    "usedAt": 1784930407854,
+    "usedAtIso": "2026-07-24T22:00:07.854Z"
   }
 }
