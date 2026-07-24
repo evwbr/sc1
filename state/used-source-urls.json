@@ -1,52 +1,4 @@
 {
-  "source:7529cf39503e6babeaef997b3ac9265ed31c730f": {
-    "url": "https://tnsul.com/2026/07/21/idoso-sofre-parada-cardiaca-e-e-socorrido-pelos-bombeiros-em-forquilhinha",
-    "title": "Idoso sofre parada cardíaca e é socorrido em Forquilhinha",
-    "guid": "sc1multi:2b4099044d6a04a235a24630d4207c5e569194ac",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b4099044d6a04a235a24630d4207c5e569194ac/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
-  "source:b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd": {
-    "url": "https://ocp.news/entretenimento/a-odisseia-novo-epico-de-christopher-nolan-estreia-em-cinema-shopping-de-florianopolis",
-    "title": "Filme 'A Odisseia' estreia em cinema de Florianópolis com tela gigante",
-    "guid": "sc1multi:b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b183aabd218e6c4ea4c9d5d18c78ac99cc3cdfcd/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
-  "source:9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb": {
-    "url": "https://ocp.news/seguranca/pmsc-recupera-13-celulares-e-um-tablet-roubados-de-loja-em-florianopolis",
-    "title": "Polícia Militar recupera celulares roubados em Florianópolis e cumpre mandado",
-    "guid": "sc1multi:9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9e82fdf67a8518d1e5bf2aa941d683d29d4a12cb/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
-  "source:045c7d3735817746a60afa8831aad255c0272fa5": {
-    "url": "https://ocp.news/politica/julia-zanatta-coleta-assinatura-para-pedir-impeachment-de-lula",
-    "title": "Deputada Júlia Zanatta coleta assinaturas para impeachment de Lula",
-    "guid": "sc1multi:045c7d3735817746a60afa8831aad255c0272fa5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_045c7d3735817746a60afa8831aad255c0272fa5/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
-  "source:cecaf80a1d769f0e1bb579d0e790849d723153ac": {
-    "url": "https://ocp.news/esporte/bocha-veja-a-classificacao-do-municipal-de-jaragua-do-sul-apos-o-fim-do-turno",
-    "title": "Campeonato Municipal de Bocha de Jaraguá do Sul avança para o returno",
-    "guid": "sc1multi:cecaf80a1d769f0e1bb579d0e790849d723153ac",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cecaf80a1d769f0e1bb579d0e790849d723153ac/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
-  "source:86acf6e2c3b8454eb9177e1f028a3d99f99435fe": {
-    "url": "https://ocp.news/seguranca/homem-investigado-por-ataque-com-canivete-e-preso-em-jaragua-do-sul-defesa-afirma-que-vai-recorrer",
-    "title": "Homem é preso por ataque com canivete em Jaraguá do Sul",
-    "guid": "sc1multi:86acf6e2c3b8454eb9177e1f028a3d99f99435fe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_86acf6e2c3b8454eb9177e1f028a3d99f99435fe/",
-    "usedAt": 1784642406335,
-    "usedAtIso": "2026-07-21T14:00:06.335Z"
-  },
   "source:8236807ec29884e7db60dd4bc42711622edefe36": {
     "url": "https://ocp.news/esporte/jaragua-futsal-goleia-adversarios-na-arena-e-avanca-as-semifinais-do-estadual-sub-15",
     "title": "Jaraguá Futsal avança às semifinais do Catarinense Sub-15 com três goleadas",
@@ -1462,5 +1414,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bef55994768cce229a8bd3313c8658b18697403a/",
     "usedAt": 1784898007389,
     "usedAtIso": "2026-07-24T13:00:07.389Z"
+  },
+  "source:d06645ebe89af1f0ef6059eb3f5cdc04743c64c7": {
+    "url": "https://ocp.news/cotidiano/defesa-civil-de-guaramirim-intensifica-acoes-preventivas-com-foco-na-prevencao-de-desastres-naturais",
+    "title": "Guaramirim intensifica ações preventivas contra desastres naturais",
+    "guid": "sc1multi:d06645ebe89af1f0ef6059eb3f5cdc04743c64c7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d06645ebe89af1f0ef6059eb3f5cdc04743c64c7/",
+    "usedAt": 1784901606768,
+    "usedAtIso": "2026-07-24T14:00:06.768Z"
+  },
+  "source:14e8e2cd0b55ecc588a58da526a4c13778b29da9": {
+    "url": "https://tnsul.com/2026/07/24/trabalhador-fica-gravemente-ferido-apos-queda-de-15-metros-em-ponte-de-sc",
+    "title": "Trabalhador fica gravemente ferido após queda em ponte na BR-282 em Joaçaba",
+    "guid": "sc1multi:e0fb9ec510cc80d0d8e18a87d6aaac07bf9025d5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e0fb9ec510cc80d0d8e18a87d6aaac07bf9025d5/",
+    "usedAt": 1784901606768,
+    "usedAtIso": "2026-07-24T14:00:06.768Z"
+  },
+  "source:8fc3f9cdc32199e28641e9fba42be338918a64a8": {
+    "url": "https://ocp.news/seguranca/furtos-de-cabos-e-vandalismo-causam-prejuizo-de-r-731-mil-na-br-116-entre-sc-e-pr",
+    "title": "Furtos e vandalismo causam prejuízo de R$ 419 mil na BR-116 em Santa Catarina",
+    "guid": "sc1multi:8fc3f9cdc32199e28641e9fba42be338918a64a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8fc3f9cdc32199e28641e9fba42be338918a64a8/",
+    "usedAt": 1784901606768,
+    "usedAtIso": "2026-07-24T14:00:06.768Z"
+  },
+  "source:c3614254542f5444ad67ac6ccc1e55314602014c": {
+    "url": "https://correiosc.com.br/pm-apreende-mais-de-37-quilos-de-drogas-e-arma-no-norte-da-ilha",
+    "title": "Polícia Militar apreende drogas e arma no bairro Rio Vermelho, Florianópolis",
+    "guid": "sc1multi:a4a4b625f13f51c4dc388cfd96437aea6225e0a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4a4b625f13f51c4dc388cfd96437aea6225e0a3/",
+    "usedAt": 1784901606768,
+    "usedAtIso": "2026-07-24T14:00:06.768Z"
+  },
+  "source:22c6780c078c104dba65a07f5dab55626538a9b1": {
+    "url": "https://ocp.news/esporte/definidas-as-quartas-de-final-do-municipal-de-futsal-de-guaramirim-2",
+    "title": "Quartas de final do Municipal de Futsal de Guaramirim estão definidas",
+    "guid": "sc1multi:22c6780c078c104dba65a07f5dab55626538a9b1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_22c6780c078c104dba65a07f5dab55626538a9b1/",
+    "usedAt": 1784901606768,
+    "usedAtIso": "2026-07-24T14:00:06.768Z"
   }
 }
