@@ -1,44 +1,4 @@
 {
-  "source:3b284f6410207fa3486c5d901c633feda6622bbf": {
-    "url": "https://correiosc.com.br/sorriso-maroto-confirmado-reveillon-2027-florianopolis",
-    "title": "Sorriso Maroto confirmado no Réveillon 2027 de Florianópolis",
-    "guid": "sc1multi:5cc7c26bc3dc9f3e34edb7926ef4015516ecb0b0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5cc7c26bc3dc9f3e34edb7926ef4015516ecb0b0/",
-    "usedAt": 1784599206261,
-    "usedAtIso": "2026-07-21T02:00:06.261Z"
-  },
-  "source:bd6083075969f1e08c8cd6ee28c458f0a3c1c9d6": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-agredir-esposa-ameacar-filho-e-danificar-casa-em-blumenau",
-    "title": "Homem é preso por agressão e ameaça em Blumenau",
-    "guid": "sc1multi:bab6494065cf22fdba0af3053ddb3da37495168f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bab6494065cf22fdba0af3053ddb3da37495168f/",
-    "usedAt": 1784599206261,
-    "usedAtIso": "2026-07-21T02:00:06.261Z"
-  },
-  "source:a073424551d89a695dcaf02d20c09e5183cfc8c0": {
-    "url": "https://rbatv.com.br/noticias/motorista-fica-inconsciente-apos-colisao-frontal-na-br-470-em-pouso-redondo",
-    "title": "Motorista fica inconsciente após colisão frontal na BR-470 em Pouso Redondo",
-    "guid": "sc1multi:f6acdee52e39f4502bcc0c9c69aebe4bd2e4a8dd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6acdee52e39f4502bcc0c9c69aebe4bd2e4a8dd/",
-    "usedAt": 1784599206261,
-    "usedAtIso": "2026-07-21T02:00:06.261Z"
-  },
-  "source:9a5db2b136db5e26cb026b64d1183864b96fd98e": {
-    "url": "https://rbatv.com.br/noticias/motociclista-sofre-fratura-exposta-apos-colisao-na-br-470-em-rio-do-sul",
-    "title": "Motociclista sofre fratura exposta após colisão na BR-470 em Rio do Sul",
-    "guid": "sc1multi:aca720461035b3066d5383444bb53c139f33ad84",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aca720461035b3066d5383444bb53c139f33ad84/",
-    "usedAt": 1784599206261,
-    "usedAtIso": "2026-07-21T02:00:06.261Z"
-  },
-  "source:59dc94f1da1926089540b01ad73bf6bb0c301cb4": {
-    "url": "https://scportais.com.br/2026/07/20/renegociacao-das-dividas-rurais-avanca-e-pode-devolver-capacidade-de-investimento-ao-produtor",
-    "title": "Renegociação das dívidas rurais beneficia produtores de Santa Catarina",
-    "guid": "sc1multi:7cbbb8ca0fe6e1b9d8daf54fcaef180a7501c629",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cbbb8ca0fe6e1b9d8daf54fcaef180a7501c629/",
-    "usedAt": 1784599206261,
-    "usedAtIso": "2026-07-21T02:00:06.261Z"
-  },
   "source:655c5362cbb2fc028a37a3df3ad502ce7f4622d9": {
     "url": "https://scportais.com.br/2026/07/20/tjsc-determina-devolucao-de-aparelhos-eletronicos-apreendidos-na-operacao-entre-lobos",
     "title": "TJSC determina devolução de aparelhos apreendidos na Operação Entre Lobos",
@@ -1478,5 +1438,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ea2c0ce03f1cb1b066d418ba7d6ae2a8cb04c9b5/",
     "usedAt": 1784851206384,
     "usedAtIso": "2026-07-24T00:00:06.384Z"
+  },
+  "source:006adea007f8395f788876c076abd64631284040": {
+    "url": "https://tnsul.com/2026/07/23/integracao-e-planejamento-para-reduzir-impactos-do-el-nino-na-regiao-sul",
+    "title": "Criciúma promove integração para reduzir impactos do El Niño no Sul de SC",
+    "guid": "sc1multi:abd10f3e16a06cfa5385649a804959b74df27e0f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_abd10f3e16a06cfa5385649a804959b74df27e0f/",
+    "usedAt": 1784858410068,
+    "usedAtIso": "2026-07-24T02:00:10.068Z"
   }
 }
