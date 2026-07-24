@@ -1,52 +1,4 @@
 {
-  "source:fa2a33a453721dd169a1236dc99d64abfad2e0d8": {
-    "url": "https://ocp.news/seguranca/pericia-provoca-interdicao-temporaria-na-rua-roberto-ziemann-em-jaragua-do-sul",
-    "title": "Rua Roberto Ziemann é interditada para perícia em Jaraguá do Sul",
-    "guid": "sc1multi:fa2a33a453721dd169a1236dc99d64abfad2e0d8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fa2a33a453721dd169a1236dc99d64abfad2e0d8/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
-  "source:0af1927b7bbc825f86b1183b149d6e723450c25f": {
-    "url": "https://tnsul.com/2026/07/21/projeto-traz-ranking-com-as-50-cidades-de-sc-que-maus-maltrata-animais",
-    "title": "Ministério Público lança projeto contra maus-tratos a animais em Santa Catarina",
-    "guid": "sc1multi:f59c4680bfbfff6276561c84be285940d82ad3c7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f59c4680bfbfff6276561c84be285940d82ad3c7/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
-  "source:6b747aa755df0de6110d02f3aeab35dc3bc635c9": {
-    "url": "https://ocp.news/politica/camara-realiza-solenidade-nesta-quarta-feira-pelos-150-de-jaragua-do-sul",
-    "title": "Jaraguá do Sul celebra 150 anos com solenidade na Câmara Municipal",
-    "guid": "sc1multi:6b747aa755df0de6110d02f3aeab35dc3bc635c9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b747aa755df0de6110d02f3aeab35dc3bc635c9/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
-  "source:4b648b68b79696215acc310c28a57db9cf13cbcd": {
-    "url": "https://tnsul.com/2026/07/21/mp-acusa-irregularidades-em-contratacao-do-cisamrec",
-    "title": "MP investiga irregularidades em contratação do Cisamrec em Criciúma",
-    "guid": "sc1multi:7ba0be5a678c71e0895de0a38601669c81cbe419",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ba0be5a678c71e0895de0a38601669c81cbe419/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
-  "source:bb0901b18e955166cbdd7c34c3414afb07daeef5": {
-    "url": "https://rbatv.com.br/noticias/homem-e-flagrado-com-cinco-aves-silvestres-mantidas-em-cativeiro-em-agrolandia",
-    "title": "Homem é flagrado com aves silvestres em cativeiro em Agrolândia",
-    "guid": "sc1multi:b986854759936ec1e5d8942ecb33147093fd3d9c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b986854759936ec1e5d8942ecb33147093fd3d9c/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
-  "source:2cf1bed8e4e059321cacd4353715cdf2eb829d73": {
-    "url": "https://ocp.news/cotidiano/santa-catarina-esta-sob-quatro-alertas-do-inmet-para-vendaval-tempestades-e-chuva-acumulada",
-    "title": "Santa Catarina recebe quatro alertas do Inmet para vendavais e tempestades",
-    "guid": "sc1multi:2cf1bed8e4e059321cacd4353715cdf2eb829d73",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cf1bed8e4e059321cacd4353715cdf2eb829d73/",
-    "usedAt": 1784664006517,
-    "usedAtIso": "2026-07-21T20:00:06.517Z"
-  },
   "source:0e1864678c36bf058e9b68bd776f08b17480dbbd": {
     "url": "https://ocp.news/seguranca/homem-usa-dados-do-proprio-irmao-durante-abordagem-e-e-detido-em-schroeder",
     "title": "Homem é detido em Schroeder após usar dados falsos do irmão em abordagem",
@@ -1398,5 +1350,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e330eba602bc642fcfc284490a9f98d086eedbbb/",
     "usedAt": 1784923206280,
     "usedAtIso": "2026-07-24T20:00:06.280Z"
+  },
+  "source:675e52381028f083cf4e2203e44a1b0d023c9147": {
+    "url": "https://tudoaquisc.com.br/policia/estudante-de-odontologia-preso-morto-240",
+    "title": "Estudante de odontologia morre em penitenciária de Curitibanos, SC",
+    "guid": "sc1multi:c53c55ac4177023d8b683ba9b1329ca47f74198f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c53c55ac4177023d8b683ba9b1329ca47f74198f/",
+    "usedAt": 1784926806477,
+    "usedAtIso": "2026-07-24T21:00:06.477Z"
+  },
+  "source:083142295e900ab87246142cdf9152579abb343c": {
+    "url": "https://tudoaquisc.com.br/ultimas-noticias/futsal-henrique-barbieri",
+    "title": "Goleiro catarinense Henrique Barbieri é contratado pelo campeão italiano de futsal",
+    "guid": "sc1multi:9d2226375ff7315baea747a6e517d85f9ff2566d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d2226375ff7315baea747a6e517d85f9ff2566d/",
+    "usedAt": 1784926806477,
+    "usedAtIso": "2026-07-24T21:00:06.477Z"
+  },
+  "source:a0906b9d40ab1f265aa72572574b9fc887ac9e14": {
+    "url": "https://tudoaquisc.com.br/seguranca/cidade-seguras-tubarao-2o-lugar",
+    "title": "Tubarão é a segunda cidade mais segura do Brasil em 2025",
+    "guid": "sc1multi:1ed626b756100a8b3f899382cb60e82737659199",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ed626b756100a8b3f899382cb60e82737659199/",
+    "usedAt": 1784926806477,
+    "usedAtIso": "2026-07-24T21:00:06.477Z"
   }
 }
