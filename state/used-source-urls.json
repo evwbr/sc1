@@ -1,44 +1,4 @@
 {
-  "source:27d586fd9a9d507b99bc277afe42dd96375407a6": {
-    "url": "https://ocp.news/seguranca/homem-e-abordado-apos-ameacar-vigilante-em-espaco-publico-de-jaragua-do-sul",
-    "title": "Homem ameaça vigilante em espaço público de Jaraguá do Sul",
-    "guid": "sc1multi:27d586fd9a9d507b99bc277afe42dd96375407a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27d586fd9a9d507b99bc277afe42dd96375407a6/",
-    "usedAt": 1784653210067,
-    "usedAtIso": "2026-07-21T17:00:10.067Z"
-  },
-  "source:e3074ecec7a4c0151de8b35d27576797d5b9476e": {
-    "url": "https://correiosc.com.br/ifsc-abre-concurso-publico-com-65-vagas",
-    "title": "IFSC abre concurso com 65 vagas para técnicos e professores em Santa Catarina",
-    "guid": "sc1multi:039082507d68a2ef4c0355869e82c6767400620c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_039082507d68a2ef4c0355869e82c6767400620c/",
-    "usedAt": 1784653210067,
-    "usedAtIso": "2026-07-21T17:00:10.067Z"
-  },
-  "source:b1c5823d638cc71c4847ac4cf54e0c0d85b84e4e": {
-    "url": "https://correiosc.com.br/sao-jose-inicia-autuacao-de-motoristas-por-uso-irregular-da-faixa-exclusiva",
-    "title": "São José inicia autuação por uso irregular da faixa exclusiva na Avenida Presidente Kennedy",
-    "guid": "sc1multi:7d1e2557f04faa68a16d7dcdbfaccca7b74bcc9e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d1e2557f04faa68a16d7dcdbfaccca7b74bcc9e/",
-    "usedAt": 1784653210067,
-    "usedAtIso": "2026-07-21T17:00:10.067Z"
-  },
-  "source:3238949cd1c5a618a64a5bb7c36f361af8d3c1c5": {
-    "url": "https://ocp.news/politica/samae-tera-bebedouros-com-agua-potavel-gratuita-na-festa-dos-150-anos-de-jaragua-do-sul",
-    "title": "Samae oferece água potável gratuita na festa dos 150 anos de Jaraguá do Sul",
-    "guid": "sc1multi:3238949cd1c5a618a64a5bb7c36f361af8d3c1c5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3238949cd1c5a618a64a5bb7c36f361af8d3c1c5/",
-    "usedAt": 1784656806415,
-    "usedAtIso": "2026-07-21T18:00:06.415Z"
-  },
-  "source:5f7354ee9411e5f2b0335afd044516265f5ae951": {
-    "url": "https://correiosc.com.br/sao-jose-define-nova-data-para-licitacao-da-beira-mar-de-barreiros",
-    "title": "São José anuncia nova data para licitação da Beira-Mar de Barreiros",
-    "guid": "sc1multi:b15c9d87acf9cb9cb2b60d179bc8e0fbfad47341",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b15c9d87acf9cb9cb2b60d179bc8e0fbfad47341/",
-    "usedAt": 1784656806415,
-    "usedAtIso": "2026-07-21T18:00:06.415Z"
-  },
   "source:2789aa0f1027c99f1dbb29874c6034262a3293c6": {
     "url": "https://ocp.news/politica/vereadores-aprovam-criacao-de-selos-para-incentivar-destinacao-do-imposto-de-renda",
     "title": "Jaraguá do Sul cria selos para incentivar destinação do Imposto de Renda",
@@ -1478,5 +1438,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb8b26746678dd7f51afb1c73d0ca3bbe469a50a/",
     "usedAt": 1784912406302,
     "usedAtIso": "2026-07-24T17:00:06.302Z"
+  },
+  "source:c3bc27865c18ac459f118365dd1ed889446893bd": {
+    "url": "https://scportais.com.br/2026/07/24/pelo-estado-25-07-antt-e-condenada-por-congestionamentos-nas-rodovias-de-sc",
+    "title": "ANTT é condenada por congestionamentos na BR-101 entre Penha e Balneário Camboriú",
+    "guid": "sc1multi:5f57d88d6ee33f7b7f36a7f19ac35a97d3568293",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f57d88d6ee33f7b7f36a7f19ac35a97d3568293/",
+    "usedAt": 1784916006487,
+    "usedAtIso": "2026-07-24T18:00:06.487Z"
+  },
+  "source:d605d03c0c36d2dbaf3efb06d9537d327ae7bc34": {
+    "url": "https://tnsul.com/2026/07/24/identificada-adolescente-que-morreu-em-acidente-de-moto-em-criciuma",
+    "title": "Adolescente morre em acidente de moto na rodovia Alexandre Belloli em Criciúma",
+    "guid": "sc1multi:dfcaac7f627515b32ffe9ec1cc37cc675bdaa852",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfcaac7f627515b32ffe9ec1cc37cc675bdaa852/",
+    "usedAt": 1784916006487,
+    "usedAtIso": "2026-07-24T18:00:06.487Z"
+  },
+  "source:28a703203063371af1a7c763a562cf2606b997de": {
+    "url": "https://ocp.news/cotidiano/florianopolis-mantem-limpeza-diaria-de-rios-e-canais-em-todos-os-bairros",
+    "title": "Florianópolis intensifica limpeza diária de rios e canais em todos os bairros",
+    "guid": "sc1multi:28a703203063371af1a7c763a562cf2606b997de",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_28a703203063371af1a7c763a562cf2606b997de/",
+    "usedAt": 1784916006487,
+    "usedAtIso": "2026-07-24T18:00:06.487Z"
   }
 }
