@@ -1,28 +1,4 @@
 {
-  "source:aa5e8f50e383c0cfbc1a30990edc99ba8ad2824e": {
-    "url": "https://rbatv.com.br/noticias/temporais-atingem-73-cidades-do-rio-grande-do-sul-sc-tambem-esta-em-alerta",
-    "title": "Santa Catarina em alerta por temporais que atingem o Rio Grande do Sul",
-    "guid": "sc1multi:0cababfbd06a2c54ce45708b9904b9dbcae31105",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0cababfbd06a2c54ce45708b9904b9dbcae31105/",
-    "usedAt": 1784682006144,
-    "usedAtIso": "2026-07-22T01:00:06.144Z"
-  },
-  "source:ffc710e6fc8fbc6177aa2dc58056509bf4d5b0c3": {
-    "url": "https://tnsul.com/2026/07/21/tigre-vence-outra-e-abre-vantagem-na-lideranca-da-serie-b",
-    "title": "Criciúma vence Novorizontino e amplia liderança na Série B",
-    "guid": "sc1multi:90f7e0e29751b9a1ff18b4316164f08a1fedd26f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_90f7e0e29751b9a1ff18b4316164f08a1fedd26f/",
-    "usedAt": 1784682006144,
-    "usedAtIso": "2026-07-22T01:00:06.144Z"
-  },
-  "source:0f05a49ece93d3024556053bc803f866cd21cff0": {
-    "url": "https://ocp.news/esporte/brasileirao-veja-as-chegadas-e-saidas-dos-clubes-durante-a-pausa-para-copa-do-mundo",
-    "title": "Chapecoense anuncia reforços e saídas durante pausa do Brasileirão",
-    "guid": "sc1multi:0f05a49ece93d3024556053bc803f866cd21cff0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f05a49ece93d3024556053bc803f866cd21cff0/",
-    "usedAt": 1784682006144,
-    "usedAtIso": "2026-07-22T01:00:06.144Z"
-  },
   "source:5c0d9776de02e9f12ed14de08c3d02f334f9c279": {
     "url": "https://tnsul.com/2026/07/21/batida-frontal-deixa-motorista-preso-as-ferragens",
     "title": "Acidente entre carro e moto deixa motorista preso em Criciúma",
@@ -1342,5 +1318,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eb111269b1a49acb9995fd21ddbf1be66292283f/",
     "usedAt": 1784934006986,
     "usedAtIso": "2026-07-24T23:00:06.986Z"
+  },
+  "source:905cb9c5e6f94f645c718d6251c6c446e4c072a8": {
+    "url": "https://tnsul.com/2026/07/24/recepcao-ao-onibus-do-criciuma-tera-alteracoes-no-transito-neste-domingo",
+    "title": "Trânsito terá alterações em Criciúma para recepção ao time neste domingo",
+    "guid": "sc1multi:a2b3126b9bb0063f4e91f6eb88c0fb742d4a80e6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a2b3126b9bb0063f4e91f6eb88c0fb742d4a80e6/",
+    "usedAt": 1784941206346,
+    "usedAtIso": "2026-07-25T01:00:06.346Z"
   }
 }
