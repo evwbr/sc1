@@ -1,52 +1,4 @@
 {
-  "source:9314153d51b09eea547182337ca47b644b6542a4": {
-    "url": "https://ocp.news/cotidiano/150-anos-de-jaragua-do-sul-transporte-coletivo-tera-linha-especial-e-tarifa-reduzida",
-    "title": "Jaraguá do Sul terá linha especial e tarifa reduzida no transporte coletivo",
-    "guid": "sc1multi:9314153d51b09eea547182337ca47b644b6542a4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9314153d51b09eea547182337ca47b644b6542a4/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
-  "source:cf354711e5a68c682d09a860d9bfada61d601b72": {
-    "url": "https://ocp.news/seguranca/motorista-morre-em-colisao-entre-bmw-e-caminhao-na-sc-418",
-    "title": "Motorista morre em colisão entre BMW e caminhão na SC-418",
-    "guid": "sc1multi:cf354711e5a68c682d09a860d9bfada61d601b72",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf354711e5a68c682d09a860d9bfada61d601b72/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
-  "source:676498d0604cc9fc225e1f5ecb43340a0c5908f2": {
-    "url": "https://ocp.news/cotidiano/sc-chega-a-26-casos-de-raiva-em-animais-e-reforca-alerta-para-vacinacao",
-    "title": "Santa Catarina registra 26 casos de raiva em animais e reforça vacinação",
-    "guid": "sc1multi:676498d0604cc9fc225e1f5ecb43340a0c5908f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_676498d0604cc9fc225e1f5ecb43340a0c5908f2/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
-  "source:7b0d14e18c884fe6dda9f6efd624f0f99b684b65": {
-    "url": "https://tnsul.com/2026/07/22/pm-dispara-contra-cao-durante-cumprimento-de-mandado-de-prisao-em-criciuma",
-    "title": "Policial Militar atira contra cão durante mandado de prisão em Criciúma",
-    "guid": "sc1multi:88480115b332feddc593590e12c86ca9ecd35941",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_88480115b332feddc593590e12c86ca9ecd35941/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
-  "source:cf5c46410c091184514656452c20c52612a5e289": {
-    "url": "https://tnsul.com/2026/07/22/mpsc-recomenda-programa-de-guarda-subsidiada-para-convivencia-familiar",
-    "title": "MPSC recomenda programa de guarda subsidiada para crianças em Jaguaruna",
-    "guid": "sc1multi:5484f4a1661838f64ae00f3eb3aeb728ca3aff3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5484f4a1661838f64ae00f3eb3aeb728ca3aff3f/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
-  "source:8a9d288d660547682eaeb6c19a938fdc250820ad": {
-    "url": "https://ocp.news/politica/lei-de-autoria-do-dr-vicente-garante-pensao-especial-para-pessoas-com-autismo-nivel-3-em-sc",
-    "title": "Lei em Santa Catarina garante pensão para pessoas com autismo nível 3",
-    "guid": "sc1multi:8a9d288d660547682eaeb6c19a938fdc250820ad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a9d288d660547682eaeb6c19a938fdc250820ad/",
-    "usedAt": 1784750406865,
-    "usedAtIso": "2026-07-22T20:00:06.865Z"
-  },
   "source:a79862e79cd683efafb777bf68531a6a61fee5cd": {
     "url": "https://tnsul.com/2026/07/22/homem-tenta-atravessar-area-alagada-e-acaba-ilhado-em-criciuma",
     "title": "Homem fica ilhado ao tentar atravessar área alagada em Criciúma",
@@ -1326,5 +1278,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e54cf9a2fef38fdf6e9bc263882de2051abfd122/",
     "usedAt": 1785009606761,
     "usedAtIso": "2026-07-25T20:00:06.761Z"
+  },
+  "source:9fc84f404f9516762b4fa8a06b1be33be9ed91d4": {
+    "url": "https://tnsul.com/2026/07/25/caravaggio-encerra-a-serie-b-do-catarinense-com-vitoria",
+    "title": "Caravaggio vence Juventus e encerra Série B do Catarinense com melhor ataque",
+    "guid": "sc1multi:c0e2e2da3136f3ba68b1a01b120ada36a2d97261",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c0e2e2da3136f3ba68b1a01b120ada36a2d97261/",
+    "usedAt": 1785013206498,
+    "usedAtIso": "2026-07-25T21:00:06.498Z"
   }
 }
