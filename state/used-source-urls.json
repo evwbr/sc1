@@ -1,12 +1,4 @@
 {
-  "source:e30aaceb2483098996457b3fd30eb9e18d6ffa17": {
-    "url": "https://ocp.news/esporte/na-despedida-em-casa-juventus-encara-decisao-para-escapar-da-queda-na-serie-b",
-    "title": "Juventus enfrenta Metropolitano em jogo decisivo na Série B catarinense",
-    "guid": "sc1multi:e30aaceb2483098996457b3fd30eb9e18d6ffa17",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e30aaceb2483098996457b3fd30eb9e18d6ffa17/",
-    "usedAt": 1784692807578,
-    "usedAtIso": "2026-07-22T04:00:07.578Z"
-  },
   "source:aa6d07a6f838096ec348b3fbe8d2572e8be6dbdf": {
     "url": "https://scportais.com.br/2026/07/22/pelo-estado-22-07-fecomercio-entrega-demandas-a-candidatos",
     "title": "Fecomércio SC reúne pré-candidatos para discutir demandas do setor produtivo",
@@ -1318,5 +1310,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a2b3126b9bb0063f4e91f6eb88c0fb742d4a80e6/",
     "usedAt": 1784941206346,
     "usedAtIso": "2026-07-25T01:00:06.346Z"
+  },
+  "source:0686ebc55a9adb7253930fe1a97ad164506cda93": {
+    "url": "https://ocp.news/esporte/juventus-joga-pela-permanencia-e-tenta-evitar-rebaixamento-inedito-a-serie-c",
+    "title": "Juventus luta para evitar rebaixamento inédito na Série B do Catarinense",
+    "guid": "sc1multi:0686ebc55a9adb7253930fe1a97ad164506cda93",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0686ebc55a9adb7253930fe1a97ad164506cda93/",
+    "usedAt": 1784955606743,
+    "usedAtIso": "2026-07-25T05:00:06.743Z"
+  },
+  "source:11bdcf258252e870ef2e6b88c415984dc2097023": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-natacao-estreia-com-16-medalhas-e-tres-times-avancam-de-fase",
+    "title": "Jaraguá do Sul conquista 16 medalhas na estreia da natação nos Joguinhos Abertos",
+    "guid": "sc1multi:11bdcf258252e870ef2e6b88c415984dc2097023",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11bdcf258252e870ef2e6b88c415984dc2097023/",
+    "usedAt": 1784955606743,
+    "usedAtIso": "2026-07-25T05:00:06.743Z"
   }
 }
