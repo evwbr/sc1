@@ -1,52 +1,4 @@
 {
-  "source:5174f559f5edb5ab3b8e10d36307e34679b4b045": {
-    "url": "https://ocp.news/economia/obra-de-r-19-milhoes-vai-criar-corredor-turistico-entre-santa-catarina-e-rio-grande-do-sul",
-    "title": "Obra de R$ 19 milhões cria corredor turístico entre SC e RS",
-    "guid": "sc1multi:5174f559f5edb5ab3b8e10d36307e34679b4b045",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5174f559f5edb5ab3b8e10d36307e34679b4b045/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
-  "source:4883a47b7501973db395c2c9521084fa7534d75a": {
-    "url": "https://ocp.news/politica/vereadores-mirins-de-guaramirim-elegem-mesa-diretora-para-o-segundo-semestre",
-    "title": "Vereadores mirins de Guaramirim elegem nova mesa diretora para 2026",
-    "guid": "sc1multi:4883a47b7501973db395c2c9521084fa7534d75a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4883a47b7501973db395c2c9521084fa7534d75a/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
-  "source:d7f582f4b7431481d4d553c68c94a0f48222c42c": {
-    "url": "https://ocp.news/economia/multinacional-italiana-com-faturamento-bilionario-compra-empresa-catarinense-do-setor-plastico",
-    "title": "Multinacional italiana compra fabricante catarinense Cristal Embalagens",
-    "guid": "sc1multi:d7f582f4b7431481d4d553c68c94a0f48222c42c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7f582f4b7431481d4d553c68c94a0f48222c42c/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
-  "source:e977d6fbbfe0da5dfe599f76fc93512a75242074": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-apos-disparar-arma-e-ameacar-vizinho-em-joinville",
-    "title": "Homem é preso após disparar arma e ameaçar vizinho em Joinville",
-    "guid": "sc1multi:e977d6fbbfe0da5dfe599f76fc93512a75242074",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e977d6fbbfe0da5dfe599f76fc93512a75242074/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
-  "source:7b51189b555784d63019fb634886aa5b72bd61a7": {
-    "url": "https://ocp.news/informe/hospital-jaragua-firma-parceria-para-oferecer-curso-tecnico-em-enfermagem-em-jaragua-do-sul",
-    "title": "Hospital Jaraguá oferece curso técnico em Enfermagem em Jaraguá do Sul",
-    "guid": "sc1multi:7b51189b555784d63019fb634886aa5b72bd61a7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b51189b555784d63019fb634886aa5b72bd61a7/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
-  "source:cb9ff468e92bf5b0fb23c69754cc549a5d545d9e": {
-    "url": "https://tudoaquisc.com.br/tempo/chuva-em-santa-catarina-100-mmm",
-    "title": "Chuva intensa em Santa Catarina causa alagamentos e deslizamentos",
-    "guid": "sc1multi:7929ff77cb11945895d631e7448d4ddf2e2f5b4f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7929ff77cb11945895d631e7448d4ddf2e2f5b4f/",
-    "usedAt": 1784743207776,
-    "usedAtIso": "2026-07-22T18:00:07.776Z"
-  },
   "source:878b362d4c4ee32fdfa14e4af48dbd190aadb1b0": {
     "url": "https://tudoaquisc.com.br/policia/carga-milionaria-em-irani-22-07",
     "title": "Carga milionária de vinhos e cigarros é apreendida em Irani",
@@ -1422,5 +1374,13 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b49ae63465e4ef4a6bfb6095c70a96c06dbec3d5/",
     "usedAt": 1785002406180,
     "usedAtIso": "2026-07-25T18:00:06.180Z"
+  },
+  "source:f8b2cf39cbea7a108499ecb8035ea9a154297f56": {
+    "url": "https://ocp.news/seguranca/identificada-mulher-encontrada-morta-em-jaragua-do-sul",
+    "title": "Mulher de 47 anos é encontrada morta em quitinete de Jaraguá do Sul",
+    "guid": "sc1multi:f8b2cf39cbea7a108499ecb8035ea9a154297f56",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8b2cf39cbea7a108499ecb8035ea9a154297f56/",
+    "usedAt": 1785006006277,
+    "usedAtIso": "2026-07-25T19:00:06.277Z"
   }
 }
