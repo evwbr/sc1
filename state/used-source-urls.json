@@ -1,12 +1,4 @@
 {
-  "source:e31616bd178a98133e1aa223dc02c154b3319c12": {
-    "url": "https://ocp.news/cotidiano/frente-fria-altera-tempo-em-florianopolis-confira-a-previsao",
-    "title": "Frente fria provoca instabilidade e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:e31616bd178a98133e1aa223dc02c154b3319c12",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e31616bd178a98133e1aa223dc02c154b3319c12/",
-    "usedAt": 1784718006621,
-    "usedAtIso": "2026-07-22T11:00:06.621Z"
-  },
   "source:3b03ed116cd89ad05018471505c730dcaddf567b": {
     "url": "https://tnsul.com/2026/07/22/acidente-deixa-motorista-gravemente-ferido-e-preso-as-ferragens-em-criciuma",
     "title": "Colisão frontal deixa jovem gravemente ferido em Criciúma",
@@ -1334,5 +1326,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef1ae78981eba5b6d84115dcca8497b181e4203f/",
     "usedAt": 1784977206283,
     "usedAtIso": "2026-07-25T11:00:06.283Z"
+  },
+  "source:9a45e2d47706bf577755d3d96553483e9683163c": {
+    "url": "https://ocp.news/informe/lazzaris-lazzaris-advogados-constroi-trajetoria-ligada-ao-desenvolvimento-de-jaragua-do-sul",
+    "title": "Lazzaris e Lazzaris Advogados celebra 50 anos em Jaraguá do Sul",
+    "guid": "sc1multi:9a45e2d47706bf577755d3d96553483e9683163c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9a45e2d47706bf577755d3d96553483e9683163c/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
+  },
+  "source:1f89da81b448e33a0b2f3ae388ac24ff791cb076": {
+    "url": "https://ocp.news/entretenimento/as-baladas-que-marcaram-geracoes-em-jaragua-do-sul",
+    "title": "Baladas que marcaram gerações em Jaraguá do Sul nas décadas de 70 a 90",
+    "guid": "sc1multi:1f89da81b448e33a0b2f3ae388ac24ff791cb076",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1f89da81b448e33a0b2f3ae388ac24ff791cb076/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
+  },
+  "source:90b7d5d4f376b569e67ebd193eebafb502df6adb": {
+    "url": "https://ocp.news/cotidiano/raizes-agricolas-marcaram-a-origem-de-jaragua-do-sul",
+    "title": "Agricultura foi base econômica de Jaraguá do Sul antes da indústria",
+    "guid": "sc1multi:90b7d5d4f376b569e67ebd193eebafb502df6adb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_90b7d5d4f376b569e67ebd193eebafb502df6adb/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
+  },
+  "source:3e9dbd5521ba2d0d3eb84834841989760b918095": {
+    "url": "https://tnsul.com/2026/07/25/homem-e-preso-enquanto-voltava-do-trabalho-em-orleans",
+    "title": "Homem é preso em Orleans por mandado expedido em Criciúma",
+    "guid": "sc1multi:0646ede34870eadc4c6f593032a30a11a7f648b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0646ede34870eadc4c6f593032a30a11a7f648b7/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
+  },
+  "source:e49ca8b7bf7b097db66e3f5ae0c92ca5f02951fe": {
+    "url": "https://ocp.news/cotidiano/das-colonias-a-industrializacao-a-evolucao-de-jaragua-do-sul",
+    "title": "Jaraguá do Sul se destaca como polo industrial em Santa Catarina",
+    "guid": "sc1multi:e49ca8b7bf7b097db66e3f5ae0c92ca5f02951fe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e49ca8b7bf7b097db66e3f5ae0c92ca5f02951fe/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
+  },
+  "source:15a94439c993548aebf7193804524aa74c23eb9d": {
+    "url": "https://ocp.news/informe/rede-cooper-fortalece-vinculo-com-a-comunidade-e-impulsiona-inovacao-em-jaragua-do-sul",
+    "title": "Rede Cooper fortalece vínculo com Jaraguá do Sul em seus 150 anos",
+    "guid": "sc1multi:15a94439c993548aebf7193804524aa74c23eb9d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15a94439c993548aebf7193804524aa74c23eb9d/",
+    "usedAt": 1784980806898,
+    "usedAtIso": "2026-07-25T12:00:06.898Z"
   }
 }
