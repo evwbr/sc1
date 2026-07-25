@@ -1,28 +1,4 @@
 {
-  "source:ff3282b28f618785b25743ab1a756c69ba67c7e2": {
-    "url": "https://rbatv.com.br/noticias/incendio-destroi-estufa-de-secagem-de-fumo-e-causa-prejuizo-de-r-200-mil-em-taio",
-    "title": "Incêndio destrói estufa de secagem de fumo em Taió e causa prejuízo de R$ 200 mil",
-    "guid": "sc1multi:ef3624337fc319a1623215ea2e1f0282972fc0e9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef3624337fc319a1623215ea2e1f0282972fc0e9/",
-    "usedAt": 1784757610280,
-    "usedAtIso": "2026-07-22T22:00:10.280Z"
-  },
-  "source:9789e20c1919c530a5c8779c8d04220e722a5f02": {
-    "url": "https://tudoaquisc.com.br/obras/passarela-na-joaquina-muda-acesso-dunas-22",
-    "title": "Nova passarela na Joaquina amplia acesso às dunas e à praia em Florianópolis",
-    "guid": "sc1multi:b966820de709ab3cdf3367c2f7ee5f25198a5185",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b966820de709ab3cdf3367c2f7ee5f25198a5185/",
-    "usedAt": 1784757610280,
-    "usedAtIso": "2026-07-22T22:00:10.280Z"
-  },
-  "source:3fe237e90dafc3018136b41c6d9e93c1c7238b46": {
-    "url": "https://ocp.news/esporte/em-blumenau-time-jaragua-comeca-a-busca-pelo-bicampeonato-dos-joguinhos-abertos-de-sc",
-    "title": "Jaraguá do Sul busca bicampeonato nos Joguinhos Abertos em Blumenau",
-    "guid": "sc1multi:3fe237e90dafc3018136b41c6d9e93c1c7238b46",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3fe237e90dafc3018136b41c6d9e93c1c7238b46/",
-    "usedAt": 1784757610280,
-    "usedAtIso": "2026-07-22T22:00:10.280Z"
-  },
   "source:c0c108c1f949f001d3e4a7b7b0f15fbf876b60e4": {
     "url": "https://rbatv.com.br/noticias/mecanica-e-arrombada-e-tem-notebook-furtado-em-rio-do-sul",
     "title": "Notebook é furtado em mecânica no bairro Taboão, Rio do Sul",
@@ -1230,5 +1206,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c0e2e2da3136f3ba68b1a01b120ada36a2d97261/",
     "usedAt": 1785013206498,
     "usedAtIso": "2026-07-25T21:00:06.498Z"
+  },
+  "source:d87fae31a0af5b466fd89f1275885b916e9df83d": {
+    "url": "https://rbatv.com.br/noticias/capotamento-deixa-tres-pessoas-feridas-em-ascurra",
+    "title": "Capotamento em Ascurra deixa três pessoas feridas com ferimentos leves",
+    "guid": "sc1multi:017e061156aa4f30a52ee7c19f9ca987719b8061",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_017e061156aa4f30a52ee7c19f9ca987719b8061/",
+    "usedAt": 1785020406413,
+    "usedAtIso": "2026-07-25T23:00:06.413Z"
+  },
+  "source:70503de94c0e5e04f444c0d64c4d0ce490b83594": {
+    "url": "https://rbatv.com.br/noticias/colisao-frontal-deixa-motorista-em-estado-grave-na-br-470-em-rodeio",
+    "title": "Colisão frontal deixa motorista em estado grave na BR-470 em Rodeio",
+    "guid": "sc1multi:33e07e5df3aef6a30cfa99189af43e94271f9c37",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33e07e5df3aef6a30cfa99189af43e94271f9c37/",
+    "usedAt": 1785020406413,
+    "usedAtIso": "2026-07-25T23:00:06.413Z"
+  },
+  "source:b104e971eec4177b487392653561fd95aac062bd": {
+    "url": "https://tnsul.com/2026/07/25/jovem-tambem-morre-apos-acidente-entre-motos-na-br-101",
+    "title": "Jovem morre após acidente entre motos na BR-101 em Içara",
+    "guid": "sc1multi:23318c36aa19b10371467a53690bbeded83c10a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_23318c36aa19b10371467a53690bbeded83c10a9/",
+    "usedAt": 1785020406413,
+    "usedAtIso": "2026-07-25T23:00:06.413Z"
+  },
+  "source:59f3561793147611d18746b910cf7bdc59a787ad": {
+    "url": "https://ocp.news/seguranca/adolescente-de-17-anos-morre-apos-colisao-entre-moto-e-caminhao-em-criciuma",
+    "title": "Adolescente morre após colisão entre moto e caminhão em Criciúma",
+    "guid": "sc1multi:59f3561793147611d18746b910cf7bdc59a787ad",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59f3561793147611d18746b910cf7bdc59a787ad/",
+    "usedAt": 1785020406413,
+    "usedAtIso": "2026-07-25T23:00:06.413Z"
   }
 }
