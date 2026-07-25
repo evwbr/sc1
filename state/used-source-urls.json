@@ -1,36 +1,4 @@
 {
-  "source:99257cb2aeda38b083b66100680f65b19cc525b5": {
-    "url": "https://correiosc.com.br/sao-jose-recicla-1165-toneladas-de-vidro-no-primeiro-semestre-de-2026",
-    "title": "São José recicla 116,5 toneladas de vidro no primeiro semestre de 2023",
-    "guid": "sc1multi:ad30a0cb2628dbc44ca75ed63aec10bd7d93b3a0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad30a0cb2628dbc44ca75ed63aec10bd7d93b3a0/",
-    "usedAt": 1784725207409,
-    "usedAtIso": "2026-07-22T13:00:07.409Z"
-  },
-  "source:56327dfd1fcddc7fd4523915677cba0ac2ba4b4d": {
-    "url": "https://ocp.news/politica/eleicoes-2026-sc-passa-de-57-milhoes-de-eleitores-confira-os-dados-do-tre",
-    "title": "Santa Catarina terá mais de 5,7 milhões de eleitores nas Eleições 2026",
-    "guid": "sc1multi:56327dfd1fcddc7fd4523915677cba0ac2ba4b4d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56327dfd1fcddc7fd4523915677cba0ac2ba4b4d/",
-    "usedAt": 1784725207409,
-    "usedAtIso": "2026-07-22T13:00:07.409Z"
-  },
-  "source:e15092d679f25bb5abb9ddbb27f089e58f6d3e17": {
-    "url": "https://ocp.news/cotidiano/chuva-causa-destelhamentos-e-alagamentos-no-oeste-de-sc",
-    "title": "Chuva forte causa destelhamentos e alagamentos em Chapecó",
-    "guid": "sc1multi:e15092d679f25bb5abb9ddbb27f089e58f6d3e17",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e15092d679f25bb5abb9ddbb27f089e58f6d3e17/",
-    "usedAt": 1784725207409,
-    "usedAtIso": "2026-07-22T13:00:07.409Z"
-  },
-  "source:74ce26d0a183226e554ef5c7c1731cf00d327224": {
-    "url": "https://rbatv.com.br/noticias/motorista-sai-ileso-apos-capotamento-em-vitor-meireles",
-    "title": "Motorista sai ileso após capotamento na SC-340 em Vitor Meireles",
-    "guid": "sc1multi:03f4a84fe627821255c7471dbd78c9d9c62b4c7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_03f4a84fe627821255c7471dbd78c9d9c62b4c7e/",
-    "usedAt": 1784725207409,
-    "usedAtIso": "2026-07-22T13:00:07.409Z"
-  },
   "source:e6429a7d8209a2c5b8d69d7cbec96b85c7fdc71f": {
     "url": "https://tnsul.com/2026/07/22/sete-moradores-deixam-casa-apos-deslizamento-de-terra-em-joacaba",
     "title": "Deslizamento de terra obriga sete moradores a deixarem casa em Joaçaba",
@@ -1406,5 +1374,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953bc82ac88e51484fc65fea53fc763e84554436/",
     "usedAt": 1784984406314,
     "usedAtIso": "2026-07-25T13:00:06.314Z"
+  },
+  "source:d0c82c9704108b310baae334bd6fa906029f42e5": {
+    "url": "https://ocp.news/cotidiano/bolo-gigante-dos-150-anos-de-jaragua-do-sul-ja-esta-sendo-preparado-para-a-grande-celebracao",
+    "title": "Bolo gigante de 150 anos de Jaraguá do Sul será distribuído na Arena Jaraguá",
+    "guid": "sc1multi:d0c82c9704108b310baae334bd6fa906029f42e5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d0c82c9704108b310baae334bd6fa906029f42e5/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:748b68dbfc1db6e6b526005721944f7190a043db": {
+    "url": "https://ocp.news/entretenimento/neste-domingo-show-gratuito-de-daniel-com-orquestra-encerra-os-150-anos-de-jaragua-do-sul",
+    "title": "Show gratuito de Daniel com orquestra encerra 150 anos de Jaraguá do Sul",
+    "guid": "sc1multi:748b68dbfc1db6e6b526005721944f7190a043db",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_748b68dbfc1db6e6b526005721944f7190a043db/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:91898ae22fdf5f52aab233471c63867814124f98": {
+    "url": "https://ocp.news/cotidiano/isadora-pompeo-reune-milhares-de-pessoas-em-noite-de-fe-e-emocao-em-jaragua-do-sul",
+    "title": "Isadora Pompeo emociona milhares em show pelos 150 anos de Jaraguá do Sul",
+    "guid": "sc1multi:91898ae22fdf5f52aab233471c63867814124f98",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_91898ae22fdf5f52aab233471c63867814124f98/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:fd7779642dc75af7cde16382cce69cc77c312424": {
+    "url": "https://tnsul.com/2026/07/25/caroneiro-de-moto-fica-ferido-apos-colisao-com-carro-na-sanga-funda",
+    "title": "Passageiro de moto fica ferido após colisão em Içara",
+    "guid": "sc1multi:58d9095206f2d74934f9f6f4a7df3a12b67d5c68",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58d9095206f2d74934f9f6f4a7df3a12b67d5c68/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:95f04f4a52cb36bd56c5b366665bfa4ca1e53232": {
+    "url": "https://ocp.news/seguranca/homem-comete-furto-foge-de-bicicleta-e-acaba-preso-em-schroeder",
+    "title": "Homem é preso após furto e fuga de bicicleta em Schroeder",
+    "guid": "sc1multi:95f04f4a52cb36bd56c5b366665bfa4ca1e53232",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95f04f4a52cb36bd56c5b366665bfa4ca1e53232/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:35fa242dd7a109f769d951ade428bb07116abd01": {
+    "url": "https://ocp.news/especiais/das-casas-de-colonos-as-salas-de-aula-como-nasceram-as-primeiras-escolas-de-jaragua-do-sul",
+    "title": "História das primeiras escolas em Jaraguá do Sul revela origem comunitária",
+    "guid": "sc1multi:35fa242dd7a109f769d951ade428bb07116abd01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35fa242dd7a109f769d951ade428bb07116abd01/",
+    "usedAt": 1784988006400,
+    "usedAtIso": "2026-07-25T14:00:06.400Z"
   }
 }
