@@ -1,44 +1,4 @@
 {
-  "source:e6429a7d8209a2c5b8d69d7cbec96b85c7fdc71f": {
-    "url": "https://tnsul.com/2026/07/22/sete-moradores-deixam-casa-apos-deslizamento-de-terra-em-joacaba",
-    "title": "Deslizamento de terra obriga sete moradores a deixarem casa em Joaçaba",
-    "guid": "sc1multi:cf4e67feb2faf5a8691bf150bd7164efe34bc13c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf4e67feb2faf5a8691bf150bd7164efe34bc13c/",
-    "usedAt": 1784728806684,
-    "usedAtIso": "2026-07-22T14:00:06.684Z"
-  },
-  "source:bc320b1f90ef0b260aaf2a81dfd1f144a27f1f97": {
-    "url": "https://tudoaquisc.com.br/eleicoes/eleitorado-de-santa-catarina-5",
-    "title": "Eleitorado de Santa Catarina ultrapassa 5,7 milhões para eleições de 2026",
-    "guid": "sc1multi:6883f8c5661e1fa5b01ca6178c1f678108d541b1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6883f8c5661e1fa5b01ca6178c1f678108d541b1/",
-    "usedAt": 1784728806684,
-    "usedAtIso": "2026-07-22T14:00:06.684Z"
-  },
-  "source:887ac11d1836d5d4d884992ec2292b07ddb71c06": {
-    "url": "https://ocp.news/politica/lunelli-afirma-que-senado-exige-experiencia-para-defender-sc-e-reforca-foco-em-resultados",
-    "title": "Lunelli destaca experiência e foco em resultados para defender Santa Catarina no Senado",
-    "guid": "sc1multi:887ac11d1836d5d4d884992ec2292b07ddb71c06",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_887ac11d1836d5d4d884992ec2292b07ddb71c06/",
-    "usedAt": 1784728806684,
-    "usedAtIso": "2026-07-22T14:00:06.684Z"
-  },
-  "source:8bc8f75777358247e4c6dd36b79806c85fac4b97": {
-    "url": "https://ocp.news/cotidiano/schroeder-prepara-ubss-para-oferecer-implante-contraceptivo-pelo-sus",
-    "title": "Schroeder prepara UBSs para oferecer implante contraceptivo pelo SUS",
-    "guid": "sc1multi:8bc8f75777358247e4c6dd36b79806c85fac4b97",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bc8f75777358247e4c6dd36b79806c85fac4b97/",
-    "usedAt": 1784728806684,
-    "usedAtIso": "2026-07-22T14:00:06.684Z"
-  },
-  "source:2cf88e9a57240a934ed36587e678db7f9f434e48": {
-    "url": "https://ocp.news/esporte/municipal-de-futsal-de-guaramirim-inicia-mata-mata-e-aponta-os-primeiros-quadrifinalistas",
-    "title": "Campeonato Municipal de Futsal de Guaramirim inicia mata-mata com primeiros classificados",
-    "guid": "sc1multi:2cf88e9a57240a934ed36587e678db7f9f434e48",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cf88e9a57240a934ed36587e678db7f9f434e48/",
-    "usedAt": 1784728806684,
-    "usedAtIso": "2026-07-22T14:00:06.684Z"
-  },
   "source:0964b29c2227eed7eef1856d7057fb79cb9fec1a": {
     "url": "https://tnsul.com/2026/07/22/telhado-cede-durante-contencao-de-homem-em-surto-e-dois-pms-ficam-feridos",
     "title": "Telhado cede e dois policiais ficam feridos em ocorrência em Joinville",
@@ -1422,5 +1382,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35fa242dd7a109f769d951ade428bb07116abd01/",
     "usedAt": 1784988006400,
     "usedAtIso": "2026-07-25T14:00:06.400Z"
+  },
+  "source:23eeb7d35246d71e9e8f43e87331aa8e48d8e369": {
+    "url": "https://tnsul.com/2026/07/25/criciuma-futsal-busca-vitoria-no-brasileiro",
+    "title": "Criciúma Futsal busca primeira vitória no Campeonato Brasileiro",
+    "guid": "sc1multi:d895e4c0c0b47883fd310ec95fabe7a228e25f88",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d895e4c0c0b47883fd310ec95fabe7a228e25f88/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
+  },
+  "source:3a1d6695800d500e195ccbcd40827de06bb6c095": {
+    "url": "https://rbatv.com.br/noticias/acidente-envolvendo-quatro-veiculos-deixa-tres-feridos-na-br-470-em-pouso-redondo",
+    "title": "Acidente com quatro veículos deixa três feridos na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:0c008e103c4f16946fccd4e1d2bc24616ca2979d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0c008e103c4f16946fccd4e1d2bc24616ca2979d/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
+  },
+  "source:eb25b42f167be4f831101a22eec07e2ff7de544a": {
+    "url": "https://ocp.news/informe/sipar-ferramentas-celebra-30-anos-em-sintonia-com-o-desenvolvimento-de-jaragua-do-sul",
+    "title": "Sipar Ferramentas celebra 30 anos em Jaraguá do Sul",
+    "guid": "sc1multi:eb25b42f167be4f831101a22eec07e2ff7de544a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eb25b42f167be4f831101a22eec07e2ff7de544a/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
+  },
+  "source:7e90ec30bd777a6e9ea70ba3e34ccaa95e31e657": {
+    "url": "https://ocp.news/informe/conti-eletrica-46-anos-levando-energia-ao-desenvolvimento-de-jaragua-do-sul",
+    "title": "Conti Elétrica celebra 46 anos impulsionando Jaraguá do Sul",
+    "guid": "sc1multi:7e90ec30bd777a6e9ea70ba3e34ccaa95e31e657",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e90ec30bd777a6e9ea70ba3e34ccaa95e31e657/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
+  },
+  "source:46c9ddb519efd89ec23a0434344f611bf5be9a0e": {
+    "url": "https://ocp.news/cotidiano/sociedades-germanicas-mantem-viva-a-heranca-cultural-em-jaragua-do-sul",
+    "title": "Tradição germânica no tiro esportivo é preservada em Jaraguá do Sul",
+    "guid": "sc1multi:46c9ddb519efd89ec23a0434344f611bf5be9a0e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_46c9ddb519efd89ec23a0434344f611bf5be9a0e/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
+  },
+  "source:fe90eeaa4d0dc550380115e3562900c96edbcfef": {
+    "url": "https://ocp.news/cotidiano/quando-o-trem-mudou-os-rumos-de-jaragua-do-sul",
+    "title": "Chegada da ferrovia transformou Jaraguá do Sul em polo regional",
+    "guid": "sc1multi:fe90eeaa4d0dc550380115e3562900c96edbcfef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe90eeaa4d0dc550380115e3562900c96edbcfef/",
+    "usedAt": 1784991606624,
+    "usedAtIso": "2026-07-25T15:00:06.624Z"
   }
 }
