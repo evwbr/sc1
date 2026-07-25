@@ -1,28 +1,4 @@
 {
-  "source:999a896c4c680e4eef982231d3b70ec222b84d82": {
-    "url": "https://tudoaquisc.com.br/obras/trevo-do-itacorubi-ganha-obra-s-2026-22-07",
-    "title": "Trevo do Itacorubi recebe obras para reduzir congestionamentos em Florianópolis",
-    "guid": "sc1multi:c2593a3dbd3c98415703b1caee5fa24ad4aaf123",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2593a3dbd3c98415703b1caee5fa24ad4aaf123/",
-    "usedAt": 1784736006645,
-    "usedAtIso": "2026-07-22T16:00:06.645Z"
-  },
-  "source:83c15a29020666f197cdaac1e4aa8122789299ba": {
-    "url": "https://tnsul.com/2026/07/22/incendio-atinge-casa-de-madeira-e-mobiliza-bombeiros-em-lages",
-    "title": "Incêndio destrói casa de madeira em Lages e mobiliza bombeiros",
-    "guid": "sc1multi:c1196310bf409913f26d2f5552a09024d532a545",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1196310bf409913f26d2f5552a09024d532a545/",
-    "usedAt": 1784736006645,
-    "usedAtIso": "2026-07-22T16:00:06.645Z"
-  },
-  "source:9fdc6a2154522c5f865a6796fe7a8955e7e3ae4f": {
-    "url": "https://tudoaquisc.com.br/policia/sequestro-em-icara-pai-foge-227",
-    "title": "Sequestro em Içara termina com resgate de mãe e filha sem ferimentos",
-    "guid": "sc1multi:d985be41be27aac5759a025a48377a3a81b2c80a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d985be41be27aac5759a025a48377a3a81b2c80a/",
-    "usedAt": 1784736006645,
-    "usedAtIso": "2026-07-22T16:00:06.645Z"
-  },
   "source:5174f559f5edb5ab3b8e10d36307e34679b4b045": {
     "url": "https://ocp.news/economia/obra-de-r-19-milhoes-vai-criar-corredor-turistico-entre-santa-catarina-e-rio-grande-do-sul",
     "title": "Obra de R$ 19 milhões cria corredor turístico entre SC e RS",
@@ -1406,5 +1382,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd9d6914e49409ba904df5a64a33f3d1a9a0943f/",
     "usedAt": 1784995206393,
     "usedAtIso": "2026-07-25T16:00:06.393Z"
+  },
+  "source:56d2987bf9a520f0417a5f56b6f66586235220fb": {
+    "url": "https://correiosc.com.br/sao-jose-esta-entre-cidades-mais-seguras-sc-mas-lidera-acidentes-rodovias-federais",
+    "title": "Trecho da BR-101 em São José lidera acidentes em rodovias federais",
+    "guid": "sc1multi:c627a4434214ec2245f9a0bc3ce3b1082a0c679d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c627a4434214ec2245f9a0bc3ce3b1082a0c679d/",
+    "usedAt": 1784998806033,
+    "usedAtIso": "2026-07-25T17:00:06.033Z"
+  },
+  "source:f84a41fe7acd4ea26a121e96f74c16248925ea1a": {
+    "url": "https://tnsul.com/2026/07/25/motociclista-fica-ferido-em-colisao-com-veiculos-na-rodovia-luiz-rosso",
+    "title": "Motociclista fica ferido em colisão na rodovia Luiz Rosso em Criciúma",
+    "guid": "sc1multi:4230fc638b66cbb3d9fab568aad0aed0a19419f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4230fc638b66cbb3d9fab568aad0aed0a19419f9/",
+    "usedAt": 1784998806033,
+    "usedAtIso": "2026-07-25T17:00:06.033Z"
+  },
+  "source:81839502026f9d46795a7ac7c9cc3c778d7feead": {
+    "url": "https://ocp.news/seguranca/mulher-de-47-anos-e-encontrada-morta-dentro-de-kitnet",
+    "title": "Mulher de 47 anos é encontrada morta em quitinete de Jaraguá do Sul",
+    "guid": "sc1multi:81839502026f9d46795a7ac7c9cc3c778d7feead",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81839502026f9d46795a7ac7c9cc3c778d7feead/",
+    "usedAt": 1784998806033,
+    "usedAtIso": "2026-07-25T17:00:06.033Z"
+  },
+  "source:707102f90669e7bd539ec869458b556cff613b47": {
+    "url": "https://ocp.news/seguranca/hilux-furtada-e-recuperada-na-br-280-e-quatro-suspeitos-sao-detidos",
+    "title": "Polícia recupera Hilux furtada e prende quatro na BR-280 em Guaramirim",
+    "guid": "sc1multi:707102f90669e7bd539ec869458b556cff613b47",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_707102f90669e7bd539ec869458b556cff613b47/",
+    "usedAt": 1784998806033,
+    "usedAtIso": "2026-07-25T17:00:06.033Z"
   }
 }
