@@ -1,36 +1,4 @@
 {
-  "source:e87820fb2edc38221e9c484904a558509281e447": {
-    "url": "https://tnsul.com/2026/07/23/homem-que-matou-a-tia-com-quem-mantinha-relacionamento-amoroso-e-condenado",
-    "title": "Homem é condenado por matar tia afetiva em Criciúma",
-    "guid": "sc1multi:3728ca795a09f09fed98daa68b75b5e499a35e3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3728ca795a09f09fed98daa68b75b5e499a35e3f/",
-    "usedAt": 1784836807572,
-    "usedAtIso": "2026-07-23T20:00:07.572Z"
-  },
-  "source:c946c87cdee85d3545ba85e80c71493c553bffb7": {
-    "url": "https://tudoaquisc.com.br/transito/acidentes-em-santa-catarina-23",
-    "title": "Acidentes em rodovias federais de Santa Catarina lideram ranking nacional",
-    "guid": "sc1multi:e78c9b0cf40e48ea621800a8b47e84ae68a106af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e78c9b0cf40e48ea621800a8b47e84ae68a106af/",
-    "usedAt": 1784836807572,
-    "usedAtIso": "2026-07-23T20:00:07.572Z"
-  },
-  "source:b8fc9d92d0f5c717a49881b81ceea24ad6a3e410": {
-    "url": "https://ocp.news/economia/sebrae-apresenta-resultados-na-regiao-norte-de-sc-e-amplia-dialogo-com-liderancas-locais",
-    "title": "Sebrae apresenta resultados e amplia diálogo com lideranças em Jaraguá do Sul",
-    "guid": "sc1multi:b8fc9d92d0f5c717a49881b81ceea24ad6a3e410",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8fc9d92d0f5c717a49881b81ceea24ad6a3e410/",
-    "usedAt": 1784836807572,
-    "usedAtIso": "2026-07-23T20:00:07.572Z"
-  },
-  "source:0ddb32e16babed7c009f62a57831c6b38fcb8a95": {
-    "url": "https://ocp.news/entretenimento/espetaculo-inspirado-em-frozen-tera-apresentacao-gratuita-em-florianopolis",
-    "title": "Espetáculo inspirado em Frozen será apresentado gratuitamente em Florianópolis",
-    "guid": "sc1multi:0ddb32e16babed7c009f62a57831c6b38fcb8a95",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ddb32e16babed7c009f62a57831c6b38fcb8a95/",
-    "usedAt": 1784836807572,
-    "usedAtIso": "2026-07-23T20:00:07.572Z"
-  },
   "source:c8a8a0008fedb4556c4f3bb317b70d86d1b823ae": {
     "url": "https://tnsul.com/2026/07/23/pf-atua-na-prisao-de-foragido-da-justica-catarinense",
     "title": "Polícia Federal prende foragido da Justiça de Criciúma na Espanha",
@@ -1126,5 +1094,29 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0c24c9190d80ebce39db18eeba46cde23884fe60/",
     "usedAt": 1785096006526,
     "usedAtIso": "2026-07-26T20:00:06.526Z"
+  },
+  "source:634e20d54bb7cf09dbfe51cf03b290fb1b724eed": {
+    "url": "https://tnsul.com/2026/07/26/urussanga-proibe-caminhoes-com-mais-de-10-metros-de-comprimento-no-centro",
+    "title": "Urussanga proíbe caminhões com mais de 10 metros no Centro da cidade",
+    "guid": "sc1multi:0bce9a256489d62f688c2ea132b3ad209de4c26d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0bce9a256489d62f688c2ea132b3ad209de4c26d/",
+    "usedAt": 1785099606260,
+    "usedAtIso": "2026-07-26T21:00:06.260Z"
+  },
+  "source:3335dd2eaae5796375daac304af6407bf0a89f1e": {
+    "url": "https://ocp.news/cotidiano/jaragua-do-sul-150-anos-shows-reunem-milhares-na-arena",
+    "title": "Shows comemoram os 150 anos de Jaraguá do Sul na Arena Jaraguá",
+    "guid": "sc1multi:3335dd2eaae5796375daac304af6407bf0a89f1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3335dd2eaae5796375daac304af6407bf0a89f1e/",
+    "usedAt": 1785099606260,
+    "usedAtIso": "2026-07-26T21:00:06.260Z"
+  },
+  "source:73836dd7609c3e79a34cffacc4f97463f22f3e80": {
+    "url": "https://ocp.news/seguranca/pm-prende-suspeito-de-assalto-a-residencia-onde-familia-foi-feita-refem-em-guaramirim",
+    "title": "PM prende suspeito de assalto com reféns em Guaramirim",
+    "guid": "sc1multi:73836dd7609c3e79a34cffacc4f97463f22f3e80",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_73836dd7609c3e79a34cffacc4f97463f22f3e80/",
+    "usedAt": 1785099606260,
+    "usedAtIso": "2026-07-26T21:00:06.260Z"
   }
 }
