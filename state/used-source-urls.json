@@ -1,12 +1,4 @@
 {
-  "source:1cf41215faa120c7a378d87f1786ca4f52bd403b": {
-    "url": "https://scportais.com.br/2026/07/23/pelo-estado-23-07-fiesc-e-governo-montam-gt-contra-tarifaco",
-    "title": "FIESC e Governo de SC criam grupo para enfrentar tarifa dos EUA",
-    "guid": "sc1multi:9b4620e5132c9eaf757bc7fb95784a2a4686aa57",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b4620e5132c9eaf757bc7fb95784a2a4686aa57/",
-    "usedAt": 1784782806632,
-    "usedAtIso": "2026-07-23T05:00:06.632Z"
-  },
   "source:d8f21d540db468880a3057f7569d35f254fca353": {
     "url": "https://rbatv.com.br/noticias/homem-acusado-de-tortura-e-maus-tratos-contra-tres-criancas-e-preso-em-itajai",
     "title": "Homem é preso em Itajaí por tortura e maus-tratos contra crianças",
@@ -1190,5 +1182,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56b94c2b9f233511a875c438773524b56a03eb11/",
     "usedAt": 1785024006881,
     "usedAtIso": "2026-07-26T00:00:06.881Z"
+  },
+  "source:cc3515985d889f7b239b182e7dc54633ac83a933": {
+    "url": "https://ocp.news/esporte/series-ouro-e-prata-apontam-os-finalistas-no-varzeano-de-guaramirim",
+    "title": "Finalistas das Séries Ouro e Prata do Varzeano de Guaramirim definidos",
+    "guid": "sc1multi:cc3515985d889f7b239b182e7dc54633ac83a933",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cc3515985d889f7b239b182e7dc54633ac83a933/",
+    "usedAt": 1785042006714,
+    "usedAtIso": "2026-07-26T05:00:06.714Z"
+  },
+  "source:7a66dff9855650489ec3111390e4b16f10ce7f64": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-natacao-jaraguaense-e-campeao-geral-masculino-e-vice-feminino",
+    "title": "Natação de Jaraguá do Sul é campeã geral masculina nos Joguinhos Abertos",
+    "guid": "sc1multi:7a66dff9855650489ec3111390e4b16f10ce7f64",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a66dff9855650489ec3111390e4b16f10ce7f64/",
+    "usedAt": 1785042006714,
+    "usedAtIso": "2026-07-26T05:00:06.714Z"
   }
 }
