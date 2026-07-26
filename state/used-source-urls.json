@@ -1,60 +1,4 @@
 {
-  "source:c37a0cefcade70266aee588e4def3f2c7376f237": {
-    "url": "https://tudoaquisc.com.br/politica/pesquisa-presidente-0726",
-    "title": "Pesquisa mostra Flávio Bolsonaro com 51,1% das intenções de voto em Santa Catarina",
-    "guid": "sc1multi:36c94e648e7d0cfad9c1dea7ce091e1718d374b4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_36c94e648e7d0cfad9c1dea7ce091e1718d374b4/",
-    "usedAt": 1784818807799,
-    "usedAtIso": "2026-07-23T15:00:07.799Z"
-  },
-  "source:130ca41701f0dd1bd504ce3936a7bc76bf39ba13": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/pesquisa-governador-0726",
-    "title": "Jorginho Mello lidera pesquisa e garante reeleição em Santa Catarina",
-    "guid": "sc1multi:fb4581a672ae7abfa22df7b03aa4cf95e6a7ebd8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb4581a672ae7abfa22df7b03aa4cf95e6a7ebd8/",
-    "usedAt": 1784818807799,
-    "usedAtIso": "2026-07-23T15:00:07.799Z"
-  },
-  "source:0624d1d4ca2ff37b7184cca952ee34634d4967b1": {
-    "url": "https://ocp.news/esporte/ultimos-dias-de-inscricoes-para-grande-torneio-de-padel-em-jaragua-do-sul",
-    "title": "Inscrições abertas para torneio de padel em Jaraguá do Sul",
-    "guid": "sc1multi:0624d1d4ca2ff37b7184cca952ee34634d4967b1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0624d1d4ca2ff37b7184cca952ee34634d4967b1/",
-    "usedAt": 1784818807799,
-    "usedAtIso": "2026-07-23T15:00:07.799Z"
-  },
-  "source:c8ebcabe9bb0030c7e82b438df9eb90c11148a3d": {
-    "url": "https://tnsul.com/2026/07/23/colisao-entre-dois-carros-deixa-home-preso-as-ferragens-na-br-282",
-    "title": "Colisão na BR-282 em Erval Velho deixa homem preso às ferragens",
-    "guid": "sc1multi:04a2ab6fe3542578c378a97834a91a421587c8bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_04a2ab6fe3542578c378a97834a91a421587c8bc/",
-    "usedAt": 1784822406595,
-    "usedAtIso": "2026-07-23T16:00:06.595Z"
-  },
-  "source:dab8d7767caf1c28e4452d4c1b07a021c68a6348": {
-    "url": "https://tnsul.com/2026/07/23/acao-arrecada-15-tonelada-de-doacoes-para-venezuela-mas-falta-transporte",
-    "title": "Campanha em Criciúma arrecada 1,5 tonelada de doações para Venezuela",
-    "guid": "sc1multi:cda84d60ee83595fcdcaec9e3921c54880df3794",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cda84d60ee83595fcdcaec9e3921c54880df3794/",
-    "usedAt": 1784822406595,
-    "usedAtIso": "2026-07-23T16:00:06.595Z"
-  },
-  "source:f0559b55bf3f31b14952dbc8a7e6ac6192f3301e": {
-    "url": "https://ocp.news/esporte/veja-o-que-o-juventus-precisa-para-escapar-do-rebaixamento-na-serie-b-do-catarinense",
-    "title": "Juventus precisa vencer e torcer para escapar do rebaixamento na Série B catarinense",
-    "guid": "sc1multi:f0559b55bf3f31b14952dbc8a7e6ac6192f3301e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0559b55bf3f31b14952dbc8a7e6ac6192f3301e/",
-    "usedAt": 1784822406595,
-    "usedAtIso": "2026-07-23T16:00:06.595Z"
-  },
-  "source:a4a2de176cc5960c7f107435399157266656e788": {
-    "url": "https://tudoaquisc.com.br/economia/interdicao-do-bradesco-48-horas",
-    "title": "Agência do Bradesco é interditada por 48 horas em Florianópolis",
-    "guid": "sc1multi:42f2c47fd74d1d10003ed94698b2769b67dd599e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42f2c47fd74d1d10003ed94698b2769b67dd599e/",
-    "usedAt": 1784822406595,
-    "usedAtIso": "2026-07-23T16:00:06.595Z"
-  },
   "source:9b3163a6293209eb63b271507543dc7d1bf3a9cc": {
     "url": "https://ocp.news/economia/dona-da-brastemp-e-consul-fecha-fabrica-veja-o-que-muda-no-brasil",
     "title": "Whirlpool mantém produção em Joinville após fábrica no México",
@@ -1214,5 +1158,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_406d08c646743719a8876a0235e42b2975889839/",
     "usedAt": 1785078006729,
     "usedAtIso": "2026-07-26T15:00:06.729Z"
+  },
+  "source:e1c325b76f829242808ffed12e0e26e1586b5f7a": {
+    "url": "https://ocp.news/cotidiano/escola-em-tempo-integral-atende-631-alunos-da-rede-municipal-de-jaragua-do-sul-com-atividades-no-contraturno",
+    "title": "Projeto de Escola em Tempo Integral atende 631 alunos em Jaraguá do Sul",
+    "guid": "sc1multi:e1c325b76f829242808ffed12e0e26e1586b5f7a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1c325b76f829242808ffed12e0e26e1586b5f7a/",
+    "usedAt": 1785081613168,
+    "usedAtIso": "2026-07-26T16:00:13.168Z"
+  },
+  "source:4db0eb4d60070b4ae5f6d65e2243e5fcf0a66560": {
+    "url": "https://ocp.news/cotidiano/hino-brasao-e-bandeira-traduzem-identidade-e-memoria-de-jaragua-do-sul",
+    "title": "Hino, brasão e bandeira expressam identidade de Jaraguá do Sul",
+    "guid": "sc1multi:4db0eb4d60070b4ae5f6d65e2243e5fcf0a66560",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4db0eb4d60070b4ae5f6d65e2243e5fcf0a66560/",
+    "usedAt": 1785081613168,
+    "usedAtIso": "2026-07-26T16:00:13.168Z"
   }
 }
