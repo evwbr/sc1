@@ -1,12 +1,4 @@
 {
-  "source:e330eba602bc642fcfc284490a9f98d086eedbbb": {
-    "url": "https://ocp.news/cotidiano/beira-mar-continental-tera-alteracao-de-transito-neste-domingo-em-florianopolis",
-    "title": "Trânsito na Beira-Mar Continental terá alterações neste domingo em Florianópolis",
-    "guid": "sc1multi:e330eba602bc642fcfc284490a9f98d086eedbbb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e330eba602bc642fcfc284490a9f98d086eedbbb/",
-    "usedAt": 1784923206280,
-    "usedAtIso": "2026-07-24T20:00:06.280Z"
-  },
   "source:675e52381028f083cf4e2203e44a1b0d023c9147": {
     "url": "https://tudoaquisc.com.br/policia/estudante-de-odontologia-preso-morto-240",
     "title": "Estudante de odontologia morre em penitenciária de Curitibanos, SC",
@@ -1014,5 +1006,45 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb0cf60b62ee419f901938026dc3fe6b93218c6e/",
     "usedAt": 1785178806713,
     "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:12620bd4d3dd5089d56cda2d17bf6b27baf54418": {
+    "url": "https://tnsul.com/2026/07/27/homem-que-matou-taxista-e-condenado-pelo-tribunal-do-juri-em-jaguaruna",
+    "title": "Homem é condenado a 18 anos por matar taxista em Jaguaruna",
+    "guid": "sc1multi:5213b9811e44d75f4e84fc6144861cef7d0f906c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5213b9811e44d75f4e84fc6144861cef7d0f906c/",
+    "usedAt": 1785182406888,
+    "usedAtIso": "2026-07-27T20:00:06.888Z"
+  },
+  "source:09580e0bdc24fb789ca9ea08e0e64ee746e57d91": {
+    "url": "https://tudoaquisc.com.br/agenda/ana-castela-reveillon-2027-27-7",
+    "title": "Ana Castela será atração do Réveillon 2027 em Florianópolis",
+    "guid": "sc1multi:19384098613a9dfeeb54d220bd2ac104cfb3b9ee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19384098613a9dfeeb54d220bd2ac104cfb3b9ee/",
+    "usedAt": 1785182406888,
+    "usedAtIso": "2026-07-27T20:00:06.888Z"
+  },
+  "source:065f81dce0b797e8bda37ea2aa2425ced9cc96b6": {
+    "url": "https://ocp.news/seguranca/prf-intercepta-24-quilos-de-maconha-na-br-101-na-grande-florianopolis",
+    "title": "PRF apreende 24 quilos de skunk na BR-101 em Paulo Lopes",
+    "guid": "sc1multi:065f81dce0b797e8bda37ea2aa2425ced9cc96b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_065f81dce0b797e8bda37ea2aa2425ced9cc96b6/",
+    "usedAt": 1785182406888,
+    "usedAtIso": "2026-07-27T20:00:06.888Z"
+  },
+  "source:a3f0e53d9d39a605e3dd6a44a8638b0c7ba9d289": {
+    "url": "https://ocp.news/esporte/natacao-e-atletismo-de-jaragua-do-sul-se-destacam-no-meeting-paralimpico",
+    "title": "Atletas de Jaraguá do Sul brilham no Meeting Paralímpico em Florianópolis",
+    "guid": "sc1multi:a3f0e53d9d39a605e3dd6a44a8638b0c7ba9d289",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f0e53d9d39a605e3dd6a44a8638b0c7ba9d289/",
+    "usedAt": 1785182406888,
+    "usedAtIso": "2026-07-27T20:00:06.888Z"
+  },
+  "source:843c7605b450cded88ccda916c48e9044b5e19a6": {
+    "url": "https://ocp.news/cotidiano/escolas-municipais-de-joinville-se-destacam-em-concurso-de-bandas-e-fanfarras",
+    "title": "Escolas municipais de Joinville se destacam em concurso estadual de bandas e fanfarras",
+    "guid": "sc1multi:843c7605b450cded88ccda916c48e9044b5e19a6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_843c7605b450cded88ccda916c48e9044b5e19a6/",
+    "usedAt": 1785182406888,
+    "usedAtIso": "2026-07-27T20:00:06.888Z"
   }
 }
