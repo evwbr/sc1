@@ -1,36 +1,4 @@
 {
-  "source:f1282ae9c2da9690be652ba6a2bb96a2908cdd24": {
-    "url": "https://ocp.news/seguranca/homem-e-alvo-pela-terceira-vez-de-operacao-por-exploracao-sexual-infantil-em-sc",
-    "title": "Homem é alvo pela terceira vez de operação por exploração sexual infantil em Camboriú",
-    "guid": "sc1multi:f1282ae9c2da9690be652ba6a2bb96a2908cdd24",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1282ae9c2da9690be652ba6a2bb96a2908cdd24/",
-    "usedAt": 1784905207196,
-    "usedAtIso": "2026-07-24T15:00:07.196Z"
-  },
-  "source:8aaeecff4da6503b130eb8e2d5e30e5cbd2974ed": {
-    "url": "https://tnsul.com/2026/07/24/jovem-de-17-anos-morre-em-acidente-entre-motocicleta-e-hilux-em-criciuma",
-    "title": "Adolescente morre em colisão entre motocicleta e Hilux em Criciúma",
-    "guid": "sc1multi:f677920c829d761e468c879d9f3a3ae7f64d0569",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f677920c829d761e468c879d9f3a3ae7f64d0569/",
-    "usedAt": 1784905207196,
-    "usedAtIso": "2026-07-24T15:00:07.196Z"
-  },
-  "source:a483d5611053156606687de025d1a93f937c765e": {
-    "url": "https://tnsul.com/2026/07/24/estudante-de-odontologia-e-encontrado-morto-horas-apos-ser-preso-em-sc",
-    "title": "Estudante de odontologia morre em penitenciária de São Cristóvão do Sul",
-    "guid": "sc1multi:8af19cd4f548c887871525643ed572cb361315d8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8af19cd4f548c887871525643ed572cb361315d8/",
-    "usedAt": 1784905207196,
-    "usedAtIso": "2026-07-24T15:00:07.196Z"
-  },
-  "source:6caef1ad86995390dd7840bae31aebd402d711aa": {
-    "url": "https://ocp.news/politica/colombo-reforca-pre-candidatura-e-destaca-chapa-com-joao-rodrigues-chiodini-amin-e-lunelli",
-    "title": "Raimundo Colombo reforça pré-candidatura e destaca chapa para Santa Catarina",
-    "guid": "sc1multi:6caef1ad86995390dd7840bae31aebd402d711aa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6caef1ad86995390dd7840bae31aebd402d711aa/",
-    "usedAt": 1784905207196,
-    "usedAtIso": "2026-07-24T15:00:07.196Z"
-  },
   "source:8052445118663a762b423ff646a1e9712110539f": {
     "url": "https://ocp.news/esporte/jaraguaense-e-decisiva-e-ajuda-sc-a-conquistar-titulo-do-brasileiro-de-poker-por-equipes",
     "title": "Jaraguaense é decisiva na conquista do título brasileiro de poker por equipes",
@@ -990,5 +958,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4787eb1702b84b9c2ea35b99a8e8990158b022a4/",
     "usedAt": 1785164406412,
     "usedAtIso": "2026-07-27T15:00:06.412Z"
+  },
+  "source:ff8324c67266269abf671ac4dcd661aa4b15e672": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-quatro-equipes-jaraguaenses-garantem-vaga-na-semifinal",
+    "title": "Quatro equipes de Jaraguá do Sul avançam às semifinais dos Joguinhos Abertos",
+    "guid": "sc1multi:ff8324c67266269abf671ac4dcd661aa4b15e672",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff8324c67266269abf671ac4dcd661aa4b15e672/",
+    "usedAt": 1785168006719,
+    "usedAtIso": "2026-07-27T16:00:06.719Z"
+  },
+  "source:f6e192d07a13730f59bf2e6981d0a2f6f38a17a5": {
+    "url": "https://rbatv.com.br/noticias/ciclista-fica-ferido-apos-acidente-na-br-470-em-ascurra",
+    "title": "Ciclista fica ferido em acidente na BR-470, em Ascurra",
+    "guid": "sc1multi:9f50486e179b65f05f7e9ea53cf4e2b8fccacb15",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9f50486e179b65f05f7e9ea53cf4e2b8fccacb15/",
+    "usedAt": 1785168006719,
+    "usedAtIso": "2026-07-27T16:00:06.719Z"
   }
 }
