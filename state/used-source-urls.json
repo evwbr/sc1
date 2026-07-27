@@ -1,28 +1,4 @@
 {
-  "source:c3bc27865c18ac459f118365dd1ed889446893bd": {
-    "url": "https://scportais.com.br/2026/07/24/pelo-estado-25-07-antt-e-condenada-por-congestionamentos-nas-rodovias-de-sc",
-    "title": "ANTT é condenada por congestionamentos na BR-101 entre Penha e Balneário Camboriú",
-    "guid": "sc1multi:5f57d88d6ee33f7b7f36a7f19ac35a97d3568293",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f57d88d6ee33f7b7f36a7f19ac35a97d3568293/",
-    "usedAt": 1784916006487,
-    "usedAtIso": "2026-07-24T18:00:06.487Z"
-  },
-  "source:d605d03c0c36d2dbaf3efb06d9537d327ae7bc34": {
-    "url": "https://tnsul.com/2026/07/24/identificada-adolescente-que-morreu-em-acidente-de-moto-em-criciuma",
-    "title": "Adolescente morre em acidente de moto na rodovia Alexandre Belloli em Criciúma",
-    "guid": "sc1multi:dfcaac7f627515b32ffe9ec1cc37cc675bdaa852",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfcaac7f627515b32ffe9ec1cc37cc675bdaa852/",
-    "usedAt": 1784916006487,
-    "usedAtIso": "2026-07-24T18:00:06.487Z"
-  },
-  "source:28a703203063371af1a7c763a562cf2606b997de": {
-    "url": "https://ocp.news/cotidiano/florianopolis-mantem-limpeza-diaria-de-rios-e-canais-em-todos-os-bairros",
-    "title": "Florianópolis intensifica limpeza diária de rios e canais em todos os bairros",
-    "guid": "sc1multi:28a703203063371af1a7c763a562cf2606b997de",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_28a703203063371af1a7c763a562cf2606b997de/",
-    "usedAt": 1784916006487,
-    "usedAtIso": "2026-07-24T18:00:06.487Z"
-  },
   "source:731b786a1cdddb1aebdf4a6eb1f76deee174e5ad": {
     "url": "https://tudoaquisc.com.br/politica/marco-buzzi-venda-de-sentenca",
     "title": "Ministro Marco Buzzi é investigado por importunação sexual em Balneário Camboriú",
@@ -950,5 +926,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9f93479989a31378cc4bb47c60184ca9140d4aed/",
     "usedAt": 1785171606910,
     "usedAtIso": "2026-07-27T17:00:06.910Z"
+  },
+  "source:491280c7a060b6f26f8513bb46cd7d9bb6430814": {
+    "url": "https://ocp.news/entretenimento/ana-castela-e-confirmada-como-atracao-do-reveillon-2027-na-beira-mar-norte-em-florianopolis",
+    "title": "Ana Castela será atração do Réveillon 2027 na Beira-Mar Norte em Florianópolis",
+    "guid": "sc1multi:491280c7a060b6f26f8513bb46cd7d9bb6430814",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_491280c7a060b6f26f8513bb46cd7d9bb6430814/",
+    "usedAt": 1785175206754,
+    "usedAtIso": "2026-07-27T18:00:06.754Z"
+  },
+  "source:ee5484582ca55a14dd803f140f9febbc0d4c6a6f": {
+    "url": "https://ocp.news/seguranca/homem-fica-ferido-apos-cair-de-costao-ao-tentar-decolar-com-parapente-em-sc",
+    "title": "Homem fica ferido após queda ao tentar decolar com parapente em Laguna",
+    "guid": "sc1multi:ee5484582ca55a14dd803f140f9febbc0d4c6a6f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee5484582ca55a14dd803f140f9febbc0d4c6a6f/",
+    "usedAt": 1785175206754,
+    "usedAtIso": "2026-07-27T18:00:06.754Z"
+  },
+  "source:bdb788f7dfa801d2f8ef8e7e22e9de38481f76d7": {
+    "url": "https://ocp.news/informe/senior-living-novo-segmento-imobiliario-ganha-espaco-em-jaragua-do-sul",
+    "title": "Jaraguá do Sul atrai investimento em segmento de senior living",
+    "guid": "sc1multi:bdb788f7dfa801d2f8ef8e7e22e9de38481f76d7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdb788f7dfa801d2f8ef8e7e22e9de38481f76d7/",
+    "usedAt": 1785175206754,
+    "usedAtIso": "2026-07-27T18:00:06.754Z"
+  },
+  "source:3975759333e7a36e85341d5239c308a8bdc4485e": {
+    "url": "https://correiosc.com.br/nadadora-sao-jose-conquista-tres-medalhas-joguinhos-abertos-sc",
+    "title": "Nadadora de São José conquista três medalhas nos Joguinhos Abertos",
+    "guid": "sc1multi:aff634fbd62997902003084fa9a915c0bdf6549e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
+    "usedAt": 1785175206754,
+    "usedAtIso": "2026-07-27T18:00:06.754Z"
   }
 }
