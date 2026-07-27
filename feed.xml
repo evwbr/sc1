@@ -2,13 +2,14 @@
 <rss version="2.0"
  xmlns:content="http://purl.org/rss/1.0/modules/content/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:media="http://search.yahoo.com/mrss/"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Evo Web News - SC1 (Multi-fontes)</title>
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Mon, 27 Jul 2026 20:46:38 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 20:54:53 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
 <title><![CDATA[Pessoa com deficiência visual denuncia desrespeito em restaurante de Criciúma]]></title>
@@ -17,33 +18,17 @@
 <pubDate>Mon, 27 Jul 2026 20:25:15 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[sc1multi:6618b16eb45a15edc3f0a2d15a2aa01077c095d5]]></guid>
-<description><![CDATA[<p><img src="https://evwbr.github.io/sc1/img/sc1multi_6618b16eb45a15edc3f0a2d15a2aa01077c095d5.png" alt="Pessoa com deficiência visual denuncia desrespeito em restaurante de Criciúma" /></p>
-<p>Um homem com deficiência visual relatou ter sido desrespeitado em um restaurante de Criciúma durante um jantar com um amigo.</p>]]></description>
-<enclosure url="https://evwbr.github.io/sc1/img/sc1multi_6618b16eb45a15edc3f0a2d15a2aa01077c095d5.png" type="image/jpeg"/>
+<description><![CDATA[Um homem com deficiência visual relatou ter sido desrespeitado em um restaurante de Criciúma durante um jantar com um amigo.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FChatGPT-Image-27-de-jul.-de-2026-17_24_28.png" type="image/png"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FChatGPT-Image-27-de-jul.-de-2026-17_24_28.png" medium="image" type="image/png"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FChatGPT-Image-27-de-jul.-de-2026-17_24_28.png"/>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/sc1/img/sc1multi_6618b16eb45a15edc3f0a2d15a2aa01077c095d5.png" alt="Pessoa com deficiência visual denuncia desrespeito em restaurante de Criciúma" /></p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F07%2FChatGPT-Image-27-de-jul.-de-2026-17_24_28.png" alt="Pessoa com deficiência visual denuncia desrespeito em restaurante de Criciúma" /></p>
 <p>Ele contou que um homem retirou uma batata frita de seu prato em tom de brincadeira e, pouco depois, repetiu a atitude acompanhada de comentários ofensivos.</p>
-<p>A situação causou constrangimento e um sentimento de invasão e desrespeito, reforçando o preconceito contra pessoas com deficiência.</p>
-<p>O ativista destacou que, em visitas anteriores a Florianópolis e Porto Alegre, não enfrentou situações semelhantes, apontando a necessidade de maior conscientização, especialmente em municípios do interior.</p>
-<p>Ele defendeu que a inclusão vai além da acessibilidade física e depende da mudança de comportamento da sociedade, políticas públicas e investimento em educação.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Motorista é detido após dirigir caminhão em zigue-zague em Schroeder]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_da9836103864d6d730a6e9ce9f3b8da506c518ec/</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 20:18:13 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:da9836103864d6d730a6e9ce9f3b8da506c518ec]]></guid>
-<description><![CDATA[<p><img src="https://evwbr.github.io/sc1/img/sc1multi_da9836103864d6d730a6e9ce9f3b8da506c518ec.jpg" alt="Motorista é detido após dirigir caminhão em zigue-zague em Schroeder" /></p>
-<p>Um motorista de caminhão foi detido em Schroeder após dirigir em zigue-zague e levantar suspeitas sobre a carga transportada.</p>]]></description>
-<enclosure url="https://evwbr.github.io/sc1/img/sc1multi_da9836103864d6d730a6e9ce9f3b8da506c518ec.jpg" type="image/jpeg"/>
-<content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/sc1/img/sc1multi_da9836103864d6d730a6e9ce9f3b8da506c518ec.jpg" alt="Motorista é detido após dirigir caminhão em zigue-zague em Schroeder" /></p>
-<p>A Polícia Militar e o canil foram mobilizados após denúncia de que um caminhão caçamba trafegava de forma perigosa em Schroeder, colocando outros motoristas em risco.</p>
-<p>Durante a abordagem, o motorista apresentou versões contraditórias sobre a origem e o destino da carga, aumentando a suspeita dos policiais.</p>
-<p>Foi constatado que o cavalo mecânico do caminhão possui registro em Curitiba, enquanto a caçamba está vinculada a Santos, São Paulo.</p>
-<p>Com apoio da Prefeitura, a carga foi retirada e verificada com auxílio de maquinário e buscas do canil, mas nenhum item ilícito foi encontrado até o momento.</p>
+<p>O ativista afirmou que a situação foi constrangedora e gerou um sentimento de invasão e desrespeito, ressaltando que atitudes assim reforçam o preconceito contra pessoas com deficiência.</p>
+<p>Ele destacou que, em visitas anteriores a Florianópolis e Porto Alegre, não enfrentou situações semelhantes, apontando que a conscientização sobre o tema ainda precisa avançar, especialmente em municípios do interior.</p>
+<p>Para ele, a inclusão vai além da acessibilidade física e depende principalmente da mudança de comportamento da sociedade, com políticas públicas, investimento em educação e participação coletiva.</p>
+<p>O constrangimento e o deboche, ativista, não atingem apenas a ele, mas a todas as pessoas com deficiência.</p>
 ]]></content:encoded>
 </item>
 <item>
@@ -53,54 +38,93 @@
 <pubDate>Mon, 27 Jul 2026 20:11:59 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
 <guid isPermaLink="false"><![CDATA[sc1multi:3e89e9e1cfd216f12d510c463e31bcffa2a2abcf]]></guid>
-<description><![CDATA[<p><img src="https://evwbr.github.io/sc1/img/sc1multi_3e89e9e1cfd216f12d510c463e31bcffa2a2abcf.webp" alt="Polícia Civil indicia dois homens por homicídio em Taió, SC" /></p>
-<p>Atualização de Santa Catarina.</p>]]></description>
-<enclosure url="https://evwbr.github.io/sc1/img/sc1multi_3e89e9e1cfd216f12d510c463e31bcffa2a2abcf.webp" type="image/jpeg"/>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-civil-itajai-viatura-scaled-1-1024x683.webp%3Foc%3D1785185583" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-civil-itajai-viatura-scaled-1-1024x683.webp%3Foc%3D1785185583" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-civil-itajai-viatura-scaled-1-1024x683.webp%3Foc%3D1785185583"/>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/sc1/img/sc1multi_3e89e9e1cfd216f12d510c463e31bcffa2a2abcf.webp" alt="Polícia Civil indicia dois homens por homicídio em Taió, SC" /></p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fpolicia-civil-itajai-viatura-scaled-1-1024x683.webp%3Foc%3D1785185583" alt="Polícia Civil indicia dois homens por homicídio em Taió, SC" /></p>
 <p>A Polícia Civil concluiu o inquérito sobre a morte de um homem em Taió e indiciou dois suspeitos pelos crimes de homicídio qualificado e ocultação de cadáver.</p>
 <p>O desaparecimento da vítima foi comunicado em 29 de junho, e o corpo foi encontrado em 3 de julho na margem do Rio Itajaí do Oeste, próximo à rodovia SC-350.</p>
 <p>A perícia descartou a versão de afogamento e apontou asfixia mecânica como causa da morte.</p>
-<p>Com base nas provas, a polícia solicitou à Justiça a conversão das prisões temporárias em preventivas, pedido que está em análise pelo Judiciário após manifestação do Ministério Público.</p>
+<p>Com base nas provas, a polícia solicitou a conversão das prisões temporárias dos suspeitos em preventivas, pedido que está em análise pelo Judiciário.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Jaraguaense conquista dois ouros no Pan-Americano Universitário de Taekwondo]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_22ef4c5045f26b7b3446a4bf69a83be0b8533488/</link>
+<title><![CDATA[Piloto de Florianópolis lidera campeonato nacional de motovelocidade]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_9b98a429140374b44149a76ed1a0d64ab3cc9bd5/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 27 Jul 2026 20:04:21 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 20:07:28 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:22ef4c5045f26b7b3446a4bf69a83be0b8533488]]></guid>
-<description><![CDATA[<p><img src="https://evwbr.github.io/sc1/img/sc1multi_22ef4c5045f26b7b3446a4bf69a83be0b8533488.jpg" alt="Jaraguaense conquista dois ouros no Pan-Americano Universitário de Taekwondo" /></p>
-<p>Atleta de Jaraguá do Sul conquista dois ouros no Pan-Americano Universitário de Taekwondo.</p>]]></description>
-<enclosure url="https://evwbr.github.io/sc1/img/sc1multi_22ef4c5045f26b7b3446a4bf69a83be0b8533488.jpg" type="image/jpeg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:9b98a429140374b44149a76ed1a0d64ab3cc9bd5]]></guid>
+<description><![CDATA[Felipe Comerlatto, piloto de Florianópolis, ampliou a liderança no principal campeonato nacional de motovelocidade.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Ffelipe-comerlatto-superbike.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Ffelipe-comerlatto-superbike.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Ffelipe-comerlatto-superbike.jpeg"/>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/sc1/img/sc1multi_22ef4c5045f26b7b3446a4bf69a83be0b8533488.jpg" alt="Jaraguaense conquista dois ouros no Pan-Americano Universitário de Taekwondo" /></p>
-<p>Isabelle, atleta de Jaraguá do Sul, superou adversárias do Peru e dos Estados Unidos na campanha individual do Pan-Americano Universitário de Taekwondo.</p>
-<p>Na disputa coletiva, a equipe brasileira também garantiu o ouro, vencendo as mesmas seleções.</p>
-<p>A atleta iniciou sua formação técnica no Instituto Mestre Allan e, em três anos, conquistou a faixa preta, representando Jaraguá do Sul em competições estaduais, nacionais e internacionais.</p>
-<p>Ao longo da carreira, Isabelle já conquistou cerca de 60 medalhas, sendo aproximadamente 50 de ouro, incluindo títulos em Mundiais Escolares, Campeonatos Brasileiros e Jogos da Juventude.</p>
-<p>O programa esportivo da cidade de Jaraguá do Sul oferece suporte com despesas de competições, treinamentos e bolsa esportiva, contribuindo para o sucesso da atleta.</p>
-<p>O próximo desafio de Isabelle será o Super Campeonato Brasileiro, que ocorrerá entre os dias 12 e 16 de agosto, em Brasília.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Ffelipe-comerlatto-superbike.jpeg" alt="Piloto de Florianópolis lidera campeonato nacional de motovelocidade" /></p>
+<p>O piloto catarinense garantiu a pole position e venceu a prova da categoria SuperBike Master 1000cc no autódromo de Interlagos, em São Paulo.</p>
+<p>Com o resultado, Felipe ampliou sua vantagem na liderança do campeonato nacional de motovelocidade.</p>
+<p>Ele já conquistou os títulos da SuperBike Evo em 2018 e 2024, além da SuperBike Master em 2024 e 2025.</p>
+<p>Felipe destaca que o sucesso é fruto de muita dedicação e agradece o apoio recebido durante sua trajetória.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Santa Catarina enfrenta temporais entre domingo e quarta-feira]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_752d2211c1f5e740fe6d5b5be9be59912c259a5a/</link>
+<title><![CDATA[Homem é condenado a 18 anos por matar taxista em Jaguaruna]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_5213b9811e44d75f4e84fc6144861cef7d0f906c/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 26 Jul 2026 12:53:27 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 19:54:22 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:752d2211c1f5e740fe6d5b5be9be59912c259a5a]]></guid>
-<description><![CDATA[<p><img src="https://evwbr.github.io/sc1/img/sc1multi_752d2211c1f5e740fe6d5b5be9be59912c259a5a.webp" alt="Santa Catarina enfrenta temporais entre domingo e quarta-feira" /></p>
-<p>Atualização de Santa Catarina.</p>]]></description>
-<enclosure url="https://evwbr.github.io/sc1/img/sc1multi_752d2211c1f5e740fe6d5b5be9be59912c259a5a.webp" type="image/jpeg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:5213b9811e44d75f4e84fc6144861cef7d0f906c]]></guid>
+<description><![CDATA[Um homem foi condenado a 18 anos e oito meses de prisão pelo homicídio de um taxista em Jaguaruna.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjustica-martelo-tribunal-1573242587971_v2_1920x1080-300x169-1.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjustica-martelo-tribunal-1573242587971_v2_1920x1080-300x169-1.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjustica-martelo-tribunal-1573242587971_v2_1920x1080-300x169-1.jpg"/>
 <content:encoded><![CDATA[
-<p><img src="https://evwbr.github.io/sc1/img/sc1multi_752d2211c1f5e740fe6d5b5be9be59912c259a5a.webp" alt="Santa Catarina enfrenta temporais entre domingo e quarta-feira" /></p>
-<p>Após um sábado de tempo firme, a chuva retorna a Santa Catarina neste domingo, com risco de temporais em todas as regiões do estado, acompanhados de raios, rajadas de vento e possibilidade de granizo.</p>
-<p>A Defesa Civil alerta para risco moderado de alagamentos pontuais, destelhamentos, danos na rede elétrica e queda de galhos e árvores durante o período de instabilidade.</p>
-<p>Na segunda-feira, o tempo segue instável principalmente nas regiões próximas à divisa com o Rio Grande do Sul, com temporais isolados no Litoral Sul, Planalto Sul, Grande Florianópolis, Meio-Oeste e Vale do Itajaí.</p>
-<p>Na terça-feira, a madrugada pode ter temporais isolados no Litoral Sul e Planalto Sul, mas o sol eleva as temperaturas durante o dia, antes de uma nova frente fria provocar instabilidades a partir da noite.</p>
-<p>Na quarta-feira, a frente fria mantém o tempo instável em todo o estado, com melhora prevista para quinta-feira, quando o tempo volta a ficar firme na maior parte de Santa Catarina.</p>
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjustica-martelo-tribunal-1573242587971_v2_1920x1080-300x169-1.jpg" alt="Homem é condenado a 18 anos por matar taxista em Jaguaruna" /></p>
+<p>O crime ocorreu em 15 de junho de 2024, quando o réu e seu irmão, que viajavam do Rio Grande do Sul para a região Sul de Santa Catarina, atacaram o taxista durante o trajeto em Jaguaruna.</p>
+<p>O réu desferiu 53 facadas no motorista, que morreu em decorrência dos ferimentos, caracterizando homicídio duplamente qualificado pelo meio cruel e recurso que dificultou a defesa da vítima.</p>
+<p>Após o crime, os dois abandonaram o corpo em uma rodovia pouco movimentada e deixaram o carro do taxista em um posto de combustíveis em Morro da Fumaça.</p>
+<p>Um dos réus foi preso em Jaguaruna, enquanto o irmão fugiu para o Rio Grande do Sul, onde foi morto em confronto com a Brigada Militar ao tentar fugir de um mandado de prisão.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Ana Castela será atração do Réveillon 2027 em Florianópolis]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_19384098613a9dfeeb54d220bd2ac104cfb3b9ee/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 27 Jul 2026 19:40:23 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:19384098613a9dfeeb54d220bd2ac104cfb3b9ee]]></guid>
+<description><![CDATA[A cantora Ana Castela se apresentará na festa de Réveillon 2027 em Florianópolis.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FAna-Castela-sera-atracao-do-Reveillon-2027-em-Florianopolis.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FAna-Castela-sera-atracao-do-Reveillon-2027-em-Florianopolis.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FAna-Castela-sera-atracao-do-Reveillon-2027-em-Florianopolis.jpg"/>
+<content:encoded><![CDATA[
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FAna-Castela-sera-atracao-do-Reveillon-2027-em-Florianopolis.jpg" alt="Ana Castela será atração do Réveillon 2027 em Florianópolis" /></p>
+<p>A Secretaria Municipal de Turismo, Desenvolvimento Econômico e Inovação anunciou que Ana Castela subirá ao palco durante a celebração da virada do ano na capital catarinense.</p>
+<p>Conhecida pela mistura do sertanejo contemporâneo com o agronegócio, a artista deve incluir no repertório músicas como "Pipoco", "Nosso Quadro" e "Solteiro Forçado", além de outros sucessos.</p>
+<p>A contratação de Ana Castela integra a estratégia da Prefeitura de Florianópolis para fortalecer a cidade como um dos principais destinos brasileiros nas festas de fim de ano.</p>
+<p>A programação do Réveillon 2027 visa reunir atrações nacionais e oferecer opções para diferentes públicos, marcando o início da divulgação oficial das atrações.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Motorista é preso com 24 kg de skunk na BR-101 em Laguna]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_801e56bc1e894ce76786f1474522827b5e42258e/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 27 Jul 2026 18:46:30 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:801e56bc1e894ce76786f1474522827b5e42258e]]></guid>
+<description><![CDATA[Um motorista foi preso em flagrante transportando 24 kg de skunk na BR-101, em Laguna.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FSkunk-do-Uruguai-e-apreendido-com-24-kg-na-BR-101-no-litoral.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FSkunk-do-Uruguai-e-apreendido-com-24-kg-na-BR-101-no-litoral.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FSkunk-do-Uruguai-e-apreendido-com-24-kg-na-BR-101-no-litoral.jpg"/>
+<content:encoded><![CDATA[
+<p><img src="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FSkunk-do-Uruguai-e-apreendido-com-24-kg-na-BR-101-no-litoral.jpg" alt="Motorista é preso com 24 kg de skunk na BR-101 em Laguna" /></p>
+<p>A droga estava escondida em cinco malas pretas dentro de um automóvel GM/Onix com placas de Curitiba.</p>
+<p>Os agentes perceberam um forte cheiro de maconha ao abordar o veículo e encontraram o entorpecente durante a vistoria.</p>
+<p>O condutor, de 24 anos, afirmou que buscou a carga no Uruguai e pretendia entregá-la na Grande Curitiba, no Paraná.</p>
+<p>Ele foi encaminhado à Delegacia da Polícia Civil de Laguna junto com o material apreendido.</p>
+<p>A Lei de Drogas prevê pena de cinco a 15 anos de prisão para o tráfico, com aumento quando a droga atravessa fronteiras internacionais.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
