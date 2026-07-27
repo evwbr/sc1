@@ -1,12 +1,4 @@
 {
-  "source:731b786a1cdddb1aebdf4a6eb1f76deee174e5ad": {
-    "url": "https://tudoaquisc.com.br/politica/marco-buzzi-venda-de-sentenca",
-    "title": "Ministro Marco Buzzi é investigado por importunação sexual em Balneário Camboriú",
-    "guid": "sc1multi:60a3d859df8161ea66a85c23b5951166e7c5fe28",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_60a3d859df8161ea66a85c23b5951166e7c5fe28/",
-    "usedAt": 1784919606385,
-    "usedAtIso": "2026-07-24T19:00:06.385Z"
-  },
   "source:e330eba602bc642fcfc284490a9f98d086eedbbb": {
     "url": "https://ocp.news/cotidiano/beira-mar-continental-tera-alteracao-de-transito-neste-domingo-em-florianopolis",
     "title": "Trânsito na Beira-Mar Continental terá alterações neste domingo em Florianópolis",
@@ -958,5 +950,69 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
     "usedAt": 1785175206754,
     "usedAtIso": "2026-07-27T18:00:06.754Z"
+  },
+  "source:20383633f40aa5be6d42c79ed5bdbf0f5f407258": {
+    "url": "https://tudoaquisc.com.br/policia/skunk-do-uruguai-apreendidoo-24",
+    "title": "Motorista é preso com 24 kg de skunk na BR-101 em Laguna",
+    "guid": "sc1multi:801e56bc1e894ce76786f1474522827b5e42258e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_801e56bc1e894ce76786f1474522827b5e42258e/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:23b7acfd2f11d2e4607af650ddd9995d30a979c7": {
+    "url": "https://tnsul.com/2026/07/27/crianca-e-agredida-por-funcionaria-de-cei-no-bairro-cristo-redentor",
+    "title": "Funcionária agride criança em CEI no bairro Cristo Redentor, Criciúma",
+    "guid": "sc1multi:82f78f0d0de538e75a46d3f0dfd95ed040893dc2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_82f78f0d0de538e75a46d3f0dfd95ed040893dc2/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:5e329122960c8414332c58157cf635e98c278459": {
+    "url": "https://tnsul.com/2026/07/27/defesa-civil-emite-alerta-para-temporais-no-sul-de-sc",
+    "title": "Defesa Civil alerta para temporais isolados no Sul de Santa Catarina",
+    "guid": "sc1multi:6099fc94ec94275838586fecc8910f2a08e54265",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6099fc94ec94275838586fecc8910f2a08e54265/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:26e44a6bdcdc3cfb2368ace66e7cfa2072e85e18": {
+    "url": "https://ocp.news/seguranca/tjsc-determina-indenizacao-a-paciente-apos-complicacao-em-implante-dentario-em-joinville",
+    "title": "TJSC determina indenização por complicação em implante dentário em Joinville",
+    "guid": "sc1multi:26e44a6bdcdc3cfb2368ace66e7cfa2072e85e18",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26e44a6bdcdc3cfb2368ace66e7cfa2072e85e18/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:230ab3f1b6f861c87e5e4faa30d7def9ae62ff1c": {
+    "url": "https://ocp.news/economia/confira-as-1-386-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
+    "title": "Sine de Jaraguá do Sul oferece 1.386 vagas de emprego nesta semana",
+    "guid": "sc1multi:230ab3f1b6f861c87e5e4faa30d7def9ae62ff1c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_230ab3f1b6f861c87e5e4faa30d7def9ae62ff1c/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:411390bceedd21c8e264b4c1ccb96bcea13e33f5": {
+    "url": "https://correiosc.com.br/ana-castela-confirmada-reveillon-2027-florianopolis",
+    "title": "Ana Castela é atração confirmada no Réveillon 2027 de Florianópolis",
+    "guid": "sc1multi:3bee6c784f578c17dda43d23135db79a2329445b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bee6c784f578c17dda43d23135db79a2329445b/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:9345007573c0686058c4567375543b5e706107a0": {
+    "url": "https://tudoaquisc.com.br/eleicoes/veja-quem-lidera-ranking-27-070",
+    "title": "Ranking de doações na pré-campanha em Santa Catarina destaca Mário Motta",
+    "guid": "sc1multi:bd18cf66ca759be8026edc1ee1b9f40b7bf4c281",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd18cf66ca759be8026edc1ee1b9f40b7bf4c281/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
+  },
+  "source:503ac86cd8323492e8dc56a1379c6dab2149989c": {
+    "url": "https://tnsul.com/2026/07/27/icara-passa-por-manutencao-nas-escolas-para-reduzir-impactos-do-el-nino",
+    "title": "Içara realiza manutenção em escolas para reduzir impactos do El Niño",
+    "guid": "sc1multi:fb0cf60b62ee419f901938026dc3fe6b93218c6e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb0cf60b62ee419f901938026dc3fe6b93218c6e/",
+    "usedAt": 1785178806713,
+    "usedAtIso": "2026-07-27T19:00:06.713Z"
   }
 }
