@@ -318,5 +318,21 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c14aa4532f641bdf1fd17549560b8dc237c9f65/",
     "usedAt": 1785193206990,
     "usedAtIso": "2026-07-27T23:00:06.990Z"
+  },
+  "source:dbb02a937f9c74af8ee556f6c5066512c45a037f": {
+    "url": "https://rbatv.com.br/noticias/participacao-do-neavit-fortalece-implantacao-do-programa-oab-por-elas-em-rio-do-sul",
+    "title": "NEAVIT fortalece implantação do programa OAB por Elas em Rio do Sul",
+    "guid": "sc1multi:2abf6f1f1b5960294d9c0ffd40991ff9993ab84b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2abf6f1f1b5960294d9c0ffd40991ff9993ab84b/",
+    "usedAt": 1785196807534,
+    "usedAtIso": "2026-07-28T00:00:07.534Z"
+  },
+  "source:f32d885c4fbabbe2f2140332deac8298467e814e": {
+    "url": "https://ocp.news/seguranca/mulher-ferida-em-rodeio-sera-indenizada-por-municipio-de-rio-negrinho",
+    "title": "Mulher será indenizada por queda de telão em evento de Rio Negrinho",
+    "guid": "sc1multi:f32d885c4fbabbe2f2140332deac8298467e814e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f32d885c4fbabbe2f2140332deac8298467e814e/",
+    "usedAt": 1785196807534,
+    "usedAtIso": "2026-07-28T00:00:07.534Z"
   }
 }
