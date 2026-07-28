@@ -454,5 +454,53 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
     "usedAt": 1785243606374,
     "usedAtIso": "2026-07-28T13:00:06.374Z"
+  },
+  "source:dabdcd2d4857ddf70f29de61fda7c920b6324d8e": {
+    "url": "https://ocp.news/cotidiano/uniao-suspende-fornecimento-de-medicamento-para-adolescente-com-cancer-e-familia-de-jaragua-do-sul-lanca-vaquinha-para-manter-tratamento",
+    "title": "Família de Jaraguá do Sul lança vaquinha após suspensão de medicamento para adolescente com câncer",
+    "guid": "sc1multi:dabdcd2d4857ddf70f29de61fda7c920b6324d8e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dabdcd2d4857ddf70f29de61fda7c920b6324d8e/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
+  },
+  "source:22996786ed32490df0efbd5a01531636a21cbc25": {
+    "url": "https://tudoaquisc.com.br/transito/motociclista-morre-sc-401-0726",
+    "title": "Motociclista morre após colisão na SC-401 em Florianópolis",
+    "guid": "sc1multi:197cc4f867dec7937b34bfe0c4d8dbfc10b9f9c2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_197cc4f867dec7937b34bfe0c4d8dbfc10b9f9c2/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
+  },
+  "source:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4": {
+    "url": "https://ocp.news/cotidiano/blumenau-tem-9997-de-pontualidade-no-transporte-coletivo-aponta-estudo-nacional",
+    "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
+    "guid": "sc1multi:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
+  },
+  "source:27dfe7219bb1ecc07c43ff874444d59586f91846": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-orienta-populacao-sobre-o-descarte-correto-de-materiais-volumosos",
+    "title": "Prefeitura de Criciúma orienta sobre descarte correto de materiais volumosos",
+    "guid": "sc1multi:27dfe7219bb1ecc07c43ff874444d59586f91846",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
+  },
+  "source:fe85a60d39172f076a1b2629cb926253c1315341": {
+    "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-mais-de-35-anos-por-feminicidio-de-jovem-em-jaragua-do-sul",
+    "title": "TJSC mantém condenação de 35 anos por feminicídio em Jaraguá do Sul",
+    "guid": "sc1multi:fe85a60d39172f076a1b2629cb926253c1315341",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe85a60d39172f076a1b2629cb926253c1315341/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
+  },
+  "source:e50b37733c910f56a8f0946c908425350724e8d3": {
+    "url": "https://tnsul.com/2026/07/28/golpe-com-documento-falso-termina-com-prisao-em-agencia-bancaria-de-sc",
+    "title": "Homem é preso em Criciúma por tentativa de golpe com documento falso",
+    "guid": "sc1multi:cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e/",
+    "usedAt": 1785247206092,
+    "usedAtIso": "2026-07-28T14:00:06.092Z"
   }
 }
