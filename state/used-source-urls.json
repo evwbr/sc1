@@ -1,4 +1,44 @@
 {
+  "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
+    "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa da Conceição",
+    "guid": "sc1multi:211fc5303a37d460262bbd74415178dbe0286c8e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_211fc5303a37d460262bbd74415178dbe0286c8e/",
+    "usedAt": 1785273850012,
+    "usedAtIso": "2026-07-28T21:24:10.012Z"
+  },
+  "source:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e": {
+    "url": "https://ocp.news/seguranca/menino-de-10-anos-morre-apos-ser-atingido-por-trave-de-futebol-em-criciuma",
+    "title": "Menino de 10 anos morre após ser atingido por trave de futebol em Criciúma",
+    "guid": "sc1multi:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b8b2fca008a235cf03a06f2f1b02bffd4f3665e/",
+    "usedAt": 1785273850012,
+    "usedAtIso": "2026-07-28T21:24:10.012Z"
+  },
+  "source:a9b90baa612d98052ed2b486910240966075ef1e": {
+    "url": "https://ocp.news/cotidiano/procon-florianopolis-notifica-hospital-particular-por-cobranca-ate-850-acima-do-valor-de-mercado",
+    "title": "Procon de Florianópolis notifica hospital por cobrança abusiva de até 850%",
+    "guid": "sc1multi:a9b90baa612d98052ed2b486910240966075ef1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9b90baa612d98052ed2b486910240966075ef1e/",
+    "usedAt": 1785273850012,
+    "usedAtIso": "2026-07-28T21:24:10.012Z"
+  },
+  "source:dd3ec9ca1845c308810948e53be67637add2849d": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-pedido-de-estudo-para-hospital-estadual-de-doencas-raras",
+    "title": "Jaraguá do Sul aprova estudo para hospital estadual de doenças raras",
+    "guid": "sc1multi:dd3ec9ca1845c308810948e53be67637add2849d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd3ec9ca1845c308810948e53be67637add2849d/",
+    "usedAt": 1785273850012,
+    "usedAtIso": "2026-07-28T21:24:10.012Z"
+  },
+  "source:3efad3ff69c212dc339ff4de75db191c3ce120f7": {
+    "url": "https://ocp.news/entretenimento/mostra-de-cinema-infantil-de-florianopolis-anuncia-os-filmes-selecionados-para-edicao-de-25-anos",
+    "title": "Mostra de Cinema Infantil de Florianópolis seleciona 134 filmes para edição de 25 anos",
+    "guid": "sc1multi:3efad3ff69c212dc339ff4de75db191c3ce120f7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3efad3ff69c212dc339ff4de75db191c3ce120f7/",
+    "usedAt": 1785273850012,
+    "usedAtIso": "2026-07-28T21:24:10.012Z"
+  },
   "source:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4": {
     "url": "https://ocp.news/cotidiano/blumenau-tem-9997-de-pontualidade-no-transporte-coletivo-aponta-estudo-nacional",
     "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
@@ -180,16 +220,16 @@
     "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
     "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
-    "usedAt": 1785268807184,
-    "usedAtIso": "2026-07-28T20:00:07.184Z"
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
   "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
     "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
     "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
     "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
-    "usedAt": 1785268807184,
-    "usedAtIso": "2026-07-28T20:00:07.184Z"
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
   "source:a5a1ec3274bd0a32ff7d924fdc2a856da588d783": {
     "url": "https://ocp.news/seguranca/homem-vai-a-delegacia-para-registrar-perda-de-documentos-e-acaba-preso-em-xanxere",
@@ -201,11 +241,11 @@
   },
   "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
     "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
-    "title": "TJ-SC flexibiliza medidas contra ex-prefeito de Mafra investigado na Operação Pão e Circo",
+    "title": "TJ-SC flexibiliza medidas contra ex-prefeito investigado em Mafra",
     "guid": "sc1multi:383a55f44c78afe34b0140f73f843b65f654a5cf",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_383a55f44c78afe34b0140f73f843b65f654a5cf/",
-    "usedAt": 1785265206783,
-    "usedAtIso": "2026-07-28T19:00:06.783Z"
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
   "source:e41b09acb5f89905549c2da8f5e5c1cb03fb9583": {
     "url": "https://tudoaquisc.com.br/obras/ponto-de-apoio-motoboys-0726",
@@ -215,29 +255,13 @@
     "usedAt": 1785265206783,
     "usedAtIso": "2026-07-28T19:00:06.783Z"
   },
-  "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
-    "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa da Conceição",
-    "guid": "sc1multi:211fc5303a37d460262bbd74415178dbe0286c8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_211fc5303a37d460262bbd74415178dbe0286c8e/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
-  },
-  "source:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e": {
-    "url": "https://ocp.news/seguranca/menino-de-10-anos-morre-apos-ser-atingido-por-trave-de-futebol-em-criciuma",
-    "title": "Menino de 10 anos morre após ser atingido por trave de futebol em Criciúma",
-    "guid": "sc1multi:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b8b2fca008a235cf03a06f2f1b02bffd4f3665e/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
-  },
   "source:5f3c2227a53a826f8b77044d3b8649756ffad6b7": {
     "url": "https://tnsul.com/2026/07/28/causa-da-morte-de-detenta-em-penitenciaria-de-criciuma-e-divulgada",
     "title": "Detenta morre por parada cardiorrespiratória em penitenciária de Criciúma",
     "guid": "sc1multi:c4059d689bce4c1402b99c8f29ac310e2a34d631",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c4059d689bce4c1402b99c8f29ac310e2a34d631/",
-    "usedAt": 1785261608209,
-    "usedAtIso": "2026-07-28T18:00:08.209Z"
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
   "source:5684aa1862ea12c16e3736aeaae978f067d125de": {
     "url": "https://ocp.news/politica/joao-rodrigues-oficializa-candidatura-em-convencao-com-presenca-de-ronaldo-caiado",
@@ -254,30 +278,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f2cd69c686114a1d95e0f176f8225a954bb0ba3/",
     "usedAt": 1785261608209,
     "usedAtIso": "2026-07-28T18:00:08.209Z"
-  },
-  "source:a9b90baa612d98052ed2b486910240966075ef1e": {
-    "url": "https://ocp.news/cotidiano/procon-florianopolis-notifica-hospital-particular-por-cobranca-ate-850-acima-do-valor-de-mercado",
-    "title": "Procon de Florianópolis notifica hospital por cobrança abusiva de até 850%",
-    "guid": "sc1multi:a9b90baa612d98052ed2b486910240966075ef1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9b90baa612d98052ed2b486910240966075ef1e/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
-  },
-  "source:dd3ec9ca1845c308810948e53be67637add2849d": {
-    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-pedido-de-estudo-para-hospital-estadual-de-doencas-raras",
-    "title": "Jaraguá do Sul aprova estudo para hospital estadual de doenças raras",
-    "guid": "sc1multi:dd3ec9ca1845c308810948e53be67637add2849d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd3ec9ca1845c308810948e53be67637add2849d/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
-  },
-  "source:3efad3ff69c212dc339ff4de75db191c3ce120f7": {
-    "url": "https://ocp.news/entretenimento/mostra-de-cinema-infantil-de-florianopolis-anuncia-os-filmes-selecionados-para-edicao-de-25-anos",
-    "title": "Mostra de Cinema Infantil de Florianópolis seleciona 134 filmes para edição de 25 anos",
-    "guid": "sc1multi:3efad3ff69c212dc339ff4de75db191c3ce120f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3efad3ff69c212dc339ff4de75db191c3ce120f7/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
   },
   "source:3d68ae5e0085b9c466e3218a7a931cd804fc25ad": {
     "url": "https://ocp.news/politica/prefeito-de-corupa-leva-a-antt-pedido-por-trem-de-passageiros-e-propoe-metro-de-superficie",
@@ -327,148 +327,36 @@
     "usedAt": 1785258006584,
     "usedAtIso": "2026-07-28T17:00:06.584Z"
   },
-  "source:fe85a60d39172f076a1b2629cb926253c1315341": {
-    "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-mais-de-35-anos-por-feminicidio-de-jovem-em-jaragua-do-sul",
-    "title": "TJSC mantém condenação de 35 anos por feminicídio em Jaraguá do Sul",
-    "guid": "sc1multi:fe85a60d39172f076a1b2629cb926253c1315341",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe85a60d39172f076a1b2629cb926253c1315341/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  "source:97a36c3cd915ca7788878b9d21c781ded6f1c853": {
+    "url": "https://ocp.news/politica/ao-visitar-sc-nikolas-ferreira-exalta-estado-pt-nunca-governou-aqui",
+    "title": "Deputado Nikolas Ferreira elogia Santa Catarina e critica PT durante visita",
+    "guid": "sc1multi:97a36c3cd915ca7788878b9d21c781ded6f1c853",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97a36c3cd915ca7788878b9d21c781ded6f1c853/",
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
-  "source:e50b37733c910f56a8f0946c908425350724e8d3": {
-    "url": "https://tnsul.com/2026/07/28/golpe-com-documento-falso-termina-com-prisao-em-agencia-bancaria-de-sc",
-    "title": "Homem é preso em Criciúma por tentativa de golpe com documento falso",
-    "guid": "sc1multi:cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  "source:fb366d46b4a96b6b6e2b766f213d65015304c1a7": {
+    "url": "https://rbatv.com.br/noticias/ponte-pensil-da-barragem-e-interditada-apos-queda-de-arvore-em-rio-do-sul",
+    "title": "Ponte pênsil na barragem de Rio do Sul é interditada após queda de árvore",
+    "guid": "sc1multi:c5c91f3266720a0c900f4f740227ae91f8d0bb7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c5c91f3266720a0c900f4f740227ae91f8d0bb7e/",
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
-  "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
-    "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis regula ocupações e preserva áreas ambientais",
-    "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
+    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
+    "title": "Temporal causa estragos e deixa 45 mil sem energia no Vale do Itajaí",
+    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   },
-  "source:1eb9a2c005763ec52c1f9352a481540581f6f085": {
-    "url": "https://tudoaquisc.com.br/esporte/felipe-comerlatto-florianopolis",
-    "title": "Piloto de Florianópolis lidera campeonato nacional de motovelocidade",
-    "guid": "sc1multi:9b98a429140374b44149a76ed1a0d64ab3cc9bd5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b98a429140374b44149a76ed1a0d64ab3cc9bd5/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
-    "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
-    "guid": "sc1multi:ec28323ee4f73204267f08f7e15283be89e77df8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec28323ee4f73204267f08f7e15283be89e77df8/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:b6a7816a6d55f0efb5f467d523e6cfd7e2183f48": {
-    "url": "https://rbatv.com.br/noticias/policia-militar-prende-dois-homens-com-mandados-de-prisao-em-timbo-um-deles-e-acusado-de-agredir-e-ameacar-a-companheira",
-    "title": "Polícia Militar prende dois homens com mandados de prisão em Timbó",
-    "guid": "sc1multi:ee07b3484093654b788302902c5f5d8ec98b0b07",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:94027f0a5102e0930b8aef58d3567dc3e5359aaf": {
-    "url": "https://rbatv.com.br/noticias/homem-condenado-a-12-anos-por-estupro-de-vulneravel-e-preso-em-indaial",
-    "title": "Homem condenado por estupro de vulnerável é preso em Indaial",
-    "guid": "sc1multi:cb44161125920e7929dc8a5437cf2eb9dc763d3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb44161125920e7929dc8a5437cf2eb9dc763d3a/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:04954766dec533105f8c5d9ac44a838e747038d8": {
-    "url": "https://rbatv.com.br/noticias/caminhao-sai-da-pista-e-tomba-na-br-282-em-alfredo-wagner",
-    "title": "Caminhão tomba na BR-282 em Alfredo Wagner e motorista sofre ferimentos leves",
-    "guid": "sc1multi:31f014dbb302bd98a2745b00c8edad9b96d998c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f014dbb302bd98a2745b00c8edad9b96d998c6/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:dbb02a937f9c74af8ee556f6c5066512c45a037f": {
-    "url": "https://rbatv.com.br/noticias/participacao-do-neavit-fortalece-implantacao-do-programa-oab-por-elas-em-rio-do-sul",
-    "title": "NEAVIT fortalece implantação do programa OAB por Elas em Rio do Sul",
-    "guid": "sc1multi:2abf6f1f1b5960294d9c0ffd40991ff9993ab84b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2abf6f1f1b5960294d9c0ffd40991ff9993ab84b/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:6d7e63e96e837cd27554939d914ea95a258f02e1": {
-    "url": "https://ocp.news/seguranca/guarda-municipal-cumpre-mandado-de-prisao-por-trafico-de-drogas-em-florianopolis",
-    "title": "Guarda Municipal prende homem por tráfico de drogas na Trindade, Florianópolis",
-    "guid": "sc1multi:6d7e63e96e837cd27554939d914ea95a258f02e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7e63e96e837cd27554939d914ea95a258f02e1/",
-    "usedAt": 1785253799088,
-    "usedAtIso": "2026-07-28T15:49:59.088Z"
-  },
-  "source:75a137cff7831a243a8e19759da9ce21e76ef4db": {
-    "url": "https://tnsul.com/2026/07/28/idoso-fica-preso-as-ferragens-apos-capotamento-em-criciuma",
-    "title": "Idoso fica preso às ferragens após capotamento em Criciúma",
-    "guid": "sc1multi:907dae6258b0a3caf99c3daf0b0b8549f53e87b1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_907dae6258b0a3caf99c3daf0b0b8549f53e87b1/",
-    "usedAt": 1785253799088,
-    "usedAtIso": "2026-07-28T15:49:59.088Z"
-  },
-  "source:434533ec1ba186c89e72f7dd9fc253c7787e5828": {
-    "url": "https://ocp.news/cotidiano/julho-termina-com-temperaturas-amenas-e-temporais-passageiros-em-florianopolis",
-    "title": "Julho termina com temporais e temperaturas amenas em Florianópolis",
-    "guid": "sc1multi:434533ec1ba186c89e72f7dd9fc253c7787e5828",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_434533ec1ba186c89e72f7dd9fc253c7787e5828/",
-    "usedAt": 1785253799088,
-    "usedAtIso": "2026-07-28T15:49:59.088Z"
-  },
-  "source:9513a4489d86e7a86e98521b2add3597dad0d292": {
-    "url": "https://ocp.news/cotidiano/calor-de-29c-da-lugar-a-chuva-e-queda-brusca-nas-temperaturas",
-    "title": "Queda de temperatura e chuva marcam mudança no tempo em Santa Catarina",
-    "guid": "sc1multi:9513a4489d86e7a86e98521b2add3597dad0d292",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9513a4489d86e7a86e98521b2add3597dad0d292/",
-    "usedAt": 1785253799088,
-    "usedAtIso": "2026-07-28T15:49:59.088Z"
-  },
-  "source:f32d885c4fbabbe2f2140332deac8298467e814e": {
-    "url": "https://ocp.news/seguranca/mulher-ferida-em-rodeio-sera-indenizada-por-municipio-de-rio-negrinho",
-    "title": "Mulher será indenizada após acidente em rodeio em Rio Negrinho",
-    "guid": "sc1multi:f32d885c4fbabbe2f2140332deac8298467e814e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f32d885c4fbabbe2f2140332deac8298467e814e/",
-    "usedAt": 1785253181712,
-    "usedAtIso": "2026-07-28T15:39:41.712Z"
-  },
-  "source:1a90d3247defc27573556c8e3af9c76cd1f96bff": {
-    "url": "https://rbatv.com.br/noticias/temporais-e-chuva-intensa-entre-a-noite-desta-segunda-27-e-a-quarta-feira-29",
-    "title": "Santa Catarina enfrenta temporais e chuva intensa entre segunda e quarta-feira",
-    "guid": "sc1multi:ac9332ce1df54a7cbf840c19d95c64e9b9d48ca8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac9332ce1df54a7cbf840c19d95c64e9b9d48ca8/",
-    "usedAt": 1785253181712,
-    "usedAtIso": "2026-07-28T15:39:41.712Z"
-  },
-  "source:2e61693ea83743a3acc110736a953da5e3630149": {
-    "url": "https://tudoaquisc.com.br/policia/idoso-morto-cobrar-aluguel-pinhalzinho-2",
-    "title": "Idoso é morto após cobrar aluguel e enterrado em quintal em Pinhalzinho",
-    "guid": "sc1multi:a35afc75d7cd7b1966a8f2bda6aa73e90efc8ce4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a35afc75d7cd7b1966a8f2bda6aa73e90efc8ce4/",
-    "usedAt": 1785253181712,
-    "usedAtIso": "2026-07-28T15:39:41.712Z"
-  },
-  "source:9e23a7c90758277954c24bb7c89512a42c4555ba": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/plano-diretor-organiza-27-7",
-    "title": "Plano Diretor de Florianópolis organiza expansão urbana e combate ocupação irregular",
-    "guid": "sc1multi:03a86e2c8be58ff235ead4a334c0cd349dc0ee9f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_03a86e2c8be58ff235ead4a334c0cd349dc0ee9f/",
-    "usedAt": 1785253181712,
-    "usedAtIso": "2026-07-28T15:39:41.712Z"
-  },
-  "source:325f16234862b8c0d26fefd2df4fd3cd8cd0ba6c": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-e-indicia-dois-homens-por-homicidio-e-ocultacao-de-cadaver-em-taio",
-    "title": "Polícia Civil indicia dois homens por homicídio em Taió, SC",
-    "guid": "sc1multi:3e89e9e1cfd216f12d510c463e31bcffa2a2abcf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e89e9e1cfd216f12d510c463e31bcffa2a2abcf/",
-    "usedAt": 1785253181712,
-    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
+    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
+    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
+    "usedAt": 1785276844282,
+    "usedAtIso": "2026-07-28T22:14:04.282Z"
   }
 }
