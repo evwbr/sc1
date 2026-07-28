@@ -1,4 +1,60 @@
 {
+  "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
+    "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
+    "guid": "sc1multi:ec28323ee4f73204267f08f7e15283be89e77df8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec28323ee4f73204267f08f7e15283be89e77df8/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:b6a7816a6d55f0efb5f467d523e6cfd7e2183f48": {
+    "url": "https://rbatv.com.br/noticias/policia-militar-prende-dois-homens-com-mandados-de-prisao-em-timbo-um-deles-e-acusado-de-agredir-e-ameacar-a-companheira",
+    "title": "Polícia Militar prende dois homens com mandados de prisão em Timbó",
+    "guid": "sc1multi:ee07b3484093654b788302902c5f5d8ec98b0b07",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:94027f0a5102e0930b8aef58d3567dc3e5359aaf": {
+    "url": "https://rbatv.com.br/noticias/homem-condenado-a-12-anos-por-estupro-de-vulneravel-e-preso-em-indaial",
+    "title": "Homem condenado por estupro de vulnerável é preso em Indaial",
+    "guid": "sc1multi:cb44161125920e7929dc8a5437cf2eb9dc763d3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb44161125920e7929dc8a5437cf2eb9dc763d3a/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:04954766dec533105f8c5d9ac44a838e747038d8": {
+    "url": "https://rbatv.com.br/noticias/caminhao-sai-da-pista-e-tomba-na-br-282-em-alfredo-wagner",
+    "title": "Caminhão tomba na BR-282 em Alfredo Wagner e motorista sofre ferimentos leves",
+    "guid": "sc1multi:31f014dbb302bd98a2745b00c8edad9b96d998c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f014dbb302bd98a2745b00c8edad9b96d998c6/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:42f975f70e8998a90556b7c47f489ad7e07e5ee2": {
+    "url": "https://correiosc.com.br/prf-intercepta-24-quilos-de-maconha-na-br-101-em-paulo-lopes",
+    "title": "PRF apreende 24 quilos de maconha na BR-101 em Paulo Lopes",
+    "guid": "sc1multi:4bdb2b8aa5d839e79a971d410ba60d1720f377c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bdb2b8aa5d839e79a971d410ba60d1720f377c0/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:dbb02a937f9c74af8ee556f6c5066512c45a037f": {
+    "url": "https://rbatv.com.br/noticias/participacao-do-neavit-fortalece-implantacao-do-programa-oab-por-elas-em-rio-do-sul",
+    "title": "NEAVIT fortalece implantação do programa OAB por Elas em Rio do Sul",
+    "guid": "sc1multi:2abf6f1f1b5960294d9c0ffd40991ff9993ab84b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2abf6f1f1b5960294d9c0ffd40991ff9993ab84b/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
+  "source:aad08b63d6725957b870979f04cbe85a2e9475e5": {
+    "url": "https://correiosc.com.br/prazo-isencao-iptu-sao-jose-termina-quinta-feira-31",
+    "title": "Prazo para solicitar isenção do IPTU em São José termina nesta quinta",
+    "guid": "sc1multi:d2e2e6439810e851c0b13b2d56d5e07af9ca69bd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2e2e6439810e851c0b13b2d56d5e07af9ca69bd/",
+    "usedAt": 1785254362088,
+    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  },
   "source:6d7e63e96e837cd27554939d914ea95a258f02e1": {
     "url": "https://ocp.news/seguranca/guarda-municipal-cumpre-mandado-de-prisao-por-trafico-de-drogas-em-florianopolis",
     "title": "Guarda Municipal prende homem por tráfico de drogas na Trindade, Florianópolis",
@@ -172,48 +228,48 @@
     "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
     "guid": "sc1multi:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4/",
-    "usedAt": 1785247206092,
-    "usedAtIso": "2026-07-28T14:00:06.092Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:27dfe7219bb1ecc07c43ff874444d59586f91846": {
     "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-orienta-populacao-sobre-o-descarte-correto-de-materiais-volumosos",
     "title": "Prefeitura de Criciúma orienta sobre descarte correto de materiais volumosos",
     "guid": "sc1multi:27dfe7219bb1ecc07c43ff874444d59586f91846",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
-    "usedAt": 1785247206092,
-    "usedAtIso": "2026-07-28T14:00:06.092Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:fe85a60d39172f076a1b2629cb926253c1315341": {
     "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-mais-de-35-anos-por-feminicidio-de-jovem-em-jaragua-do-sul",
     "title": "TJSC mantém condenação de 35 anos por feminicídio em Jaraguá do Sul",
     "guid": "sc1multi:fe85a60d39172f076a1b2629cb926253c1315341",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe85a60d39172f076a1b2629cb926253c1315341/",
-    "usedAt": 1785247206092,
-    "usedAtIso": "2026-07-28T14:00:06.092Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:e50b37733c910f56a8f0946c908425350724e8d3": {
     "url": "https://tnsul.com/2026/07/28/golpe-com-documento-falso-termina-com-prisao-em-agencia-bancaria-de-sc",
     "title": "Homem é preso em Criciúma por tentativa de golpe com documento falso",
     "guid": "sc1multi:cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e/",
-    "usedAt": 1785247206092,
-    "usedAtIso": "2026-07-28T14:00:06.092Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
     "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
+    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano planejado",
     "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
     "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
-    "title": "Plano Diretor organiza crescimento urbano e evita ocupações irregulares em Florianópolis",
+    "title": "Plano Diretor de Florianópolis regula ocupações e preserva áreas ambientais",
     "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   },
   "source:c855b4d097379b3b8089cfec8f9acf74dbd9df5c": {
     "url": "https://tudoaquisc.com.br/ocorrencias/incendio-kitnets-abandonadas",
@@ -223,30 +279,6 @@
     "usedAt": 1785243606374,
     "usedAtIso": "2026-07-28T13:00:06.374Z"
   },
-  "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
-    "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
-    "guid": "sc1multi:ec28323ee4f73204267f08f7e15283be89e77df8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec28323ee4f73204267f08f7e15283be89e77df8/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:b6a7816a6d55f0efb5f467d523e6cfd7e2183f48": {
-    "url": "https://rbatv.com.br/noticias/policia-militar-prende-dois-homens-com-mandados-de-prisao-em-timbo-um-deles-e-acusado-de-agredir-e-ameacar-a-companheira",
-    "title": "Polícia Militar prende dois homens com mandados de prisão em Timbó",
-    "guid": "sc1multi:ee07b3484093654b788302902c5f5d8ec98b0b07",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:94027f0a5102e0930b8aef58d3567dc3e5359aaf": {
-    "url": "https://rbatv.com.br/noticias/homem-condenado-a-12-anos-por-estupro-de-vulneravel-e-preso-em-indaial",
-    "title": "Homem condenado por estupro de vulnerável é preso em Indaial",
-    "guid": "sc1multi:cb44161125920e7929dc8a5437cf2eb9dc763d3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb44161125920e7929dc8a5437cf2eb9dc763d3a/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
   "source:5c1980f3e052b7eab594f11e37bd40a850bea9c0": {
     "url": "https://tudoaquisc.com.br/ocorrencias/traficante-gaucho-trindade",
     "title": "Traficante gaúcho é preso na Trindade, em Florianópolis",
@@ -255,36 +287,12 @@
     "usedAt": 1785236406453,
     "usedAtIso": "2026-07-28T11:00:06.453Z"
   },
-  "source:04954766dec533105f8c5d9ac44a838e747038d8": {
-    "url": "https://rbatv.com.br/noticias/caminhao-sai-da-pista-e-tomba-na-br-282-em-alfredo-wagner",
-    "title": "Caminhão tomba na BR-282 em Alfredo Wagner e motorista sofre ferimentos leves",
-    "guid": "sc1multi:31f014dbb302bd98a2745b00c8edad9b96d998c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f014dbb302bd98a2745b00c8edad9b96d998c6/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:42f975f70e8998a90556b7c47f489ad7e07e5ee2": {
-    "url": "https://correiosc.com.br/prf-intercepta-24-quilos-de-maconha-na-br-101-em-paulo-lopes",
-    "title": "PRF apreende 24 quilos de maconha na BR-101 em Paulo Lopes",
-    "guid": "sc1multi:4bdb2b8aa5d839e79a971d410ba60d1720f377c0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bdb2b8aa5d839e79a971d410ba60d1720f377c0/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:dbb02a937f9c74af8ee556f6c5066512c45a037f": {
-    "url": "https://rbatv.com.br/noticias/participacao-do-neavit-fortalece-implantacao-do-programa-oab-por-elas-em-rio-do-sul",
-    "title": "NEAVIT fortalece implantação do programa OAB por Elas em Rio do Sul",
-    "guid": "sc1multi:2abf6f1f1b5960294d9c0ffd40991ff9993ab84b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2abf6f1f1b5960294d9c0ffd40991ff9993ab84b/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
-  },
-  "source:aad08b63d6725957b870979f04cbe85a2e9475e5": {
-    "url": "https://correiosc.com.br/prazo-isencao-iptu-sao-jose-termina-quinta-feira-31",
-    "title": "Prazo para solicitar isenção do IPTU em São José termina nesta quinta",
-    "guid": "sc1multi:d2e2e6439810e851c0b13b2d56d5e07af9ca69bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2e2e6439810e851c0b13b2d56d5e07af9ca69bd/",
-    "usedAt": 1785254362088,
-    "usedAtIso": "2026-07-28T15:59:22.088Z"
+  "source:1eb9a2c005763ec52c1f9352a481540581f6f085": {
+    "url": "https://tudoaquisc.com.br/esporte/felipe-comerlatto-florianopolis",
+    "title": "Piloto de Florianópolis lidera campeonato nacional de motovelocidade",
+    "guid": "sc1multi:9b98a429140374b44149a76ed1a0d64ab3cc9bd5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b98a429140374b44149a76ed1a0d64ab3cc9bd5/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
   }
 }
