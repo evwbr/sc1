@@ -1,99 +1,43 @@
 {
-  "source:9513a4489d86e7a86e98521b2add3597dad0d292": {
-    "url": "https://ocp.news/cotidiano/calor-de-29c-da-lugar-a-chuva-e-queda-brusca-nas-temperaturas",
-    "title": "Queda de temperatura e chuva marcam mudança no tempo em Santa Catarina",
-    "guid": "sc1multi:9513a4489d86e7a86e98521b2add3597dad0d292",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9513a4489d86e7a86e98521b2add3597dad0d292/",
-    "usedAt": 1785232806173,
-    "usedAtIso": "2026-07-28T10:00:06.173Z"
+  "source:20383633f40aa5be6d42c79ed5bdbf0f5f407258": {
+    "url": "https://tudoaquisc.com.br/policia/skunk-do-uruguai-apreendidoo-24",
+    "title": "Motorista é preso com 24 kg de skunk na BR-101 em Laguna",
+    "guid": "sc1multi:801e56bc1e894ce76786f1474522827b5e42258e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_801e56bc1e894ce76786f1474522827b5e42258e/",
+    "usedAt": 1785251443907,
+    "usedAtIso": "2026-07-28T15:10:43.907Z"
   },
-  "source:94027f0a5102e0930b8aef58d3567dc3e5359aaf": {
-    "url": "https://rbatv.com.br/noticias/homem-condenado-a-12-anos-por-estupro-de-vulneravel-e-preso-em-indaial",
-    "title": "Homem condenado por estupro de vulnerável é preso em Indaial",
-    "guid": "sc1multi:cb44161125920e7929dc8a5437cf2eb9dc763d3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb44161125920e7929dc8a5437cf2eb9dc763d3a/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  "source:411390bceedd21c8e264b4c1ccb96bcea13e33f5": {
+    "url": "https://correiosc.com.br/ana-castela-confirmada-reveillon-2027-florianopolis",
+    "title": "Ana Castela é atração confirmada no Réveillon 2027 de Florianópolis",
+    "guid": "sc1multi:3bee6c784f578c17dda43d23135db79a2329445b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bee6c784f578c17dda43d23135db79a2329445b/",
+    "usedAt": 1785251443907,
+    "usedAtIso": "2026-07-28T15:10:43.907Z"
   },
-  "source:5c1980f3e052b7eab594f11e37bd40a850bea9c0": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/traficante-gaucho-trindade",
-    "title": "Traficante gaúcho é preso na Trindade, em Florianópolis",
-    "guid": "sc1multi:c3ead09036362ad3a018549e1a0236f248e4ad45",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3ead09036362ad3a018549e1a0236f248e4ad45/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  "source:9345007573c0686058c4567375543b5e706107a0": {
+    "url": "https://tudoaquisc.com.br/eleicoes/veja-quem-lidera-ranking-27-070",
+    "title": "Ranking de doações na pré-campanha em Santa Catarina destaca Mário Motta",
+    "guid": "sc1multi:bd18cf66ca759be8026edc1ee1b9f40b7bf4c281",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd18cf66ca759be8026edc1ee1b9f40b7bf4c281/",
+    "usedAt": 1785251443907,
+    "usedAtIso": "2026-07-28T15:10:43.907Z"
   },
-  "source:6d7e63e96e837cd27554939d914ea95a258f02e1": {
-    "url": "https://ocp.news/seguranca/guarda-municipal-cumpre-mandado-de-prisao-por-trafico-de-drogas-em-florianopolis",
-    "title": "Guarda Municipal prende homem por tráfico de drogas em Florianópolis",
-    "guid": "sc1multi:6d7e63e96e837cd27554939d914ea95a258f02e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7e63e96e837cd27554939d914ea95a258f02e1/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  "source:3975759333e7a36e85341d5239c308a8bdc4485e": {
+    "url": "https://correiosc.com.br/nadadora-sao-jose-conquista-tres-medalhas-joguinhos-abertos-sc",
+    "title": "Nadadora de São José conquista três medalhas nos Joguinhos Abertos",
+    "guid": "sc1multi:aff634fbd62997902003084fa9a915c0bdf6549e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
+    "usedAt": 1785251443907,
+    "usedAtIso": "2026-07-28T15:10:43.907Z"
   },
-  "source:04954766dec533105f8c5d9ac44a838e747038d8": {
-    "url": "https://rbatv.com.br/noticias/caminhao-sai-da-pista-e-tomba-na-br-282-em-alfredo-wagner",
-    "title": "Caminhão tomba na BR-282 em Alfredo Wagner com motorista ferido",
-    "guid": "sc1multi:31f014dbb302bd98a2745b00c8edad9b96d998c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f014dbb302bd98a2745b00c8edad9b96d998c6/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
-  },
-  "source:75a137cff7831a243a8e19759da9ce21e76ef4db": {
-    "url": "https://tnsul.com/2026/07/28/idoso-fica-preso-as-ferragens-apos-capotamento-em-criciuma",
-    "title": "Idoso fica preso às ferragens após capotamento em Criciúma",
-    "guid": "sc1multi:907dae6258b0a3caf99c3daf0b0b8549f53e87b1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_907dae6258b0a3caf99c3daf0b0b8549f53e87b1/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
-  },
-  "source:434533ec1ba186c89e72f7dd9fc253c7787e5828": {
-    "url": "https://ocp.news/cotidiano/julho-termina-com-temperaturas-amenas-e-temporais-passageiros-em-florianopolis",
-    "title": "Julho termina com temporais e temperaturas amenas em Florianópolis",
-    "guid": "sc1multi:434533ec1ba186c89e72f7dd9fc253c7787e5828",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_434533ec1ba186c89e72f7dd9fc253c7787e5828/",
-    "usedAt": 1785236406453,
-    "usedAtIso": "2026-07-28T11:00:06.453Z"
-  },
-  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
-    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
-    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
-  },
-  "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
-    "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
-    "title": "Plano Diretor organiza crescimento urbano e evita ocupações irregulares em Florianópolis",
-    "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
-  },
-  "source:c855b4d097379b3b8089cfec8f9acf74dbd9df5c": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-kitnets-abandonadas",
-    "title": "Incêndio em kitnets abandonadas mobiliza bombeiros na Grande Florianópolis",
-    "guid": "sc1multi:a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
-  },
-  "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
-    "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
-    "guid": "sc1multi:ec28323ee4f73204267f08f7e15283be89e77df8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec28323ee4f73204267f08f7e15283be89e77df8/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
-  },
-  "source:b6a7816a6d55f0efb5f467d523e6cfd7e2183f48": {
-    "url": "https://rbatv.com.br/noticias/policia-militar-prende-dois-homens-com-mandados-de-prisao-em-timbo-um-deles-e-acusado-de-agredir-e-ameacar-a-companheira",
-    "title": "Polícia Militar prende dois homens com mandados de prisão em Timbó",
-    "guid": "sc1multi:ee07b3484093654b788302902c5f5d8ec98b0b07",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
-    "usedAt": 1785243606374,
-    "usedAtIso": "2026-07-28T13:00:06.374Z"
+  "source:d0b571e698e3578f09a68238c22af09092931e70": {
+    "url": "https://tnsul.com/2026/07/28/dupla-e-presa-apos-invadir-casa-tentar-arrombar-porta-em-icara",
+    "title": "Dupla é presa após tentar arrombar porta de residência em Içara",
+    "guid": "sc1multi:9dbab567fc49d7907a37eae05201e8372cad736d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9dbab567fc49d7907a37eae05201e8372cad736d/",
+    "usedAt": 1785250809483,
+    "usedAtIso": "2026-07-28T15:00:09.483Z"
   },
   "source:dabdcd2d4857ddf70f29de61fda7c920b6324d8e": {
     "url": "https://ocp.news/cotidiano/uniao-suspende-fornecimento-de-medicamento-para-adolescente-com-cancer-e-familia-de-jaragua-do-sul-lanca-vaquinha-para-manter-tratamento",
@@ -143,44 +87,180 @@
     "usedAt": 1785247206092,
     "usedAtIso": "2026-07-28T14:00:06.092Z"
   },
-  "source:d0b571e698e3578f09a68238c22af09092931e70": {
-    "url": "https://tnsul.com/2026/07/28/dupla-e-presa-apos-invadir-casa-tentar-arrombar-porta-em-icara",
-    "title": "Dupla é presa após tentar arrombar porta de residência em Içara",
-    "guid": "sc1multi:9dbab567fc49d7907a37eae05201e8372cad736d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9dbab567fc49d7907a37eae05201e8372cad736d/",
-    "usedAt": 1785250809483,
-    "usedAtIso": "2026-07-28T15:00:09.483Z"
+  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
+    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
+    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
+    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
+    "usedAt": 1785243606374,
+    "usedAtIso": "2026-07-28T13:00:06.374Z"
   },
-  "source:20383633f40aa5be6d42c79ed5bdbf0f5f407258": {
-    "url": "https://tudoaquisc.com.br/policia/skunk-do-uruguai-apreendidoo-24",
-    "title": "Motorista é preso com 24 kg de skunk na BR-101 em Laguna",
-    "guid": "sc1multi:801e56bc1e894ce76786f1474522827b5e42258e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_801e56bc1e894ce76786f1474522827b5e42258e/",
-    "usedAt": 1785251443907,
-    "usedAtIso": "2026-07-28T15:10:43.907Z"
+  "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
+    "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
+    "title": "Plano Diretor organiza crescimento urbano e evita ocupações irregulares em Florianópolis",
+    "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
+    "usedAt": 1785243606374,
+    "usedAtIso": "2026-07-28T13:00:06.374Z"
   },
-  "source:411390bceedd21c8e264b4c1ccb96bcea13e33f5": {
-    "url": "https://correiosc.com.br/ana-castela-confirmada-reveillon-2027-florianopolis",
-    "title": "Ana Castela é atração confirmada no Réveillon 2027 de Florianópolis",
-    "guid": "sc1multi:3bee6c784f578c17dda43d23135db79a2329445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bee6c784f578c17dda43d23135db79a2329445b/",
-    "usedAt": 1785251443907,
-    "usedAtIso": "2026-07-28T15:10:43.907Z"
+  "source:c855b4d097379b3b8089cfec8f9acf74dbd9df5c": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-kitnets-abandonadas",
+    "title": "Incêndio em kitnets abandonadas mobiliza bombeiros na Grande Florianópolis",
+    "guid": "sc1multi:a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c/",
+    "usedAt": 1785243606374,
+    "usedAtIso": "2026-07-28T13:00:06.374Z"
   },
-  "source:9345007573c0686058c4567375543b5e706107a0": {
-    "url": "https://tudoaquisc.com.br/eleicoes/veja-quem-lidera-ranking-27-070",
-    "title": "Ranking de doações na pré-campanha em Santa Catarina destaca Mário Motta",
-    "guid": "sc1multi:bd18cf66ca759be8026edc1ee1b9f40b7bf4c281",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd18cf66ca759be8026edc1ee1b9f40b7bf4c281/",
-    "usedAt": 1785251443907,
-    "usedAtIso": "2026-07-28T15:10:43.907Z"
+  "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
+    "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
+    "guid": "sc1multi:ec28323ee4f73204267f08f7e15283be89e77df8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec28323ee4f73204267f08f7e15283be89e77df8/",
+    "usedAt": 1785243606374,
+    "usedAtIso": "2026-07-28T13:00:06.374Z"
   },
-  "source:3975759333e7a36e85341d5239c308a8bdc4485e": {
-    "url": "https://correiosc.com.br/nadadora-sao-jose-conquista-tres-medalhas-joguinhos-abertos-sc",
-    "title": "Nadadora de São José conquista três medalhas nos Joguinhos Abertos",
-    "guid": "sc1multi:aff634fbd62997902003084fa9a915c0bdf6549e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
-    "usedAt": 1785251443907,
-    "usedAtIso": "2026-07-28T15:10:43.907Z"
+  "source:b6a7816a6d55f0efb5f467d523e6cfd7e2183f48": {
+    "url": "https://rbatv.com.br/noticias/policia-militar-prende-dois-homens-com-mandados-de-prisao-em-timbo-um-deles-e-acusado-de-agredir-e-ameacar-a-companheira",
+    "title": "Polícia Militar prende dois homens com mandados de prisão em Timbó",
+    "guid": "sc1multi:ee07b3484093654b788302902c5f5d8ec98b0b07",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee07b3484093654b788302902c5f5d8ec98b0b07/",
+    "usedAt": 1785243606374,
+    "usedAtIso": "2026-07-28T13:00:06.374Z"
+  },
+  "source:94027f0a5102e0930b8aef58d3567dc3e5359aaf": {
+    "url": "https://rbatv.com.br/noticias/homem-condenado-a-12-anos-por-estupro-de-vulneravel-e-preso-em-indaial",
+    "title": "Homem condenado por estupro de vulnerável é preso em Indaial",
+    "guid": "sc1multi:cb44161125920e7929dc8a5437cf2eb9dc763d3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb44161125920e7929dc8a5437cf2eb9dc763d3a/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:5c1980f3e052b7eab594f11e37bd40a850bea9c0": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/traficante-gaucho-trindade",
+    "title": "Traficante gaúcho é preso na Trindade, em Florianópolis",
+    "guid": "sc1multi:c3ead09036362ad3a018549e1a0236f248e4ad45",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3ead09036362ad3a018549e1a0236f248e4ad45/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:6d7e63e96e837cd27554939d914ea95a258f02e1": {
+    "url": "https://ocp.news/seguranca/guarda-municipal-cumpre-mandado-de-prisao-por-trafico-de-drogas-em-florianopolis",
+    "title": "Guarda Municipal prende homem por tráfico de drogas em Florianópolis",
+    "guid": "sc1multi:6d7e63e96e837cd27554939d914ea95a258f02e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7e63e96e837cd27554939d914ea95a258f02e1/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:04954766dec533105f8c5d9ac44a838e747038d8": {
+    "url": "https://rbatv.com.br/noticias/caminhao-sai-da-pista-e-tomba-na-br-282-em-alfredo-wagner",
+    "title": "Caminhão tomba na BR-282 em Alfredo Wagner com motorista ferido",
+    "guid": "sc1multi:31f014dbb302bd98a2745b00c8edad9b96d998c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f014dbb302bd98a2745b00c8edad9b96d998c6/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:75a137cff7831a243a8e19759da9ce21e76ef4db": {
+    "url": "https://tnsul.com/2026/07/28/idoso-fica-preso-as-ferragens-apos-capotamento-em-criciuma",
+    "title": "Idoso fica preso às ferragens após capotamento em Criciúma",
+    "guid": "sc1multi:907dae6258b0a3caf99c3daf0b0b8549f53e87b1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_907dae6258b0a3caf99c3daf0b0b8549f53e87b1/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:434533ec1ba186c89e72f7dd9fc253c7787e5828": {
+    "url": "https://ocp.news/cotidiano/julho-termina-com-temperaturas-amenas-e-temporais-passageiros-em-florianopolis",
+    "title": "Julho termina com temporais e temperaturas amenas em Florianópolis",
+    "guid": "sc1multi:434533ec1ba186c89e72f7dd9fc253c7787e5828",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_434533ec1ba186c89e72f7dd9fc253c7787e5828/",
+    "usedAt": 1785236406453,
+    "usedAtIso": "2026-07-28T11:00:06.453Z"
+  },
+  "source:9513a4489d86e7a86e98521b2add3597dad0d292": {
+    "url": "https://ocp.news/cotidiano/calor-de-29c-da-lugar-a-chuva-e-queda-brusca-nas-temperaturas",
+    "title": "Queda de temperatura e chuva marcam mudança no tempo em Santa Catarina",
+    "guid": "sc1multi:9513a4489d86e7a86e98521b2add3597dad0d292",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9513a4489d86e7a86e98521b2add3597dad0d292/",
+    "usedAt": 1785232806173,
+    "usedAtIso": "2026-07-28T10:00:06.173Z"
+  },
+  "source:9559fdbb649f36e27729af737736e16243332c56": {
+    "url": "https://tnsul.com/2026/07/28/frente-fria-avanca-e-traz-risco-de-temporais-no-sul-de-sc",
+    "title": "Defesa Civil alerta para risco de temporais no Sul de Santa Catarina",
+    "guid": "sc1multi:a8b4f1b9c8419336d1aeace267a21e3aff479703",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a8b4f1b9c8419336d1aeace267a21e3aff479703/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:f32d885c4fbabbe2f2140332deac8298467e814e": {
+    "url": "https://ocp.news/seguranca/mulher-ferida-em-rodeio-sera-indenizada-por-municipio-de-rio-negrinho",
+    "title": "Mulher será indenizada após acidente em rodeio em Rio Negrinho",
+    "guid": "sc1multi:f32d885c4fbabbe2f2140332deac8298467e814e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f32d885c4fbabbe2f2140332deac8298467e814e/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:1a90d3247defc27573556c8e3af9c76cd1f96bff": {
+    "url": "https://rbatv.com.br/noticias/temporais-e-chuva-intensa-entre-a-noite-desta-segunda-27-e-a-quarta-feira-29",
+    "title": "Santa Catarina enfrenta temporais e chuva intensa entre segunda e quarta-feira",
+    "guid": "sc1multi:ac9332ce1df54a7cbf840c19d95c64e9b9d48ca8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac9332ce1df54a7cbf840c19d95c64e9b9d48ca8/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:2e61693ea83743a3acc110736a953da5e3630149": {
+    "url": "https://tudoaquisc.com.br/policia/idoso-morto-cobrar-aluguel-pinhalzinho-2",
+    "title": "Idoso é morto após cobrar aluguel e enterrado em quintal em Pinhalzinho",
+    "guid": "sc1multi:a35afc75d7cd7b1966a8f2bda6aa73e90efc8ce4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a35afc75d7cd7b1966a8f2bda6aa73e90efc8ce4/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:923e66b629e56f6369198eb4a0acaabcd030c95d": {
+    "url": "https://scportais.com.br/2026/07/27/no-dia-do-agricultor-sindarroz-sc-destaca-uniao-entre-campo-e-industria-como-forca-para-superar-desafios",
+    "title": "SindArroz-SC destaca união entre campo e indústria no Dia do Agricultor",
+    "guid": "sc1multi:8ae253780fccd3b088de16305b270173456c8de2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ae253780fccd3b088de16305b270173456c8de2/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:eb40d3cfd21956c7d62db781340eac6229f343ac": {
+    "url": "https://scportais.com.br/2026/07/27/santa-catarina-tera-mudanca-no-tempo-com-chegada-de-frente-fria-e-risco-de-temporais",
+    "title": "Santa Catarina terá temporais com chegada de frente fria nesta semana",
+    "guid": "sc1multi:9435512fa7d3ffe90139e70ddb603a0253b33965",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9435512fa7d3ffe90139e70ddb603a0253b33965/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:4c66ebee0323ea9c98092526a13a37c3a5d1907d": {
+    "url": "https://scportais.com.br/2026/07/27/mais-de-mil-liderancas-participam-de-encontro-de-apoio-as-pre-candidaturas-de-altair-silva-e-callai",
+    "title": "Mais de mil lideranças apoiam pré-candidaturas em Chapecó",
+    "guid": "sc1multi:55c5727576b434fa6466db8421027b105c4dd57e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55c5727576b434fa6466db8421027b105c4dd57e/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:44bf32afc02c95ab658381dc66deba8f6b5d9621": {
+    "url": "https://scportais.com.br/2026/07/27/expomerco-2026-projeta-r-25-milhoes-em-negocios-e-destaca-pecuaria-regional",
+    "title": "Expomerco 2026 em Chapecó projeta R$ 25 milhões em negócios agropecuários",
+    "guid": "sc1multi:de314a188c69d2acd6dfbf8b89e6a2ee1279d3fb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de314a188c69d2acd6dfbf8b89e6a2ee1279d3fb/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:9e23a7c90758277954c24bb7c89512a42c4555ba": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/plano-diretor-organiza-27-7",
+    "title": "Plano Diretor de Florianópolis organiza expansão urbana e combate ocupação irregular",
+    "guid": "sc1multi:03a86e2c8be58ff235ead4a334c0cd349dc0ee9f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_03a86e2c8be58ff235ead4a334c0cd349dc0ee9f/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
+  },
+  "source:325f16234862b8c0d26fefd2df4fd3cd8cd0ba6c": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-e-indicia-dois-homens-por-homicidio-e-ocultacao-de-cadaver-em-taio",
+    "title": "Polícia Civil indicia dois homens por homicídio em Taió, SC",
+    "guid": "sc1multi:3e89e9e1cfd216f12d510c463e31bcffa2a2abcf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e89e9e1cfd216f12d510c463e31bcffa2a2abcf/",
+    "usedAt": 1785253181712,
+    "usedAtIso": "2026-07-28T15:39:41.712Z"
   }
 }
