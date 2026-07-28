@@ -1,4 +1,60 @@
 {
+  "source:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4": {
+    "url": "https://ocp.news/cotidiano/blumenau-tem-9997-de-pontualidade-no-transporte-coletivo-aponta-estudo-nacional",
+    "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
+    "guid": "sc1multi:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:27dfe7219bb1ecc07c43ff874444d59586f91846": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-orienta-populacao-sobre-o-descarte-correto-de-materiais-volumosos",
+    "title": "Prefeitura de Criciúma orienta sobre descarte correto de materiais volumosos",
+    "guid": "sc1multi:27dfe7219bb1ecc07c43ff874444d59586f91846",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:fe85a60d39172f076a1b2629cb926253c1315341": {
+    "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-mais-de-35-anos-por-feminicidio-de-jovem-em-jaragua-do-sul",
+    "title": "TJSC mantém condenação de 35 anos por feminicídio em Jaraguá do Sul",
+    "guid": "sc1multi:fe85a60d39172f076a1b2629cb926253c1315341",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe85a60d39172f076a1b2629cb926253c1315341/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:e50b37733c910f56a8f0946c908425350724e8d3": {
+    "url": "https://tnsul.com/2026/07/28/golpe-com-documento-falso-termina-com-prisao-em-agencia-bancaria-de-sc",
+    "title": "Homem é preso em Criciúma por tentativa de golpe com documento falso",
+    "guid": "sc1multi:cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
+    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
+    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano planejado",
+    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
+    "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
+    "title": "Plano Diretor de Florianópolis regula ocupações e preserva áreas ambientais",
+    "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
+  "source:1eb9a2c005763ec52c1f9352a481540581f6f085": {
+    "url": "https://tudoaquisc.com.br/esporte/felipe-comerlatto-florianopolis",
+    "title": "Piloto de Florianópolis lidera campeonato nacional de motovelocidade",
+    "guid": "sc1multi:9b98a429140374b44149a76ed1a0d64ab3cc9bd5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b98a429140374b44149a76ed1a0d64ab3cc9bd5/",
+    "usedAt": 1785255130751,
+    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  },
   "source:ec28323ee4f73204267f08f7e15283be89e77df8": {
     "url": "https://ocp.news/esporte/boletim-joguinhos-xadrez-estreia-com-medalhas-basquete-e-futsal-avancam-a-decisao",
     "title": "Jaraguá do Sul conquista medalhas e avança em modalidades nos Joguinhos Abertos",
@@ -223,54 +279,6 @@
     "usedAt": 1785247206092,
     "usedAtIso": "2026-07-28T14:00:06.092Z"
   },
-  "source:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4": {
-    "url": "https://ocp.news/cotidiano/blumenau-tem-9997-de-pontualidade-no-transporte-coletivo-aponta-estudo-nacional",
-    "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
-    "guid": "sc1multi:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:27dfe7219bb1ecc07c43ff874444d59586f91846": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-orienta-populacao-sobre-o-descarte-correto-de-materiais-volumosos",
-    "title": "Prefeitura de Criciúma orienta sobre descarte correto de materiais volumosos",
-    "guid": "sc1multi:27dfe7219bb1ecc07c43ff874444d59586f91846",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:fe85a60d39172f076a1b2629cb926253c1315341": {
-    "url": "https://ocp.news/seguranca/tjsc-mantem-condenacao-de-mais-de-35-anos-por-feminicidio-de-jovem-em-jaragua-do-sul",
-    "title": "TJSC mantém condenação de 35 anos por feminicídio em Jaraguá do Sul",
-    "guid": "sc1multi:fe85a60d39172f076a1b2629cb926253c1315341",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe85a60d39172f076a1b2629cb926253c1315341/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:e50b37733c910f56a8f0946c908425350724e8d3": {
-    "url": "https://tnsul.com/2026/07/28/golpe-com-documento-falso-termina-com-prisao-em-agencia-bancaria-de-sc",
-    "title": "Homem é preso em Criciúma por tentativa de golpe com documento falso",
-    "guid": "sc1multi:cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cdaa1203e0a24b15e80d1c90f5a0b9ab18bc026e/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
-    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano planejado",
-    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
-  "source:40dacf42dc00eb846534ff569c76f206feff13fd": {
-    "url": "https://ocp.news/cotidiano/plano-diretor-define-regras-em-areas-de-urbanizacao-especifica-e-evita-ocupacoes-irregulares-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis regula ocupações e preserva áreas ambientais",
-    "guid": "sc1multi:40dacf42dc00eb846534ff569c76f206feff13fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40dacf42dc00eb846534ff569c76f206feff13fd/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
-  },
   "source:c855b4d097379b3b8089cfec8f9acf74dbd9df5c": {
     "url": "https://tudoaquisc.com.br/ocorrencias/incendio-kitnets-abandonadas",
     "title": "Incêndio em kitnets abandonadas mobiliza bombeiros na Grande Florianópolis",
@@ -287,12 +295,36 @@
     "usedAt": 1785236406453,
     "usedAtIso": "2026-07-28T11:00:06.453Z"
   },
-  "source:1eb9a2c005763ec52c1f9352a481540581f6f085": {
-    "url": "https://tudoaquisc.com.br/esporte/felipe-comerlatto-florianopolis",
-    "title": "Piloto de Florianópolis lidera campeonato nacional de motovelocidade",
-    "guid": "sc1multi:9b98a429140374b44149a76ed1a0d64ab3cc9bd5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b98a429140374b44149a76ed1a0d64ab3cc9bd5/",
-    "usedAt": 1785255130751,
-    "usedAtIso": "2026-07-28T16:12:10.751Z"
+  "source:c74d9265d812a3851df72f5ed4f41065e960eabe": {
+    "url": "https://rbatv.com.br/noticias/policia-apreende-quase-200-gramas-de-drogas-e-prende-suspeitos-por-trafico-em-presidente-getulio",
+    "title": "Polícia apreende quase 200 gramas de drogas e prende suspeitos em Presidente Getúlio",
+    "guid": "sc1multi:e5f5103541d65bce085bcc2b5c03e143e2b18d0b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e5f5103541d65bce085bcc2b5c03e143e2b18d0b/",
+    "usedAt": 1785258006584,
+    "usedAtIso": "2026-07-28T17:00:06.584Z"
+  },
+  "source:a70338cc2d48641b0d15354e50a7db624df84b85": {
+    "url": "https://ocp.news/seguranca/acidente-envolvendo-quatro-veiculos-bloqueia-br-101-no-litoral-norte",
+    "title": "Acidente com quatro veículos bloqueia BR-101 em Balneário Camboriú",
+    "guid": "sc1multi:a70338cc2d48641b0d15354e50a7db624df84b85",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a70338cc2d48641b0d15354e50a7db624df84b85/",
+    "usedAt": 1785258006584,
+    "usedAtIso": "2026-07-28T17:00:06.584Z"
+  },
+  "source:cf7462b872edaa4d8ef20ea93650ec32e89c533c": {
+    "url": "https://tudoaquisc.com.br/economia/cesta-basica-8-mil-renda-alimentos-28-7",
+    "title": "Florianópolis está entre as capitais mais caras para cesta básica no Brasil",
+    "guid": "sc1multi:5476704cde3ba083e4bed3df75345c3426d7d793",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5476704cde3ba083e4bed3df75345c3426d7d793/",
+    "usedAt": 1785258006584,
+    "usedAtIso": "2026-07-28T17:00:06.584Z"
+  },
+  "source:09580e0bdc24fb789ca9ea08e0e64ee746e57d91": {
+    "url": "https://tudoaquisc.com.br/agenda/ana-castela-reveillon-2027-27-7",
+    "title": "Ana Castela será atração do Réveillon 2027 em Florianópolis",
+    "guid": "sc1multi:19384098613a9dfeeb54d220bd2ac104cfb3b9ee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19384098613a9dfeeb54d220bd2ac104cfb3b9ee/",
+    "usedAt": 1785258006584,
+    "usedAtIso": "2026-07-28T17:00:06.584Z"
   }
 }
