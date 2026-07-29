@@ -1,4 +1,44 @@
 {
+  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
+    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
+    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
+    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
+  },
+  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
+    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
+    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
+    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
+  },
+  "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
+    "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
+    "title": "TJ-SC flexibiliza medidas contra ex-prefeito de Mafra investigado na Operação Pão e Circo",
+    "guid": "sc1multi:383a55f44c78afe34b0140f73f843b65f654a5cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_383a55f44c78afe34b0140f73f843b65f654a5cf/",
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
+  },
+  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
+    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
+    "title": "Temporal causa estragos e deixa 45 mil sem energia no Vale do Itajaí",
+    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
+  },
+  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
+    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
+    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
+  },
   "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
     "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
     "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa",
@@ -132,16 +172,16 @@
     "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
     "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785280444124,
-    "usedAtIso": "2026-07-28T23:14:04.124Z"
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
   },
   "source:98700d63724bf92309aff6b7268e86ab6f2ed7e7": {
     "url": "https://ocp.news/entretenimento/grupo-pratica-de-opera-da-camerata-florianopolis-apresenta-a-flauta-magica-no-tac",
     "title": "Grupo Prática de Ópera apresenta 'A Flauta Mágica' no TAC em Florianópolis",
     "guid": "sc1multi:98700d63724bf92309aff6b7268e86ab6f2ed7e7",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98700d63724bf92309aff6b7268e86ab6f2ed7e7/",
-    "usedAt": 1785280444124,
-    "usedAtIso": "2026-07-28T23:14:04.124Z"
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
   },
   "source:3d68ae5e0085b9c466e3218a7a931cd804fc25ad": {
     "url": "https://ocp.news/politica/prefeito-de-corupa-leva-a-antt-pedido-por-trem-de-passageiros-e-propoe-metro-de-superficie",
@@ -199,30 +239,6 @@
     "usedAt": 1785280444124,
     "usedAtIso": "2026-07-28T23:14:04.124Z"
   },
-  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
-    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
-    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
-    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
-    "usedAt": 1785291244543,
-    "usedAtIso": "2026-07-29T02:14:04.543Z"
-  },
-  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
-    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
-    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
-    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
-    "usedAt": 1785291244543,
-    "usedAtIso": "2026-07-29T02:14:04.543Z"
-  },
-  "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
-    "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
-    "title": "TJ-SC flexibiliza medidas contra ex-prefeito de Mafra investigado na Operação Pão e Circo",
-    "guid": "sc1multi:383a55f44c78afe34b0140f73f843b65f654a5cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_383a55f44c78afe34b0140f73f843b65f654a5cf/",
-    "usedAt": 1785291244543,
-    "usedAtIso": "2026-07-29T02:14:04.543Z"
-  },
   "source:5f3c2227a53a826f8b77044d3b8649756ffad6b7": {
     "url": "https://tnsul.com/2026/07/28/causa-da-morte-de-detenta-em-penitenciaria-de-criciuma-e-divulgada",
     "title": "Detenta morre por parada cardiorrespiratória em penitenciária de Criciúma",
@@ -236,8 +252,8 @@
     "title": "Deputado Nikolas Ferreira elogia Santa Catarina e critica PT durante visita",
     "guid": "sc1multi:97a36c3cd915ca7788878b9d21c781ded6f1c853",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97a36c3cd915ca7788878b9d21c781ded6f1c853/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
   },
   "source:fb366d46b4a96b6b6e2b766f213d65015304c1a7": {
     "url": "https://rbatv.com.br/noticias/ponte-pensil-da-barragem-e-interditada-apos-queda-de-arvore-em-rio-do-sul",
@@ -246,22 +262,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c5c91f3266720a0c900f4f740227ae91f8d0bb7e/",
     "usedAt": 1785276844282,
     "usedAtIso": "2026-07-28T22:14:04.282Z"
-  },
-  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
-    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
-    "title": "Temporal causa estragos e deixa 45 mil sem energia no Vale do Itajaí",
-    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
-    "usedAt": 1785291244543,
-    "usedAtIso": "2026-07-29T02:14:04.543Z"
-  },
-  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
-    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
-    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
-    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
-    "usedAt": 1785291244543,
-    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:3efad3ff69c212dc339ff4de75db191c3ce120f7": {
     "url": "https://ocp.news/entretenimento/mostra-de-cinema-infantil-de-florianopolis-anuncia-os-filmes-selecionados-para-edicao-de-25-anos",
@@ -295,44 +295,12 @@
     "usedAt": 1785273288710,
     "usedAtIso": "2026-07-28T21:14:48.710Z"
   },
-  "source:22996786ed32490df0efbd5a01531636a21cbc25": {
-    "url": "https://tudoaquisc.com.br/transito/motociclista-morre-sc-401-0726",
-    "title": "Motociclista morre após colisão na SC-401 em Florianópolis",
-    "guid": "sc1multi:197cc4f867dec7937b34bfe0c4d8dbfc10b9f9c2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_197cc4f867dec7937b34bfe0c4d8dbfc10b9f9c2/",
-    "usedAt": 1785272406404,
-    "usedAtIso": "2026-07-28T21:00:06.404Z"
-  },
-  "source:c855b4d097379b3b8089cfec8f9acf74dbd9df5c": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-kitnets-abandonadas",
-    "title": "Incêndio em kitnets abandonadas mobiliza bombeiros na Grande Florianópolis",
-    "guid": "sc1multi:a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6c6ef241f0c88e6edfdeed79aa429ed5fcb2c7c/",
-    "usedAt": 1785272406404,
-    "usedAtIso": "2026-07-28T21:00:06.404Z"
-  },
-  "source:5c1980f3e052b7eab594f11e37bd40a850bea9c0": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/traficante-gaucho-trindade",
-    "title": "Traficante gaúcho é preso na Trindade, em Florianópolis",
-    "guid": "sc1multi:c3ead09036362ad3a018549e1a0236f248e4ad45",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3ead09036362ad3a018549e1a0236f248e4ad45/",
-    "usedAt": 1785272406404,
-    "usedAtIso": "2026-07-28T21:00:06.404Z"
-  },
-  "source:d0b571e698e3578f09a68238c22af09092931e70": {
-    "url": "https://tnsul.com/2026/07/28/dupla-e-presa-apos-invadir-casa-tentar-arrombar-porta-em-icara",
-    "title": "Dupla é presa após tentar arrombar porta de residência em Içara",
-    "guid": "sc1multi:9dbab567fc49d7907a37eae05201e8372cad736d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9dbab567fc49d7907a37eae05201e8372cad736d/",
-    "usedAt": 1785269891181,
-    "usedAtIso": "2026-07-28T20:18:11.181Z"
-  },
-  "source:dabdcd2d4857ddf70f29de61fda7c920b6324d8e": {
-    "url": "https://ocp.news/cotidiano/uniao-suspende-fornecimento-de-medicamento-para-adolescente-com-cancer-e-familia-de-jaragua-do-sul-lanca-vaquinha-para-manter-tratamento",
-    "title": "Família de Jaraguá do Sul lança vaquinha após suspensão de medicamento para adolescente com câncer",
-    "guid": "sc1multi:dabdcd2d4857ddf70f29de61fda7c920b6324d8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dabdcd2d4857ddf70f29de61fda7c920b6324d8e/",
-    "usedAt": 1785269891181,
-    "usedAtIso": "2026-07-28T20:18:11.181Z"
+  "source:9cb7adc05aa037fb65c39fc45548630e442d16ca": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-recebe-atlantico-em-grande-duelo-pela-liga-nacional",
+    "title": "Jaraguá Futsal enfrenta Atlântico pela Liga Nacional na Arena Jaraguá",
+    "guid": "sc1multi:9cb7adc05aa037fb65c39fc45548630e442d16ca",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9cb7adc05aa037fb65c39fc45548630e442d16ca/",
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
   }
 }
