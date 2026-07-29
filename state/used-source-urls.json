@@ -1,4 +1,52 @@
 {
+  "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
+    "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa",
+    "guid": "sc1multi:211fc5303a37d460262bbd74415178dbe0286c8e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_211fc5303a37d460262bbd74415178dbe0286c8e/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
+  "source:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e": {
+    "url": "https://ocp.news/seguranca/menino-de-10-anos-morre-apos-ser-atingido-por-trave-de-futebol-em-criciuma",
+    "title": "Menino de 10 anos morre após ser atingido por trave de futebol em Criciúma",
+    "guid": "sc1multi:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b8b2fca008a235cf03a06f2f1b02bffd4f3665e/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
+  "source:a9b90baa612d98052ed2b486910240966075ef1e": {
+    "url": "https://ocp.news/cotidiano/procon-florianopolis-notifica-hospital-particular-por-cobranca-ate-850-acima-do-valor-de-mercado",
+    "title": "Procon de Florianópolis notifica hospital por cobrança abusiva de até 850%",
+    "guid": "sc1multi:a9b90baa612d98052ed2b486910240966075ef1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9b90baa612d98052ed2b486910240966075ef1e/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
+  "source:dd3ec9ca1845c308810948e53be67637add2849d": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-pedido-de-estudo-para-hospital-estadual-de-doencas-raras",
+    "title": "Jaraguá do Sul aprova estudo para hospital estadual de doenças raras",
+    "guid": "sc1multi:dd3ec9ca1845c308810948e53be67637add2849d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd3ec9ca1845c308810948e53be67637add2849d/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
+  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
+    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
+    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
+    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
+  "source:03300d605824901a111bbf972141ecf0023967ad": {
+    "url": "https://rbatv.com.br/noticias/poste-cai-sobre-residencia-e-deixa-familia-desalojada-em-agrolandia",
+    "title": "Poste cai sobre casa e deixa família desalojada em Agrolândia",
+    "guid": "sc1multi:0692fbeb58ba84b4479438abec6c247f661320bd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0692fbeb58ba84b4479438abec6c247f661320bd/",
+    "usedAt": 1785287644440,
+    "usedAtIso": "2026-07-29T01:14:04.440Z"
+  },
   "source:42f975f70e8998a90556b7c47f489ad7e07e5ee2": {
     "url": "https://correiosc.com.br/prf-intercepta-24-quilos-de-maconha-na-br-101-em-paulo-lopes",
     "title": "PRF apreende 24 quilos de maconha na BR-101 em Paulo Lopes",
@@ -156,24 +204,24 @@
     "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
     "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
     "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
     "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
     "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
     "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
-    "title": "TJ-SC flexibiliza medidas contra ex-prefeito investigado em Mafra",
+    "title": "TJ-SC flexibiliza medidas contra ex-prefeito de Mafra investigado na Operação Pão e Circo",
     "guid": "sc1multi:383a55f44c78afe34b0140f73f843b65f654a5cf",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_383a55f44c78afe34b0140f73f843b65f654a5cf/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:5f3c2227a53a826f8b77044d3b8649756ffad6b7": {
     "url": "https://tnsul.com/2026/07/28/causa-da-morte-de-detenta-em-penitenciaria-de-criciuma-e-divulgada",
@@ -204,48 +252,16 @@
     "title": "Temporal causa estragos e deixa 45 mil sem energia no Vale do Itajaí",
     "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
     "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
     "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
     "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
-  },
-  "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
-    "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa",
-    "guid": "sc1multi:211fc5303a37d460262bbd74415178dbe0286c8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_211fc5303a37d460262bbd74415178dbe0286c8e/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
-  },
-  "source:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e": {
-    "url": "https://ocp.news/seguranca/menino-de-10-anos-morre-apos-ser-atingido-por-trave-de-futebol-em-criciuma",
-    "title": "Menino de 10 anos morre após ser atingido por trave de futebol em Criciúma",
-    "guid": "sc1multi:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b8b2fca008a235cf03a06f2f1b02bffd4f3665e/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
-  },
-  "source:a9b90baa612d98052ed2b486910240966075ef1e": {
-    "url": "https://ocp.news/cotidiano/procon-florianopolis-notifica-hospital-particular-por-cobranca-ate-850-acima-do-valor-de-mercado",
-    "title": "Procon de Florianópolis notifica hospital por cobrança abusiva de até 850%",
-    "guid": "sc1multi:a9b90baa612d98052ed2b486910240966075ef1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9b90baa612d98052ed2b486910240966075ef1e/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
-  },
-  "source:dd3ec9ca1845c308810948e53be67637add2849d": {
-    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-pedido-de-estudo-para-hospital-estadual-de-doencas-raras",
-    "title": "Jaraguá do Sul aprova estudo para hospital estadual de doenças raras",
-    "guid": "sc1multi:dd3ec9ca1845c308810948e53be67637add2849d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dd3ec9ca1845c308810948e53be67637add2849d/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
+    "usedAt": 1785291244543,
+    "usedAtIso": "2026-07-29T02:14:04.543Z"
   },
   "source:3efad3ff69c212dc339ff4de75db191c3ce120f7": {
     "url": "https://ocp.news/entretenimento/mostra-de-cinema-infantil-de-florianopolis-anuncia-os-filmes-selecionados-para-edicao-de-25-anos",
@@ -270,14 +286,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
     "usedAt": 1785273288710,
     "usedAtIso": "2026-07-28T21:14:48.710Z"
-  },
-  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
-    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
-    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
   },
   "source:9559fdbb649f36e27729af737736e16243332c56": {
     "url": "https://tnsul.com/2026/07/28/frente-fria-avanca-e-traz-risco-de-temporais-no-sul-de-sc",
@@ -326,21 +334,5 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dabdcd2d4857ddf70f29de61fda7c920b6324d8e/",
     "usedAt": 1785269891181,
     "usedAtIso": "2026-07-28T20:18:11.181Z"
-  },
-  "source:1f3d080906a906c4b01da1efe10e461db440b94f": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/cobranca-abusiva-hospital-850",
-    "title": "Hospital de Florianópolis é investigado por cobrança abusiva de insumos",
-    "guid": "sc1multi:030a5f8fe53ef1c7fed07e420690821a0bfecc6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_030a5f8fe53ef1c7fed07e420690821a0bfecc6d/",
-    "usedAt": 1785268807184,
-    "usedAtIso": "2026-07-28T20:00:07.184Z"
-  },
-  "source:03300d605824901a111bbf972141ecf0023967ad": {
-    "url": "https://rbatv.com.br/noticias/poste-cai-sobre-residencia-e-deixa-familia-desalojada-em-agrolandia",
-    "title": "Poste cai sobre casa e deixa família desalojada em Agrolândia",
-    "guid": "sc1multi:0692fbeb58ba84b4479438abec6c247f661320bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0692fbeb58ba84b4479438abec6c247f661320bd/",
-    "usedAt": 1785287644440,
-    "usedAtIso": "2026-07-29T01:14:04.440Z"
   }
 }
