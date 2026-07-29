@@ -1,4 +1,20 @@
 {
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785359644396,
+    "usedAtIso": "2026-07-29T21:14:04.396Z"
+  },
+  "source:058bdab541de0d97e07849a2ad900ab27b3076ae": {
+    "url": "https://tnsul.com/2026/07/29/principio-de-incendio-atinge-sede-da-torcida-os-tigres-em-criciuma",
+    "title": "Princípio de incêndio atinge sede da torcida Os Tigres em Criciúma",
+    "guid": "sc1multi:876960ce8a4d6919a3df4b60ba93db2e2544912b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876960ce8a4d6919a3df4b60ba93db2e2544912b/",
+    "usedAt": 1785359644396,
+    "usedAtIso": "2026-07-29T21:14:04.396Z"
+  },
   "source:4c66ebee0323ea9c98092526a13a37c3a5d1907d": {
     "url": "https://scportais.com.br/2026/07/27/mais-de-mil-liderancas-participam-de-encontro-de-apoio-as-pre-candidaturas-de-altair-silva-e-callai",
     "title": "Mais de mil lideranças apoiam pré-candidaturas em Chapecó",
@@ -212,8 +228,8 @@
     "title": "Vereadora de Guaramirim pede limpeza das canaletas na BR-280",
     "guid": "sc1multi:c045765637e018bfe908dd3d33fb6edf61c042c6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c045765637e018bfe908dd3d33fb6edf61c042c6/",
-    "usedAt": 1785345244611,
-    "usedAtIso": "2026-07-29T17:14:04.611Z"
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
   },
   "source:d9abbb17a187a6c2a3d16afbcdc649b23038fb5b": {
     "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nos-proximos-dias-5",
@@ -230,14 +246,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c33718c85bef855f9a924c144d1280d95f1992dc/",
     "usedAt": 1785345244611,
     "usedAtIso": "2026-07-29T17:14:04.611Z"
-  },
-  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
-    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
-    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
-    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785359644396,
-    "usedAtIso": "2026-07-29T21:14:04.396Z"
   },
   "source:030a1be27c3a8720b3261a887a997dc915a4df1d": {
     "url": "https://tnsul.com/2026/07/29/programacao-especial-marca-edicao-de-agosto-do-sabado-mais",
@@ -287,52 +295,36 @@
     "usedAt": 1785341653086,
     "usedAtIso": "2026-07-29T16:14:13.086Z"
   },
-  "source:b84cffddf694cc75578c485fee6c6379d4a8d5c0": {
-    "url": "https://tnsul.com/2026/07/29/homem-e-morto-apos-agressao-em-area-de-mangue-em-balneario-camboriu",
-    "title": "Homem morre após agressão em área de mangue no Centro de Balneário Camboriú",
-    "guid": "sc1multi:a1eba9f3d64ab9e3e5b432c806acc23c1f72f50e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a1eba9f3d64ab9e3e5b432c806acc23c1f72f50e/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+  "source:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a": {
+    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-com-sinais-de-agressao-no-centro-de-sao-bento-do-sul",
+    "title": "Homem é encontrado morto com sinais de agressão em São Bento do Sul",
+    "guid": "sc1multi:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
   },
-  "source:2cab6656d85ef8dcc491a4c58447c8e90d113a86": {
-    "url": "https://tnsul.com/2026/07/29/advogada-e-alvo-de-operacao-por-suposta-ligacao-com-faccao-em-sc",
-    "title": "Advogada é investigada por ligação com facção em Chapecó e Joinville",
-    "guid": "sc1multi:2989ad5ff39a0e43c529ddfe4937bc6c540f6e40",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2989ad5ff39a0e43c529ddfe4937bc6c540f6e40/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
+    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
   },
-  "source:d4c3468e13c840b6c090c13ed7606a4c75915e3c": {
-    "url": "https://tnsul.com/2026/07/29/homem-e-esfaqueado-no-pescoco-em-tentativa-de-homicidio-em-sc",
-    "title": "Homem é esfaqueado no pescoço em tentativa de homicídio em Xaxim",
-    "guid": "sc1multi:89cf2d70e50ac6fdf586f6761d0cd45250f12e3c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_89cf2d70e50ac6fdf586f6761d0cd45250f12e3c/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+  "source:8759f1060cc72e9b664c0db09883cb02817f4e31": {
+    "url": "https://ocp.news/cultura-2/sociedade-alianca-entrega-reforma-dos-banheiros-femininos-na-40a-kolonistenfest",
+    "title": "Sociedade Aliança conclui reforma dos banheiros femininos para Kolonistenfest",
+    "guid": "sc1multi:8759f1060cc72e9b664c0db09883cb02817f4e31",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8759f1060cc72e9b664c0db09883cb02817f4e31/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
   },
-  "source:f70729688dbecf1d7f98854588add8580cc97f0a": {
-    "url": "https://rbatv.com.br/noticias/colisao-seguida-de-capotamento-deixa-mulher-ferida-em-indaial",
-    "title": "Mulher fica ferida após colisão e capotamento em Indaial",
-    "guid": "sc1multi:1b0a379ee5fdf4ce2d779ccdfae5a15a6a0efcc4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b0a379ee5fdf4ce2d779ccdfae5a15a6a0efcc4/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
-  },
-  "source:8ac10d01a80d283923e033e9626f4446a85ae869": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-presa-por-trafico-de-drogas-apos-em-ascurra",
-    "title": "Mulher é presa por tráfico de drogas em Ascurra, Santa Catarina",
-    "guid": "sc1multi:61b91e251ffd685f977d0742b10aebf7664823c7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_61b91e251ffd685f977d0742b10aebf7664823c7/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
-  },
-  "source:058bdab541de0d97e07849a2ad900ab27b3076ae": {
-    "url": "https://tnsul.com/2026/07/29/principio-de-incendio-atinge-sede-da-torcida-os-tigres-em-criciuma",
-    "title": "Princípio de incêndio atinge sede da torcida Os Tigres em Criciúma",
-    "guid": "sc1multi:876960ce8a4d6919a3df4b60ba93db2e2544912b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876960ce8a4d6919a3df4b60ba93db2e2544912b/",
-    "usedAt": 1785359644396,
-    "usedAtIso": "2026-07-29T21:14:04.396Z"
+  "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
+    "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
+    "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
+    "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
   }
 }
