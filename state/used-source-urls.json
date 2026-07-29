@@ -1,4 +1,60 @@
 {
+  "source:792be6593e3810cb2858c67805e449cfcdfaba9b": {
+    "url": "https://ocp.news/entretenimento/caca-ao-tesouro-transforma-ferias-em-aventura-literaria-na-biblioteca-de-jaragua-do-sul",
+    "title": "Caça ao Tesouro incentiva leitura nas férias em Jaraguá do Sul",
+    "guid": "sc1multi:792be6593e3810cb2858c67805e449cfcdfaba9b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_792be6593e3810cb2858c67805e449cfcdfaba9b/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:97bd4bff8b949ff6fe4da3987af068d607c95cf7": {
+    "url": "https://ocp.news/seguranca/dic-de-jaragua-do-sul-prende-condenado-a-mais-de-36-anos-por-estupro-de-vulneravel",
+    "title": "DIC de Jaraguá do Sul prende homem condenado por estupro de vulnerável",
+    "guid": "sc1multi:97bd4bff8b949ff6fe4da3987af068d607c95cf7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97bd4bff8b949ff6fe4da3987af068d607c95cf7/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:8b6cd100a648e3b0b7ddd41d482d69f8eab782c8": {
+    "url": "https://ocp.news/politica/dr-vicente-tera-candidatura-homologada-em-convencao-no-proximo-sabado-1o",
+    "title": "Vicente Caropreso terá candidatura homologada em convenção na Alesc",
+    "guid": "sc1multi:8b6cd100a648e3b0b7ddd41d482d69f8eab782c8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b6cd100a648e3b0b7ddd41d482d69f8eab782c8/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7": {
+    "url": "https://ocp.news/seguranca/homem-acusado-de-roubo-agressao-e-ataque-homofobico-em-florianopolis-e-preso",
+    "title": "Homem é preso por roubo e ataque homofóbico em Florianópolis",
+    "guid": "sc1multi:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:005335503198afcc380af740416b149988df4df0": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-e-recupera-equipamentos",
+    "title": "Polícia Civil recupera equipamentos furtados de igreja em Taió",
+    "guid": "sc1multi:816bdc3099879e9c466a9db6adff81738379a934",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_816bdc3099879e9c466a9db6adff81738379a934/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f": {
+    "url": "https://ocp.news/cotidiano/obras-na-sc-108-podem-causar-falta-de-agua-em-guaramirim",
+    "title": "Obras na SC-108 podem causar falta de água em Guaramirim",
+    "guid": "sc1multi:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
+  "source:75fcc3066af602bd7c811097b49db26e08a99979": {
+    "url": "https://tudoaquisc.com.br/esporte/juventude-avai-brasileirao",
+    "title": "Avaí perde para Juventude com gol de ex-Figueirense em Caxias do Sul",
+    "guid": "sc1multi:2e54be06d32da457aebb26f6206325bfc85d14ee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e54be06d32da457aebb26f6206325bfc85d14ee/",
+    "usedAt": 1785348844242,
+    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  },
   "source:f2879abbd473693b642d3853715f288efbc41e55": {
     "url": "https://rbatv.com.br/noticias/suspeito-retorna-ao-local-apos-furtar-r-6-mil-em-fios-de-cobre",
     "title": "Suspeito tenta novo furto após roubar fios de cobre em Indaial",
@@ -172,32 +228,32 @@
     "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
     "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
   "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
     "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
     "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
     "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
   "source:42f975f70e8998a90556b7c47f489ad7e07e5ee2": {
     "url": "https://correiosc.com.br/prf-intercepta-24-quilos-de-maconha-na-br-101-em-paulo-lopes",
     "title": "PRF apreende 24 quilos de maconha na BR-101 em Paulo Lopes",
     "guid": "sc1multi:4bdb2b8aa5d839e79a971d410ba60d1720f377c0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bdb2b8aa5d839e79a971d410ba60d1720f377c0/",
-    "usedAt": 1785338044651,
-    "usedAtIso": "2026-07-29T15:14:04.651Z"
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
   "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
     "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
     "title": "Motorista é preso com 581 quilos de maconha na BR-282 em Xanxerê",
     "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
-    "usedAt": 1785334444517,
-    "usedAtIso": "2026-07-29T14:14:04.517Z"
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
   "source:d521267a34a69fbc4bbd6746619cf8cf533d4f96": {
     "url": "https://ocp.news/cotidiano/obras-da-nova-adutora-no-bairro-salto-do-norte-chegam-a-rua-pomerode-e-impactam-o-transito-em-blumenau",
@@ -263,60 +319,52 @@
     "usedAt": 1785334444517,
     "usedAtIso": "2026-07-29T14:14:04.517Z"
   },
-  "source:792be6593e3810cb2858c67805e449cfcdfaba9b": {
-    "url": "https://ocp.news/entretenimento/caca-ao-tesouro-transforma-ferias-em-aventura-literaria-na-biblioteca-de-jaragua-do-sul",
-    "title": "Caça ao Tesouro incentiva leitura nas férias em Jaraguá do Sul",
-    "guid": "sc1multi:792be6593e3810cb2858c67805e449cfcdfaba9b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_792be6593e3810cb2858c67805e449cfcdfaba9b/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:d9fbad78e6b20736bf81e970a0df1587de43fbd4": {
+    "url": "https://ocp.news/esporte/ciclista-e-vice-campeao-brasileiro-de-mountain-bike-e-faz-historia-para-jaragua-do-sul",
+    "title": "Axel Kruger é vice-campeão brasileiro de mountain bike por Jaraguá do Sul",
+    "guid": "sc1multi:d9fbad78e6b20736bf81e970a0df1587de43fbd4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9fbad78e6b20736bf81e970a0df1587de43fbd4/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
-  "source:97bd4bff8b949ff6fe4da3987af068d607c95cf7": {
-    "url": "https://ocp.news/seguranca/dic-de-jaragua-do-sul-prende-condenado-a-mais-de-36-anos-por-estupro-de-vulneravel",
-    "title": "DIC de Jaraguá do Sul prende homem condenado por estupro de vulnerável",
-    "guid": "sc1multi:97bd4bff8b949ff6fe4da3987af068d607c95cf7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97bd4bff8b949ff6fe4da3987af068d607c95cf7/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:999529d23524eab27edd176f97acff3ce7b86016": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-em-1a-votacao-repasse-de-r-49-mil-para-reforma-de-muro-do-14o-bpm",
+    "title": "Jaraguá do Sul aprova repasse para reforma do muro do 14º BPM",
+    "guid": "sc1multi:999529d23524eab27edd176f97acff3ce7b86016",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_999529d23524eab27edd176f97acff3ce7b86016/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
-  "source:8b6cd100a648e3b0b7ddd41d482d69f8eab782c8": {
-    "url": "https://ocp.news/politica/dr-vicente-tera-candidatura-homologada-em-convencao-no-proximo-sabado-1o",
-    "title": "Vicente Caropreso terá candidatura homologada em convenção na Alesc",
-    "guid": "sc1multi:8b6cd100a648e3b0b7ddd41d482d69f8eab782c8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b6cd100a648e3b0b7ddd41d482d69f8eab782c8/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:2f58730bbe5fcdbfb7f4a63730848d5c3b7eceec": {
+    "url": "https://tnsul.com/2026/07/29/nem-a-igreja-escapa-das-maos-dos-ladroes",
+    "title": "Polícia recupera equipamentos furtados de igreja em Taió",
+    "guid": "sc1multi:9b9ea841ce283c6134cca7d8459bfde2dfa13073",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9b9ea841ce283c6134cca7d8459bfde2dfa13073/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
-  "source:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7": {
-    "url": "https://ocp.news/seguranca/homem-acusado-de-roubo-agressao-e-ataque-homofobico-em-florianopolis-e-preso",
-    "title": "Homem é preso por roubo e ataque homofóbico em Florianópolis",
-    "guid": "sc1multi:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:20abc1c0cc5020f79874f8cb48e8d21e7547965c": {
+    "url": "https://ocp.news/seguranca/brasil-registra-mais-de-18-milhao-de-acidentes-de-trabalho-desde-2023",
+    "title": "Santa Catarina registra mais de 107 mil acidentes de trabalho desde 2023",
+    "guid": "sc1multi:20abc1c0cc5020f79874f8cb48e8d21e7547965c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20abc1c0cc5020f79874f8cb48e8d21e7547965c/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
-  "source:005335503198afcc380af740416b149988df4df0": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-e-recupera-equipamentos",
-    "title": "Polícia Civil recupera equipamentos furtados de igreja em Taió",
-    "guid": "sc1multi:816bdc3099879e9c466a9db6adff81738379a934",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_816bdc3099879e9c466a9db6adff81738379a934/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166": {
+    "url": "https://ocp.news/seguranca/urgente-homem-e-resgatado-em-estado-grave-apos-passar-mal-dentro-de-poco-em-jaragua-do-sul",
+    "title": "Homem é resgatado em estado grave após passar mal em poço em Jaraguá do Sul",
+    "guid": "sc1multi:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165d4bfc49724ad8b094e84e0b1e5d2cd0f65166/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   },
-  "source:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f": {
-    "url": "https://ocp.news/cotidiano/obras-na-sc-108-podem-causar-falta-de-agua-em-guaramirim",
-    "title": "Obras na SC-108 podem causar falta de água em Guaramirim",
-    "guid": "sc1multi:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
-  },
-  "source:75fcc3066af602bd7c811097b49db26e08a99979": {
-    "url": "https://tudoaquisc.com.br/esporte/juventude-avai-brasileirao",
-    "title": "Avaí perde para Juventude com gol de ex-Figueirense em Caxias do Sul",
-    "guid": "sc1multi:2e54be06d32da457aebb26f6206325bfc85d14ee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e54be06d32da457aebb26f6206325bfc85d14ee/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
+    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
+    "title": "Operação prende suspeito de roubo e agressão por homofobia em Florianópolis",
+    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
+    "usedAt": 1785352446440,
+    "usedAtIso": "2026-07-29T19:14:06.440Z"
   }
 }
