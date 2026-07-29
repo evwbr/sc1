@@ -1,4 +1,36 @@
 {
+  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
+    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
+    "title": "Temporal severo deixa 45 mil sem energia no Vale do Itajaí",
+    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
+    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
+    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
+    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
+    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
+    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
+    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
+    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
+    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
   "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
     "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
     "title": "TJ-SC flexibiliza medidas contra ex-prefeito investigado em Mafra",
@@ -183,36 +215,60 @@
     "usedAt": 1785298444814,
     "usedAtIso": "2026-07-29T04:14:04.814Z"
   },
-  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
-    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
-    "title": "Temporal severo deixa 45 mil sem energia no Vale do Itajaí",
-    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  "source:d9abbb17a187a6c2a3d16afbcdc649b23038fb5b": {
+    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nos-proximos-dias-5",
+    "title": "Frente fria provoca instabilidade em Florianópolis e região nesta quarta",
+    "guid": "sc1multi:d9abbb17a187a6c2a3d16afbcdc649b23038fb5b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9abbb17a187a6c2a3d16afbcdc649b23038fb5b/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
   },
-  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
-    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
-    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
-    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  "source:c33718c85bef855f9a924c144d1280d95f1992dc": {
+    "url": "https://ocp.news/cotidiano/iniciada-construcao-de-pista-de-skate-street-em-bairro-de-florianopolis",
+    "title": "Florianópolis inicia construção de nova pista de skate street no Rio Vermelho",
+    "guid": "sc1multi:c33718c85bef855f9a924c144d1280d95f1992dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c33718c85bef855f9a924c144d1280d95f1992dc/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
   },
-  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
-    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
-    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
-    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  "source:9cb7adc05aa037fb65c39fc45548630e442d16ca": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-recebe-atlantico-em-grande-duelo-pela-liga-nacional",
+    "title": "Jaraguá Futsal enfrenta Atlântico pela Liga Nacional na Arena Jaraguá",
+    "guid": "sc1multi:9cb7adc05aa037fb65c39fc45548630e442d16ca",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9cb7adc05aa037fb65c39fc45548630e442d16ca/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
   },
-  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
-    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
-    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
-    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  "source:bfeaad7da7f4eccb058148a6df0a2ad8fb0a6286": {
+    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-em-colisao-com-caminhonete-no-centro-de-ascurra",
+    "title": "Motociclista fica ferido em colisão no Centro de Ascurra, SC",
+    "guid": "sc1multi:6ec4cd401ac4c581cbba7ef56b747edb4409a7f1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ec4cd401ac4c581cbba7ef56b747edb4409a7f1/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
+  },
+  "source:97a36c3cd915ca7788878b9d21c781ded6f1c853": {
+    "url": "https://ocp.news/politica/ao-visitar-sc-nikolas-ferreira-exalta-estado-pt-nunca-governou-aqui",
+    "title": "Deputado Nikolas Ferreira elogia Santa Catarina durante visita ao estado",
+    "guid": "sc1multi:97a36c3cd915ca7788878b9d21c781ded6f1c853",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97a36c3cd915ca7788878b9d21c781ded6f1c853/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
+  },
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
+  },
+  "source:98700d63724bf92309aff6b7268e86ab6f2ed7e7": {
+    "url": "https://ocp.news/entretenimento/grupo-pratica-de-opera-da-camerata-florianopolis-apresenta-a-flauta-magica-no-tac",
+    "title": "Camerata Florianópolis apresenta 'A Flauta Mágica' no Teatro Álvaro de Carvalho",
+    "guid": "sc1multi:98700d63724bf92309aff6b7268e86ab6f2ed7e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98700d63724bf92309aff6b7268e86ab6f2ed7e7/",
+    "usedAt": 1785320044487,
+    "usedAtIso": "2026-07-29T10:14:04.487Z"
   }
 }
