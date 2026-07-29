@@ -1,4 +1,44 @@
 {
+  "source:c045765637e018bfe908dd3d33fb6edf61c042c6": {
+    "url": "https://ocp.news/politica/vereadora-de-guaramirim-solicita-limpeza-de-canaletas-de-drenagem-na-br-280",
+    "title": "Vereadora de Guaramirim pede limpeza das canaletas na BR-280",
+    "guid": "sc1multi:c045765637e018bfe908dd3d33fb6edf61c042c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c045765637e018bfe908dd3d33fb6edf61c042c6/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  },
+  "source:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a": {
+    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-com-sinais-de-agressao-no-centro-de-sao-bento-do-sul",
+    "title": "Homem é encontrado morto com sinais de agressão em São Bento do Sul",
+    "guid": "sc1multi:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  },
+  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
+    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  },
+  "source:8759f1060cc72e9b664c0db09883cb02817f4e31": {
+    "url": "https://ocp.news/cultura-2/sociedade-alianca-entrega-reforma-dos-banheiros-femininos-na-40a-kolonistenfest",
+    "title": "Sociedade Aliança conclui reforma dos banheiros femininos para Kolonistenfest",
+    "guid": "sc1multi:8759f1060cc72e9b664c0db09883cb02817f4e31",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8759f1060cc72e9b664c0db09883cb02817f4e31/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  },
+  "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
+    "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
+    "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
+    "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
+    "usedAt": 1785363245627,
+    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  },
   "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
     "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
     "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
@@ -180,8 +220,8 @@
     "title": "Homem é preso por roubo e ataque homofóbico em Florianópolis",
     "guid": "sc1multi:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+    "usedAt": 1785366844294,
+    "usedAtIso": "2026-07-29T23:14:04.294Z"
   },
   "source:005335503198afcc380af740416b149988df4df0": {
     "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-e-recupera-equipamentos",
@@ -196,8 +236,8 @@
     "title": "Obras na SC-108 podem causar falta de água em Guaramirim",
     "guid": "sc1multi:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f/",
-    "usedAt": 1785348844242,
-    "usedAtIso": "2026-07-29T18:14:04.242Z"
+    "usedAt": 1785366844294,
+    "usedAtIso": "2026-07-29T23:14:04.294Z"
   },
   "source:75fcc3066af602bd7c811097b49db26e08a99979": {
     "url": "https://tudoaquisc.com.br/esporte/juventude-avai-brasileirao",
@@ -220,16 +260,8 @@
     "title": "Florianópolis oferece matrículas online para Educação de Jovens e Adultos",
     "guid": "sc1multi:5fd2b9b0d7b848b17b8e88a665658a24043803ec",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fd2b9b0d7b848b17b8e88a665658a24043803ec/",
-    "usedAt": 1785345244611,
-    "usedAtIso": "2026-07-29T17:14:04.611Z"
-  },
-  "source:c045765637e018bfe908dd3d33fb6edf61c042c6": {
-    "url": "https://ocp.news/politica/vereadora-de-guaramirim-solicita-limpeza-de-canaletas-de-drenagem-na-br-280",
-    "title": "Vereadora de Guaramirim pede limpeza das canaletas na BR-280",
-    "guid": "sc1multi:c045765637e018bfe908dd3d33fb6edf61c042c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c045765637e018bfe908dd3d33fb6edf61c042c6/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
+    "usedAt": 1785366844294,
+    "usedAtIso": "2026-07-29T23:14:04.294Z"
   },
   "source:d9abbb17a187a6c2a3d16afbcdc649b23038fb5b": {
     "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nos-proximos-dias-5",
@@ -247,84 +279,20 @@
     "usedAt": 1785345244611,
     "usedAtIso": "2026-07-29T17:14:04.611Z"
   },
-  "source:030a1be27c3a8720b3261a887a997dc915a4df1d": {
-    "url": "https://tnsul.com/2026/07/29/programacao-especial-marca-edicao-de-agosto-do-sabado-mais",
-    "title": "Comércio de Criciúma terá horário estendido e programação especial no Sábado Mais",
-    "guid": "sc1multi:19793d8814ceffe68ab784f01ec7b42066098d8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19793d8814ceffe68ab784f01ec7b42066098d8e/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
+  "source:45351ecf72632603cdd154917ba1a95d5514ab99": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-furtar-celular-de-estabelecimento-no-centro-de-jaragua-do-sul",
+    "title": "Homem é preso por furtar celular em estabelecimento no Centro de Jaraguá do Sul",
+    "guid": "sc1multi:45351ecf72632603cdd154917ba1a95d5514ab99",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_45351ecf72632603cdd154917ba1a95d5514ab99/",
+    "usedAt": 1785366844294,
+    "usedAtIso": "2026-07-29T23:14:04.294Z"
   },
-  "source:683b6bb4c64a11bf5e91d293105998464b558a77": {
-    "url": "https://tnsul.com/2026/07/29/motorista-sai-ileso-apos-caminhao-carregado-com-racao-tombar-na-br-282",
-    "title": "Caminhão carregado com ração tomba na BR-282 em Pinhalzinho",
-    "guid": "sc1multi:06be98cbbf5b1d575cd31c722e0033f7e6550020",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_06be98cbbf5b1d575cd31c722e0033f7e6550020/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
-  },
-  "source:923e66b629e56f6369198eb4a0acaabcd030c95d": {
-    "url": "https://scportais.com.br/2026/07/27/no-dia-do-agricultor-sindarroz-sc-destaca-uniao-entre-campo-e-industria-como-forca-para-superar-desafios",
-    "title": "SindArroz-SC destaca união entre campo e indústria no Dia do Agricultor",
-    "guid": "sc1multi:8ae253780fccd3b088de16305b270173456c8de2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ae253780fccd3b088de16305b270173456c8de2/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
-  },
-  "source:eb40d3cfd21956c7d62db781340eac6229f343ac": {
-    "url": "https://scportais.com.br/2026/07/27/santa-catarina-tera-mudanca-no-tempo-com-chegada-de-frente-fria-e-risco-de-temporais",
-    "title": "Santa Catarina terá temporais com chegada de frente fria nesta semana",
-    "guid": "sc1multi:9435512fa7d3ffe90139e70ddb603a0253b33965",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9435512fa7d3ffe90139e70ddb603a0253b33965/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
-  },
-  "source:411390bceedd21c8e264b4c1ccb96bcea13e33f5": {
-    "url": "https://correiosc.com.br/ana-castela-confirmada-reveillon-2027-florianopolis",
-    "title": "Ana Castela é atração confirmada no Réveillon 2027 de Florianópolis",
-    "guid": "sc1multi:3bee6c784f578c17dda43d23135db79a2329445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bee6c784f578c17dda43d23135db79a2329445b/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
-  },
-  "source:3975759333e7a36e85341d5239c308a8bdc4485e": {
-    "url": "https://correiosc.com.br/nadadora-sao-jose-conquista-tres-medalhas-joguinhos-abertos-sc",
-    "title": "Nadadora de São José conquista três medalhas nos Joguinhos Abertos",
-    "guid": "sc1multi:aff634fbd62997902003084fa9a915c0bdf6549e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
-    "usedAt": 1785341653086,
-    "usedAtIso": "2026-07-29T16:14:13.086Z"
-  },
-  "source:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a": {
-    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-com-sinais-de-agressao-no-centro-de-sao-bento-do-sul",
-    "title": "Homem é encontrado morto com sinais de agressão em São Bento do Sul",
-    "guid": "sc1multi:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
-  },
-  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
-    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
-    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
-  },
-  "source:8759f1060cc72e9b664c0db09883cb02817f4e31": {
-    "url": "https://ocp.news/cultura-2/sociedade-alianca-entrega-reforma-dos-banheiros-femininos-na-40a-kolonistenfest",
-    "title": "Sociedade Aliança conclui reforma dos banheiros femininos para Kolonistenfest",
-    "guid": "sc1multi:8759f1060cc72e9b664c0db09883cb02817f4e31",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8759f1060cc72e9b664c0db09883cb02817f4e31/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
-  },
-  "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
-    "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
-    "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
-    "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  "source:dc801e49e51b068a710c00afd7e4d99eff296bc7": {
+    "url": "https://tnsul.com/2026/07/29/incendio-atinge-apartamento-em-criciuma-e-moradora-e-levada-ao-hospital",
+    "title": "Incêndio atinge apartamento em Criciúma e moradora é hospitalizada",
+    "guid": "sc1multi:34b496f7f713f02ab1740dbba6d8fe8ae01bd3cc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34b496f7f713f02ab1740dbba6d8fe8ae01bd3cc/",
+    "usedAt": 1785366844294,
+    "usedAtIso": "2026-07-29T23:14:04.294Z"
   }
 }
