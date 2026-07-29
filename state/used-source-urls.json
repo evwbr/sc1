@@ -1,4 +1,36 @@
 {
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
+  },
+  "source:98700d63724bf92309aff6b7268e86ab6f2ed7e7": {
+    "url": "https://ocp.news/entretenimento/grupo-pratica-de-opera-da-camerata-florianopolis-apresenta-a-flauta-magica-no-tac",
+    "title": "Grupo Prática de Ópera apresenta 'A Flauta Mágica' no TAC em Florianópolis",
+    "guid": "sc1multi:98700d63724bf92309aff6b7268e86ab6f2ed7e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98700d63724bf92309aff6b7268e86ab6f2ed7e7/",
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
+  },
+  "source:97a36c3cd915ca7788878b9d21c781ded6f1c853": {
+    "url": "https://ocp.news/politica/ao-visitar-sc-nikolas-ferreira-exalta-estado-pt-nunca-governou-aqui",
+    "title": "Deputado Nikolas Ferreira elogia Santa Catarina e critica PT durante visita",
+    "guid": "sc1multi:97a36c3cd915ca7788878b9d21c781ded6f1c853",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97a36c3cd915ca7788878b9d21c781ded6f1c853/",
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
+  },
+  "source:9cb7adc05aa037fb65c39fc45548630e442d16ca": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-recebe-atlantico-em-grande-duelo-pela-liga-nacional",
+    "title": "Jaraguá Futsal enfrenta Atlântico pela Liga Nacional na Arena Jaraguá",
+    "guid": "sc1multi:9cb7adc05aa037fb65c39fc45548630e442d16ca",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9cb7adc05aa037fb65c39fc45548630e442d16ca/",
+    "usedAt": 1785294844205,
+    "usedAtIso": "2026-07-29T03:14:04.205Z"
+  },
   "source:6d18066238b547b488e3e409a86941b3eb55445b": {
     "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
     "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
@@ -164,24 +196,8 @@
     "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
     "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785280444124,
-    "usedAtIso": "2026-07-28T23:14:04.124Z"
-  },
-  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
-    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
-    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
-    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785294844205,
-    "usedAtIso": "2026-07-29T03:14:04.205Z"
-  },
-  "source:98700d63724bf92309aff6b7268e86ab6f2ed7e7": {
-    "url": "https://ocp.news/entretenimento/grupo-pratica-de-opera-da-camerata-florianopolis-apresenta-a-flauta-magica-no-tac",
-    "title": "Grupo Prática de Ópera apresenta 'A Flauta Mágica' no TAC em Florianópolis",
-    "guid": "sc1multi:98700d63724bf92309aff6b7268e86ab6f2ed7e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98700d63724bf92309aff6b7268e86ab6f2ed7e7/",
-    "usedAt": 1785294844205,
-    "usedAtIso": "2026-07-29T03:14:04.205Z"
+    "usedAt": 1785298444814,
+    "usedAtIso": "2026-07-29T04:14:04.814Z"
   },
   "source:3d68ae5e0085b9c466e3218a7a931cd804fc25ad": {
     "url": "https://ocp.news/politica/prefeito-de-corupa-leva-a-antt-pedido-por-trem-de-passageiros-e-propoe-metro-de-superficie",
@@ -220,16 +236,16 @@
     "title": "Golpe em Barra Velha resulta em condenação por fraude na venda de moto",
     "guid": "sc1multi:2720a18813af0945628cf3e029ce94db46c44cfe",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2720a18813af0945628cf3e029ce94db46c44cfe/",
-    "usedAt": 1785280444124,
-    "usedAtIso": "2026-07-28T23:14:04.124Z"
+    "usedAt": 1785298444814,
+    "usedAtIso": "2026-07-29T04:14:04.814Z"
   },
   "source:c87fe1e4489920bb12f95e022773b06b712d93b6": {
     "url": "https://rbatv.com.br/noticias/temporal-mobiliza-bombeiros-para-14-ocorrencias-de-queda-de-arvores-no-alto-vale",
-    "title": "Temporal provoca queda de árvores e mobiliza Bombeiros no Alto Vale do Itajaí",
+    "title": "Temporal causa queda de árvores e mobiliza Bombeiros no Alto Vale do Itajaí",
     "guid": "sc1multi:fc7d7ea9a84caf7e5a65704bb49231da98b3719a",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc7d7ea9a84caf7e5a65704bb49231da98b3719a/",
-    "usedAt": 1785280444124,
-    "usedAtIso": "2026-07-28T23:14:04.124Z"
+    "usedAt": 1785298444814,
+    "usedAtIso": "2026-07-29T04:14:04.814Z"
   },
   "source:799f7b89731289f74dd718bd2e5781f2069df8bb": {
     "url": "https://rbatv.com.br/noticias/homem-condenado-por-descumprir-medida-protetiva-e-preso-em-rio-do-campo",
@@ -239,68 +255,20 @@
     "usedAt": 1785280444124,
     "usedAtIso": "2026-07-28T23:14:04.124Z"
   },
-  "source:5f3c2227a53a826f8b77044d3b8649756ffad6b7": {
-    "url": "https://tnsul.com/2026/07/28/causa-da-morte-de-detenta-em-penitenciaria-de-criciuma-e-divulgada",
-    "title": "Detenta morre por parada cardiorrespiratória em penitenciária de Criciúma",
-    "guid": "sc1multi:c4059d689bce4c1402b99c8f29ac310e2a34d631",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c4059d689bce4c1402b99c8f29ac310e2a34d631/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
+  "source:1c2dce12741d2c3af764d3a4fcd185a4a9750a03": {
+    "url": "https://rbatv.com.br/noticias/queda-de-arvore-interrompe-transito-na-sc-302-e-mobiliza-bombeiros-e-celesc-em-aurora",
+    "title": "Queda de árvore bloqueia SC-302 entre Agrolândia e Trombudo Central",
+    "guid": "sc1multi:2d89532cbe2322d5402996571563466c842dd504",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2d89532cbe2322d5402996571563466c842dd504/",
+    "usedAt": 1785298444814,
+    "usedAtIso": "2026-07-29T04:14:04.814Z"
   },
-  "source:97a36c3cd915ca7788878b9d21c781ded6f1c853": {
-    "url": "https://ocp.news/politica/ao-visitar-sc-nikolas-ferreira-exalta-estado-pt-nunca-governou-aqui",
-    "title": "Deputado Nikolas Ferreira elogia Santa Catarina e critica PT durante visita",
-    "guid": "sc1multi:97a36c3cd915ca7788878b9d21c781ded6f1c853",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97a36c3cd915ca7788878b9d21c781ded6f1c853/",
-    "usedAt": 1785294844205,
-    "usedAtIso": "2026-07-29T03:14:04.205Z"
-  },
-  "source:fb366d46b4a96b6b6e2b766f213d65015304c1a7": {
-    "url": "https://rbatv.com.br/noticias/ponte-pensil-da-barragem-e-interditada-apos-queda-de-arvore-em-rio-do-sul",
-    "title": "Ponte pênsil na barragem de Rio do Sul é interditada após queda de árvore",
-    "guid": "sc1multi:c5c91f3266720a0c900f4f740227ae91f8d0bb7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c5c91f3266720a0c900f4f740227ae91f8d0bb7e/",
-    "usedAt": 1785276844282,
-    "usedAtIso": "2026-07-28T22:14:04.282Z"
-  },
-  "source:3efad3ff69c212dc339ff4de75db191c3ce120f7": {
-    "url": "https://ocp.news/entretenimento/mostra-de-cinema-infantil-de-florianopolis-anuncia-os-filmes-selecionados-para-edicao-de-25-anos",
-    "title": "Mostra de Cinema Infantil de Florianópolis seleciona 134 filmes para edição de 25 anos",
-    "guid": "sc1multi:3efad3ff69c212dc339ff4de75db191c3ce120f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3efad3ff69c212dc339ff4de75db191c3ce120f7/",
-    "usedAt": 1785273850012,
-    "usedAtIso": "2026-07-28T21:24:10.012Z"
-  },
-  "source:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4": {
-    "url": "https://ocp.news/cotidiano/blumenau-tem-9997-de-pontualidade-no-transporte-coletivo-aponta-estudo-nacional",
-    "title": "Blumenau registra 99,97% de pontualidade no transporte coletivo em 2025",
-    "guid": "sc1multi:dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dcf0bdeaf95a9bd2c103f0245c9ad0e431da02f4/",
-    "usedAt": 1785273288710,
-    "usedAtIso": "2026-07-28T21:14:48.710Z"
-  },
-  "source:27dfe7219bb1ecc07c43ff874444d59586f91846": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-orienta-populacao-sobre-o-descarte-correto-de-materiais-volumosos",
-    "title": "Prefeitura de Criciúma orienta sobre descarte correto de materiais volumosos",
-    "guid": "sc1multi:27dfe7219bb1ecc07c43ff874444d59586f91846",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_27dfe7219bb1ecc07c43ff874444d59586f91846/",
-    "usedAt": 1785273288710,
-    "usedAtIso": "2026-07-28T21:14:48.710Z"
-  },
-  "source:9559fdbb649f36e27729af737736e16243332c56": {
-    "url": "https://tnsul.com/2026/07/28/frente-fria-avanca-e-traz-risco-de-temporais-no-sul-de-sc",
-    "title": "Defesa Civil alerta para risco de temporais no Sul de Santa Catarina",
-    "guid": "sc1multi:a8b4f1b9c8419336d1aeace267a21e3aff479703",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a8b4f1b9c8419336d1aeace267a21e3aff479703/",
-    "usedAt": 1785273288710,
-    "usedAtIso": "2026-07-28T21:14:48.710Z"
-  },
-  "source:9cb7adc05aa037fb65c39fc45548630e442d16ca": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-recebe-atlantico-em-grande-duelo-pela-liga-nacional",
-    "title": "Jaraguá Futsal enfrenta Atlântico pela Liga Nacional na Arena Jaraguá",
-    "guid": "sc1multi:9cb7adc05aa037fb65c39fc45548630e442d16ca",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9cb7adc05aa037fb65c39fc45548630e442d16ca/",
-    "usedAt": 1785294844205,
-    "usedAtIso": "2026-07-29T03:14:04.205Z"
+  "source:a5a1ec3274bd0a32ff7d924fdc2a856da588d783": {
+    "url": "https://ocp.news/seguranca/homem-vai-a-delegacia-para-registrar-perda-de-documentos-e-acaba-preso-em-xanxere",
+    "title": "Homem é preso ao registrar perda de documentos em Xanxerê",
+    "guid": "sc1multi:a5a1ec3274bd0a32ff7d924fdc2a856da588d783",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a1ec3274bd0a32ff7d924fdc2a856da588d783/",
+    "usedAt": 1785298444814,
+    "usedAtIso": "2026-07-29T04:14:04.814Z"
   }
 }
