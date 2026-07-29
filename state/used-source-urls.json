@@ -1,220 +1,4 @@
 {
-  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
-    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
-    "title": "Temporal severo deixa 45 mil sem energia no Vale do Itajaí",
-    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
-  },
-  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
-    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
-    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
-    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
-  },
-  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
-    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
-    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
-    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
-  },
-  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
-    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
-    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
-    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
-    "usedAt": 1785316444337,
-    "usedAtIso": "2026-07-29T09:14:04.337Z"
-  },
-  "source:383a55f44c78afe34b0140f73f843b65f654a5cf": {
-    "url": "https://ocp.news/seguranca/tj-sc-flexibiliza-medidas-contra-ex-prefeito-investigado-na-operacao-pao-e-circo",
-    "title": "TJ-SC flexibiliza medidas contra ex-prefeito investigado em Mafra",
-    "guid": "sc1multi:383a55f44c78afe34b0140f73f843b65f654a5cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_383a55f44c78afe34b0140f73f843b65f654a5cf/",
-    "usedAt": 1785312844397,
-    "usedAtIso": "2026-07-29T08:14:04.397Z"
-  },
-  "source:03300d605824901a111bbf972141ecf0023967ad": {
-    "url": "https://rbatv.com.br/noticias/poste-cai-sobre-residencia-e-deixa-familia-desalojada-em-agrolandia",
-    "title": "Poste cai sobre residência e deixa família desalojada em Agrolândia",
-    "guid": "sc1multi:0692fbeb58ba84b4479438abec6c247f661320bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0692fbeb58ba84b4479438abec6c247f661320bd/",
-    "usedAt": 1785312844397,
-    "usedAtIso": "2026-07-29T08:14:04.397Z"
-  },
-  "source:211fc5303a37d460262bbd74415178dbe0286c8e": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-comeca-revitalizacao-do-mirante-do-morro-da-lagoa",
-    "title": "Prefeitura de Florianópolis inicia revitalização do Mirante da Lagoa da Conceição",
-    "guid": "sc1multi:211fc5303a37d460262bbd74415178dbe0286c8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_211fc5303a37d460262bbd74415178dbe0286c8e/",
-    "usedAt": 1785312844397,
-    "usedAtIso": "2026-07-29T08:14:04.397Z"
-  },
-  "source:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e": {
-    "url": "https://ocp.news/seguranca/menino-de-10-anos-morre-apos-ser-atingido-por-trave-de-futebol-em-criciuma",
-    "title": "Menino de 10 anos morre após acidente com trave de futebol em Criciúma",
-    "guid": "sc1multi:4b8b2fca008a235cf03a06f2f1b02bffd4f3665e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b8b2fca008a235cf03a06f2f1b02bffd4f3665e/",
-    "usedAt": 1785312844397,
-    "usedAtIso": "2026-07-29T08:14:04.397Z"
-  },
-  "source:94f8384283674f2f9ab4d55decb22ec3e30385fe": {
-    "url": "https://ocp.news/esporte/campeonato-de-futebol-do-beira-rio-aponta-as-equipes-finalistas-da-temporada",
-    "title": "Inter de Limeira e Flamengo disputam final do Campeonato do Beira Rio",
-    "guid": "sc1multi:94f8384283674f2f9ab4d55decb22ec3e30385fe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94f8384283674f2f9ab4d55decb22ec3e30385fe/",
-    "usedAt": 1785309245497,
-    "usedAtIso": "2026-07-29T07:14:05.497Z"
-  },
-  "source:a9b90baa612d98052ed2b486910240966075ef1e": {
-    "url": "https://ocp.news/cotidiano/procon-florianopolis-notifica-hospital-particular-por-cobranca-ate-850-acima-do-valor-de-mercado",
-    "title": "Procon de Florianópolis notifica hospital por cobrança abusiva de até 850%",
-    "guid": "sc1multi:a9b90baa612d98052ed2b486910240966075ef1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a9b90baa612d98052ed2b486910240966075ef1e/",
-    "usedAt": 1785309245497,
-    "usedAtIso": "2026-07-29T07:14:05.497Z"
-  },
-  "source:fdaaa5549159dd07b56976ca46fbc8778ffc27d0": {
-    "url": "https://correiosc.com.br/plano-diretor-define-regras-para-areas-de-urbanizacao-especifica-em-florianopolis",
-    "title": "Plano Diretor de Florianópolis estabelece regras para crescimento urbano",
-    "guid": "sc1multi:aa6b272d8eb55be6a4b64f4b67011f86217398a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa6b272d8eb55be6a4b64f4b67011f86217398a9/",
-    "usedAt": 1785309245497,
-    "usedAtIso": "2026-07-29T07:14:05.497Z"
-  },
-  "source:42f975f70e8998a90556b7c47f489ad7e07e5ee2": {
-    "url": "https://correiosc.com.br/prf-intercepta-24-quilos-de-maconha-na-br-101-em-paulo-lopes",
-    "title": "PRF apreende 24 quilos de maconha na BR-101 em Paulo Lopes",
-    "guid": "sc1multi:4bdb2b8aa5d839e79a971d410ba60d1720f377c0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bdb2b8aa5d839e79a971d410ba60d1720f377c0/",
-    "usedAt": 1785309245497,
-    "usedAtIso": "2026-07-29T07:14:05.497Z"
-  },
-  "source:923e66b629e56f6369198eb4a0acaabcd030c95d": {
-    "url": "https://scportais.com.br/2026/07/27/no-dia-do-agricultor-sindarroz-sc-destaca-uniao-entre-campo-e-industria-como-forca-para-superar-desafios",
-    "title": "SindArroz-SC destaca união entre campo e indústria no Dia do Agricultor",
-    "guid": "sc1multi:8ae253780fccd3b088de16305b270173456c8de2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ae253780fccd3b088de16305b270173456c8de2/",
-    "usedAt": 1785305644627,
-    "usedAtIso": "2026-07-29T06:14:04.627Z"
-  },
-  "source:eb40d3cfd21956c7d62db781340eac6229f343ac": {
-    "url": "https://scportais.com.br/2026/07/27/santa-catarina-tera-mudanca-no-tempo-com-chegada-de-frente-fria-e-risco-de-temporais",
-    "title": "Santa Catarina terá temporais com chegada de frente fria nesta semana",
-    "guid": "sc1multi:9435512fa7d3ffe90139e70ddb603a0253b33965",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9435512fa7d3ffe90139e70ddb603a0253b33965/",
-    "usedAt": 1785305644627,
-    "usedAtIso": "2026-07-29T06:14:04.627Z"
-  },
-  "source:4c66ebee0323ea9c98092526a13a37c3a5d1907d": {
-    "url": "https://scportais.com.br/2026/07/27/mais-de-mil-liderancas-participam-de-encontro-de-apoio-as-pre-candidaturas-de-altair-silva-e-callai",
-    "title": "Mais de mil lideranças apoiam pré-candidaturas em Chapecó",
-    "guid": "sc1multi:55c5727576b434fa6466db8421027b105c4dd57e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55c5727576b434fa6466db8421027b105c4dd57e/",
-    "usedAt": 1785305644627,
-    "usedAtIso": "2026-07-29T06:14:04.627Z"
-  },
-  "source:44bf32afc02c95ab658381dc66deba8f6b5d9621": {
-    "url": "https://scportais.com.br/2026/07/27/expomerco-2026-projeta-r-25-milhoes-em-negocios-e-destaca-pecuaria-regional",
-    "title": "Expomerco 2026 em Chapecó projeta R$ 25 milhões em negócios agropecuários",
-    "guid": "sc1multi:de314a188c69d2acd6dfbf8b89e6a2ee1279d3fb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de314a188c69d2acd6dfbf8b89e6a2ee1279d3fb/",
-    "usedAt": 1785305644627,
-    "usedAtIso": "2026-07-29T06:14:04.627Z"
-  },
-  "source:411390bceedd21c8e264b4c1ccb96bcea13e33f5": {
-    "url": "https://correiosc.com.br/ana-castela-confirmada-reveillon-2027-florianopolis",
-    "title": "Ana Castela é atração confirmada no Réveillon 2027 de Florianópolis",
-    "guid": "sc1multi:3bee6c784f578c17dda43d23135db79a2329445b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3bee6c784f578c17dda43d23135db79a2329445b/",
-    "usedAt": 1785305644627,
-    "usedAtIso": "2026-07-29T06:14:04.627Z"
-  },
-  "source:aad08b63d6725957b870979f04cbe85a2e9475e5": {
-    "url": "https://correiosc.com.br/prazo-isencao-iptu-sao-jose-termina-quinta-feira-31",
-    "title": "Prazo para solicitar isenção do IPTU em São José termina nesta quinta",
-    "guid": "sc1multi:d2e2e6439810e851c0b13b2d56d5e07af9ca69bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2e2e6439810e851c0b13b2d56d5e07af9ca69bd/",
-    "usedAt": 1785302045267,
-    "usedAtIso": "2026-07-29T05:14:05.267Z"
-  },
-  "source:3975759333e7a36e85341d5239c308a8bdc4485e": {
-    "url": "https://correiosc.com.br/nadadora-sao-jose-conquista-tres-medalhas-joguinhos-abertos-sc",
-    "title": "Nadadora de São José conquista três medalhas nos Joguinhos Abertos",
-    "guid": "sc1multi:aff634fbd62997902003084fa9a915c0bdf6549e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aff634fbd62997902003084fa9a915c0bdf6549e/",
-    "usedAt": 1785302045267,
-    "usedAtIso": "2026-07-29T05:14:05.267Z"
-  },
-  "source:ae9c83ecf4bcc1bc5dbc5d7771c15225995bbb90": {
-    "url": "https://ocp.news/esporte/apos-rebaixamento-juventus-mira-reconstrucao-e-inicia-negociacoes-para-se-tornar-saf",
-    "title": "Juventus inicia negociações para se tornar SAF após rebaixamento na Série C catarinense",
-    "guid": "sc1multi:ae9c83ecf4bcc1bc5dbc5d7771c15225995bbb90",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ae9c83ecf4bcc1bc5dbc5d7771c15225995bbb90/",
-    "usedAt": 1785302045267,
-    "usedAtIso": "2026-07-29T05:14:05.267Z"
-  },
-  "source:b516a2a1a1beb635cb47afc79a51a156c06d926a": {
-    "url": "https://tnsul.com/2026/07/28/acao-do-mp-cobra-r-221-mil-dos-joguinhos-realizados-em-criciuma-em-2013",
-    "title": "MP cobra R$ 221 mil por irregularidades nos Joguinhos de Criciúma em 2013",
-    "guid": "sc1multi:fee8aff87f139cc16d79c21533f6c8365a9b3462",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fee8aff87f139cc16d79c21533f6c8365a9b3462/",
-    "usedAt": 1785302045267,
-    "usedAtIso": "2026-07-29T05:14:05.267Z"
-  },
-  "source:4ed399151e10d283ad82e44428a6dc37c32bd417": {
-    "url": "https://rbatv.com.br/noticias/policia-militar-atende-duas-ocorrencias-de-ameaca-contra-mulheres-no-planalto-norte",
-    "title": "Polícia Militar atende duas ocorrências de ameaça contra mulheres no Planalto Norte",
-    "guid": "sc1multi:d6706f31faaa1e4804d7776ae41d87100669405e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6706f31faaa1e4804d7776ae41d87100669405e/",
-    "usedAt": 1785302045267,
-    "usedAtIso": "2026-07-29T05:14:05.267Z"
-  },
-  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
-    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
-    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
-    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785298444814,
-    "usedAtIso": "2026-07-29T04:14:04.814Z"
-  },
-  "source:2720a18813af0945628cf3e029ce94db46c44cfe": {
-    "url": "https://ocp.news/seguranca/golpe-com-historia-de-sobrinha-falecida-em-sc-termina-em-condenacao-por-fraude-na-venda-de-moto",
-    "title": "Golpe em Barra Velha resulta em condenação por fraude na venda de moto",
-    "guid": "sc1multi:2720a18813af0945628cf3e029ce94db46c44cfe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2720a18813af0945628cf3e029ce94db46c44cfe/",
-    "usedAt": 1785298444814,
-    "usedAtIso": "2026-07-29T04:14:04.814Z"
-  },
-  "source:c87fe1e4489920bb12f95e022773b06b712d93b6": {
-    "url": "https://rbatv.com.br/noticias/temporal-mobiliza-bombeiros-para-14-ocorrencias-de-queda-de-arvores-no-alto-vale",
-    "title": "Temporal causa queda de árvores e mobiliza Bombeiros no Alto Vale do Itajaí",
-    "guid": "sc1multi:fc7d7ea9a84caf7e5a65704bb49231da98b3719a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc7d7ea9a84caf7e5a65704bb49231da98b3719a/",
-    "usedAt": 1785298444814,
-    "usedAtIso": "2026-07-29T04:14:04.814Z"
-  },
-  "source:1c2dce12741d2c3af764d3a4fcd185a4a9750a03": {
-    "url": "https://rbatv.com.br/noticias/queda-de-arvore-interrompe-transito-na-sc-302-e-mobiliza-bombeiros-e-celesc-em-aurora",
-    "title": "Queda de árvore bloqueia SC-302 entre Agrolândia e Trombudo Central",
-    "guid": "sc1multi:2d89532cbe2322d5402996571563466c842dd504",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2d89532cbe2322d5402996571563466c842dd504/",
-    "usedAt": 1785298444814,
-    "usedAtIso": "2026-07-29T04:14:04.814Z"
-  },
-  "source:a5a1ec3274bd0a32ff7d924fdc2a856da588d783": {
-    "url": "https://ocp.news/seguranca/homem-vai-a-delegacia-para-registrar-perda-de-documentos-e-acaba-preso-em-xanxere",
-    "title": "Homem é preso ao registrar perda de documentos em Xanxerê",
-    "guid": "sc1multi:a5a1ec3274bd0a32ff7d924fdc2a856da588d783",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a1ec3274bd0a32ff7d924fdc2a856da588d783/",
-    "usedAt": 1785298444814,
-    "usedAtIso": "2026-07-29T04:14:04.814Z"
-  },
   "source:d9abbb17a187a6c2a3d16afbcdc649b23038fb5b": {
     "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nos-proximos-dias-5",
     "title": "Frente fria provoca instabilidade em Florianópolis e região nesta quarta",
@@ -270,5 +54,117 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98700d63724bf92309aff6b7268e86ab6f2ed7e7/",
     "usedAt": 1785320044487,
     "usedAtIso": "2026-07-29T10:14:04.487Z"
+  },
+  "source:c55979a24658602f7b03e95f629163886d0c0d50": {
+    "url": "https://ocp.news/seguranca/temporal-severo-deixa-45-mil-sem-energia-e-causa-estragos-no-vale-do-itajai",
+    "title": "Temporal severo deixa 45 mil sem energia no Vale do Itajaí",
+    "guid": "sc1multi:c55979a24658602f7b03e95f629163886d0c0d50",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c55979a24658602f7b03e95f629163886d0c0d50/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:bd29d83c048be4a9ef93fb8cbb6a9ff258fca3ca": {
+    "url": "https://tnsul.com/2026/07/28/justica-eleitoral-barra-divulgacao-de-pesquisa-sobre-disputa-estadual-em-sc",
+    "title": "Justiça Eleitoral suspende divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:1ab46a9cbd7e9d57cda460e24c3111aa72016a3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ab46a9cbd7e9d57cda460e24c3111aa72016a3a/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:6d18066238b547b488e3e409a86941b3eb55445b": {
+    "url": "https://ocp.news/politica/vereador-cobra-melhorias-urgentes-na-sinalizacao-do-morro-do-maestri-em-jaragua-do-sul",
+    "title": "Vereador de Jaraguá do Sul cobra melhorias na sinalização do Morro do Maestri",
+    "guid": "sc1multi:6d18066238b547b488e3e409a86941b3eb55445b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d18066238b547b488e3e409a86941b3eb55445b/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d": {
+    "url": "https://ocp.news/politica/camara-aprova-politica-para-tornar-parques-e-pracas-mais-acessiveis-em-jaragua-do-sul",
+    "title": "Jaraguá do Sul aprova política para acessibilidade em parques e praças",
+    "guid": "sc1multi:d5189e36aa207b9d1dc2e98a9b592c6fb59db35d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5189e36aa207b9d1dc2e98a9b592c6fb59db35d/",
+    "usedAt": 1785316444337,
+    "usedAtIso": "2026-07-29T09:14:04.337Z"
+  },
+  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
+    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
+    "title": "Motorista é preso com 581 quilos de maconha na BR-282 em Xanxerê",
+    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:d521267a34a69fbc4bbd6746619cf8cf533d4f96": {
+    "url": "https://ocp.news/cotidiano/obras-da-nova-adutora-no-bairro-salto-do-norte-chegam-a-rua-pomerode-e-impactam-o-transito-em-blumenau",
+    "title": "Obras da nova adutora no Salto do Norte afetam trânsito em Blumenau",
+    "guid": "sc1multi:d521267a34a69fbc4bbd6746619cf8cf533d4f96",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d521267a34a69fbc4bbd6746619cf8cf533d4f96/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:8835c0a20df03488dcdcc21c9251f6b6efe99595": {
+    "url": "https://tnsul.com/2026/07/29/jovem-e-preso-apos-agredir-e-tentar-esganar-companheira-em-sc",
+    "title": "Homem é preso por agredir e tentar esganar companheira em Santa Rosa do Sul",
+    "guid": "sc1multi:cef626b5e04c8c223a8d4d59a161b4fc402c395b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cef626b5e04c8c223a8d4d59a161b4fc402c395b/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:b265ee31b2804d828fa85a5e0415e5d1fc45cc5b": {
+    "url": "https://ocp.news/cotidiano/gabinete-itinerante-regiao-da-quarta-linha-recebera-servicos-da-prefeitura-de-criciuma-na-proxima-semana",
+    "title": "Gabinete Itinerante leva serviços da Prefeitura à região da Quarta Linha em Criciúma",
+    "guid": "sc1multi:b265ee31b2804d828fa85a5e0415e5d1fc45cc5b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b265ee31b2804d828fa85a5e0415e5d1fc45cc5b/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:892fb785a77e3444b1250d4bb613f92af200df12": {
+    "url": "https://tnsul.com/2026/07/29/colisao-frontal-entre-carro-e-caminhao-na-br-282-deixa-motorista-morto",
+    "title": "Colisão frontal na BR-282 em Rancho Queimado deixa motorista morto",
+    "guid": "sc1multi:d1c53d10489653b7ff18228f9828104b53282153",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d1c53d10489653b7ff18228f9828104b53282153/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:a108d150badb11bb4204d540e4a4fe8234c73af5": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-futsal-feminino-e-basquete-masculino-conquistam-o-titulo",
+    "title": "Jaraguá do Sul conquista títulos no 38º Joguinhos Abertos de Santa Catarina",
+    "guid": "sc1multi:a108d150badb11bb4204d540e4a4fe8234c73af5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a108d150badb11bb4204d540e4a4fe8234c73af5/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:0583180bae454238b4c3c9d8da445da38324b73f": {
+    "url": "https://tnsul.com/2026/07/29/micro-ondas-provoca-incendio-em-sala-comercial-no-centro-de-laguna",
+    "title": "Micro-ondas provoca incêndio em sala comercial no Centro de Laguna",
+    "guid": "sc1multi:f245ad46211f4d4dbdc8b19715529eb4e3646999",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f245ad46211f4d4dbdc8b19715529eb4e3646999/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:945f6eb36966afc1b9c0c6398e399141ef2719e1": {
+    "url": "https://ocp.news/cotidiano/homem-morre-apos-colisao-frontal-entre-carro-e-caminhao-na-br-282-na-grande-florianopolis",
+    "title": "Homem morre em colisão frontal na BR-282 na Grande Florianópolis",
+    "guid": "sc1multi:945f6eb36966afc1b9c0c6398e399141ef2719e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_945f6eb36966afc1b9c0c6398e399141ef2719e1/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:c0b7ca4343d69ddacab73a182cd77edc42244d1c": {
+    "url": "https://rbatv.com.br/noticias/carro-e-furtado-em-estacionamento-na-margem-da-br-470-em-indaial",
+    "title": "Carro é furtado em estacionamento às margens da BR-470 em Indaial",
+    "guid": "sc1multi:4a80bc759d09d53dc638873f4b6da18a0c9d5f79",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a80bc759d09d53dc638873f4b6da18a0c9d5f79/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
+  },
+  "source:f2879abbd473693b642d3853715f288efbc41e55": {
+    "url": "https://rbatv.com.br/noticias/suspeito-retorna-ao-local-apos-furtar-r-6-mil-em-fios-de-cobre",
+    "title": "Suspeito tenta novo furto após roubar fios de cobre em Indaial",
+    "guid": "sc1multi:72ad17e4fd50b8763f4c8528d2868d68889e7d87",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_72ad17e4fd50b8763f4c8528d2868d68889e7d87/",
+    "usedAt": 1785334444517,
+    "usedAtIso": "2026-07-29T14:14:04.517Z"
   }
 }
