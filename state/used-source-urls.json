@@ -1,4 +1,36 @@
 {
+  "source:3601b2d9182bbb4e7c878cd029822622fa0c5e62": {
+    "url": "https://rbatv.com.br/noticias/cooperacao-que-transforma-mais-de-57-mil-participacoes-fortalecem-comunidades-no-alto-vale",
+    "title": "Viacredi Alto Vale promove mais de 1.100 eventos e fortalece comunidades em SC",
+    "guid": "sc1multi:d4cc2f68a5bfaf524c50279eb48ef88061448506",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d4cc2f68a5bfaf524c50279eb48ef88061448506/",
+    "usedAt": 1785399244722,
+    "usedAtIso": "2026-07-30T08:14:04.722Z"
+  },
+  "source:1e400db3c788518aa6f26c3c38a605adaf3df388": {
+    "url": "https://tnsul.com/2026/07/29/cermoful-abre-nona-turma-do-mulheres-cooperativistas-em-icara",
+    "title": "Cermoful inicia nona turma do Programa Mulheres Cooperativistas em Içara",
+    "guid": "sc1multi:e7f8f36afdb1e39275df99bf2036c9493402010a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7f8f36afdb1e39275df99bf2036c9493402010a/",
+    "usedAt": 1785399244722,
+    "usedAtIso": "2026-07-30T08:14:04.722Z"
+  },
+  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
+    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
+    "title": "Motorista é preso com 581 quilos de maconha na BR-282 em Xanxerê",
+    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
+    "usedAt": 1785399244722,
+    "usedAtIso": "2026-07-30T08:14:04.722Z"
+  },
+  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
+    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
+    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
+    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
+    "usedAt": 1785399244722,
+    "usedAtIso": "2026-07-30T08:14:04.722Z"
+  },
   "source:792be6593e3810cb2858c67805e449cfcdfaba9b": {
     "url": "https://ocp.news/entretenimento/caca-ao-tesouro-transforma-ferias-em-aventura-literaria-na-biblioteca-de-jaragua-do-sul",
     "title": "Caça ao Tesouro incentiva leitura nas férias em Jaraguá do Sul",
@@ -103,60 +135,36 @@
     "usedAt": 1785384844947,
     "usedAtIso": "2026-07-30T04:14:04.947Z"
   },
-  "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
-    "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
-    "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
-    "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
-    "usedAt": 1785381244545,
-    "usedAtIso": "2026-07-30T03:14:04.545Z"
+  "source:999529d23524eab27edd176f97acff3ce7b86016": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-em-1a-votacao-repasse-de-r-49-mil-para-reforma-de-muro-do-14o-bpm",
+    "title": "Jaraguá do Sul aprova repasse para reforma do muro do 14º BPM",
+    "guid": "sc1multi:999529d23524eab27edd176f97acff3ce7b86016",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_999529d23524eab27edd176f97acff3ce7b86016/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
   },
-  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
-    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
-    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
-    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
-    "usedAt": 1785381244545,
-    "usedAtIso": "2026-07-30T03:14:04.545Z"
+  "source:20abc1c0cc5020f79874f8cb48e8d21e7547965c": {
+    "url": "https://ocp.news/seguranca/brasil-registra-mais-de-18-milhao-de-acidentes-de-trabalho-desde-2023",
+    "title": "Santa Catarina registra mais de 107 mil acidentes de trabalho desde 2023",
+    "guid": "sc1multi:20abc1c0cc5020f79874f8cb48e8d21e7547965c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20abc1c0cc5020f79874f8cb48e8d21e7547965c/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
   },
-  "source:058bdab541de0d97e07849a2ad900ab27b3076ae": {
-    "url": "https://tnsul.com/2026/07/29/principio-de-incendio-atinge-sede-da-torcida-os-tigres-em-criciuma",
-    "title": "Princípio de incêndio atinge sede da torcida Os Tigres em Criciúma",
-    "guid": "sc1multi:876960ce8a4d6919a3df4b60ba93db2e2544912b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876960ce8a4d6919a3df4b60ba93db2e2544912b/",
-    "usedAt": 1785381244545,
-    "usedAtIso": "2026-07-30T03:14:04.545Z"
+  "source:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166": {
+    "url": "https://ocp.news/seguranca/urgente-homem-e-resgatado-em-estado-grave-apos-passar-mal-dentro-de-poco-em-jaragua-do-sul",
+    "title": "Homem é resgatado em estado grave após passar mal em poço em Jaraguá do Sul",
+    "guid": "sc1multi:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165d4bfc49724ad8b094e84e0b1e5d2cd0f65166/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
   },
-  "source:3601b2d9182bbb4e7c878cd029822622fa0c5e62": {
-    "url": "https://rbatv.com.br/noticias/cooperacao-que-transforma-mais-de-57-mil-participacoes-fortalecem-comunidades-no-alto-vale",
-    "title": "Viacredi Alto Vale promove mais de 1.100 eventos e fortalece comunidades em SC",
-    "guid": "sc1multi:d4cc2f68a5bfaf524c50279eb48ef88061448506",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d4cc2f68a5bfaf524c50279eb48ef88061448506/",
-    "usedAt": 1785399244722,
-    "usedAtIso": "2026-07-30T08:14:04.722Z"
-  },
-  "source:1e400db3c788518aa6f26c3c38a605adaf3df388": {
-    "url": "https://tnsul.com/2026/07/29/cermoful-abre-nona-turma-do-mulheres-cooperativistas-em-icara",
-    "title": "Cermoful inicia nona turma do Programa Mulheres Cooperativistas em Içara",
-    "guid": "sc1multi:e7f8f36afdb1e39275df99bf2036c9493402010a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7f8f36afdb1e39275df99bf2036c9493402010a/",
-    "usedAt": 1785399244722,
-    "usedAtIso": "2026-07-30T08:14:04.722Z"
-  },
-  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
-    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
-    "title": "Motorista é preso com 581 quilos de maconha na BR-282 em Xanxerê",
-    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
-    "usedAt": 1785399244722,
-    "usedAtIso": "2026-07-30T08:14:04.722Z"
-  },
-  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
-    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
-    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
-    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785399244722,
-    "usedAtIso": "2026-07-30T08:14:04.722Z"
+  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
+    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
+    "title": "Operação prende suspeito de roubo e agressão por homofobia em Florianópolis",
+    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
   }
 }
