@@ -1,4 +1,84 @@
 {
+  "source:6e93a0520ebc75a6e9cb862ecaa69e823115599b": {
+    "url": "https://ocp.news/esporte/campeonato-municipal-de-futsal-de-guaramirim-conhece-seus-semifinalistas",
+    "title": "Semifinais do Campeonato Municipal de Futsal de Guaramirim estão definidas",
+    "guid": "sc1multi:6e93a0520ebc75a6e9cb862ecaa69e823115599b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e93a0520ebc75a6e9cb862ecaa69e823115599b/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:cd226df7f04c4602a601efcd02c603b388786c66": {
+    "url": "https://tnsul.com/2026/07/30/morador-acorda-com-carro-dentro-de-casa-no-alto-vale-motorista-fugiu",
+    "title": "Carro invade casa em Ituporanga durante fuga da Polícia Militar",
+    "guid": "sc1multi:8bf70e6f48d7e8a7468a98090d524fe3d99aa943",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bf70e6f48d7e8a7468a98090d524fe3d99aa943/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:9043c041fde1544e2b94e0915560520f5455fc9e": {
+    "url": "https://tnsul.com/2026/07/30/motociclista-fica-gravemente-ferido-apos-bater-contra-muro-em-gaspar",
+    "title": "Motociclista fica gravemente ferido após acidente em Gaspar",
+    "guid": "sc1multi:e322052c5a1fc5da606cae3224db4f4da636a87c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e322052c5a1fc5da606cae3224db4f4da636a87c/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:044650a94f6346506fa93c5fcc0f6358d40c6aff": {
+    "url": "https://ocp.news/politica/area-de-esporte-e-lazer-proposta-por-almeida-e-entregue-no-bairro-santo-antonio",
+    "title": "Nova área esportiva e de lazer é inaugurada no bairro Santo Antônio em Jaraguá do Sul",
+    "guid": "sc1multi:044650a94f6346506fa93c5fcc0f6358d40c6aff",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_044650a94f6346506fa93c5fcc0f6358d40c6aff/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:7ce466eb875938fd0c5acfd3b186fb1c88ff5b48": {
+    "url": "https://ocp.news/seguranca/carreta-carregada-com-tabuas-tomba-apos-ficar-sem-freios-na-serra-de-corupa",
+    "title": "Carreta carregada com tábuas tomba na Serra de Corupá em SC",
+    "guid": "sc1multi:7ce466eb875938fd0c5acfd3b186fb1c88ff5b48",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ce466eb875938fd0c5acfd3b186fb1c88ff5b48/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:e532088b928aaba35bd4862c61b86901d9e3d12d": {
+    "url": "https://tnsul.com/2026/07/30/jovem-e-preso-apos-ameacar-companheira-com-faca-e-se-trancar-com-bebe-em-sc",
+    "title": "Jovem é preso após ameaçar companheira com faca em Blumenau",
+    "guid": "sc1multi:5fcc87fe59c2c4741e24c391d317188967315d25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fcc87fe59c2c4741e24c391d317188967315d25/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:d9e79edc21f570d03bf7d34a2c66d68aa2253e5b": {
+    "url": "https://ocp.news/esporte/tenista-jaraguaense-e-campea-do-4o-regional-da-federacao-catarinense",
+    "title": "Tenista jaraguaense conquista título no 4º Regional da Federação Catarinense",
+    "guid": "sc1multi:d9e79edc21f570d03bf7d34a2c66d68aa2253e5b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9e79edc21f570d03bf7d34a2c66d68aa2253e5b/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:ff00feafa423019c06469d57f2b40569339db975": {
+    "url": "https://scportais.com.br/2026/07/30/pelo-estado-30-07-a-possivel-infiltracao-de-organizacao-criminosa-no-meio-politico-em-itapoa",
+    "title": "Operação investiga possível infiltração de facções no meio político de Itapoá",
+    "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
+    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
+    "title": "Motorista é preso com 581 quilos de maconha em Xanxerê, SC",
+    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
+  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
+    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
+    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
+    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
+    "usedAt": 1785420844852,
+    "usedAtIso": "2026-07-30T14:14:04.852Z"
+  },
   "source:0ca53640b977952b593c09e984d2127c4d5f2445": {
     "url": "https://tnsul.com/2026/07/30/corpo-em-estado-de-decomposicao-e-encontrado-as-margens-de-rio-em-ilhota",
     "title": "Corpo em decomposição é encontrado às margens do Rio Itajaí-Açu em Ilhota",
@@ -148,8 +228,8 @@
     "title": "Polícia Civil de Taió recupera equipamentos furtados de igreja e identifica suspeito",
     "guid": "sc1multi:800bcb2a0e4277f0e245e237062355f676069c0b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_800bcb2a0e4277f0e245e237062355f676069c0b/",
-    "usedAt": 1785406444270,
-    "usedAtIso": "2026-07-30T10:14:04.270Z"
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
   "source:7ae25f83b6fc7fc6b0693b0d39560688b81d24c9": {
     "url": "https://ocp.news/esporte/em-jogo-maluco-jaragua-futsal-vence-atlantico-pela-penultima-rodada-da-lnf",
@@ -164,127 +244,47 @@
     "title": "Polícia Militar prende homem por dívida de pensão alimentícia em Lontras",
     "guid": "sc1multi:ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c/",
-    "usedAt": 1785406444270,
-    "usedAtIso": "2026-07-30T10:14:04.270Z"
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
   "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
     "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
     "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
     "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785406444270,
-    "usedAtIso": "2026-07-30T10:14:04.270Z"
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
-  "source:999529d23524eab27edd176f97acff3ce7b86016": {
-    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-em-1a-votacao-repasse-de-r-49-mil-para-reforma-de-muro-do-14o-bpm",
-    "title": "Jaraguá do Sul aprova repasse para reforma do muro do 14º BPM",
-    "guid": "sc1multi:999529d23524eab27edd176f97acff3ce7b86016",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_999529d23524eab27edd176f97acff3ce7b86016/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:ca8dbbd8e320fe9738c5e748230d7eecffe84695": {
+    "url": "https://tnsul.com/2026/07/30/dois-homens-morrem-apos-moto-atingir-poste-de-energia-em-sc",
+    "title": "Dois homens morrem após moto bater em poste em São Miguel do Oeste",
+    "guid": "sc1multi:6d909e229459c46f541385e2598d43e6dd419ac3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d909e229459c46f541385e2598d43e6dd419ac3/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
-  "source:20abc1c0cc5020f79874f8cb48e8d21e7547965c": {
-    "url": "https://ocp.news/seguranca/brasil-registra-mais-de-18-milhao-de-acidentes-de-trabalho-desde-2023",
-    "title": "Santa Catarina registra mais de 107 mil acidentes de trabalho desde 2023",
-    "guid": "sc1multi:20abc1c0cc5020f79874f8cb48e8d21e7547965c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20abc1c0cc5020f79874f8cb48e8d21e7547965c/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:8325e9b516670e0bc7e3f66e19b5e3642840636a": {
+    "url": "https://ocp.news/seguranca/delegacia-de-capturas-da-deic-prende-foragido-pelo-crime-de-tortura-em-florianopolis",
+    "title": "DEIC prende foragido por tortura em Florianópolis",
+    "guid": "sc1multi:8325e9b516670e0bc7e3f66e19b5e3642840636a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8325e9b516670e0bc7e3f66e19b5e3642840636a/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
-  "source:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166": {
-    "url": "https://ocp.news/seguranca/urgente-homem-e-resgatado-em-estado-grave-apos-passar-mal-dentro-de-poco-em-jaragua-do-sul",
-    "title": "Homem é resgatado em estado grave após passar mal em poço em Jaraguá do Sul",
-    "guid": "sc1multi:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165d4bfc49724ad8b094e84e0b1e5d2cd0f65166/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:934a51682c0ef22d6b14feaf97415c7e6d08e32f": {
+    "url": "https://tnsul.com/2026/07/30/idosa-e-trancada-em-banheiro-durante-assalto-a-residencia-em-blumenau",
+    "title": "Idosa é trancada em banheiro durante assalto em Blumenau",
+    "guid": "sc1multi:ff74ab97a01f451e3ad622584eab3bff9293323b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff74ab97a01f451e3ad622584eab3bff9293323b/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   },
   "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
     "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
-    "title": "Operação prende suspeito de roubo e agressão por homofobia em Florianópolis",
+    "title": "Polícia prende suspeito de roubo e agressão por homofobia em Florianópolis",
     "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
-  },
-  "source:6e93a0520ebc75a6e9cb862ecaa69e823115599b": {
-    "url": "https://ocp.news/esporte/campeonato-municipal-de-futsal-de-guaramirim-conhece-seus-semifinalistas",
-    "title": "Semifinais do Campeonato Municipal de Futsal de Guaramirim estão definidas",
-    "guid": "sc1multi:6e93a0520ebc75a6e9cb862ecaa69e823115599b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e93a0520ebc75a6e9cb862ecaa69e823115599b/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:cd226df7f04c4602a601efcd02c603b388786c66": {
-    "url": "https://tnsul.com/2026/07/30/morador-acorda-com-carro-dentro-de-casa-no-alto-vale-motorista-fugiu",
-    "title": "Carro invade casa em Ituporanga durante fuga da Polícia Militar",
-    "guid": "sc1multi:8bf70e6f48d7e8a7468a98090d524fe3d99aa943",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bf70e6f48d7e8a7468a98090d524fe3d99aa943/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:9043c041fde1544e2b94e0915560520f5455fc9e": {
-    "url": "https://tnsul.com/2026/07/30/motociclista-fica-gravemente-ferido-apos-bater-contra-muro-em-gaspar",
-    "title": "Motociclista fica gravemente ferido após acidente em Gaspar",
-    "guid": "sc1multi:e322052c5a1fc5da606cae3224db4f4da636a87c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e322052c5a1fc5da606cae3224db4f4da636a87c/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:044650a94f6346506fa93c5fcc0f6358d40c6aff": {
-    "url": "https://ocp.news/politica/area-de-esporte-e-lazer-proposta-por-almeida-e-entregue-no-bairro-santo-antonio",
-    "title": "Nova área esportiva e de lazer é inaugurada no bairro Santo Antônio em Jaraguá do Sul",
-    "guid": "sc1multi:044650a94f6346506fa93c5fcc0f6358d40c6aff",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_044650a94f6346506fa93c5fcc0f6358d40c6aff/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:7ce466eb875938fd0c5acfd3b186fb1c88ff5b48": {
-    "url": "https://ocp.news/seguranca/carreta-carregada-com-tabuas-tomba-apos-ficar-sem-freios-na-serra-de-corupa",
-    "title": "Carreta carregada com tábuas tomba na Serra de Corupá em SC",
-    "guid": "sc1multi:7ce466eb875938fd0c5acfd3b186fb1c88ff5b48",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ce466eb875938fd0c5acfd3b186fb1c88ff5b48/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:e532088b928aaba35bd4862c61b86901d9e3d12d": {
-    "url": "https://tnsul.com/2026/07/30/jovem-e-preso-apos-ameacar-companheira-com-faca-e-se-trancar-com-bebe-em-sc",
-    "title": "Jovem é preso após ameaçar companheira com faca em Blumenau",
-    "guid": "sc1multi:5fcc87fe59c2c4741e24c391d317188967315d25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fcc87fe59c2c4741e24c391d317188967315d25/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:d9e79edc21f570d03bf7d34a2c66d68aa2253e5b": {
-    "url": "https://ocp.news/esporte/tenista-jaraguaense-e-campea-do-4o-regional-da-federacao-catarinense",
-    "title": "Tenista jaraguaense conquista título no 4º Regional da Federação Catarinense",
-    "guid": "sc1multi:d9e79edc21f570d03bf7d34a2c66d68aa2253e5b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9e79edc21f570d03bf7d34a2c66d68aa2253e5b/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:ff00feafa423019c06469d57f2b40569339db975": {
-    "url": "https://scportais.com.br/2026/07/30/pelo-estado-30-07-a-possivel-infiltracao-de-organizacao-criminosa-no-meio-politico-em-itapoa",
-    "title": "Operação investiga possível infiltração de facções no meio político de Itapoá",
-    "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
-    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
-    "title": "Motorista é preso com 581 quilos de maconha em Xanxerê, SC",
-    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
-  },
-  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
-    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
-    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
-    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785420844852,
-    "usedAtIso": "2026-07-30T14:14:04.852Z"
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
   }
 }
