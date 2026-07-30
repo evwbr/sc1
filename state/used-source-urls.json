@@ -1,4 +1,28 @@
 {
+  "source:720c4f712b747524e146505b83d0ccb44167b990": {
+    "url": "https://ocp.news/seguranca/motorista-fica-ferido-apos-carro-sair-da-pista-e-capotar-em-arrozeira-em-jaragua-do-sul",
+    "title": "Motorista fica ferido após carro capotar em Jaraguá do Sul",
+    "guid": "sc1multi:720c4f712b747524e146505b83d0ccb44167b990",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_720c4f712b747524e146505b83d0ccb44167b990/",
+    "usedAt": 1785449644593,
+    "usedAtIso": "2026-07-30T22:14:04.593Z"
+  },
+  "source:f229d5ac0a43708f79c41b3c99a0e2c31045e6ba": {
+    "url": "https://ocp.news/esporte/jaraguaense-brilha-em-temporada-de-estreia-e-leva-time-paulista-ao-3o-lugar-da-lbf",
+    "title": "Jaraguaense se destaca na LBF e leva Sesi Araraquara ao 3º lugar",
+    "guid": "sc1multi:f229d5ac0a43708f79c41b3c99a0e2c31045e6ba",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f229d5ac0a43708f79c41b3c99a0e2c31045e6ba/",
+    "usedAt": 1785449644593,
+    "usedAtIso": "2026-07-30T22:14:04.593Z"
+  },
+  "source:8325e9b516670e0bc7e3f66e19b5e3642840636a": {
+    "url": "https://ocp.news/seguranca/delegacia-de-capturas-da-deic-prende-foragido-pelo-crime-de-tortura-em-florianopolis",
+    "title": "DEIC prende foragido por tortura em Florianópolis",
+    "guid": "sc1multi:8325e9b516670e0bc7e3f66e19b5e3642840636a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8325e9b516670e0bc7e3f66e19b5e3642840636a/",
+    "usedAt": 1785449644593,
+    "usedAtIso": "2026-07-30T22:14:04.593Z"
+  },
   "source:2d7176ea7806eaa13ea29857e49e7b1213254176": {
     "url": "https://tnsul.com/2026/07/30/familia-de-criciuma-pede-ajuda-apos-perder-tudo-em-incendio",
     "title": "Família de Criciúma mobiliza campanha após incêndio em apartamento",
@@ -167,28 +191,12 @@
     "usedAt": 1785435244630,
     "usedAtIso": "2026-07-30T18:14:04.630Z"
   },
-  "source:720c4f712b747524e146505b83d0ccb44167b990": {
-    "url": "https://ocp.news/seguranca/motorista-fica-ferido-apos-carro-sair-da-pista-e-capotar-em-arrozeira-em-jaragua-do-sul",
-    "title": "Motorista fica ferido após carro capotar em Jaraguá do Sul",
-    "guid": "sc1multi:720c4f712b747524e146505b83d0ccb44167b990",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_720c4f712b747524e146505b83d0ccb44167b990/",
-    "usedAt": 1785449644593,
-    "usedAtIso": "2026-07-30T22:14:04.593Z"
-  },
-  "source:f229d5ac0a43708f79c41b3c99a0e2c31045e6ba": {
-    "url": "https://ocp.news/esporte/jaraguaense-brilha-em-temporada-de-estreia-e-leva-time-paulista-ao-3o-lugar-da-lbf",
-    "title": "Jaraguaense se destaca na LBF e leva Sesi Araraquara ao 3º lugar",
-    "guid": "sc1multi:f229d5ac0a43708f79c41b3c99a0e2c31045e6ba",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f229d5ac0a43708f79c41b3c99a0e2c31045e6ba/",
-    "usedAt": 1785449644593,
-    "usedAtIso": "2026-07-30T22:14:04.593Z"
-  },
-  "source:8325e9b516670e0bc7e3f66e19b5e3642840636a": {
-    "url": "https://ocp.news/seguranca/delegacia-de-capturas-da-deic-prende-foragido-pelo-crime-de-tortura-em-florianopolis",
-    "title": "DEIC prende foragido por tortura em Florianópolis",
-    "guid": "sc1multi:8325e9b516670e0bc7e3f66e19b5e3642840636a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8325e9b516670e0bc7e3f66e19b5e3642840636a/",
-    "usedAt": 1785449644593,
-    "usedAtIso": "2026-07-30T22:14:04.593Z"
+  "source:8505f6c2e6f6dbf80c0eef946ef28108cd91ae8d": {
+    "url": "https://tnsul.com/2026/07/30/ong-quero-adotar-realiza-feira-de-adocao-de-gatos-neste-sabado",
+    "title": "ONG Quero Adotar promove feira de adoção de gatos em Criciúma",
+    "guid": "sc1multi:f06aceb8cfc077ac0249172749288be314a394f8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f06aceb8cfc077ac0249172749288be314a394f8/",
+    "usedAt": 1785453245033,
+    "usedAtIso": "2026-07-30T23:14:05.033Z"
   }
 }
