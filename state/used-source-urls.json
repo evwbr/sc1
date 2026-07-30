@@ -1,4 +1,36 @@
 {
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785377644689,
+    "usedAtIso": "2026-07-30T02:14:04.689Z"
+  },
+  "source:4bb6b6841b3d8351cb0855734a089d8bfa290ffe": {
+    "url": "https://tnsul.com/2026/07/29/criciuma-abre-mais-70-vagas-em-programa-de-microcredito",
+    "title": "Criciúma amplia programa de microcrédito com 70 novas vagas",
+    "guid": "sc1multi:045f2595df482e8d8a3e875030bacfff8a767976",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_045f2595df482e8d8a3e875030bacfff8a767976/",
+    "usedAt": 1785377644689,
+    "usedAtIso": "2026-07-30T02:14:04.689Z"
+  },
+  "source:d76240bd76ffce4c3afed6afa8bda5012c27a9d0": {
+    "url": "https://ocp.news/seguranca/ventania-provoca-queda-de-arvores-e-mobiliza-equipes-de-emergencia-em-schroeder",
+    "title": "Ventania causa queda de árvores e danos em Schroeder, SC",
+    "guid": "sc1multi:d76240bd76ffce4c3afed6afa8bda5012c27a9d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d76240bd76ffce4c3afed6afa8bda5012c27a9d0/",
+    "usedAt": 1785377644689,
+    "usedAtIso": "2026-07-30T02:14:04.689Z"
+  },
+  "source:d9fbad78e6b20736bf81e970a0df1587de43fbd4": {
+    "url": "https://ocp.news/esporte/ciclista-e-vice-campeao-brasileiro-de-mountain-bike-e-faz-historia-para-jaragua-do-sul",
+    "title": "Axel Kruger é vice-campeão brasileiro de mountain bike por Jaraguá do Sul",
+    "guid": "sc1multi:d9fbad78e6b20736bf81e970a0df1587de43fbd4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9fbad78e6b20736bf81e970a0df1587de43fbd4/",
+    "usedAt": 1785377644689,
+    "usedAtIso": "2026-07-30T02:14:04.689Z"
+  },
   "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
     "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
     "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
@@ -204,47 +236,23 @@
     "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
     "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
+    "usedAt": 1785381244545,
+    "usedAtIso": "2026-07-30T03:14:04.545Z"
   },
-  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
-    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
-    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
-    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785377644689,
-    "usedAtIso": "2026-07-30T02:14:04.689Z"
+  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
+    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
+    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
+    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
+    "usedAt": 1785381244545,
+    "usedAtIso": "2026-07-30T03:14:04.545Z"
   },
   "source:058bdab541de0d97e07849a2ad900ab27b3076ae": {
     "url": "https://tnsul.com/2026/07/29/principio-de-incendio-atinge-sede-da-torcida-os-tigres-em-criciuma",
     "title": "Princípio de incêndio atinge sede da torcida Os Tigres em Criciúma",
     "guid": "sc1multi:876960ce8a4d6919a3df4b60ba93db2e2544912b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876960ce8a4d6919a3df4b60ba93db2e2544912b/",
-    "usedAt": 1785359644396,
-    "usedAtIso": "2026-07-29T21:14:04.396Z"
-  },
-  "source:4bb6b6841b3d8351cb0855734a089d8bfa290ffe": {
-    "url": "https://tnsul.com/2026/07/29/criciuma-abre-mais-70-vagas-em-programa-de-microcredito",
-    "title": "Criciúma amplia programa de microcrédito com 70 novas vagas",
-    "guid": "sc1multi:045f2595df482e8d8a3e875030bacfff8a767976",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_045f2595df482e8d8a3e875030bacfff8a767976/",
-    "usedAt": 1785377644689,
-    "usedAtIso": "2026-07-30T02:14:04.689Z"
-  },
-  "source:d76240bd76ffce4c3afed6afa8bda5012c27a9d0": {
-    "url": "https://ocp.news/seguranca/ventania-provoca-queda-de-arvores-e-mobiliza-equipes-de-emergencia-em-schroeder",
-    "title": "Ventania causa queda de árvores e danos em Schroeder, SC",
-    "guid": "sc1multi:d76240bd76ffce4c3afed6afa8bda5012c27a9d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d76240bd76ffce4c3afed6afa8bda5012c27a9d0/",
-    "usedAt": 1785377644689,
-    "usedAtIso": "2026-07-30T02:14:04.689Z"
-  },
-  "source:d9fbad78e6b20736bf81e970a0df1587de43fbd4": {
-    "url": "https://ocp.news/esporte/ciclista-e-vice-campeao-brasileiro-de-mountain-bike-e-faz-historia-para-jaragua-do-sul",
-    "title": "Axel Kruger é vice-campeão brasileiro de mountain bike por Jaraguá do Sul",
-    "guid": "sc1multi:d9fbad78e6b20736bf81e970a0df1587de43fbd4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d9fbad78e6b20736bf81e970a0df1587de43fbd4/",
-    "usedAt": 1785377644689,
-    "usedAtIso": "2026-07-30T02:14:04.689Z"
+    "usedAt": 1785381244545,
+    "usedAtIso": "2026-07-30T03:14:04.545Z"
   }
 }
