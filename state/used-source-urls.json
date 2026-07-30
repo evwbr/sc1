@@ -1,4 +1,36 @@
 {
+  "source:999529d23524eab27edd176f97acff3ce7b86016": {
+    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-em-1a-votacao-repasse-de-r-49-mil-para-reforma-de-muro-do-14o-bpm",
+    "title": "Jaraguá do Sul aprova repasse para reforma do muro do 14º BPM",
+    "guid": "sc1multi:999529d23524eab27edd176f97acff3ce7b86016",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_999529d23524eab27edd176f97acff3ce7b86016/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  },
+  "source:20abc1c0cc5020f79874f8cb48e8d21e7547965c": {
+    "url": "https://ocp.news/seguranca/brasil-registra-mais-de-18-milhao-de-acidentes-de-trabalho-desde-2023",
+    "title": "Santa Catarina registra mais de 107 mil acidentes de trabalho desde 2023",
+    "guid": "sc1multi:20abc1c0cc5020f79874f8cb48e8d21e7547965c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20abc1c0cc5020f79874f8cb48e8d21e7547965c/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  },
+  "source:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166": {
+    "url": "https://ocp.news/seguranca/urgente-homem-e-resgatado-em-estado-grave-apos-passar-mal-dentro-de-poco-em-jaragua-do-sul",
+    "title": "Homem é resgatado em estado grave após passar mal em poço em Jaraguá do Sul",
+    "guid": "sc1multi:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165d4bfc49724ad8b094e84e0b1e5d2cd0f65166/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  },
+  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
+    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
+    "title": "Operação prende suspeito de roubo e agressão por homofobia em Florianópolis",
+    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
+    "usedAt": 1785402844858,
+    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  },
   "source:3601b2d9182bbb4e7c878cd029822622fa0c5e62": {
     "url": "https://rbatv.com.br/noticias/cooperacao-que-transforma-mais-de-57-mil-participacoes-fortalecem-comunidades-no-alto-vale",
     "title": "Viacredi Alto Vale promove mais de 1.100 eventos e fortalece comunidades em SC",
@@ -135,36 +167,44 @@
     "usedAt": 1785384844947,
     "usedAtIso": "2026-07-30T04:14:04.947Z"
   },
-  "source:999529d23524eab27edd176f97acff3ce7b86016": {
-    "url": "https://ocp.news/politica/camara-de-jaragua-aprova-em-1a-votacao-repasse-de-r-49-mil-para-reforma-de-muro-do-14o-bpm",
-    "title": "Jaraguá do Sul aprova repasse para reforma do muro do 14º BPM",
-    "guid": "sc1multi:999529d23524eab27edd176f97acff3ce7b86016",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_999529d23524eab27edd176f97acff3ce7b86016/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:ddc2fb13d9325824832b175d4ef5f81351033224": {
+    "url": "https://ocp.news/cotidiano/coluna-adote-um-amigo-confira-os-animais-disponiveis-para-adocao-na-regiao-de-jaragua-do-sul-91",
+    "title": "Animais disponíveis para adoção na AGUAPA em Guaramirim",
+    "guid": "sc1multi:ddc2fb13d9325824832b175d4ef5f81351033224",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ddc2fb13d9325824832b175d4ef5f81351033224/",
+    "usedAt": 1785406444270,
+    "usedAtIso": "2026-07-30T10:14:04.270Z"
   },
-  "source:20abc1c0cc5020f79874f8cb48e8d21e7547965c": {
-    "url": "https://ocp.news/seguranca/brasil-registra-mais-de-18-milhao-de-acidentes-de-trabalho-desde-2023",
-    "title": "Santa Catarina registra mais de 107 mil acidentes de trabalho desde 2023",
-    "guid": "sc1multi:20abc1c0cc5020f79874f8cb48e8d21e7547965c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20abc1c0cc5020f79874f8cb48e8d21e7547965c/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:20843cec5d50421694d49b8886fca7e529e48d0a": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-recupera-equipamentos-e-identifica-suspeito-que-segue-foragido",
+    "title": "Polícia Civil de Taió recupera equipamentos furtados de igreja e identifica suspeito",
+    "guid": "sc1multi:800bcb2a0e4277f0e245e237062355f676069c0b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_800bcb2a0e4277f0e245e237062355f676069c0b/",
+    "usedAt": 1785406444270,
+    "usedAtIso": "2026-07-30T10:14:04.270Z"
   },
-  "source:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166": {
-    "url": "https://ocp.news/seguranca/urgente-homem-e-resgatado-em-estado-grave-apos-passar-mal-dentro-de-poco-em-jaragua-do-sul",
-    "title": "Homem é resgatado em estado grave após passar mal em poço em Jaraguá do Sul",
-    "guid": "sc1multi:165d4bfc49724ad8b094e84e0b1e5d2cd0f65166",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165d4bfc49724ad8b094e84e0b1e5d2cd0f65166/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:7ae25f83b6fc7fc6b0693b0d39560688b81d24c9": {
+    "url": "https://ocp.news/esporte/em-jogo-maluco-jaragua-futsal-vence-atlantico-pela-penultima-rodada-da-lnf",
+    "title": "Jaraguá Futsal vence Atlântico em jogo emocionante pela LNF",
+    "guid": "sc1multi:7ae25f83b6fc7fc6b0693b0d39560688b81d24c9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ae25f83b6fc7fc6b0693b0d39560688b81d24c9/",
+    "usedAt": 1785406444270,
+    "usedAtIso": "2026-07-30T10:14:04.270Z"
   },
-  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
-    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
-    "title": "Operação prende suspeito de roubo e agressão por homofobia em Florianópolis",
-    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
-    "usedAt": 1785402844858,
-    "usedAtIso": "2026-07-30T09:14:04.858Z"
+  "source:102b88a7fef6b8d968ca2c42fee21b5cdaa3ebaa": {
+    "url": "https://rbatv.com.br/noticias/pm-cumpre-mandado-de-prisao-por-divida-de-pensao-alimenticia-em-lontras",
+    "title": "Polícia Militar prende homem por dívida de pensão alimentícia em Lontras",
+    "guid": "sc1multi:ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c/",
+    "usedAt": 1785406444270,
+    "usedAtIso": "2026-07-30T10:14:04.270Z"
+  },
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785406444270,
+    "usedAtIso": "2026-07-30T10:14:04.270Z"
   }
 }
