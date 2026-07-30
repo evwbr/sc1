@@ -1,4 +1,60 @@
 {
+  "source:20843cec5d50421694d49b8886fca7e529e48d0a": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-recupera-equipamentos-e-identifica-suspeito-que-segue-foragido",
+    "title": "Polícia Civil de Taió recupera equipamentos furtados de igreja e identifica suspeito",
+    "guid": "sc1multi:800bcb2a0e4277f0e245e237062355f676069c0b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_800bcb2a0e4277f0e245e237062355f676069c0b/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:102b88a7fef6b8d968ca2c42fee21b5cdaa3ebaa": {
+    "url": "https://rbatv.com.br/noticias/pm-cumpre-mandado-de-prisao-por-divida-de-pensao-alimenticia-em-lontras",
+    "title": "Polícia Militar prende homem por dívida de pensão alimentícia em Lontras",
+    "guid": "sc1multi:ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
+    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
+    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
+    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:ca8dbbd8e320fe9738c5e748230d7eecffe84695": {
+    "url": "https://tnsul.com/2026/07/30/dois-homens-morrem-apos-moto-atingir-poste-de-energia-em-sc",
+    "title": "Dois homens morrem após moto bater em poste em São Miguel do Oeste",
+    "guid": "sc1multi:6d909e229459c46f541385e2598d43e6dd419ac3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d909e229459c46f541385e2598d43e6dd419ac3/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:8325e9b516670e0bc7e3f66e19b5e3642840636a": {
+    "url": "https://ocp.news/seguranca/delegacia-de-capturas-da-deic-prende-foragido-pelo-crime-de-tortura-em-florianopolis",
+    "title": "DEIC prende foragido por tortura em Florianópolis",
+    "guid": "sc1multi:8325e9b516670e0bc7e3f66e19b5e3642840636a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8325e9b516670e0bc7e3f66e19b5e3642840636a/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:934a51682c0ef22d6b14feaf97415c7e6d08e32f": {
+    "url": "https://tnsul.com/2026/07/30/idosa-e-trancada-em-banheiro-durante-assalto-a-residencia-em-blumenau",
+    "title": "Idosa é trancada em banheiro durante assalto em Blumenau",
+    "guid": "sc1multi:ff74ab97a01f451e3ad622584eab3bff9293323b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff74ab97a01f451e3ad622584eab3bff9293323b/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
+  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
+    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
+    "title": "Polícia prende suspeito de roubo e agressão por homofobia em Florianópolis",
+    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
+    "usedAt": 1785424446578,
+    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  },
   "source:6e93a0520ebc75a6e9cb862ecaa69e823115599b": {
     "url": "https://ocp.news/esporte/campeonato-municipal-de-futsal-de-guaramirim-conhece-seus-semifinalistas",
     "title": "Semifinais do Campeonato Municipal de Futsal de Guaramirim estão definidas",
@@ -164,32 +220,32 @@
     "title": "Homem é preso com motocicleta adulterada em Rio dos Cedros",
     "guid": "sc1multi:52671f26e644efdc496cf0d11df188f61f0d716a",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_52671f26e644efdc496cf0d11df188f61f0d716a/",
-    "usedAt": 1785410045624,
-    "usedAtIso": "2026-07-30T11:14:05.624Z"
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
   "source:c17fd9f97a82e2b11d5efa370a00a759c70d4473": {
     "url": "https://rbatv.com.br/noticias/jovem-e-preso-por-trafico-de-drogas-apos-tentar-fugir-da-pm-de-bicicleta-em-timbo",
     "title": "Jovem é preso por tráfico de drogas após tentativa de fuga em Timbó",
     "guid": "sc1multi:b17eb5366d14816f4ab7a4a569601ef890122503",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b17eb5366d14816f4ab7a4a569601ef890122503/",
-    "usedAt": 1785410045624,
-    "usedAtIso": "2026-07-30T11:14:05.624Z"
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
   "source:a6c4e1f0e7511fb50c9063454195ad63d4b1e70c": {
     "url": "https://rbatv.com.br/noticias/homem-procurado-por-descumprir-medida-protetiva-e-preso-pela-pm-em-indaial",
     "title": "Homem é preso em Indaial por descumprir medida protetiva da Lei Maria da Penha",
     "guid": "sc1multi:40f2110d07d6f84fbe60735d562b58893502ed89",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40f2110d07d6f84fbe60735d562b58893502ed89/",
-    "usedAt": 1785410045624,
-    "usedAtIso": "2026-07-30T11:14:05.624Z"
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
   "source:6fef042583c78ed81945baf47bc34d2dc2936160": {
     "url": "https://rbatv.com.br/noticias/motorista-foge-da-pm-invade-residencia-com-carro-e-desaparece-em-ituporanga",
     "title": "Motorista foge da PM e invade residência com carro em Ituporanga",
     "guid": "sc1multi:354b6b99eb4807d2dd0eefa30c2e1ab6d5ea901e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_354b6b99eb4807d2dd0eefa30c2e1ab6d5ea901e/",
-    "usedAt": 1785410045624,
-    "usedAtIso": "2026-07-30T11:14:05.624Z"
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
   "source:d76240bd76ffce4c3afed6afa8bda5012c27a9d0": {
     "url": "https://ocp.news/seguranca/ventania-provoca-queda-de-arvores-e-mobiliza-equipes-de-emergencia-em-schroeder",
@@ -209,82 +265,34 @@
   },
   "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
     "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
-    "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
+    "title": "Homem é morto após operação policial no Morro da Caixa em Florianópolis",
     "guid": "sc1multi:e7b194148098611f65c10ccce699693fa98a807e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7b194148098611f65c10ccce699693fa98a807e/",
-    "usedAt": 1785410045624,
-    "usedAtIso": "2026-07-30T11:14:05.624Z"
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
-  "source:ddc2fb13d9325824832b175d4ef5f81351033224": {
-    "url": "https://ocp.news/cotidiano/coluna-adote-um-amigo-confira-os-animais-disponiveis-para-adocao-na-regiao-de-jaragua-do-sul-91",
-    "title": "Animais disponíveis para adoção na AGUAPA em Guaramirim",
-    "guid": "sc1multi:ddc2fb13d9325824832b175d4ef5f81351033224",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ddc2fb13d9325824832b175d4ef5f81351033224/",
-    "usedAt": 1785406444270,
-    "usedAtIso": "2026-07-30T10:14:04.270Z"
+  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
+    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
+    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
+    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
-  "source:20843cec5d50421694d49b8886fca7e529e48d0a": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-conclui-investigacao-sobre-furto-de-igreja-de-taio-recupera-equipamentos-e-identifica-suspeito-que-segue-foragido",
-    "title": "Polícia Civil de Taió recupera equipamentos furtados de igreja e identifica suspeito",
-    "guid": "sc1multi:800bcb2a0e4277f0e245e237062355f676069c0b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_800bcb2a0e4277f0e245e237062355f676069c0b/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  "source:d2d528ea5903fbe92ea6b437e3554e72a1572bcb": {
+    "url": "https://tnsul.com/2026/07/30/tres-ocupantes-escapam-ilesos-apos-carro-capotar-na-sc-452",
+    "title": "Carro capota na SC-452 em Fraiburgo e ocupantes escapam ilesos",
+    "guid": "sc1multi:d35ace14ca2477b67afc358ab4142167dc9029fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d35ace14ca2477b67afc358ab4142167dc9029fa/",
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   },
-  "source:7ae25f83b6fc7fc6b0693b0d39560688b81d24c9": {
-    "url": "https://ocp.news/esporte/em-jogo-maluco-jaragua-futsal-vence-atlantico-pela-penultima-rodada-da-lnf",
-    "title": "Jaraguá Futsal vence Atlântico em jogo emocionante pela LNF",
-    "guid": "sc1multi:7ae25f83b6fc7fc6b0693b0d39560688b81d24c9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ae25f83b6fc7fc6b0693b0d39560688b81d24c9/",
-    "usedAt": 1785406444270,
-    "usedAtIso": "2026-07-30T10:14:04.270Z"
-  },
-  "source:102b88a7fef6b8d968ca2c42fee21b5cdaa3ebaa": {
-    "url": "https://rbatv.com.br/noticias/pm-cumpre-mandado-de-prisao-por-divida-de-pensao-alimenticia-em-lontras",
-    "title": "Polícia Militar prende homem por dívida de pensão alimentícia em Lontras",
-    "guid": "sc1multi:ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba4fd985fdcbdf6f21b42b8b5748e4277c433f4c/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
-  },
-  "source:0ab96c4e138cdc6cfe8e688032ff6f8ffe417a66": {
-    "url": "https://scportais.com.br/2026/07/28/julho-termina-com-temperaturas-elevadas-e-temporais-isolados-em-sc",
-    "title": "Santa Catarina terá temporais isolados e temperaturas elevadas no fim de julho",
-    "guid": "sc1multi:ebea95fc1683740e78e48a27ef7a1bebbfcab30c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebea95fc1683740e78e48a27ef7a1bebbfcab30c/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
-  },
-  "source:ca8dbbd8e320fe9738c5e748230d7eecffe84695": {
-    "url": "https://tnsul.com/2026/07/30/dois-homens-morrem-apos-moto-atingir-poste-de-energia-em-sc",
-    "title": "Dois homens morrem após moto bater em poste em São Miguel do Oeste",
-    "guid": "sc1multi:6d909e229459c46f541385e2598d43e6dd419ac3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d909e229459c46f541385e2598d43e6dd419ac3/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
-  },
-  "source:8325e9b516670e0bc7e3f66e19b5e3642840636a": {
-    "url": "https://ocp.news/seguranca/delegacia-de-capturas-da-deic-prende-foragido-pelo-crime-de-tortura-em-florianopolis",
-    "title": "DEIC prende foragido por tortura em Florianópolis",
-    "guid": "sc1multi:8325e9b516670e0bc7e3f66e19b5e3642840636a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8325e9b516670e0bc7e3f66e19b5e3642840636a/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
-  },
-  "source:934a51682c0ef22d6b14feaf97415c7e6d08e32f": {
-    "url": "https://tnsul.com/2026/07/30/idosa-e-trancada-em-banheiro-durante-assalto-a-residencia-em-blumenau",
-    "title": "Idosa é trancada em banheiro durante assalto em Blumenau",
-    "guid": "sc1multi:ff74ab97a01f451e3ad622584eab3bff9293323b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff74ab97a01f451e3ad622584eab3bff9293323b/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
-  },
-  "source:0e0244967e227b6c27bbe93404d80c03a1ecb143": {
-    "url": "https://tudoaquisc.com.br/seguranca/prense-suspeito-roubo-por-homofobia",
-    "title": "Polícia prende suspeito de roubo e agressão por homofobia em Florianópolis",
-    "guid": "sc1multi:b034e62e394570ad2957f5db1fd2e09985644395",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b034e62e394570ad2957f5db1fd2e09985644395/",
-    "usedAt": 1785424446578,
-    "usedAtIso": "2026-07-30T15:14:06.578Z"
+  "source:5ce0becf7f6d5dc26268e871eeadc8602d1badda": {
+    "url": "https://tudoaquisc.com.br/obras/ponte-hercilio-luz-fechada-0726",
+    "title": "Ponte Hercílio Luz terá fechamento parcial para manutenção duas vezes por semana",
+    "guid": "sc1multi:c9323329bec7edc9e3dbe4f1c9f08544449cf7c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9323329bec7edc9e3dbe4f1c9f08544449cf7c6/",
+    "usedAt": 1785428044535,
+    "usedAtIso": "2026-07-30T16:14:04.535Z"
   }
 }
