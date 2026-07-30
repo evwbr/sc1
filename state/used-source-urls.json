@@ -1,4 +1,36 @@
 {
+  "source:5fd2b9b0d7b848b17b8e88a665658a24043803ec": {
+    "url": "https://ocp.news/cotidiano/matriculas-para-a-eja-agora-podem-ser-feitas-pela-internet-em-florianopolis",
+    "title": "Florianópolis oferece matrículas online para Educação de Jovens e Adultos",
+    "guid": "sc1multi:5fd2b9b0d7b848b17b8e88a665658a24043803ec",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fd2b9b0d7b848b17b8e88a665658a24043803ec/",
+    "usedAt": 1785384844947,
+    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  },
+  "source:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a": {
+    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-com-sinais-de-agressao-no-centro-de-sao-bento-do-sul",
+    "title": "Homem de 51 anos é encontrado morto no Centro de São Bento do Sul",
+    "guid": "sc1multi:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a/",
+    "usedAt": 1785384844947,
+    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  },
+  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
+    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
+    "usedAt": 1785384844947,
+    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  },
+  "source:8759f1060cc72e9b664c0db09883cb02817f4e31": {
+    "url": "https://ocp.news/cultura-2/sociedade-alianca-entrega-reforma-dos-banheiros-femininos-na-40a-kolonistenfest",
+    "title": "Sociedade Aliança conclui reforma dos banheiros femininos para Kolonistenfest",
+    "guid": "sc1multi:8759f1060cc72e9b664c0db09883cb02817f4e31",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8759f1060cc72e9b664c0db09883cb02817f4e31/",
+    "usedAt": 1785384844947,
+    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  },
   "source:8cec2e6cb75bfc3f08504b03981125c29c5b393d": {
     "url": "https://tudoaquisc.com.br/seguranca/dedos-amputados-morro-da-caixa",
     "title": "Homem é morto após operação policial no Morro da Caixa, em Florianópolis",
@@ -183,76 +215,44 @@
     "usedAt": 1785370444550,
     "usedAtIso": "2026-07-30T00:14:04.550Z"
   },
-  "source:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7": {
-    "url": "https://ocp.news/seguranca/homem-acusado-de-roubo-agressao-e-ataque-homofobico-em-florianopolis-e-preso",
-    "title": "Homem é preso por roubo e ataque homofóbico em Florianópolis",
-    "guid": "sc1multi:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7/",
-    "usedAt": 1785366844294,
-    "usedAtIso": "2026-07-29T23:14:04.294Z"
-  },
-  "source:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f": {
-    "url": "https://ocp.news/cotidiano/obras-na-sc-108-podem-causar-falta-de-agua-em-guaramirim",
-    "title": "Obras na SC-108 podem causar falta de água em Guaramirim",
-    "guid": "sc1multi:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f/",
-    "usedAt": 1785366844294,
-    "usedAtIso": "2026-07-29T23:14:04.294Z"
-  },
-  "source:5fd2b9b0d7b848b17b8e88a665658a24043803ec": {
-    "url": "https://ocp.news/cotidiano/matriculas-para-a-eja-agora-podem-ser-feitas-pela-internet-em-florianopolis",
-    "title": "Florianópolis oferece matrículas online para Educação de Jovens e Adultos",
-    "guid": "sc1multi:5fd2b9b0d7b848b17b8e88a665658a24043803ec",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fd2b9b0d7b848b17b8e88a665658a24043803ec/",
-    "usedAt": 1785384844947,
-    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  "source:ff00feafa423019c06469d57f2b40569339db975": {
+    "url": "https://scportais.com.br/2026/07/30/pelo-estado-30-07-a-possivel-infiltracao-de-organizacao-criminosa-no-meio-politico-em-itapoa",
+    "title": "Operação investiga possível infiltração de facções criminosas em Itapoá",
+    "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
+    "usedAt": 1785388444431,
+    "usedAtIso": "2026-07-30T05:14:04.431Z"
   },
   "source:45351ecf72632603cdd154917ba1a95d5514ab99": {
     "url": "https://ocp.news/seguranca/homem-e-preso-apos-furtar-celular-de-estabelecimento-no-centro-de-jaragua-do-sul",
     "title": "Homem é preso por furtar celular em estabelecimento no Centro de Jaraguá do Sul",
     "guid": "sc1multi:45351ecf72632603cdd154917ba1a95d5514ab99",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_45351ecf72632603cdd154917ba1a95d5514ab99/",
-    "usedAt": 1785366844294,
-    "usedAtIso": "2026-07-29T23:14:04.294Z"
+    "usedAt": 1785388444431,
+    "usedAtIso": "2026-07-30T05:14:04.431Z"
   },
   "source:dc801e49e51b068a710c00afd7e4d99eff296bc7": {
     "url": "https://tnsul.com/2026/07/29/incendio-atinge-apartamento-em-criciuma-e-moradora-e-levada-ao-hospital",
     "title": "Incêndio atinge apartamento em Criciúma e moradora é hospitalizada",
     "guid": "sc1multi:34b496f7f713f02ab1740dbba6d8fe8ae01bd3cc",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34b496f7f713f02ab1740dbba6d8fe8ae01bd3cc/",
-    "usedAt": 1785366844294,
-    "usedAtIso": "2026-07-29T23:14:04.294Z"
+    "usedAt": 1785388444431,
+    "usedAtIso": "2026-07-30T05:14:04.431Z"
   },
-  "source:c045765637e018bfe908dd3d33fb6edf61c042c6": {
-    "url": "https://ocp.news/politica/vereadora-de-guaramirim-solicita-limpeza-de-canaletas-de-drenagem-na-br-280",
-    "title": "Vereadora de Guaramirim pede limpeza das canaletas na BR-280",
-    "guid": "sc1multi:c045765637e018bfe908dd3d33fb6edf61c042c6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c045765637e018bfe908dd3d33fb6edf61c042c6/",
-    "usedAt": 1785363245627,
-    "usedAtIso": "2026-07-29T22:14:05.627Z"
+  "source:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7": {
+    "url": "https://ocp.news/seguranca/homem-acusado-de-roubo-agressao-e-ataque-homofobico-em-florianopolis-e-preso",
+    "title": "Homem é preso por roubo e ataque homofóbico em Florianópolis",
+    "guid": "sc1multi:b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b68a768c064a6f37eaf27cb2a14f81ec6d10d4f7/",
+    "usedAt": 1785388444431,
+    "usedAtIso": "2026-07-30T05:14:04.431Z"
   },
-  "source:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a": {
-    "url": "https://ocp.news/seguranca/homem-e-encontrado-morto-com-sinais-de-agressao-no-centro-de-sao-bento-do-sul",
-    "title": "Homem de 51 anos é encontrado morto no Centro de São Bento do Sul",
-    "guid": "sc1multi:bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bb38c9682a5d93fd41d2fc91b2255c4bf9315e1a/",
-    "usedAt": 1785384844947,
-    "usedAtIso": "2026-07-30T04:14:04.947Z"
-  },
-  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
-    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
-    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
-    "usedAt": 1785384844947,
-    "usedAtIso": "2026-07-30T04:14:04.947Z"
-  },
-  "source:8759f1060cc72e9b664c0db09883cb02817f4e31": {
-    "url": "https://ocp.news/cultura-2/sociedade-alianca-entrega-reforma-dos-banheiros-femininos-na-40a-kolonistenfest",
-    "title": "Sociedade Aliança conclui reforma dos banheiros femininos para Kolonistenfest",
-    "guid": "sc1multi:8759f1060cc72e9b664c0db09883cb02817f4e31",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8759f1060cc72e9b664c0db09883cb02817f4e31/",
-    "usedAt": 1785384844947,
-    "usedAtIso": "2026-07-30T04:14:04.947Z"
+  "source:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f": {
+    "url": "https://ocp.news/cotidiano/obras-na-sc-108-podem-causar-falta-de-agua-em-guaramirim",
+    "title": "Obras na SC-108 podem causar falta de água em Guaramirim",
+    "guid": "sc1multi:74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d03ee765a3831d9cbc5cfce8aa5a6e12d5a58f/",
+    "usedAt": 1785388444431,
+    "usedAtIso": "2026-07-30T05:14:04.431Z"
   }
 }
