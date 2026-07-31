@@ -1,4 +1,12 @@
 {
+  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
+    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
+    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
+    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
+    "usedAt": 1785492844461,
+    "usedAtIso": "2026-07-31T10:14:04.461Z"
+  },
   "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
     "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
     "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
@@ -15,28 +23,52 @@
     "usedAt": 1785478444470,
     "usedAtIso": "2026-07-31T06:14:04.470Z"
   },
-  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
-    "title": "Homem é levado à delegacia após arremessar pedras contra veículos em Rio do Sul",
-    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
-    "usedAt": 1785471245216,
-    "usedAtIso": "2026-07-31T04:14:05.216Z"
+  "source:46387c1363c7dfff0642bf2bac0abe6f44ceff51": {
+    "url": "https://tnsul.com/2026/07/31/adolescente-e-sequestrado-apos-assalto-agredido-e-abandonado-em-criciuma",
+    "title": "Adolescente é sequestrado e agredido após assalto em Criciúma",
+    "guid": "sc1multi:44210c0a61685575742cd4491773afa5a4d28e63",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_44210c0a61685575742cd4491773afa5a4d28e63/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
   },
-  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
-    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
-    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
-    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
-    "usedAt": 1785471245216,
-    "usedAtIso": "2026-07-31T04:14:05.216Z"
+  "source:8e1cad561a6cfe49041e907f571a8e9f4c55dab8": {
+    "url": "https://rbatv.com.br/noticias/temporais-deixam-45-mil-imoveis-sem-energia",
+    "title": "Temporais deixam 45 mil imóveis sem energia em Santa Catarina",
+    "guid": "sc1multi:e49706de61125d6b09f6f129263a809301dd7cfe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e49706de61125d6b09f6f129263a809301dd7cfe/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
   },
-  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
-    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
-    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
-    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
-    "usedAt": 1785492844461,
-    "usedAtIso": "2026-07-31T10:14:04.461Z"
+  "source:e4812a24359bcb9c507668ad0aba81fdb91afc8c": {
+    "url": "https://rbatv.com.br/noticias/motorista-e-preso-apos-ser-encontrado-dormindo-ao-volante-de-caminhao-com-sinais-de-embriaguez-em-timbo",
+    "title": "Motorista é preso em Timbó por dormir ao volante e portar anfetaminas",
+    "guid": "sc1multi:f8f23a9ad9a92e3a6a769c3aa373fc05858ed0e0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8f23a9ad9a92e3a6a769c3aa373fc05858ed0e0/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
+  },
+  "source:784e26e86f4abbb5acbbc7c597560723764ff79b": {
+    "url": "https://tnsul.com/2026/07/31/carro-e-destruido-por-incendio-na-via-rapida-em-icara",
+    "title": "Carro é destruído por incêndio na Via Rápida em Içara",
+    "guid": "sc1multi:8c27345a40914e2c32f8ac5eaf892942d66f8f2e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c27345a40914e2c32f8ac5eaf892942d66f8f2e/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
+  },
+  "source:34489f1a0cf7f1c5f659d9f2a4dcd47c85cf781d": {
+    "url": "https://ocp.news/politica/operacao-mensageiro-tjsc-aceita-denuncia-e-torna-tres-investigados-reus-por-fraude-em-licitacao-de-corupa",
+    "title": "TJSC aceita denúncia e torna réus três investigados por fraude em Corupá",
+    "guid": "sc1multi:34489f1a0cf7f1c5f659d9f2a4dcd47c85cf781d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34489f1a0cf7f1c5f659d9f2a4dcd47c85cf781d/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
+  },
+  "source:01a334b48a520ea2a68dc3ddf0a3ed2668279162": {
+    "url": "https://ocp.news/seguranca/suspeitos-de-homicidio-sao-presos-apos-perseguicao-e-confronto-com-a-pm-em-joinville",
+    "title": "Suspeitos de homicídio são presos após perseguição em Joinville",
+    "guid": "sc1multi:01a334b48a520ea2a68dc3ddf0a3ed2668279162",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01a334b48a520ea2a68dc3ddf0a3ed2668279162/",
+    "usedAt": 1785496444695,
+    "usedAtIso": "2026-07-31T11:14:04.695Z"
   }
 }
