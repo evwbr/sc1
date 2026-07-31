@@ -1,4 +1,60 @@
 {
+  "source:7b203d4d13fd9b733593e3800a67008a5a1c0fb5": {
+    "url": "https://ocp.news/cotidiano/quatro-cidades-de-sc-decretam-emergencia-apos-temporais-causarem-prejuizos-em-areas-urbanas-e-rurais",
+    "title": "Quatro cidades de Santa Catarina decretam emergência após temporais",
+    "guid": "sc1multi:7b203d4d13fd9b733593e3800a67008a5a1c0fb5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b203d4d13fd9b733593e3800a67008a5a1c0fb5/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
+    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
+    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:aeb3d74f3315c5328233480d83845b6b97bddada": {
+    "url": "https://ocp.news/entretenimento/festival-cultural-do-vale-reune-mais-de-50-apresentacoes-neste-sabado-1-em-schroeder",
+    "title": "Festival Cultural do Vale reúne 55 apresentações em Schroeder neste sábado",
+    "guid": "sc1multi:aeb3d74f3315c5328233480d83845b6b97bddada",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aeb3d74f3315c5328233480d83845b6b97bddada/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
+    "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
+    "title": "PRF intensifica fiscalização contra excesso de peso e trânsito noturno na BR-470",
+    "guid": "sc1multi:d8e958a55db1e50e1fac5b76df1806c7b559ab3d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d8e958a55db1e50e1fac5b76df1806c7b559ab3d/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
+    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
+    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
+    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:fa318190add3242edf93526153421572ab1045ab": {
+    "url": "https://tudoaquisc.com.br/esporte/vinicius-santos-florianopolis",
+    "title": "Surfista de Florianópolis é indicado ao Oscar das ondas gigantes em 2026",
+    "guid": "sc1multi:8afbf890117ccb68fa40bb978c62391dc979eaaf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8afbf890117ccb68fa40bb978c62391dc979eaaf/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
+  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
+    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
+    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
+    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
+    "usedAt": 1785510845363,
+    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  },
   "source:5a1c849817b74c95a56aa4828e97a0d96c547420": {
     "url": "https://tnsul.com/2026/07/31/casa-e-atingida-por-incendio-e-mobiliza-bombeiros-em-criciuma",
     "title": "Incêndio destrói casa em Criciúma e mobiliza bombeiros",
@@ -167,68 +223,60 @@
     "usedAt": 1785496444695,
     "usedAtIso": "2026-07-31T11:14:04.695Z"
   },
-  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
-    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
+  "source:405df615056d871231c5e46d8d2fd03f070116c1": {
+    "url": "https://tnsul.com/2026/07/31/motociclista-fica-gravemente-ferido-apos-colisao-com-maquina-agricola-em-sc",
+    "title": "Motociclista fica gravemente ferido após colisão em São José do Cedro",
+    "guid": "sc1multi:e9d199a1c6b45835d2996676e4471ca712415806",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e9d199a1c6b45835d2996676e4471ca712415806/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:94943070596c7e9c5db02682f41368644d219480": {
+    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucarias-gigantes-estao-caindo",
     "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
-    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
-    "usedAt": 1785492844461,
-    "usedAtIso": "2026-07-31T10:14:04.461Z"
+    "guid": "sc1multi:94943070596c7e9c5db02682f41368644d219480",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94943070596c7e9c5db02682f41368644d219480/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   },
-  "source:7b203d4d13fd9b733593e3800a67008a5a1c0fb5": {
-    "url": "https://ocp.news/cotidiano/quatro-cidades-de-sc-decretam-emergencia-apos-temporais-causarem-prejuizos-em-areas-urbanas-e-rurais",
-    "title": "Quatro cidades de Santa Catarina decretam emergência após temporais",
-    "guid": "sc1multi:7b203d4d13fd9b733593e3800a67008a5a1c0fb5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b203d4d13fd9b733593e3800a67008a5a1c0fb5/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
+    "title": "Homem é levado à delegacia após arremessar pedras em veículos em Rio do Sul",
+    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   },
-  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
-    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
-    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  "source:38e17a3b4a4f35b43614d5311a78b04b3bb4a43e": {
+    "url": "https://scportais.com.br/2026/07/30/bndes-registra-r-277-bilhoes-de-financiamentos-aprovados-para-renovacao-de-frota-de-caminhoes-e-de-onibus-em-sc",
+    "title": "BNDES aprova R$ 2,77 bilhões para renovação de frota em Santa Catarina",
+    "guid": "sc1multi:68a20dee7dac81f991e6081ac3101f8e04c04976",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68a20dee7dac81f991e6081ac3101f8e04c04976/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   },
-  "source:aeb3d74f3315c5328233480d83845b6b97bddada": {
-    "url": "https://ocp.news/entretenimento/festival-cultural-do-vale-reune-mais-de-50-apresentacoes-neste-sabado-1-em-schroeder",
-    "title": "Festival Cultural do Vale reúne 55 apresentações em Schroeder neste sábado",
-    "guid": "sc1multi:aeb3d74f3315c5328233480d83845b6b97bddada",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aeb3d74f3315c5328233480d83845b6b97bddada/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   },
-  "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
-    "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
-    "title": "PRF intensifica fiscalização contra excesso de peso e trânsito noturno na BR-470",
-    "guid": "sc1multi:d8e958a55db1e50e1fac5b76df1806c7b559ab3d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d8e958a55db1e50e1fac5b76df1806c7b559ab3d/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
+    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
+    "title": "Filme produzido em São José estreia na Grande Florianópolis",
+    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   },
-  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
-    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
-    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
-    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
-  },
-  "source:fa318190add3242edf93526153421572ab1045ab": {
-    "url": "https://tudoaquisc.com.br/esporte/vinicius-santos-florianopolis",
-    "title": "Surfista de Florianópolis é indicado ao Oscar das ondas gigantes em 2026",
-    "guid": "sc1multi:8afbf890117ccb68fa40bb978c62391dc979eaaf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8afbf890117ccb68fa40bb978c62391dc979eaaf/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
-  },
-  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
-    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
-    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
-    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
+    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
   }
 }
