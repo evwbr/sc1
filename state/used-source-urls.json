@@ -1,28 +1,4 @@
 {
-  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
-    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
-    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
-    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
-    "usedAt": 1785492844461,
-    "usedAtIso": "2026-07-31T10:14:04.461Z"
-  },
-  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
-    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
-    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
-    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
-    "usedAt": 1785482044514,
-    "usedAtIso": "2026-07-31T07:14:04.514Z"
-  },
-  "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
-    "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
-    "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
-    "guid": "sc1multi:cb1e744e85671d6f058eb27d97a08cfd5c091523",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb1e744e85671d6f058eb27d97a08cfd5c091523/",
-    "usedAt": 1785478444470,
-    "usedAtIso": "2026-07-31T06:14:04.470Z"
-  },
   "source:46387c1363c7dfff0642bf2bac0abe6f44ceff51": {
     "url": "https://tnsul.com/2026/07/31/adolescente-e-sequestrado-apos-assalto-agredido-e-abandonado-em-criciuma",
     "title": "Adolescente é sequestrado e agredido após assalto em Criciúma",
@@ -70,5 +46,69 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01a334b48a520ea2a68dc3ddf0a3ed2668279162/",
     "usedAt": 1785496444695,
     "usedAtIso": "2026-07-31T11:14:04.695Z"
+  },
+  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
+    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
+    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
+    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
+    "usedAt": 1785492844461,
+    "usedAtIso": "2026-07-31T10:14:04.461Z"
+  },
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785482044514,
+    "usedAtIso": "2026-07-31T07:14:04.514Z"
+  },
+  "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
+    "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
+    "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
+    "guid": "sc1multi:cb1e744e85671d6f058eb27d97a08cfd5c091523",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb1e744e85671d6f058eb27d97a08cfd5c091523/",
+    "usedAt": 1785478444470,
+    "usedAtIso": "2026-07-31T06:14:04.470Z"
+  },
+  "source:439a7e7631e0289d7f88f93c0dacf0d53743e99a": {
+    "url": "https://ocp.news/seguranca/gmf-faz-blitz-de-lei-seca-na-regiao-continental-de-florianopolis",
+    "title": "Guarda Municipal realiza blitz da Lei Seca em Coqueiros, Florianópolis",
+    "guid": "sc1multi:439a7e7631e0289d7f88f93c0dacf0d53743e99a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_439a7e7631e0289d7f88f93c0dacf0d53743e99a/",
+    "usedAt": 1785500044271,
+    "usedAtIso": "2026-07-31T12:14:04.271Z"
+  },
+  "source:247f78d05a0e4aafd42bd2fdc81ac10805c8ec4d": {
+    "url": "https://tnsul.com/2026/07/31/barragem-do-rio-sao-bento-mudou-a-historia-da-agua-no-sul-entenda",
+    "title": "Barragem do Rio São Bento garante abastecimento para mais de 400 mil no Sul de SC",
+    "guid": "sc1multi:a5e159035f7ee8b8743e029cd0648e03186c98c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5e159035f7ee8b8743e029cd0648e03186c98c6/",
+    "usedAt": 1785500044271,
+    "usedAtIso": "2026-07-31T12:14:04.271Z"
+  },
+  "source:de75b7c86a7d4ec73cb3c670ccd5a452abf1f247": {
+    "url": "https://correiosc.com.br/avai-e-figueirense-vivem-momentos-distintos-dentro-e-fora-de-campo",
+    "title": "Avaí e Figueirense enfrentam desafios em jogos e finanças",
+    "guid": "sc1multi:7fda0be67117c6c4ee3834bb0cda44cc9c497b21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7fda0be67117c6c4ee3834bb0cda44cc9c497b21/",
+    "usedAt": 1785500044271,
+    "usedAtIso": "2026-07-31T12:14:04.271Z"
+  },
+  "source:ff00feafa423019c06469d57f2b40569339db975": {
+    "url": "https://scportais.com.br/2026/07/30/pelo-estado-30-07-a-possivel-infiltracao-de-organizacao-criminosa-no-meio-politico-em-itapoa",
+    "title": "Operação investiga possível infiltração de facções criminosas em Itapoá",
+    "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
+    "usedAt": 1785500044271,
+    "usedAtIso": "2026-07-31T12:14:04.271Z"
+  },
+  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
+    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
+    "title": "Motorista é preso com 581 quilos de maconha em Xanxerê, SC",
+    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
+    "usedAt": 1785500044271,
+    "usedAtIso": "2026-07-31T12:14:04.271Z"
   }
 }
