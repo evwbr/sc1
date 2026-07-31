@@ -1,4 +1,20 @@
 {
+  "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
+    "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
+    "title": "PRF fiscaliza excesso de peso e trânsito noturno ilegal na BR-470 em Santa Catarina",
+    "guid": "sc1multi:d8e958a55db1e50e1fac5b76df1806c7b559ab3d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d8e958a55db1e50e1fac5b76df1806c7b559ab3d/",
+    "usedAt": 1785460444722,
+    "usedAtIso": "2026-07-31T01:14:04.722Z"
+  },
+  "source:c339bf13336860a50c5c30c343f5f47af5ec930b": {
+    "url": "https://tnsul.com/2026/07/30/morro-da-fumaca-recebe-etapa-de-enduro",
+    "title": "Morro da Fumaça recebe etapa da Copa MTC de Enduro de Regularidade",
+    "guid": "sc1multi:7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7/",
+    "usedAt": 1785460444722,
+    "usedAtIso": "2026-07-31T01:14:04.722Z"
+  },
   "source:8505f6c2e6f6dbf80c0eef946ef28108cd91ae8d": {
     "url": "https://tnsul.com/2026/07/30/ong-quero-adotar-realiza-feira-de-adocao-de-gatos-neste-sabado",
     "title": "ONG Quero Adotar promove feira de adoção de gatos em Criciúma",
@@ -79,76 +95,12 @@
     "usedAt": 1785442444999,
     "usedAtIso": "2026-07-30T20:14:04.999Z"
   },
-  "source:ff00feafa423019c06469d57f2b40569339db975": {
-    "url": "https://scportais.com.br/2026/07/30/pelo-estado-30-07-a-possivel-infiltracao-de-organizacao-criminosa-no-meio-politico-em-itapoa",
-    "title": "Operação investiga possível infiltração de facções criminosas em Itapoá",
-    "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
-    "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
-    "title": "Motorista é preso com 581 quilos de maconha em Xanxerê, SC",
-    "guid": "sc1multi:0940a7d39c0c4ac8703213355555223bf6851d6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0940a7d39c0c4ac8703213355555223bf6851d6d/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:dc77ea3c4bf1bb0aa86a0fabe9aa5a4c112f6efc": {
-    "url": "https://scportais.com.br/2026/07/28/joao-rodrigues-oficializara-candidatura-em-convencao-com-presenca-de-ronaldo-caiado-neste-sabado",
-    "title": "João Rodrigues oficializa candidatura ao governo de Santa Catarina em convenção",
-    "guid": "sc1multi:971a50202c76e3d5d7ad71d9e331f2e790566926",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_971a50202c76e3d5d7ad71d9e331f2e790566926/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:b3b326c31e6ed429dc7ecfeb4a27855066b79e49": {
-    "url": "https://tudoaquisc.com.br/cultura/carnaval-de-florianopolis-2027-enredos-3",
-    "title": "Carnaval de Florianópolis 2027 terá enredos que celebram cultura e história",
-    "guid": "sc1multi:d5fbc46909d5f5999fe94190f3ac5ac4cff21fbb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d5fbc46909d5f5999fe94190f3ac5ac4cff21fbb/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:fa318190add3242edf93526153421572ab1045ab": {
-    "url": "https://tudoaquisc.com.br/esporte/vinicius-santos-florianopolis",
-    "title": "Surfista de Florianópolis é indicado ao Oscar das ondas gigantes em 2026",
-    "guid": "sc1multi:8afbf890117ccb68fa40bb978c62391dc979eaaf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8afbf890117ccb68fa40bb978c62391dc979eaaf/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:de75b7c86a7d4ec73cb3c670ccd5a452abf1f247": {
-    "url": "https://correiosc.com.br/avai-e-figueirense-vivem-momentos-distintos-dentro-e-fora-de-campo",
-    "title": "Avaí e Figueirense enfrentam desafios distintos no futebol brasileiro",
-    "guid": "sc1multi:7fda0be67117c6c4ee3834bb0cda44cc9c497b21",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7fda0be67117c6c4ee3834bb0cda44cc9c497b21/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:e21ebe1e4aacc475d35b6a4c85cef448a4e08bf0": {
-    "url": "https://tnsul.com/2026/07/30/criciuma-realiza-operacao-limpa-fios-na-rua-anita-garibaldi-nesta-sexta",
-    "title": "Criciúma realiza Operação Limpa Fios na Rua Anita Garibaldi nesta sexta",
-    "guid": "sc1multi:b4f845c2397976dabf31627001b80e369f817e0a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4f845c2397976dabf31627001b80e369f817e0a/",
-    "usedAt": 1785438844919,
-    "usedAtIso": "2026-07-30T19:14:04.919Z"
-  },
-  "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
-    "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
-    "title": "PRF fiscaliza excesso de peso e trânsito noturno ilegal na BR-470 em Santa Catarina",
-    "guid": "sc1multi:d8e958a55db1e50e1fac5b76df1806c7b559ab3d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d8e958a55db1e50e1fac5b76df1806c7b559ab3d/",
-    "usedAt": 1785460444722,
-    "usedAtIso": "2026-07-31T01:14:04.722Z"
-  },
-  "source:c339bf13336860a50c5c30c343f5f47af5ec930b": {
-    "url": "https://tnsul.com/2026/07/30/morro-da-fumaca-recebe-etapa-de-enduro",
-    "title": "Morro da Fumaça recebe etapa da Copa MTC de Enduro de Regularidade",
-    "guid": "sc1multi:7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7/",
-    "usedAt": 1785460444722,
-    "usedAtIso": "2026-07-31T01:14:04.722Z"
+  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
+    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
+    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
+    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
+    "usedAt": 1785464044378,
+    "usedAtIso": "2026-07-31T02:14:04.378Z"
   }
 }
