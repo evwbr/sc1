@@ -1,4 +1,60 @@
 {
+  "source:405df615056d871231c5e46d8d2fd03f070116c1": {
+    "url": "https://tnsul.com/2026/07/31/motociclista-fica-gravemente-ferido-apos-colisao-com-maquina-agricola-em-sc",
+    "title": "Motociclista fica gravemente ferido após colisão em São José do Cedro",
+    "guid": "sc1multi:e9d199a1c6b45835d2996676e4471ca712415806",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e9d199a1c6b45835d2996676e4471ca712415806/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:94943070596c7e9c5db02682f41368644d219480": {
+    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucarias-gigantes-estao-caindo",
+    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
+    "guid": "sc1multi:94943070596c7e9c5db02682f41368644d219480",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94943070596c7e9c5db02682f41368644d219480/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
+    "title": "Homem é levado à delegacia após arremessar pedras em veículos em Rio do Sul",
+    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:38e17a3b4a4f35b43614d5311a78b04b3bb4a43e": {
+    "url": "https://scportais.com.br/2026/07/30/bndes-registra-r-277-bilhoes-de-financiamentos-aprovados-para-renovacao-de-frota-de-caminhoes-e-de-onibus-em-sc",
+    "title": "BNDES aprova R$ 2,77 bilhões para renovação de frota em Santa Catarina",
+    "guid": "sc1multi:68a20dee7dac81f991e6081ac3101f8e04c04976",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68a20dee7dac81f991e6081ac3101f8e04c04976/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
+    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
+    "title": "Filme produzido em São José estreia na Grande Florianópolis",
+    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
+  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
+    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
+    "usedAt": 1785514444703,
+    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  },
   "source:7b203d4d13fd9b733593e3800a67008a5a1c0fb5": {
     "url": "https://ocp.news/cotidiano/quatro-cidades-de-sc-decretam-emergencia-apos-temporais-causarem-prejuizos-em-areas-urbanas-e-rurais",
     "title": "Quatro cidades de Santa Catarina decretam emergência após temporais",
@@ -164,8 +220,8 @@
     "title": "Operação investiga possível infiltração de facções criminosas em Itapoá",
     "guid": "sc1multi:cb4b89a358675afc97268d34c8e5c006a8c6db1c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb4b89a358675afc97268d34c8e5c006a8c6db1c/",
-    "usedAt": 1785500044271,
-    "usedAtIso": "2026-07-31T12:14:04.271Z"
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   },
   "source:0872e3fe457f4a761092e6a7e89990c73aa66136": {
     "url": "https://correiosc.com.br/motorista-paraguaio-preso-581-quilos-maconha-br-282-xanxere",
@@ -188,16 +244,16 @@
     "title": "Temporais deixam 45 mil imóveis sem energia em Santa Catarina",
     "guid": "sc1multi:e49706de61125d6b09f6f129263a809301dd7cfe",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e49706de61125d6b09f6f129263a809301dd7cfe/",
-    "usedAt": 1785496444695,
-    "usedAtIso": "2026-07-31T11:14:04.695Z"
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   },
   "source:e4812a24359bcb9c507668ad0aba81fdb91afc8c": {
     "url": "https://rbatv.com.br/noticias/motorista-e-preso-apos-ser-encontrado-dormindo-ao-volante-de-caminhao-com-sinais-de-embriaguez-em-timbo",
     "title": "Motorista é preso em Timbó por dormir ao volante e portar anfetaminas",
     "guid": "sc1multi:f8f23a9ad9a92e3a6a769c3aa373fc05858ed0e0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8f23a9ad9a92e3a6a769c3aa373fc05858ed0e0/",
-    "usedAt": 1785496444695,
-    "usedAtIso": "2026-07-31T11:14:04.695Z"
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   },
   "source:784e26e86f4abbb5acbbc7c597560723764ff79b": {
     "url": "https://tnsul.com/2026/07/31/carro-e-destruido-por-incendio-na-via-rapida-em-icara",
@@ -212,8 +268,8 @@
     "title": "TJSC aceita denúncia e torna réus três investigados por fraude em Corupá",
     "guid": "sc1multi:34489f1a0cf7f1c5f659d9f2a4dcd47c85cf781d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_34489f1a0cf7f1c5f659d9f2a4dcd47c85cf781d/",
-    "usedAt": 1785496444695,
-    "usedAtIso": "2026-07-31T11:14:04.695Z"
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   },
   "source:01a334b48a520ea2a68dc3ddf0a3ed2668279162": {
     "url": "https://ocp.news/seguranca/suspeitos-de-homicidio-sao-presos-apos-perseguicao-e-confronto-com-a-pm-em-joinville",
@@ -223,60 +279,20 @@
     "usedAt": 1785496444695,
     "usedAtIso": "2026-07-31T11:14:04.695Z"
   },
-  "source:405df615056d871231c5e46d8d2fd03f070116c1": {
-    "url": "https://tnsul.com/2026/07/31/motociclista-fica-gravemente-ferido-apos-colisao-com-maquina-agricola-em-sc",
-    "title": "Motociclista fica gravemente ferido após colisão em São José do Cedro",
-    "guid": "sc1multi:e9d199a1c6b45835d2996676e4471ca712415806",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e9d199a1c6b45835d2996676e4471ca712415806/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  "source:6cdd030e5b71cf66306f47d28c54b5d20628c6a5": {
+    "url": "https://ocp.news/cotidiano/alunos-da-rede-municipal-de-jaragua-do-sul-retornam-as-aulas-na-terca-feira-4",
+    "title": "Alunos da rede municipal de Jaraguá do Sul retornam às aulas em 4 de julho",
+    "guid": "sc1multi:6cdd030e5b71cf66306f47d28c54b5d20628c6a5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6cdd030e5b71cf66306f47d28c54b5d20628c6a5/",
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   },
-  "source:94943070596c7e9c5db02682f41368644d219480": {
-    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucarias-gigantes-estao-caindo",
-    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
-    "guid": "sc1multi:94943070596c7e9c5db02682f41368644d219480",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94943070596c7e9c5db02682f41368644d219480/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
-  },
-  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
-    "title": "Homem é levado à delegacia após arremessar pedras em veículos em Rio do Sul",
-    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
-  },
-  "source:38e17a3b4a4f35b43614d5311a78b04b3bb4a43e": {
-    "url": "https://scportais.com.br/2026/07/30/bndes-registra-r-277-bilhoes-de-financiamentos-aprovados-para-renovacao-de-frota-de-caminhoes-e-de-onibus-em-sc",
-    "title": "BNDES aprova R$ 2,77 bilhões para renovação de frota em Santa Catarina",
-    "guid": "sc1multi:68a20dee7dac81f991e6081ac3101f8e04c04976",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68a20dee7dac81f991e6081ac3101f8e04c04976/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
-  },
-  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
-    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
-    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
-    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
-  },
-  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
-    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
-    "title": "Filme produzido em São José estreia na Grande Florianópolis",
-    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
-  },
-  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
-    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
-    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
+  "source:8b832d700d3457a0b7a58e46a151f0f6cd7e7030": {
+    "url": "https://correiosc.com.br/sao-jose-chega-a-20-medalhas-e-segue-na-disputa-dos-joguinhos-abertos-de-santa-catarina",
+    "title": "São José conquista 20 medalhas nos 38º Joguinhos Abertos de SC",
+    "guid": "sc1multi:e867f7157271eca10fffcf114df7655681715418",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e867f7157271eca10fffcf114df7655681715418/",
+    "usedAt": 1785518044316,
+    "usedAtIso": "2026-07-31T17:14:04.316Z"
   }
 }
