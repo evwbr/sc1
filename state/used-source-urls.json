@@ -1,4 +1,12 @@
 {
+  "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
+    "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
+    "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
+    "guid": "sc1multi:cb1e744e85671d6f058eb27d97a08cfd5c091523",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb1e744e85671d6f058eb27d97a08cfd5c091523/",
+    "usedAt": 1785478444470,
+    "usedAtIso": "2026-07-31T06:14:04.470Z"
+  },
   "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
     "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
     "title": "Homem é levado à delegacia após arremessar pedras contra veículos em Rio do Sul",
@@ -47,12 +55,12 @@
     "usedAt": 1785460444722,
     "usedAtIso": "2026-07-31T01:14:04.722Z"
   },
-  "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
-    "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
-    "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
-    "guid": "sc1multi:cb1e744e85671d6f058eb27d97a08cfd5c091523",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb1e744e85671d6f058eb27d97a08cfd5c091523/",
-    "usedAt": 1785478444470,
-    "usedAtIso": "2026-07-31T06:14:04.470Z"
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785482044514,
+    "usedAtIso": "2026-07-31T07:14:04.514Z"
   }
 }
