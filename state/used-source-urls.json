@@ -1,4 +1,60 @@
 {
+  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
+    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
+    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
+    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:5a1c849817b74c95a56aa4828e97a0d96c547420": {
+    "url": "https://tnsul.com/2026/07/31/casa-e-atingida-por-incendio-e-mobiliza-bombeiros-em-criciuma",
+    "title": "Incêndio destrói casa em Criciúma e mobiliza bombeiros",
+    "guid": "sc1multi:df67ec779989f50c03d8e6dd1486fe37b1bd33e4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df67ec779989f50c03d8e6dd1486fe37b1bd33e4/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:c5047798d7c588728ce4471ffc45e30649830072": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-realiza-10a-edicao-da-operacao-limpa-fios-na-rua-anita-garibaldi-nesta-sexta-feira",
+    "title": "Prefeitura de Criciúma realiza 10ª edição da Operação Limpa Fios na Rua Anita Garibaldi",
+    "guid": "sc1multi:c5047798d7c588728ce4471ffc45e30649830072",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c5047798d7c588728ce4471ffc45e30649830072/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:5657b1b13954acfc8c6a04487e220cc76cbb0513": {
+    "url": "https://ocp.news/seguranca/trabalhador-fica-prensado-entre-carga-e-carreta-em-grave-acidente-no-oeste-de-sc",
+    "title": "Trabalhador fica prensado em acidente grave no Oeste de Santa Catarina",
+    "guid": "sc1multi:5657b1b13954acfc8c6a04487e220cc76cbb0513",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5657b1b13954acfc8c6a04487e220cc76cbb0513/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:109280dc3a79fa260eb59b853c20769d7a3f464c": {
+    "url": "https://ocp.news/cotidiano/cao1-e-resgatado-com-vida-apos-passar-cerca-de-20-horas-sob-escombros-em-concordia",
+    "title": "Cão é resgatado após 20 horas sob escombros em Concórdia, SC",
+    "guid": "sc1multi:109280dc3a79fa260eb59b853c20769d7a3f464c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_109280dc3a79fa260eb59b853c20769d7a3f464c/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:e7ef8951e380c0383e9156bcb0506835f177010a": {
+    "url": "https://ocp.news/cotidiano/saiba-como-ficara-avenida-em-florianopolis-com-novo-corredor-para-onibus",
+    "title": "Florianópolis inicia obras para corredor exclusivo de ônibus na Avenida Mauro Ramos",
+    "guid": "sc1multi:e7ef8951e380c0383e9156bcb0506835f177010a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7ef8951e380c0383e9156bcb0506835f177010a/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
+  "source:f5d5f57a76f4e0aee612c81a17e03390174cd9c0": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-inicia-recuperacao-de-faixas-elevadas-em-diferentes-pontos-da-cidade",
+    "title": "Jaraguá do Sul inicia recuperação de faixas elevadas em vários bairros",
+    "guid": "sc1multi:f5d5f57a76f4e0aee612c81a17e03390174cd9c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5d5f57a76f4e0aee612c81a17e03390174cd9c0/",
+    "usedAt": 1785525244509,
+    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  },
   "source:931a972a8fdd89904a01c96fe7d9cdd03b449f0a": {
     "url": "https://ocp.news/cotidiano/centro-de-especialidades-odontologicas-de-jaragua-do-sul-e-referencia-na-regiao",
     "title": "Centro de Especialidades Odontológicas de Jaraguá do Sul é referência regional",
@@ -161,43 +217,43 @@
   },
   "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
     "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
-    "title": "Filme produzido em São José estreia na Grande Florianópolis",
+    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
     "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
     "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
     "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
     "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
-    "usedAt": 1785514444703,
-    "usedAtIso": "2026-07-31T16:14:04.703Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:7b203d4d13fd9b733593e3800a67008a5a1c0fb5": {
     "url": "https://ocp.news/cotidiano/quatro-cidades-de-sc-decretam-emergencia-apos-temporais-causarem-prejuizos-em-areas-urbanas-e-rurais",
     "title": "Quatro cidades de Santa Catarina decretam emergência após temporais",
     "guid": "sc1multi:7b203d4d13fd9b733593e3800a67008a5a1c0fb5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7b203d4d13fd9b733593e3800a67008a5a1c0fb5/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
     "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
     "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
     "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:aeb3d74f3315c5328233480d83845b6b97bddada": {
     "url": "https://ocp.news/entretenimento/festival-cultural-do-vale-reune-mais-de-50-apresentacoes-neste-sabado-1-em-schroeder",
     "title": "Festival Cultural do Vale reúne 55 apresentações em Schroeder neste sábado",
     "guid": "sc1multi:aeb3d74f3315c5328233480d83845b6b97bddada",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aeb3d74f3315c5328233480d83845b6b97bddada/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
     "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
@@ -212,8 +268,8 @@
     "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
     "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
-    "usedAt": 1785510845363,
-    "usedAtIso": "2026-07-31T15:14:05.363Z"
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
   "source:fa318190add3242edf93526153421572ab1045ab": {
     "url": "https://tudoaquisc.com.br/esporte/vinicius-santos-florianopolis",
@@ -223,76 +279,20 @@
     "usedAt": 1785510845363,
     "usedAtIso": "2026-07-31T15:14:05.363Z"
   },
-  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
-    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
-    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
-    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  "source:1baccc2d73b4fd44a91e4525ad3c3fdaf88a6890": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias do Leste da Ilha",
+    "guid": "sc1multi:1baccc2d73b4fd44a91e4525ad3c3fdaf88a6890",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1baccc2d73b4fd44a91e4525ad3c3fdaf88a6890/",
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   },
-  "source:5a1c849817b74c95a56aa4828e97a0d96c547420": {
-    "url": "https://tnsul.com/2026/07/31/casa-e-atingida-por-incendio-e-mobiliza-bombeiros-em-criciuma",
-    "title": "Incêndio destrói casa em Criciúma e mobiliza bombeiros",
-    "guid": "sc1multi:df67ec779989f50c03d8e6dd1486fe37b1bd33e4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df67ec779989f50c03d8e6dd1486fe37b1bd33e4/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
-  },
-  "source:43ee4d9058322659624fad0e24760b8b14aaa8d9": {
-    "url": "https://tnsul.com/2026/07/31/geovania-de-sa-destaca-pautas-para-o-sul-de-sc-durante-corrida-eleitoral",
-    "title": "Geovania de Sá destaca pautas prioritárias para o Sul de Santa Catarina",
-    "guid": "sc1multi:656f9760918a2a6e9c2dcded7b79e2453e580178",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_656f9760918a2a6e9c2dcded7b79e2453e580178/",
-    "usedAt": 1785507245298,
-    "usedAtIso": "2026-07-31T14:14:05.298Z"
-  },
-  "source:c5047798d7c588728ce4471ffc45e30649830072": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-criciuma-realiza-10a-edicao-da-operacao-limpa-fios-na-rua-anita-garibaldi-nesta-sexta-feira",
-    "title": "Prefeitura de Criciúma realiza 10ª edição da Operação Limpa Fios na Rua Anita Garibaldi",
-    "guid": "sc1multi:c5047798d7c588728ce4471ffc45e30649830072",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c5047798d7c588728ce4471ffc45e30649830072/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
-  },
-  "source:5657b1b13954acfc8c6a04487e220cc76cbb0513": {
-    "url": "https://ocp.news/seguranca/trabalhador-fica-prensado-entre-carga-e-carreta-em-grave-acidente-no-oeste-de-sc",
-    "title": "Trabalhador fica prensado em acidente grave no Oeste de Santa Catarina",
-    "guid": "sc1multi:5657b1b13954acfc8c6a04487e220cc76cbb0513",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5657b1b13954acfc8c6a04487e220cc76cbb0513/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
-  },
-  "source:109280dc3a79fa260eb59b853c20769d7a3f464c": {
-    "url": "https://ocp.news/cotidiano/cao1-e-resgatado-com-vida-apos-passar-cerca-de-20-horas-sob-escombros-em-concordia",
-    "title": "Cão é resgatado após 20 horas sob escombros em Concórdia, SC",
-    "guid": "sc1multi:109280dc3a79fa260eb59b853c20769d7a3f464c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_109280dc3a79fa260eb59b853c20769d7a3f464c/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
-  },
-  "source:e7ef8951e380c0383e9156bcb0506835f177010a": {
-    "url": "https://ocp.news/cotidiano/saiba-como-ficara-avenida-em-florianopolis-com-novo-corredor-para-onibus",
-    "title": "Florianópolis inicia obras para corredor exclusivo de ônibus na Avenida Mauro Ramos",
-    "guid": "sc1multi:e7ef8951e380c0383e9156bcb0506835f177010a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7ef8951e380c0383e9156bcb0506835f177010a/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
-  },
-  "source:b33c73b22e20ee73b6fbf4d137dc471c5185a87f": {
-    "url": "https://tnsul.com/2026/07/31/trabalhador-e-resgatado-apos-ser-esmagado-por-estruturas-metalicas-em-sc",
-    "title": "Trabalhador é resgatado após acidente grave em Cordilheira Alta",
-    "guid": "sc1multi:b1103e1d1034f15a2fb257c4c482df74bae26fff",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b1103e1d1034f15a2fb257c4c482df74bae26fff/",
-    "usedAt": 1785507245298,
-    "usedAtIso": "2026-07-31T14:14:05.298Z"
-  },
-  "source:f5d5f57a76f4e0aee612c81a17e03390174cd9c0": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-inicia-recuperacao-de-faixas-elevadas-em-diferentes-pontos-da-cidade",
-    "title": "Jaraguá do Sul inicia recuperação de faixas elevadas em vários bairros",
-    "guid": "sc1multi:f5d5f57a76f4e0aee612c81a17e03390174cd9c0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5d5f57a76f4e0aee612c81a17e03390174cd9c0/",
-    "usedAt": 1785525244509,
-    "usedAtIso": "2026-07-31T19:14:04.509Z"
+  "source:b4352e27c1f68452a348b57c2bf755fec45528b5": {
+    "url": "https://tudoaquisc.com.br/transito/oficinas-plano-mob-urbana",
+    "title": "Florianópolis promove oficinas para revisão do Plano de Mobilidade Urbana",
+    "guid": "sc1multi:bbbf64a7b58a9eecbd669bf785b1a63fb746b632",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbbf64a7b58a9eecbd669bf785b1a63fb746b632/",
+    "usedAt": 1785528845532,
+    "usedAtIso": "2026-07-31T20:14:05.532Z"
   }
 }
