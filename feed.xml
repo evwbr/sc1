@@ -9,23 +9,24 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Fri, 31 Jul 2026 07:16:04 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 10:16:08 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/?rssretry=43</link>
+<title><![CDATA[Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 30 Jul 2026 17:27:03 GMT</pubDate>
+<pubDate>Fri, 31 Jul 2026 10:00:53 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3:rssretry43]]></guid>
-<description><![CDATA[A Camerata Florianópolis realiza o concerto As Quatro Estações, de Vivaldi, no Teatro Ademir Rosa neste sábado.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCamerata-de-Florianopolis-apresenta-as-quatro-estacoes-de-vivaldi.webp" type="image/webp"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCamerata-de-Florianopolis-apresenta-as-quatro-estacoes-de-vivaldi.webp" medium="image" type="image/webp"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2FCamerata-de-Florianopolis-apresenta-as-quatro-estacoes-de-vivaldi.webp"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613:rssretry43]]></guid>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2FARAUCARIAS.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2FARAUCARIAS.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2FARAUCARIAS.jpg"/>
 <content:encoded><![CDATA[
-<p>A apresentação acontece às 20h no Teatro Ademir Rosa, localizado no Centro Integrado de Cultura (CIC), em Florianópolis.</p>
-<p>Os solos dos violinistas Débora Remor, Iva Giracca, Elias Vicente e Talita Limas destacam sons que remetem à natureza, como o canto dos pássaros, o vento e as tempestades.</p>
-<p>Os ingressos estão disponíveis para compra no site da Blueticket e na sede da Camerata Florianópolis, situada no bairro Santa Mônica.</p>
+<p>Especialistas alertam para a queda de araucárias monumentais em Santa Catarina, motivada pelo encharcamento do solo que compromete a sustentação das árvores.</p>
+<p>O 'Pinheirão', uma das maiores araucárias do país, está localizado em São Joaquim, Santa Catarina, com mais de 39 metros de altura e tronco de 3,25 metros de diâmetro.</p>
+<p>Para preservar essas espécies centenárias, são recomendadas ações como a melhoria da drenagem do solo e o monitoramento da umidade, além do uso de tomografia para avaliar a saúde interna das árvores.</p>
+<p>Pesquisadores também utilizam a clonagem para conservar o material genético das araucárias que já caíram, garantindo a preservação dessas árvores emblemáticas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
