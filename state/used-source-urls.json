@@ -1,4 +1,12 @@
 {
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785482044514,
+    "usedAtIso": "2026-07-31T07:14:04.514Z"
+  },
   "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
     "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
     "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
@@ -23,44 +31,12 @@
     "usedAt": 1785471245216,
     "usedAtIso": "2026-07-31T04:14:05.216Z"
   },
-  "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
-    "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
-    "guid": "sc1multi:c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9f50dbf7e9362745798d1018fe6f4f2c7f7ecbf/",
-    "usedAt": 1785467644468,
-    "usedAtIso": "2026-07-31T03:14:04.468Z"
-  },
-  "source:7f189a23cc861077f2111bfd1946f5b9152c87c6": {
-    "url": "https://correiosc.com.br/joao-cobalchini-reune-mais-de-2-mil-pessoas-em-encontro-de-pre-campanha",
-    "title": "João Cobalchini reúne mais de 2 mil pessoas em evento em Florianópolis",
-    "guid": "sc1multi:b4658ea335deaf14706a906a6add2cc74cc8f5dc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4658ea335deaf14706a906a6add2cc74cc8f5dc/",
-    "usedAt": 1785464044378,
-    "usedAtIso": "2026-07-31T02:14:04.378Z"
-  },
-  "source:9f6fce81f2eacf9e54448831e9c670b36667c84d": {
-    "url": "https://rbatv.com.br/noticias/prf-combate-excesso-de-peso-e-transito-noturno-ilegal-de-cargas-na-br-470",
-    "title": "PRF fiscaliza excesso de peso e trânsito noturno ilegal na BR-470 em Santa Catarina",
-    "guid": "sc1multi:d8e958a55db1e50e1fac5b76df1806c7b559ab3d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d8e958a55db1e50e1fac5b76df1806c7b559ab3d/",
-    "usedAt": 1785460444722,
-    "usedAtIso": "2026-07-31T01:14:04.722Z"
-  },
-  "source:c339bf13336860a50c5c30c343f5f47af5ec930b": {
-    "url": "https://tnsul.com/2026/07/30/morro-da-fumaca-recebe-etapa-de-enduro",
-    "title": "Morro da Fumaça recebe etapa da Copa MTC de Enduro de Regularidade",
-    "guid": "sc1multi:7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d28e1eeca91d3a72b95a9d6ed3d994721a93ba7/",
-    "usedAt": 1785460444722,
-    "usedAtIso": "2026-07-31T01:14:04.722Z"
-  },
-  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
-    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
-    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
-    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
-    "usedAt": 1785482044514,
-    "usedAtIso": "2026-07-31T07:14:04.514Z"
+  "source:32cea3b40d0a1d42990c47406b88a465d5c58613": {
+    "url": "https://ocp.news/cotidiano/efeito-el-nino-entenda-porque-as-araucaria-gigantes-estao-caindo",
+    "title": "Araucárias gigantes em Santa Catarina sofrem com solo encharcado e tombam",
+    "guid": "sc1multi:32cea3b40d0a1d42990c47406b88a465d5c58613",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32cea3b40d0a1d42990c47406b88a465d5c58613/",
+    "usedAt": 1785492844461,
+    "usedAtIso": "2026-07-31T10:14:04.461Z"
   }
 }
