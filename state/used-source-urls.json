@@ -1,4 +1,20 @@
 {
+  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
+    "title": "Homem é levado à delegacia após arremessar pedras contra veículos em Rio do Sul",
+    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
+    "usedAt": 1785471245216,
+    "usedAtIso": "2026-07-31T04:14:05.216Z"
+  },
+  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
+    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
+    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
+    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
+    "usedAt": 1785471245216,
+    "usedAtIso": "2026-07-31T04:14:05.216Z"
+  },
   "source:33b4380720c2c81cf3f1930a5b3ce85e4a61d69a": {
     "url": "https://scportais.com.br/2026/07/29/antidio-lunelli-confirma-pre-candidatura-ao-senado-e-convoca-mdb-para-convencao",
     "title": "Antídio Lunelli confirma pré-candidatura ao Senado em convenção do MDB em SC",
@@ -31,28 +47,12 @@
     "usedAt": 1785460444722,
     "usedAtIso": "2026-07-31T01:14:04.722Z"
   },
-  "source:8505f6c2e6f6dbf80c0eef946ef28108cd91ae8d": {
-    "url": "https://tnsul.com/2026/07/30/ong-quero-adotar-realiza-feira-de-adocao-de-gatos-neste-sabado",
-    "title": "ONG Quero Adotar promove feira de adoção de gatos em Criciúma",
-    "guid": "sc1multi:f06aceb8cfc077ac0249172749288be314a394f8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f06aceb8cfc077ac0249172749288be314a394f8/",
-    "usedAt": 1785453245033,
-    "usedAtIso": "2026-07-30T23:14:05.033Z"
-  },
-  "source:06d1f7f4c1c6f842b96c1225fdef3e86f5bf9c96": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-arremessar-pedras-contra-veiculos-em-rio-do-sul",
-    "title": "Homem é levado à delegacia após arremessar pedras contra veículos em Rio do Sul",
-    "guid": "sc1multi:0acca02c8fc0c40324b68240bd666d4d1c3e57b3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0acca02c8fc0c40324b68240bd666d4d1c3e57b3/",
-    "usedAt": 1785471245216,
-    "usedAtIso": "2026-07-31T04:14:05.216Z"
-  },
-  "source:07295b429c8f70715bc619be206e7bf856b3cc38": {
-    "url": "https://correiosc.com.br/filme-produzido-em-sao-jose-e-premiado-em-18-paises-estreia-nos-cinemas-da-grande-florianopolis",
-    "title": "Filme produzido em São José estreia no circuito comercial da Grande Florianópolis",
-    "guid": "sc1multi:895b7fcc586ad46ad922c09f79aff107dd89eb5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895b7fcc586ad46ad922c09f79aff107dd89eb5f/",
-    "usedAt": 1785471245216,
-    "usedAtIso": "2026-07-31T04:14:05.216Z"
+  "source:cb1e744e85671d6f058eb27d97a08cfd5c091523": {
+    "url": "https://ocp.news/seguranca/advogado-e-condenado-por-se-apropriar-de-r-16-mil-de-cliente-em-joinville",
+    "title": "Advogado é condenado por apropriação indevida de valores em Joinville",
+    "guid": "sc1multi:cb1e744e85671d6f058eb27d97a08cfd5c091523",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb1e744e85671d6f058eb27d97a08cfd5c091523/",
+    "usedAt": 1785478444470,
+    "usedAtIso": "2026-07-31T06:14:04.470Z"
   }
 }
