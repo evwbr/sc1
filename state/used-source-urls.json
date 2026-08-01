@@ -1,4 +1,28 @@
 {
+  "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
+    "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
+    "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
+    "guid": "sc1multi:2577113e4fee51dce74dc668eb03c82e03547338",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2577113e4fee51dce74dc668eb03c82e03547338/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  },
+  "source:4d8c43977eaac01a614c88e6b8aefe2b46c4165d": {
+    "url": "https://tnsul.com/2026/08/01/mulher-e-presa-por-divida-de-pensao-alimenticia-em-forquilhinha",
+    "title": "Mulher é presa em Forquilhinha por dívida de pensão alimentícia",
+    "guid": "sc1multi:fac14b70c4c11553dedc243efe14fe3d5593ce66",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fac14b70c4c11553dedc243efe14fe3d5593ce66/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  },
+  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
+    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
+    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
+    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  },
   "source:a2807fe2f16c4b153a6097107fcf8c538ff6ace9": {
     "url": "https://tnsul.com/2026/08/01/idoso-e-agredido-durante-assalto-e-tem-dois-veiculos-roubados-no-rincao",
     "title": "Idoso é agredido e tem dois veículos roubados em Balneário Rincão",
@@ -23,28 +47,28 @@
     "usedAt": 1785579244973,
     "usedAtIso": "2026-08-01T10:14:04.973Z"
   },
-  "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
-    "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
-    "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
-    "guid": "sc1multi:2577113e4fee51dce74dc668eb03c82e03547338",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2577113e4fee51dce74dc668eb03c82e03547338/",
-    "usedAt": 1785586444131,
-    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  "source:ed37fa1612357e2f29488cd27c08a0842c20ce92": {
+    "url": "https://ocp.news/seguranca/morador-e-morto-dentro-de-casa-durante-assalto-em-sc-criminosos-levaram-duas-motocicletas",
+    "title": "Homem é morto durante assalto em residência em Itapema, SC",
+    "guid": "sc1multi:ed37fa1612357e2f29488cd27c08a0842c20ce92",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed37fa1612357e2f29488cd27c08a0842c20ce92/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
   },
-  "source:4d8c43977eaac01a614c88e6b8aefe2b46c4165d": {
-    "url": "https://tnsul.com/2026/08/01/mulher-e-presa-por-divida-de-pensao-alimenticia-em-forquilhinha",
-    "title": "Mulher é presa em Forquilhinha por dívida de pensão alimentícia",
-    "guid": "sc1multi:fac14b70c4c11553dedc243efe14fe3d5593ce66",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fac14b70c4c11553dedc243efe14fe3d5593ce66/",
-    "usedAt": 1785586444131,
-    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
+    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
+    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
   },
-  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
-    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
-    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
-    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
-    "usedAt": 1785586444131,
-    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
+    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
+    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
   }
 }
