@@ -1,4 +1,12 @@
 {
+  "source:b57c59f2dd5afedbb976c0c5926384d611da0df6": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-tenis-de-mesa-fatura-primeiro-ouro-e-cinco-times-se-garantem-na-semi",
+    "title": "Jaraguá do Sul conquista ouro no tênis de mesa nos Joguinhos Abertos de SC",
+    "guid": "sc1multi:b57c59f2dd5afedbb976c0c5926384d611da0df6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b57c59f2dd5afedbb976c0c5926384d611da0df6/",
+    "usedAt": 1785557645643,
+    "usedAtIso": "2026-08-01T04:14:05.643Z"
+  },
   "source:59ecc44f5ad52258e77cabe578842ff6a51ef44d": {
     "url": "https://rbatv.com.br/noticias/dupla-e-presa-em-flagrante-por-furto-de-fios-de-cobre-em-ituporanga",
     "title": "Dupla é presa em flagrante por furto de fios de cobre em Ituporanga",
@@ -55,12 +63,12 @@
     "usedAt": 1785543244122,
     "usedAtIso": "2026-08-01T00:14:04.122Z"
   },
-  "source:b57c59f2dd5afedbb976c0c5926384d611da0df6": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-tenis-de-mesa-fatura-primeiro-ouro-e-cinco-times-se-garantem-na-semi",
-    "title": "Jaraguá do Sul conquista ouro no tênis de mesa nos Joguinhos Abertos de SC",
-    "guid": "sc1multi:b57c59f2dd5afedbb976c0c5926384d611da0df6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b57c59f2dd5afedbb976c0c5926384d611da0df6/",
-    "usedAt": 1785557645643,
-    "usedAtIso": "2026-08-01T04:14:05.643Z"
+  "source:f5d5f57a76f4e0aee612c81a17e03390174cd9c0": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-inicia-recuperacao-de-faixas-elevadas-em-diferentes-pontos-da-cidade",
+    "title": "Jaraguá do Sul inicia recuperação de faixas elevadas em vários bairros",
+    "guid": "sc1multi:f5d5f57a76f4e0aee612c81a17e03390174cd9c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5d5f57a76f4e0aee612c81a17e03390174cd9c0/",
+    "usedAt": 1785561244481,
+    "usedAtIso": "2026-08-01T05:14:04.481Z"
   }
 }
