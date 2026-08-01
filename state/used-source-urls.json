@@ -1,4 +1,28 @@
 {
+  "source:ed37fa1612357e2f29488cd27c08a0842c20ce92": {
+    "url": "https://ocp.news/seguranca/morador-e-morto-dentro-de-casa-durante-assalto-em-sc-criminosos-levaram-duas-motocicletas",
+    "title": "Homem é morto durante assalto em residência em Itapema, SC",
+    "guid": "sc1multi:ed37fa1612357e2f29488cd27c08a0842c20ce92",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed37fa1612357e2f29488cd27c08a0842c20ce92/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  },
+  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
+    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
+    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  },
+  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
+    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
+    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
+    "usedAt": 1785590044216,
+    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  },
   "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
     "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
     "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
@@ -47,28 +71,44 @@
     "usedAt": 1785579244973,
     "usedAtIso": "2026-08-01T10:14:04.973Z"
   },
-  "source:ed37fa1612357e2f29488cd27c08a0842c20ce92": {
-    "url": "https://ocp.news/seguranca/morador-e-morto-dentro-de-casa-durante-assalto-em-sc-criminosos-levaram-duas-motocicletas",
-    "title": "Homem é morto durante assalto em residência em Itapema, SC",
-    "guid": "sc1multi:ed37fa1612357e2f29488cd27c08a0842c20ce92",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed37fa1612357e2f29488cd27c08a0842c20ce92/",
-    "usedAt": 1785590044216,
-    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  "source:7d964e999acc702757adefba60a848a4196013f8": {
+    "url": "https://tnsul.com/2026/08/01/mais-duas-empresas-tem-fiacao-eletrica-furtada-em-criciuma",
+    "title": "Furto de fiação elétrica atinge duas empresas em Criciúma",
+    "guid": "sc1multi:b73d2c09a31d2541e28d40a8781c1edd3d725111",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b73d2c09a31d2541e28d40a8781c1edd3d725111/",
+    "usedAt": 1785593644726,
+    "usedAtIso": "2026-08-01T14:14:04.726Z"
   },
-  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
-    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
-    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
-    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
-    "usedAt": 1785590044216,
-    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  "source:dbd02d83c2fdcc7c2084fc8838431bf4d026c552": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-atendem-principio-de-incendio-em-residencia-em-lages",
+    "title": "Bombeiros controlam princípio de incêndio em residência em Lages",
+    "guid": "sc1multi:2cc8a6574a4b00b80a6b0fa7360b8e4b36c5f333",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cc8a6574a4b00b80a6b0fa7360b8e4b36c5f333/",
+    "usedAt": 1785593644726,
+    "usedAtIso": "2026-08-01T14:14:04.726Z"
   },
-  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
-    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
-    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
-    "usedAt": 1785590044216,
-    "usedAtIso": "2026-08-01T13:14:04.216Z"
+  "source:fdce7a9168f9b01f5e2002975b4dc7942fa2f43a": {
+    "url": "https://rbatv.com.br/noticias/pm-recaptura-foragido-do-presidio-de-itajai-em-rio-do-sul",
+    "title": "PM recaptura foragido do presídio de Itajaí em Rio do Sul",
+    "guid": "sc1multi:9ec11f94cf0156bdae21a27afb6ed44b34432d92",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ec11f94cf0156bdae21a27afb6ed44b34432d92/",
+    "usedAt": 1785593644726,
+    "usedAtIso": "2026-08-01T14:14:04.726Z"
+  },
+  "source:f259b3047676ba7e846dfae400b510b82c322abc": {
+    "url": "https://ocp.news/seguranca/homem-tenta-fugir-de-bicicleta-e-e-preso-com-maconha-em-jaragua-do-sul",
+    "title": "Homem é preso com maconha após tentativa de fuga em Jaraguá do Sul",
+    "guid": "sc1multi:f259b3047676ba7e846dfae400b510b82c322abc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f259b3047676ba7e846dfae400b510b82c322abc/",
+    "usedAt": 1785593644726,
+    "usedAtIso": "2026-08-01T14:14:04.726Z"
+  },
+  "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
+    "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
+    "title": "Camerata Florianópolis apresenta concerto As Quatro Estações no Teatro Ademir Rosa",
+    "guid": "sc1multi:2306db42b30db33feef310a8a0d320b8ab912cf3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2306db42b30db33feef310a8a0d320b8ab912cf3/",
+    "usedAt": 1785593644726,
+    "usedAtIso": "2026-08-01T14:14:04.726Z"
   }
 }
