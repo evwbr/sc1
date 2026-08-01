@@ -1,4 +1,60 @@
 {
+  "source:eb0b40f6a172f1fceed5be4e5ddea12e4d80a702": {
+    "url": "https://tnsul.com/2026/08/01/criciuma-casa-pega-fogo-no-bairro-maria-ceu",
+    "title": "Incêndio atinge casa no bairro Maria Céu em Criciúma",
+    "guid": "sc1multi:a8e29c2881d59544ed7296968f292bc4f0976f26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a8e29c2881d59544ed7296968f292bc4f0976f26/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
+    "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
+    "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
+    "guid": "sc1multi:2577113e4fee51dce74dc668eb03c82e03547338",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2577113e4fee51dce74dc668eb03c82e03547338/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:4d8c43977eaac01a614c88e6b8aefe2b46c4165d": {
+    "url": "https://tnsul.com/2026/08/01/mulher-e-presa-por-divida-de-pensao-alimenticia-em-forquilhinha",
+    "title": "Mulher é presa em Forquilhinha por dívida de pensão alimentícia",
+    "guid": "sc1multi:fac14b70c4c11553dedc243efe14fe3d5593ce66",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fac14b70c4c11553dedc243efe14fe3d5593ce66/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:a2807fe2f16c4b153a6097107fcf8c538ff6ace9": {
+    "url": "https://tnsul.com/2026/08/01/idoso-e-agredido-durante-assalto-e-tem-dois-veiculos-roubados-no-rincao",
+    "title": "Idoso é agredido e tem veículos roubados em Balneário Rincão",
+    "guid": "sc1multi:642c3222bf69b81176cc70c56875aa3675e38367",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_642c3222bf69b81176cc70c56875aa3675e38367/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:b57c59f2dd5afedbb976c0c5926384d611da0df6": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-tenis-de-mesa-fatura-primeiro-ouro-e-cinco-times-se-garantem-na-semi",
+    "title": "Jaraguá do Sul conquista ouro no tênis de mesa nos Joguinhos Abertos de SC",
+    "guid": "sc1multi:b57c59f2dd5afedbb976c0c5926384d611da0df6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b57c59f2dd5afedbb976c0c5926384d611da0df6/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
+    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
+    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
+    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
+  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
+    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
+    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
+    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
+    "usedAt": 1785611644324,
+    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  },
   "source:a749ebbdd32d685349363827caaae96c365f0584": {
     "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
     "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
@@ -164,32 +220,32 @@
     "title": "Furto de fiação elétrica atinge duas empresas em Criciúma",
     "guid": "sc1multi:b73d2c09a31d2541e28d40a8781c1edd3d725111",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b73d2c09a31d2541e28d40a8781c1edd3d725111/",
-    "usedAt": 1785593644726,
-    "usedAtIso": "2026-08-01T14:14:04.726Z"
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
   "source:dbd02d83c2fdcc7c2084fc8838431bf4d026c552": {
     "url": "https://rbatv.com.br/noticias/bombeiros-atendem-principio-de-incendio-em-residencia-em-lages",
     "title": "Bombeiros controlam princípio de incêndio em residência em Lages",
     "guid": "sc1multi:2cc8a6574a4b00b80a6b0fa7360b8e4b36c5f333",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2cc8a6574a4b00b80a6b0fa7360b8e4b36c5f333/",
-    "usedAt": 1785593644726,
-    "usedAtIso": "2026-08-01T14:14:04.726Z"
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
   "source:fdce7a9168f9b01f5e2002975b4dc7942fa2f43a": {
     "url": "https://rbatv.com.br/noticias/pm-recaptura-foragido-do-presidio-de-itajai-em-rio-do-sul",
     "title": "PM recaptura foragido do presídio de Itajaí em Rio do Sul",
     "guid": "sc1multi:9ec11f94cf0156bdae21a27afb6ed44b34432d92",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ec11f94cf0156bdae21a27afb6ed44b34432d92/",
-    "usedAt": 1785593644726,
-    "usedAtIso": "2026-08-01T14:14:04.726Z"
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
   "source:f259b3047676ba7e846dfae400b510b82c322abc": {
     "url": "https://ocp.news/seguranca/homem-tenta-fugir-de-bicicleta-e-e-preso-com-maconha-em-jaragua-do-sul",
     "title": "Homem é preso com maconha após tentativa de fuga em Jaraguá do Sul",
     "guid": "sc1multi:f259b3047676ba7e846dfae400b510b82c322abc",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f259b3047676ba7e846dfae400b510b82c322abc/",
-    "usedAt": 1785593644726,
-    "usedAtIso": "2026-08-01T14:14:04.726Z"
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
   "source:4bc508fd29ff495bd37a5cf1f7732c4b3ff2a43c": {
     "url": "https://correiosc.com.br/camerata-florianopolis-apresenta-as-quatro-estacoes-de-vivaldi-no-cic",
@@ -199,60 +255,28 @@
     "usedAt": 1785593644726,
     "usedAtIso": "2026-08-01T14:14:04.726Z"
   },
-  "source:eb0b40f6a172f1fceed5be4e5ddea12e4d80a702": {
-    "url": "https://tnsul.com/2026/08/01/criciuma-casa-pega-fogo-no-bairro-maria-ceu",
-    "title": "Incêndio atinge casa no bairro Maria Céu em Criciúma",
-    "guid": "sc1multi:a8e29c2881d59544ed7296968f292bc4f0976f26",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a8e29c2881d59544ed7296968f292bc4f0976f26/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  "source:f746749585293195d8c665e441cda3d9b4493915": {
+    "url": "https://tnsul.com/2026/08/01/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc",
+    "title": "PSD oficializa João Rodrigues candidato ao governo de Santa Catarina",
+    "guid": "sc1multi:8cd035fa0fa83b726d5c5753cb98f6f48dce3a45",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8cd035fa0fa83b726d5c5753cb98f6f48dce3a45/",
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
-  "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
-    "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
-    "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
-    "guid": "sc1multi:2577113e4fee51dce74dc668eb03c82e03547338",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2577113e4fee51dce74dc668eb03c82e03547338/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  "source:ed37fa1612357e2f29488cd27c08a0842c20ce92": {
+    "url": "https://ocp.news/seguranca/morador-e-morto-dentro-de-casa-durante-assalto-em-sc-criminosos-levaram-duas-motocicletas",
+    "title": "Homem é morto durante assalto em residência em Itapema, SC",
+    "guid": "sc1multi:ed37fa1612357e2f29488cd27c08a0842c20ce92",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed37fa1612357e2f29488cd27c08a0842c20ce92/",
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   },
-  "source:4d8c43977eaac01a614c88e6b8aefe2b46c4165d": {
-    "url": "https://tnsul.com/2026/08/01/mulher-e-presa-por-divida-de-pensao-alimenticia-em-forquilhinha",
-    "title": "Mulher é presa em Forquilhinha por dívida de pensão alimentícia",
-    "guid": "sc1multi:fac14b70c4c11553dedc243efe14fe3d5593ce66",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fac14b70c4c11553dedc243efe14fe3d5593ce66/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
-  },
-  "source:a2807fe2f16c4b153a6097107fcf8c538ff6ace9": {
-    "url": "https://tnsul.com/2026/08/01/idoso-e-agredido-durante-assalto-e-tem-dois-veiculos-roubados-no-rincao",
-    "title": "Idoso é agredido e tem veículos roubados em Balneário Rincão",
-    "guid": "sc1multi:642c3222bf69b81176cc70c56875aa3675e38367",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_642c3222bf69b81176cc70c56875aa3675e38367/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
-  },
-  "source:b57c59f2dd5afedbb976c0c5926384d611da0df6": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-tenis-de-mesa-fatura-primeiro-ouro-e-cinco-times-se-garantem-na-semi",
-    "title": "Jaraguá do Sul conquista ouro no tênis de mesa nos Joguinhos Abertos de SC",
-    "guid": "sc1multi:b57c59f2dd5afedbb976c0c5926384d611da0df6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b57c59f2dd5afedbb976c0c5926384d611da0df6/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
-  },
-  "source:c7bad8931c3d56b510b2581d14a7a47ff5c1232f": {
-    "url": "https://scportais.com.br/2026/07/31/lunelli-convoca-mdb-a-unidade-e-confirma-pre-candidatura-ao-senado-em-carta-as-liderancas",
-    "title": "Antídio Lunelli confirma pré-candidatura ao Senado pelo MDB em Santa Catarina",
-    "guid": "sc1multi:a3f08570b9aead8539d96974bed139e10ee3fa58",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3f08570b9aead8539d96974bed139e10ee3fa58/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
-  },
-  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
-    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
-    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
-    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
-    "usedAt": 1785611644324,
-    "usedAtIso": "2026-08-01T19:14:04.324Z"
+  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
+    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
+    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
+    "usedAt": 1785615244355,
+    "usedAtIso": "2026-08-01T20:14:04.355Z"
   }
 }
