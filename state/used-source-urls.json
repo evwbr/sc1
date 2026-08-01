@@ -1,4 +1,28 @@
 {
+  "source:59ecc44f5ad52258e77cabe578842ff6a51ef44d": {
+    "url": "https://rbatv.com.br/noticias/dupla-e-presa-em-flagrante-por-furto-de-fios-de-cobre-em-ituporanga",
+    "title": "Dupla é presa em flagrante por furto de fios de cobre em Ituporanga",
+    "guid": "sc1multi:691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  },
+  "source:359d4d724cfd9d87392d58db6cc1abc7689bd2ac": {
+    "url": "https://tudoaquisc.com.br/esporte/circuito-surf-pro-laguna",
+    "title": "Circuito Catarinense de Surf 2026 em Laguna é adiado por um dia",
+    "guid": "sc1multi:6a7f756f4e547cc925e823b667b8122c9557a8da",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a7f756f4e547cc925e823b667b8122c9557a8da/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  },
+  "source:7d51889a352374e4d9606fe3d35dfaa5dd26d3e8": {
+    "url": "https://correiosc.com.br/guarda-municipal-sao-jose-recupera-dois-veiculos-roubados-mesmo-dia",
+    "title": "Guarda Municipal de São José recupera dois veículos roubados",
+    "guid": "sc1multi:e152bcc8896f886df1b11a6e52539355d86517ed",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e152bcc8896f886df1b11a6e52539355d86517ed/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  },
   "source:d73562f9c4f7556749d2e47b8acb073135455e2e": {
     "url": "https://tnsul.com/2026/08/01/tecnico-e-atleta-de-criciuma-estao-na-selecao-paralimpica-de-jovens",
     "title": "Técnico e atleta de Criciúma são convocados para Seleção Paralímpica de Jovens",
@@ -175,44 +199,52 @@
     "usedAt": 1785586444131,
     "usedAtIso": "2026-08-01T12:14:04.131Z"
   },
-  "source:a2807fe2f16c4b153a6097107fcf8c538ff6ace9": {
-    "url": "https://tnsul.com/2026/08/01/idoso-e-agredido-durante-assalto-e-tem-dois-veiculos-roubados-no-rincao",
-    "title": "Idoso é agredido e tem dois veículos roubados em Balneário Rincão",
-    "guid": "sc1multi:642c3222bf69b81176cc70c56875aa3675e38367",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_642c3222bf69b81176cc70c56875aa3675e38367/",
-    "usedAt": 1785582844208,
-    "usedAtIso": "2026-08-01T11:14:04.208Z"
+  "source:a749ebbdd32d685349363827caaae96c365f0584": {
+    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
+    "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
+    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
   },
-  "source:1e1cfb664b3382602c2b9c109a6bbdc3257a3866": {
-    "url": "https://tudoaquisc.com.br/educacao/volta-as-aulas-reune-37-mil-310",
-    "title": "Volta às aulas mobiliza mais de 37 mil alunos em Florianópolis",
-    "guid": "sc1multi:26357b2b52211f6ee51f77f8751b40a9c7966249",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26357b2b52211f6ee51f77f8751b40a9c7966249/",
-    "usedAt": 1785582844208,
-    "usedAtIso": "2026-08-01T11:14:04.208Z"
+  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
+    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
   },
-  "source:59ecc44f5ad52258e77cabe578842ff6a51ef44d": {
-    "url": "https://rbatv.com.br/noticias/dupla-e-presa-em-flagrante-por-furto-de-fios-de-cobre-em-ituporanga",
-    "title": "Dupla é presa em flagrante por furto de fios de cobre em Ituporanga",
-    "guid": "sc1multi:691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d/",
-    "usedAt": 1785604444195,
-    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  "source:163e2a54c2dd022dfc0cc954e618599db0c37f73": {
+    "url": "https://ocp.news/esporte/ex-jogador-de-grandes-clubes-do-brasil-revela-que-sera-tecnico-do-jec",
+    "title": "Ex-jogador Diego Souza será técnico do Joinville em 2026",
+    "guid": "sc1multi:163e2a54c2dd022dfc0cc954e618599db0c37f73",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_163e2a54c2dd022dfc0cc954e618599db0c37f73/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
   },
-  "source:359d4d724cfd9d87392d58db6cc1abc7689bd2ac": {
-    "url": "https://tudoaquisc.com.br/esporte/circuito-surf-pro-laguna",
-    "title": "Circuito Catarinense de Surf 2026 em Laguna é adiado por um dia",
-    "guid": "sc1multi:6a7f756f4e547cc925e823b667b8122c9557a8da",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a7f756f4e547cc925e823b667b8122c9557a8da/",
-    "usedAt": 1785604444195,
-    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  "source:81107e2091ad368398f8dc473ebd317dfd13813f": {
+    "url": "https://ocp.news/esporte/visitantes-vencem-na-abertura-do-torneio-de-inverno-de-futsal-de-corupa",
+    "title": "Torneio de Inverno de Futsal de Corupá começa com vitória dos visitantes",
+    "guid": "sc1multi:81107e2091ad368398f8dc473ebd317dfd13813f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81107e2091ad368398f8dc473ebd317dfd13813f/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
   },
-  "source:7d51889a352374e4d9606fe3d35dfaa5dd26d3e8": {
-    "url": "https://correiosc.com.br/guarda-municipal-sao-jose-recupera-dois-veiculos-roubados-mesmo-dia",
-    "title": "Guarda Municipal de São José recupera dois veículos roubados",
-    "guid": "sc1multi:e152bcc8896f886df1b11a6e52539355d86517ed",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e152bcc8896f886df1b11a6e52539355d86517ed/",
-    "usedAt": 1785604444195,
-    "usedAtIso": "2026-08-01T17:14:04.195Z"
+  "source:81beaad8b12cc2a440cc28cacd9dbc195208e8f9": {
+    "url": "https://ocp.news/cotidiano/ceu-limpo-abre-o-fim-de-semana-antes-da-virada-no-tempo",
+    "title": "Fim de semana começa com céu limpo e mudança no tempo em Santa Catarina",
+    "guid": "sc1multi:81beaad8b12cc2a440cc28cacd9dbc195208e8f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81beaad8b12cc2a440cc28cacd9dbc195208e8f9/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
+  },
+  "source:7b7afb6206247fffd77eca3bb1072207ebf1e490": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/acidente-de-trabalho-mata-jovem-31-7",
+    "title": "Acidente de trabalho em silo mata jovem no Oeste catarinense",
+    "guid": "sc1multi:6d210d1d156d2aa6fbe7f4b5cb095414a2474831",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d210d1d156d2aa6fbe7f4b5cb095414a2474831/",
+    "usedAt": 1785608043916,
+    "usedAtIso": "2026-08-01T18:14:03.916Z"
   }
 }
