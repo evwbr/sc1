@@ -9,23 +9,25 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Sat, 01 Aug 2026 05:16:21 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 10:16:29 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Jaraguá do Sul inicia recuperação de faixas elevadas em vários bairros]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_f5d5f57a76f4e0aee612c81a17e03390174cd9c0/?rssretry=43</link>
+<title><![CDATA[Fim de semana começa com céu limpo e mudança no tempo em Santa Catarina]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_81beaad8b12cc2a440cc28cacd9dbc195208e8f9/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 31 Jul 2026 18:46:35 GMT</pubDate>
+<pubDate>Sat, 01 Aug 2026 09:37:52 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:f5d5f57a76f4e0aee612c81a17e03390174cd9c0:rssretry43]]></guid>
-<description><![CDATA[A Prefeitura de Jaraguá do Sul começou a recuperar faixas elevadas em diferentes pontos da cidade.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2F5ad9eac3-49f2-43a1-a09d-befc1f7ff162.png" type="image/png"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2F5ad9eac3-49f2-43a1-a09d-befc1f7ff162.png" medium="image" type="image/png"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2F5ad9eac3-49f2-43a1-a09d-befc1f7ff162.png"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:81beaad8b12cc2a440cc28cacd9dbc195208e8f9:rssretry43]]></guid>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2Fsam-schooler-E9aetBe2w40-unsplash-2-scaled.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2Fsam-schooler-E9aetBe2w40-unsplash-2-scaled.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F07%2Fsam-schooler-E9aetBe2w40-unsplash-2-scaled.jpg"/>
 <content:encoded><![CDATA[
-<p>O trabalho teve início pela estrutura localizada na Rua José Theodoro Ribeiro, no bairro Ilha da Figueira, próximo ao Supermercado Cooper.</p>
-<p>Os serviços contam com o apoio de caminhões e máquinas pesadas, o que pode causar interdições parciais nas vias durante os reparos.</p>
-<p>Os locais em obras estão devidamente sinalizados, e a orientação é para que motoristas, motociclistas, ciclistas e pedestres redobrem a atenção ao trafegar pelas regiões.</p>
+<p>No sábado (1), o tempo em Santa Catarina permanece firme com céu limpo e temperaturas entre 16°C e 24°C.</p>
+<p>No domingo (2), as nuvens aumentam e o céu fica nublado, mantendo as temperaturas estáveis entre 16°C e 24°C.</p>
+<p>Na segunda-feira (3), o tempo segue encoberto, com mínima de 17°C e máxima de 24°C, e há previsão de pancadas de chuva e temporais isolados no Oeste e Sul do estado.</p>
+<p>Na Grande Florianópolis, Vale do Itajaí e Litoral Norte, a chance é de chuva fraca e isolada durante a madrugada e manhã.</p>
+<p>Os ventos sopram de nordeste a noroeste, fracos a moderados, com rajadas mais intensas entre 50 e 80 km/h do Oeste ao Litoral Sul.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
