@@ -1,20 +1,4 @@
 {
-  "source:81beaad8b12cc2a440cc28cacd9dbc195208e8f9": {
-    "url": "https://ocp.news/cotidiano/ceu-limpo-abre-o-fim-de-semana-antes-da-virada-no-tempo",
-    "title": "Fim de semana começa com céu limpo e mudança no tempo em Santa Catarina",
-    "guid": "sc1multi:81beaad8b12cc2a440cc28cacd9dbc195208e8f9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81beaad8b12cc2a440cc28cacd9dbc195208e8f9/",
-    "usedAt": 1785579244973,
-    "usedAtIso": "2026-08-01T10:14:04.973Z"
-  },
-  "source:f5d5f57a76f4e0aee612c81a17e03390174cd9c0": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-inicia-recuperacao-de-faixas-elevadas-em-diferentes-pontos-da-cidade",
-    "title": "Jaraguá do Sul inicia recuperação de faixas elevadas em vários bairros",
-    "guid": "sc1multi:f5d5f57a76f4e0aee612c81a17e03390174cd9c0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5d5f57a76f4e0aee612c81a17e03390174cd9c0/",
-    "usedAt": 1785561244481,
-    "usedAtIso": "2026-08-01T05:14:04.481Z"
-  },
   "source:a2807fe2f16c4b153a6097107fcf8c538ff6ace9": {
     "url": "https://tnsul.com/2026/08/01/idoso-e-agredido-durante-assalto-e-tem-dois-veiculos-roubados-no-rincao",
     "title": "Idoso é agredido e tem dois veículos roubados em Balneário Rincão",
@@ -30,5 +14,37 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26357b2b52211f6ee51f77f8751b40a9c7966249/",
     "usedAt": 1785582844208,
     "usedAtIso": "2026-08-01T11:14:04.208Z"
+  },
+  "source:81beaad8b12cc2a440cc28cacd9dbc195208e8f9": {
+    "url": "https://ocp.news/cotidiano/ceu-limpo-abre-o-fim-de-semana-antes-da-virada-no-tempo",
+    "title": "Fim de semana começa com céu limpo e mudança no tempo em Santa Catarina",
+    "guid": "sc1multi:81beaad8b12cc2a440cc28cacd9dbc195208e8f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81beaad8b12cc2a440cc28cacd9dbc195208e8f9/",
+    "usedAt": 1785579244973,
+    "usedAtIso": "2026-08-01T10:14:04.973Z"
+  },
+  "source:8aa1000084a3ed61067656f7964410d4c85c9be6": {
+    "url": "https://rbatv.com.br/noticias/motorista-e-flagrada-com-carteira-de-habilitacao-falsa-em-taio",
+    "title": "Motorista é preso por usar carteira de habilitação falsa em Taió",
+    "guid": "sc1multi:2577113e4fee51dce74dc668eb03c82e03547338",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2577113e4fee51dce74dc668eb03c82e03547338/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  },
+  "source:4d8c43977eaac01a614c88e6b8aefe2b46c4165d": {
+    "url": "https://tnsul.com/2026/08/01/mulher-e-presa-por-divida-de-pensao-alimenticia-em-forquilhinha",
+    "title": "Mulher é presa em Forquilhinha por dívida de pensão alimentícia",
+    "guid": "sc1multi:fac14b70c4c11553dedc243efe14fe3d5593ce66",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fac14b70c4c11553dedc243efe14fe3d5593ce66/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
+  },
+  "source:51124d9bcb7bb5553f9fab1356b1e67d9ce214e1": {
+    "url": "https://scportais.com.br/2026/07/30/espaco-dedicado-a-producao-serrana-de-cordeiros-retorna-a-programacao-da-feira-agroponte",
+    "title": "Espaço da produção serrana de cordeiros retorna à Feira AgroPonte em Criciúma",
+    "guid": "sc1multi:83ce57c60800d5b8db9103ac340100949071387f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83ce57c60800d5b8db9103ac340100949071387f/",
+    "usedAt": 1785586444131,
+    "usedAtIso": "2026-08-01T12:14:04.131Z"
   }
 }
