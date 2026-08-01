@@ -1,4 +1,36 @@
 {
+  "source:f01b88ea4f754ebc905fc5a2e9860815a2c8b029": {
+    "url": "https://ocp.news/esporte/campeonato-de-futebol-do-beira-rio-conhece-campeao-neste-sabado",
+    "title": "Campeonato de Futebol Suíço do Beira Rio define campeão neste sábado",
+    "guid": "sc1multi:f01b88ea4f754ebc905fc5a2e9860815a2c8b029",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f01b88ea4f754ebc905fc5a2e9860815a2c8b029/",
+    "usedAt": 1785597244220,
+    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  },
+  "source:d31ed13ad774e7f742edffb2dd1cc2c5bfe45091": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-sedia-semifinais-do-estadual-de-basquete-sub-20-masculino",
+    "title": "Jaraguá do Sul recebe semifinais do Campeonato Catarinense de Basquete Sub-20 Masculino",
+    "guid": "sc1multi:d31ed13ad774e7f742edffb2dd1cc2c5bfe45091",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d31ed13ad774e7f742edffb2dd1cc2c5bfe45091/",
+    "usedAt": 1785597244220,
+    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  },
+  "source:6e96c795f3bcb545a2f61af7e6cf5b2c401195ff": {
+    "url": "https://ocp.news/seguranca/corpo-carbonizado-e-encontrado-em-area-de-mata-em-gaspar",
+    "title": "Corpo carbonizado é encontrado em área de mata no bairro Gaspar Alto",
+    "guid": "sc1multi:6e96c795f3bcb545a2f61af7e6cf5b2c401195ff",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e96c795f3bcb545a2f61af7e6cf5b2c401195ff/",
+    "usedAt": 1785597244220,
+    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  },
+  "source:38e17a3b4a4f35b43614d5311a78b04b3bb4a43e": {
+    "url": "https://scportais.com.br/2026/07/30/bndes-registra-r-277-bilhoes-de-financiamentos-aprovados-para-renovacao-de-frota-de-caminhoes-e-de-onibus-em-sc",
+    "title": "BNDES aprova R$ 2,77 bilhões para renovação de frota em Santa Catarina",
+    "guid": "sc1multi:68a20dee7dac81f991e6081ac3101f8e04c04976",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68a20dee7dac81f991e6081ac3101f8e04c04976/",
+    "usedAt": 1785597244220,
+    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  },
   "source:7d964e999acc702757adefba60a848a4196013f8": {
     "url": "https://tnsul.com/2026/08/01/mais-duas-empresas-tem-fiacao-eletrica-furtada-em-criciuma",
     "title": "Furto de fiação elétrica atinge duas empresas em Criciúma",
@@ -111,36 +143,60 @@
     "usedAt": 1785579244973,
     "usedAtIso": "2026-08-01T10:14:04.973Z"
   },
-  "source:f01b88ea4f754ebc905fc5a2e9860815a2c8b029": {
-    "url": "https://ocp.news/esporte/campeonato-de-futebol-do-beira-rio-conhece-campeao-neste-sabado",
-    "title": "Campeonato de Futebol Suíço do Beira Rio define campeão neste sábado",
-    "guid": "sc1multi:f01b88ea4f754ebc905fc5a2e9860815a2c8b029",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f01b88ea4f754ebc905fc5a2e9860815a2c8b029/",
-    "usedAt": 1785597244220,
-    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  "source:d73562f9c4f7556749d2e47b8acb073135455e2e": {
+    "url": "https://tnsul.com/2026/08/01/tecnico-e-atleta-de-criciuma-estao-na-selecao-paralimpica-de-jovens",
+    "title": "Técnico e atleta de Criciúma são convocados para Seleção Paralímpica de Jovens",
+    "guid": "sc1multi:6e66f5816c3f6061b1e36bc5226a59b22538620f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e66f5816c3f6061b1e36bc5226a59b22538620f/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
   },
-  "source:d31ed13ad774e7f742edffb2dd1cc2c5bfe45091": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-sedia-semifinais-do-estadual-de-basquete-sub-20-masculino",
-    "title": "Jaraguá do Sul recebe semifinais do Campeonato Catarinense de Basquete Sub-20 Masculino",
-    "guid": "sc1multi:d31ed13ad774e7f742edffb2dd1cc2c5bfe45091",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d31ed13ad774e7f742edffb2dd1cc2c5bfe45091/",
-    "usedAt": 1785597244220,
-    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  "source:cd74bd179e7d17d9171216b82edb5c7a6d415ce8": {
+    "url": "https://ocp.news/cotidiano/sc-nomeia-200-novos-policiais-civis-apos-aprovacao-em-concurso-publico",
+    "title": "Santa Catarina nomeia 200 novos policiais civis após concurso público",
+    "guid": "sc1multi:cd74bd179e7d17d9171216b82edb5c7a6d415ce8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd74bd179e7d17d9171216b82edb5c7a6d415ce8/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
   },
-  "source:6e96c795f3bcb545a2f61af7e6cf5b2c401195ff": {
-    "url": "https://ocp.news/seguranca/corpo-carbonizado-e-encontrado-em-area-de-mata-em-gaspar",
-    "title": "Corpo carbonizado é encontrado em área de mata no bairro Gaspar Alto",
-    "guid": "sc1multi:6e96c795f3bcb545a2f61af7e6cf5b2c401195ff",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e96c795f3bcb545a2f61af7e6cf5b2c401195ff/",
-    "usedAt": 1785597244220,
-    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  "source:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580": {
+    "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-reabre-mas-turismo-de-laguna-ainda-enfrenta-impactos-da-interdicao",
+    "title": "Ponte Anita Garibaldi reabre parcialmente e turismo de Laguna sofre impactos",
+    "guid": "sc1multi:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be92dcd8e19ea09ddd8a8c6a9afebd96422c7580/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
   },
-  "source:38e17a3b4a4f35b43614d5311a78b04b3bb4a43e": {
-    "url": "https://scportais.com.br/2026/07/30/bndes-registra-r-277-bilhoes-de-financiamentos-aprovados-para-renovacao-de-frota-de-caminhoes-e-de-onibus-em-sc",
-    "title": "BNDES aprova R$ 2,77 bilhões para renovação de frota em Santa Catarina",
-    "guid": "sc1multi:68a20dee7dac81f991e6081ac3101f8e04c04976",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68a20dee7dac81f991e6081ac3101f8e04c04976/",
-    "usedAt": 1785597244220,
-    "usedAtIso": "2026-08-01T15:14:04.220Z"
+  "source:fd5cdebf6661e68c4d7030073a9c8cc614c5877b": {
+    "url": "https://ocp.news/cotidiano/jaragua-do-sul-esta-entre-as-10-cidades-mais-seguras-do-brasil-aponta-anuario-de-seguranca-publica",
+    "title": "Jaraguá do Sul está entre as 10 cidades mais seguras do Brasil",
+    "guid": "sc1multi:fd5cdebf6661e68c4d7030073a9c8cc614c5877b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd5cdebf6661e68c4d7030073a9c8cc614c5877b/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:919d20105246aefad9784b9c1c44e81979aff27e": {
+    "url": "https://ocp.news/esporte/series-ouro-e-prata-coroam-campeoes-no-varzeano-de-guaramirim",
+    "title": "Finais das Séries Ouro e Prata movimentam Varzeano de Guaramirim",
+    "guid": "sc1multi:919d20105246aefad9784b9c1c44e81979aff27e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_919d20105246aefad9784b9c1c44e81979aff27e/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:8b832d700d3457a0b7a58e46a151f0f6cd7e7030": {
+    "url": "https://correiosc.com.br/sao-jose-chega-a-20-medalhas-e-segue-na-disputa-dos-joguinhos-abertos-de-santa-catarina",
+    "title": "São José conquista 20 medalhas nos 38º Joguinhos Abertos de SC",
+    "guid": "sc1multi:e867f7157271eca10fffcf114df7655681715418",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e867f7157271eca10fffcf114df7655681715418/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:de75b7c86a7d4ec73cb3c670ccd5a452abf1f247": {
+    "url": "https://correiosc.com.br/avai-e-figueirense-vivem-momentos-distintos-dentro-e-fora-de-campo",
+    "title": "Avaí e Figueirense enfrentam desafios em jogos e finanças",
+    "guid": "sc1multi:7fda0be67117c6c4ee3834bb0cda44cc9c497b21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7fda0be67117c6c4ee3834bb0cda44cc9c497b21/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
   }
 }
