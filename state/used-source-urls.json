@@ -1,4 +1,60 @@
 {
+  "source:d73562f9c4f7556749d2e47b8acb073135455e2e": {
+    "url": "https://tnsul.com/2026/08/01/tecnico-e-atleta-de-criciuma-estao-na-selecao-paralimpica-de-jovens",
+    "title": "Técnico e atleta de Criciúma são convocados para Seleção Paralímpica de Jovens",
+    "guid": "sc1multi:6e66f5816c3f6061b1e36bc5226a59b22538620f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e66f5816c3f6061b1e36bc5226a59b22538620f/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:cd74bd179e7d17d9171216b82edb5c7a6d415ce8": {
+    "url": "https://ocp.news/cotidiano/sc-nomeia-200-novos-policiais-civis-apos-aprovacao-em-concurso-publico",
+    "title": "Santa Catarina nomeia 200 novos policiais civis após concurso público",
+    "guid": "sc1multi:cd74bd179e7d17d9171216b82edb5c7a6d415ce8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd74bd179e7d17d9171216b82edb5c7a6d415ce8/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580": {
+    "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-reabre-mas-turismo-de-laguna-ainda-enfrenta-impactos-da-interdicao",
+    "title": "Ponte Anita Garibaldi reabre parcialmente e turismo de Laguna sofre impactos",
+    "guid": "sc1multi:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be92dcd8e19ea09ddd8a8c6a9afebd96422c7580/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:fd5cdebf6661e68c4d7030073a9c8cc614c5877b": {
+    "url": "https://ocp.news/cotidiano/jaragua-do-sul-esta-entre-as-10-cidades-mais-seguras-do-brasil-aponta-anuario-de-seguranca-publica",
+    "title": "Jaraguá do Sul está entre as 10 cidades mais seguras do Brasil",
+    "guid": "sc1multi:fd5cdebf6661e68c4d7030073a9c8cc614c5877b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd5cdebf6661e68c4d7030073a9c8cc614c5877b/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:919d20105246aefad9784b9c1c44e81979aff27e": {
+    "url": "https://ocp.news/esporte/series-ouro-e-prata-coroam-campeoes-no-varzeano-de-guaramirim",
+    "title": "Finais das Séries Ouro e Prata movimentam Varzeano de Guaramirim",
+    "guid": "sc1multi:919d20105246aefad9784b9c1c44e81979aff27e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_919d20105246aefad9784b9c1c44e81979aff27e/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:8b832d700d3457a0b7a58e46a151f0f6cd7e7030": {
+    "url": "https://correiosc.com.br/sao-jose-chega-a-20-medalhas-e-segue-na-disputa-dos-joguinhos-abertos-de-santa-catarina",
+    "title": "São José conquista 20 medalhas nos 38º Joguinhos Abertos de SC",
+    "guid": "sc1multi:e867f7157271eca10fffcf114df7655681715418",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e867f7157271eca10fffcf114df7655681715418/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
+  "source:de75b7c86a7d4ec73cb3c670ccd5a452abf1f247": {
+    "url": "https://correiosc.com.br/avai-e-figueirense-vivem-momentos-distintos-dentro-e-fora-de-campo",
+    "title": "Avaí e Figueirense enfrentam desafios em jogos e finanças",
+    "guid": "sc1multi:7fda0be67117c6c4ee3834bb0cda44cc9c497b21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7fda0be67117c6c4ee3834bb0cda44cc9c497b21/",
+    "usedAt": 1785600844735,
+    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  },
   "source:f01b88ea4f754ebc905fc5a2e9860815a2c8b029": {
     "url": "https://ocp.news/esporte/campeonato-de-futebol-do-beira-rio-conhece-campeao-neste-sabado",
     "title": "Campeonato de Futebol Suíço do Beira Rio define campeão neste sábado",
@@ -135,68 +191,28 @@
     "usedAt": 1785582844208,
     "usedAtIso": "2026-08-01T11:14:04.208Z"
   },
-  "source:81beaad8b12cc2a440cc28cacd9dbc195208e8f9": {
-    "url": "https://ocp.news/cotidiano/ceu-limpo-abre-o-fim-de-semana-antes-da-virada-no-tempo",
-    "title": "Fim de semana começa com céu limpo e mudança no tempo em Santa Catarina",
-    "guid": "sc1multi:81beaad8b12cc2a440cc28cacd9dbc195208e8f9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81beaad8b12cc2a440cc28cacd9dbc195208e8f9/",
-    "usedAt": 1785579244973,
-    "usedAtIso": "2026-08-01T10:14:04.973Z"
+  "source:59ecc44f5ad52258e77cabe578842ff6a51ef44d": {
+    "url": "https://rbatv.com.br/noticias/dupla-e-presa-em-flagrante-por-furto-de-fios-de-cobre-em-ituporanga",
+    "title": "Dupla é presa em flagrante por furto de fios de cobre em Ituporanga",
+    "guid": "sc1multi:691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_691482c9abbdfd6b9fe6ced58bc2b86abe19cd3d/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
   },
-  "source:d73562f9c4f7556749d2e47b8acb073135455e2e": {
-    "url": "https://tnsul.com/2026/08/01/tecnico-e-atleta-de-criciuma-estao-na-selecao-paralimpica-de-jovens",
-    "title": "Técnico e atleta de Criciúma são convocados para Seleção Paralímpica de Jovens",
-    "guid": "sc1multi:6e66f5816c3f6061b1e36bc5226a59b22538620f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e66f5816c3f6061b1e36bc5226a59b22538620f/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  "source:359d4d724cfd9d87392d58db6cc1abc7689bd2ac": {
+    "url": "https://tudoaquisc.com.br/esporte/circuito-surf-pro-laguna",
+    "title": "Circuito Catarinense de Surf 2026 em Laguna é adiado por um dia",
+    "guid": "sc1multi:6a7f756f4e547cc925e823b667b8122c9557a8da",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a7f756f4e547cc925e823b667b8122c9557a8da/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
   },
-  "source:cd74bd179e7d17d9171216b82edb5c7a6d415ce8": {
-    "url": "https://ocp.news/cotidiano/sc-nomeia-200-novos-policiais-civis-apos-aprovacao-em-concurso-publico",
-    "title": "Santa Catarina nomeia 200 novos policiais civis após concurso público",
-    "guid": "sc1multi:cd74bd179e7d17d9171216b82edb5c7a6d415ce8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd74bd179e7d17d9171216b82edb5c7a6d415ce8/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
-  },
-  "source:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580": {
-    "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-reabre-mas-turismo-de-laguna-ainda-enfrenta-impactos-da-interdicao",
-    "title": "Ponte Anita Garibaldi reabre parcialmente e turismo de Laguna sofre impactos",
-    "guid": "sc1multi:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be92dcd8e19ea09ddd8a8c6a9afebd96422c7580/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
-  },
-  "source:fd5cdebf6661e68c4d7030073a9c8cc614c5877b": {
-    "url": "https://ocp.news/cotidiano/jaragua-do-sul-esta-entre-as-10-cidades-mais-seguras-do-brasil-aponta-anuario-de-seguranca-publica",
-    "title": "Jaraguá do Sul está entre as 10 cidades mais seguras do Brasil",
-    "guid": "sc1multi:fd5cdebf6661e68c4d7030073a9c8cc614c5877b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd5cdebf6661e68c4d7030073a9c8cc614c5877b/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
-  },
-  "source:919d20105246aefad9784b9c1c44e81979aff27e": {
-    "url": "https://ocp.news/esporte/series-ouro-e-prata-coroam-campeoes-no-varzeano-de-guaramirim",
-    "title": "Finais das Séries Ouro e Prata movimentam Varzeano de Guaramirim",
-    "guid": "sc1multi:919d20105246aefad9784b9c1c44e81979aff27e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_919d20105246aefad9784b9c1c44e81979aff27e/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
-  },
-  "source:8b832d700d3457a0b7a58e46a151f0f6cd7e7030": {
-    "url": "https://correiosc.com.br/sao-jose-chega-a-20-medalhas-e-segue-na-disputa-dos-joguinhos-abertos-de-santa-catarina",
-    "title": "São José conquista 20 medalhas nos 38º Joguinhos Abertos de SC",
-    "guid": "sc1multi:e867f7157271eca10fffcf114df7655681715418",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e867f7157271eca10fffcf114df7655681715418/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
-  },
-  "source:de75b7c86a7d4ec73cb3c670ccd5a452abf1f247": {
-    "url": "https://correiosc.com.br/avai-e-figueirense-vivem-momentos-distintos-dentro-e-fora-de-campo",
-    "title": "Avaí e Figueirense enfrentam desafios em jogos e finanças",
-    "guid": "sc1multi:7fda0be67117c6c4ee3834bb0cda44cc9c497b21",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7fda0be67117c6c4ee3834bb0cda44cc9c497b21/",
-    "usedAt": 1785600844735,
-    "usedAtIso": "2026-08-01T16:14:04.735Z"
+  "source:7d51889a352374e4d9606fe3d35dfaa5dd26d3e8": {
+    "url": "https://correiosc.com.br/guarda-municipal-sao-jose-recupera-dois-veiculos-roubados-mesmo-dia",
+    "title": "Guarda Municipal de São José recupera dois veículos roubados",
+    "guid": "sc1multi:e152bcc8896f886df1b11a6e52539355d86517ed",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e152bcc8896f886df1b11a6e52539355d86517ed/",
+    "usedAt": 1785604444195,
+    "usedAtIso": "2026-08-01T17:14:04.195Z"
   }
 }
