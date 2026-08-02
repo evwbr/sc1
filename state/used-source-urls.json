@@ -1,4 +1,60 @@
 {
+  "source:a749ebbdd32d685349363827caaae96c365f0584": {
+    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
+    "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
+    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
+    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:cdf46d0b9830d2416935d3c890578ff7be1b7a58": {
+    "url": "https://tnsul.com/2026/08/02/fim-de-semana-violento-ameacas-de-morte-armas-apreendidas-e-prisoes",
+    "title": "Fim de semana violento no Sul de Santa Catarina registra prisões e apreensão de armas",
+    "guid": "sc1multi:cc9a774b3601e3e8136d19844e5ad83e468770b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cc9a774b3601e3e8136d19844e5ad83e468770b3/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6": {
+    "url": "https://ocp.news/seguranca/motorista-morre-apos-hilux-sair-da-pista-percorrer-122-metros-e-bater-contra-arvores-em-sc",
+    "title": "Motorista morre após Hilux sair da pista e bater em árvores na SC-480",
+    "guid": "sc1multi:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
+    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
+    "title": "Florianópolis inicia operação teste da nova linha gratuita Formiguinha",
+    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
+    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
+  "source:64fb46fc8cccd24dd3e628ac0ad67d5d132bf2fe": {
+    "url": "https://tnsul.com/2026/08/02/capotamento-na-br-101-mobiliza-resgate-e-deixa-sete-pessoas-feridas",
+    "title": "Capotamento na BR-101 em Içara deixa sete feridos",
+    "guid": "sc1multi:4e3205ed664d38529800f8c647263bc3324ac3d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3205ed664d38529800f8c647263bc3324ac3d1/",
+    "usedAt": 1785708844272,
+    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  },
   "source:3fbb7a259ac940e586c7cbe2b065a9e1f9cb7e16": {
     "url": "https://ocp.news/politica/convencao-do-pl-reune-milhares-de-apoiadores-em-sc-com-presenca-de-flavio-e-carlos-bolsonaro",
     "title": "Convenção do PL em São José oficializa pré-candidaturas para 2026 em SC",
@@ -132,8 +188,8 @@
     "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
     "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
-    "usedAt": 1785694444139,
-    "usedAtIso": "2026-08-02T18:14:04.139Z"
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   },
   "source:163e2a54c2dd022dfc0cc954e618599db0c37f73": {
     "url": "https://ocp.news/esporte/ex-jogador-de-grandes-clubes-do-brasil-revela-que-sera-tecnico-do-jec",
@@ -175,124 +231,44 @@
     "usedAt": 1785694444139,
     "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
-  "source:a749ebbdd32d685349363827caaae96c365f0584": {
-    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
-    "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
-    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
-    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
-    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:8cd621336b5120f3796fca05efc482ffb2383b97": {
-    "url": "https://rbatv.com.br/noticias/homem-e-esfaqueado-em-via-publica-e-morre-em-blumenau",
-    "title": "Homem morre após ser esfaqueado em via pública no bairro Salto, Blumenau",
-    "guid": "sc1multi:151c95e0f986488abf72e3cb159c455c22c76805",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_151c95e0f986488abf72e3cb159c455c22c76805/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
-  "source:1ba3f8887d9d36cde52be3db83dc1ce4f73abbe6": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-tentativa-de-homicidio-em-blumenau-2",
-    "title": "Homem é preso por tentativa de homicídio em Blumenau",
-    "guid": "sc1multi:66a084059c68941e3ea1078d1a869169b60002a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_66a084059c68941e3ea1078d1a869169b60002a3/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
+    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
+    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
+    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   },
   "source:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d": {
     "url": "https://ocp.news/seguranca/mulher-e-resgatada-apos-ser-mantida-presa-pelo-marido-em-casa-em-sc-armas-sao-apreendidas",
     "title": "Mulher é resgatada após cárcere privado em Nova Veneza, SC",
     "guid": "sc1multi:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   },
   "source:8ecf44738f01e6fa7fd4dd67355292e5951720a8": {
     "url": "https://ocp.news/seguranca/orientacao-dos-bombeiros-por-telefone-ajuda-a-salvar-bebe-apos-engasgamento-em-schroeder",
     "title": "Bombeiros de Schroeder orientam pai e salvam bebê engasgado",
     "guid": "sc1multi:8ecf44738f01e6fa7fd4dd67355292e5951720a8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ecf44738f01e6fa7fd4dd67355292e5951720a8/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   },
-  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
-    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
-    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
-    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  "source:8cd621336b5120f3796fca05efc482ffb2383b97": {
+    "url": "https://rbatv.com.br/noticias/homem-e-esfaqueado-em-via-publica-e-morre-em-blumenau",
+    "title": "Homem morre após ser esfaqueado em via pública no bairro Salto, Blumenau",
+    "guid": "sc1multi:151c95e0f986488abf72e3cb159c455c22c76805",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_151c95e0f986488abf72e3cb159c455c22c76805/",
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   },
-  "source:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580": {
-    "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-reabre-mas-turismo-de-laguna-ainda-enfrenta-impactos-da-interdicao",
-    "title": "Ponte Anita Garibaldi reabre parcialmente e turismo de Laguna sofre impactos",
-    "guid": "sc1multi:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be92dcd8e19ea09ddd8a8c6a9afebd96422c7580/",
-    "usedAt": 1785687244367,
-    "usedAtIso": "2026-08-02T16:14:04.367Z"
-  },
-  "source:fd5cdebf6661e68c4d7030073a9c8cc614c5877b": {
-    "url": "https://ocp.news/cotidiano/jaragua-do-sul-esta-entre-as-10-cidades-mais-seguras-do-brasil-aponta-anuario-de-seguranca-publica",
-    "title": "Jaraguá do Sul está entre as 10 cidades mais seguras do Brasil",
-    "guid": "sc1multi:fd5cdebf6661e68c4d7030073a9c8cc614c5877b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd5cdebf6661e68c4d7030073a9c8cc614c5877b/",
-    "usedAt": 1785687244367,
-    "usedAtIso": "2026-08-02T16:14:04.367Z"
-  },
-  "source:cdf46d0b9830d2416935d3c890578ff7be1b7a58": {
-    "url": "https://tnsul.com/2026/08/02/fim-de-semana-violento-ameacas-de-morte-armas-apreendidas-e-prisoes",
-    "title": "Fim de semana violento no Sul de Santa Catarina registra prisões e apreensão de armas",
-    "guid": "sc1multi:cc9a774b3601e3e8136d19844e5ad83e468770b3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cc9a774b3601e3e8136d19844e5ad83e468770b3/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6": {
-    "url": "https://ocp.news/seguranca/motorista-morre-apos-hilux-sair-da-pista-percorrer-122-metros-e-bater-contra-arvores-em-sc",
-    "title": "Motorista morre após Hilux sair da pista e bater em árvores na SC-480",
-    "guid": "sc1multi:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:d2568ab422ea4f02bde6f2a739c8f6878dd906d5": {
-    "url": "https://rbatv.com.br/noticias/pm-atende-caso-de-ameaca-e-lesao-corporal-em-agronomica",
-    "title": "Polícia Militar atende caso de lesão corporal em Agronômica",
-    "guid": "sc1multi:93fa56da7209dcda2a019a94a07b631a38c4ffce",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_93fa56da7209dcda2a019a94a07b631a38c4ffce/",
-    "usedAt": 1785687244367,
-    "usedAtIso": "2026-08-02T16:14:04.367Z"
-  },
-  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
-    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
-    "title": "Florianópolis inicia operação teste da nova linha gratuita Formiguinha",
-    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
-    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
-    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
-  },
-  "source:64fb46fc8cccd24dd3e628ac0ad67d5d132bf2fe": {
-    "url": "https://tnsul.com/2026/08/02/capotamento-na-br-101-mobiliza-resgate-e-deixa-sete-pessoas-feridas",
-    "title": "Capotamento na BR-101 em Içara deixa sete feridos",
-    "guid": "sc1multi:4e3205ed664d38529800f8c647263bc3324ac3d1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3205ed664d38529800f8c647263bc3324ac3d1/",
-    "usedAt": 1785708844272,
-    "usedAtIso": "2026-08-02T22:14:04.272Z"
+  "source:1ba3f8887d9d36cde52be3db83dc1ce4f73abbe6": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-tentativa-de-homicidio-em-blumenau-2",
+    "title": "Homem é preso por tentativa de homicídio em Blumenau",
+    "guid": "sc1multi:66a084059c68941e3ea1078d1a869169b60002a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_66a084059c68941e3ea1078d1a869169b60002a3/",
+    "usedAt": 1785712445275,
+    "usedAtIso": "2026-08-02T23:14:05.275Z"
   }
 }
