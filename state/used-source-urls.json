@@ -1,4 +1,60 @@
 {
+  "source:a749ebbdd32d685349363827caaae96c365f0584": {
+    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
+    "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
+    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
+    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:8cd621336b5120f3796fca05efc482ffb2383b97": {
+    "url": "https://rbatv.com.br/noticias/homem-e-esfaqueado-em-via-publica-e-morre-em-blumenau",
+    "title": "Homem morre após ser esfaqueado em via pública no bairro Salto, Blumenau",
+    "guid": "sc1multi:151c95e0f986488abf72e3cb159c455c22c76805",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_151c95e0f986488abf72e3cb159c455c22c76805/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:1ba3f8887d9d36cde52be3db83dc1ce4f73abbe6": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-tentativa-de-homicidio-em-blumenau-2",
+    "title": "Homem é preso por tentativa de homicídio em Blumenau",
+    "guid": "sc1multi:66a084059c68941e3ea1078d1a869169b60002a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_66a084059c68941e3ea1078d1a869169b60002a3/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d": {
+    "url": "https://ocp.news/seguranca/mulher-e-resgatada-apos-ser-mantida-presa-pelo-marido-em-casa-em-sc-armas-sao-apreendidas",
+    "title": "Mulher é resgatada após cárcere privado em Nova Veneza, SC",
+    "guid": "sc1multi:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:8ecf44738f01e6fa7fd4dd67355292e5951720a8": {
+    "url": "https://ocp.news/seguranca/orientacao-dos-bombeiros-por-telefone-ajuda-a-salvar-bebe-apos-engasgamento-em-schroeder",
+    "title": "Bombeiros de Schroeder orientam pai e salvam bebê engasgado",
+    "guid": "sc1multi:8ecf44738f01e6fa7fd4dd67355292e5951720a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ecf44738f01e6fa7fd4dd67355292e5951720a8/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
+  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
+    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
+    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
+    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
+    "usedAt": 1785690844925,
+    "usedAtIso": "2026-08-02T17:14:04.925Z"
+  },
   "source:be92dcd8e19ea09ddd8a8c6a9afebd96422c7580": {
     "url": "https://ocp.news/cotidiano/ponte-anita-garibaldi-reabre-mas-turismo-de-laguna-ainda-enfrenta-impactos-da-interdicao",
     "title": "Ponte Anita Garibaldi reabre parcialmente e turismo de Laguna sofre impactos",
@@ -164,8 +220,8 @@
     "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
     "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
-    "usedAt": 1785680044694,
-    "usedAtIso": "2026-08-02T14:14:04.694Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:83102314a2ca56f4acec884ca6e1162ef161555e": {
     "url": "https://ocp.news/esporte/boletim-joguinhos-trofeus-gerais-medalhas-e-vagas-a-final-marcam-penultimo-dia",
@@ -191,45 +247,21 @@
     "usedAt": 1785680044694,
     "usedAtIso": "2026-08-02T14:14:04.694Z"
   },
-  "source:a749ebbdd32d685349363827caaae96c365f0584": {
-    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
-    "title": "Antídio Lunelli defende fim da polarização em convenção do MDB em Santa Catarina",
-    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
-  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
-    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
-    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
   "source:163e2a54c2dd022dfc0cc954e618599db0c37f73": {
     "url": "https://ocp.news/esporte/ex-jogador-de-grandes-clubes-do-brasil-revela-que-sera-tecnico-do-jec",
     "title": "Ex-jogador Diego Souza será técnico do Joinville em 2026",
     "guid": "sc1multi:163e2a54c2dd022dfc0cc954e618599db0c37f73",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_163e2a54c2dd022dfc0cc954e618599db0c37f73/",
-    "usedAt": 1785676444434,
-    "usedAtIso": "2026-08-02T13:14:04.434Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:81107e2091ad368398f8dc473ebd317dfd13813f": {
     "url": "https://ocp.news/esporte/visitantes-vencem-na-abertura-do-torneio-de-inverno-de-futsal-de-corupa",
     "title": "Torneio de Inverno de Futsal de Corupá começa com vitória dos visitantes",
     "guid": "sc1multi:81107e2091ad368398f8dc473ebd317dfd13813f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_81107e2091ad368398f8dc473ebd317dfd13813f/",
-    "usedAt": 1785676444434,
-    "usedAtIso": "2026-08-02T13:14:04.434Z"
-  },
-  "source:8cd621336b5120f3796fca05efc482ffb2383b97": {
-    "url": "https://rbatv.com.br/noticias/homem-e-esfaqueado-em-via-publica-e-morre-em-blumenau",
-    "title": "Homem morre após ser esfaqueado em via pública no bairro Salto, Blumenau",
-    "guid": "sc1multi:151c95e0f986488abf72e3cb159c455c22c76805",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_151c95e0f986488abf72e3cb159c455c22c76805/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:47ecfa076e548f18f9b736c80cd304844c35ccc6": {
     "url": "https://tnsul.com/2026/08/01/treviso-homem-fica-gravemente-ferido-em-acidente",
@@ -239,37 +271,29 @@
     "usedAt": 1785676444434,
     "usedAtIso": "2026-08-02T13:14:04.434Z"
   },
-  "source:1ba3f8887d9d36cde52be3db83dc1ce4f73abbe6": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-tentativa-de-homicidio-em-blumenau-2",
-    "title": "Homem é preso por tentativa de homicídio em Blumenau",
-    "guid": "sc1multi:66a084059c68941e3ea1078d1a869169b60002a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_66a084059c68941e3ea1078d1a869169b60002a3/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
   "source:4ad719f10a48210171bbf67e54f9c9ce226e20bc": {
     "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-atendem-acidente-entre-carro-e-moto-em-dona-emma",
     "title": "Acidente entre carro e moto é atendido em Dona Emma por bombeiros voluntários",
     "guid": "sc1multi:4e2839f5d09002165f48c599ff3219a8da8ba343",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2839f5d09002165f48c599ff3219a8da8ba343/",
-    "usedAt": 1785676444434,
-    "usedAtIso": "2026-08-02T13:14:04.434Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:43053e7f2ef2a4ce5a473af453149a4953bac0b1": {
     "url": "https://tnsul.com/2026/08/02/grave-colisao-entre-carros-deixa-jovem-ferido-na-sc-108",
     "title": "Colisão na SC-108 deixa jovem ferido em Braço do Norte",
     "guid": "sc1multi:46bb96944e3d2a597f4447671864326dcce69ec5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_46bb96944e3d2a597f4447671864326dcce69ec5/",
-    "usedAt": 1785676444434,
-    "usedAtIso": "2026-08-02T13:14:04.434Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:c756cd625cdfc53f9365c1b18d7803e3a71a0bae": {
     "url": "https://tnsul.com/2026/08/02/motorista-morre-apos-hilux-capotar-e-bater-contra-arvore-na-sc-480",
     "title": "Motorista morre após capotamento na SC-480 em São Lourenço do Oeste",
     "guid": "sc1multi:8454ae9de5db4ff5b828fd1ef228cd0576e98df6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8454ae9de5db4ff5b828fd1ef228cd0576e98df6/",
-    "usedAt": 1785676444434,
-    "usedAtIso": "2026-08-02T13:14:04.434Z"
+    "usedAt": 1785694444139,
+    "usedAtIso": "2026-08-02T18:14:04.139Z"
   },
   "source:13e59db12be0466dcb1a7949719c7b33994a08d5": {
     "url": "https://tnsul.com/2026/08/01/cooperativas-avancam-na-criacao-de-jogos",
@@ -286,29 +310,5 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01a117d4d904ce639938d3ee78e1bc0613da7401/",
     "usedAt": 1785672844330,
     "usedAtIso": "2026-08-02T12:14:04.330Z"
-  },
-  "source:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d": {
-    "url": "https://ocp.news/seguranca/mulher-e-resgatada-apos-ser-mantida-presa-pelo-marido-em-casa-em-sc-armas-sao-apreendidas",
-    "title": "Mulher é resgatada após cárcere privado em Nova Veneza, SC",
-    "guid": "sc1multi:41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_41c7a7fc938a1402bed2276a5f4fc9ad0cce6d1d/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
-  "source:8ecf44738f01e6fa7fd4dd67355292e5951720a8": {
-    "url": "https://ocp.news/seguranca/orientacao-dos-bombeiros-por-telefone-ajuda-a-salvar-bebe-apos-engasgamento-em-schroeder",
-    "title": "Bombeiros de Schroeder orientam pai e salvam bebê engasgado",
-    "guid": "sc1multi:8ecf44738f01e6fa7fd4dd67355292e5951720a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ecf44738f01e6fa7fd4dd67355292e5951720a8/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
-  },
-  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
-    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
-    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
-    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
-    "usedAt": 1785690844925,
-    "usedAtIso": "2026-08-02T17:14:04.925Z"
   }
 }
