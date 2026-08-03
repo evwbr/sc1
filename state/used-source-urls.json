@@ -1,4 +1,20 @@
 {
+  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
+    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
+    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
+    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
+    "usedAt": 1785788044601,
+    "usedAtIso": "2026-08-03T20:14:04.601Z"
+  },
+  "source:01c4a3ac8c9ad655a79f7a576984c849c092e885": {
+    "url": "https://ocp.news/esporte/escolinha-jaraguaense-faz-boa-campanha-em-renomado-torneio-de-futebol-de-base",
+    "title": "Centro de Formação Atlético Junior de Jaraguá do Sul se destaca em torneio nacional de futebol de base",
+    "guid": "sc1multi:01c4a3ac8c9ad655a79f7a576984c849c092e885",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01c4a3ac8c9ad655a79f7a576984c849c092e885/",
+    "usedAt": 1785788044601,
+    "usedAtIso": "2026-08-03T20:14:04.601Z"
+  },
   "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
     "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
     "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
@@ -135,44 +151,36 @@
     "usedAt": 1785773644841,
     "usedAtIso": "2026-08-03T16:14:04.841Z"
   },
-  "source:59235d3a97e57b004346992e55e4666d623cb4ca": {
-    "url": "https://ocp.news/politica/vereadores-aprovam-r-43-milhoes-para-terceirizacao-nas-escolas-de-jaragua-do-sul-mas-cobram-convocacao-de-concursados",
-    "title": "Jaraguá do Sul aprova R$ 4,3 milhões para terceirização em escolas municipais",
-    "guid": "sc1multi:59235d3a97e57b004346992e55e4666d623cb4ca",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59235d3a97e57b004346992e55e4666d623cb4ca/",
-    "usedAt": 1785770044771,
-    "usedAtIso": "2026-08-03T15:14:04.771Z"
+  "source:60a5fb13dbb4c438c18aae098b724f783c68d3c1": {
+    "url": "https://tnsul.com/2026/08/03/homem-que-matou-adolescente-de-16-anos-em-criciuma-e-condenado",
+    "title": "Homem é condenado a mais de 36 anos por matar adolescente em Criciúma",
+    "guid": "sc1multi:c1549258c2672fc750892e39da20afe1911d25c5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c1549258c2672fc750892e39da20afe1911d25c5/",
+    "usedAt": 1785791645106,
+    "usedAtIso": "2026-08-03T21:14:05.106Z"
   },
-  "source:5395486ba7c3a4de027b8842cf48a857241ced2c": {
-    "url": "https://correiosc.com.br/colisao-frontal-caminhoes-vitima-fatal-ferido-br-282-alfredo-wagner",
-    "title": "Colisão frontal na BR-282 em Alfredo Wagner deixa um morto",
-    "guid": "sc1multi:fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d/",
-    "usedAt": 1785770044771,
-    "usedAtIso": "2026-08-03T15:14:04.771Z"
+  "source:40e96279ec1366de55192e4f06b7811ac23bccde": {
+    "url": "https://ocp.news/cotidiano/obra-na-sc-108-interrompe-abastecimento-em-bairros-de-guaramirim",
+    "title": "Obra na SC-108 interrompe abastecimento em bairros de Guaramirim",
+    "guid": "sc1multi:40e96279ec1366de55192e4f06b7811ac23bccde",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40e96279ec1366de55192e4f06b7811ac23bccde/",
+    "usedAt": 1785791645106,
+    "usedAtIso": "2026-08-03T21:14:05.106Z"
   },
-  "source:d6ef043602768ae6c96f264a708c78c9aad8928e": {
-    "url": "https://ocp.news/seguranca/jaragua-do-sul-lanca-campanha-apos-aumento-dos-golpes-virtuais-veja-como-se-proteger",
-    "title": "Jaraguá do Sul lança campanha contra golpes virtuais na cidade",
-    "guid": "sc1multi:d6ef043602768ae6c96f264a708c78c9aad8928e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6ef043602768ae6c96f264a708c78c9aad8928e/",
-    "usedAt": 1785770044771,
-    "usedAtIso": "2026-08-03T15:14:04.771Z"
+  "source:4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7": {
+    "url": "https://ocp.news/seguranca/colisao-frontal-entre-caminhao-e-motocicleta-deixa-duas-pessoas-feridas-na-sc-108-em-guaramirim",
+    "title": "Colisão frontal entre caminhão e moto fere duas pessoas na SC-108 em Guaramirim",
+    "guid": "sc1multi:4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7/",
+    "usedAt": 1785791645106,
+    "usedAtIso": "2026-08-03T21:14:05.106Z"
   },
-  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
-    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
-    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
-    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
-    "usedAt": 1785788044601,
-    "usedAtIso": "2026-08-03T20:14:04.601Z"
-  },
-  "source:01c4a3ac8c9ad655a79f7a576984c849c092e885": {
-    "url": "https://ocp.news/esporte/escolinha-jaraguaense-faz-boa-campanha-em-renomado-torneio-de-futebol-de-base",
-    "title": "Centro de Formação Atlético Junior de Jaraguá do Sul se destaca em torneio nacional de futebol de base",
-    "guid": "sc1multi:01c4a3ac8c9ad655a79f7a576984c849c092e885",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01c4a3ac8c9ad655a79f7a576984c849c092e885/",
-    "usedAt": 1785788044601,
-    "usedAtIso": "2026-08-03T20:14:04.601Z"
+  "source:a722632fdaadd27a02b120d73d07984e36460b23": {
+    "url": "https://tudoaquisc.com.br/esporte/kiany-hyakutake-laguna",
+    "title": "Laguna recebe etapa do Circuito Catarinense de Surf com vitória local",
+    "guid": "sc1multi:1ebd33abc53fdc18b4bd382606c574119b14afd9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ebd33abc53fdc18b4bd382606c574119b14afd9/",
+    "usedAt": 1785791645106,
+    "usedAtIso": "2026-08-03T21:14:05.106Z"
   }
 }
