@@ -1,4 +1,52 @@
 {
+  "source:8e6bdc670554620f9793c8b910a081afaa58d43a": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-mantem-100-e-esta-nas-finais-do-estadual-de-basquete-sub-20-masculino",
+    "title": "Jaraguá do Sul avança invicto às finais do Estadual Sub-20 Masculino de Basquete",
+    "guid": "sc1multi:8e6bdc670554620f9793c8b910a081afaa58d43a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e6bdc670554620f9793c8b910a081afaa58d43a/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
+  "source:b34a00470a178686ff55f69484f1f116356eff3f": {
+    "url": "https://ocp.news/esporte/basquete-jaraguaense-e-vice-campeao-da-serie-prata-do-brasileiro-sub-15-feminino",
+    "title": "Basquete de Jaraguá do Sul é vice-campeão da Série Prata do Brasileiro Sub-15 Feminino",
+    "guid": "sc1multi:b34a00470a178686ff55f69484f1f116356eff3f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b34a00470a178686ff55f69484f1f116356eff3f/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
+  "source:6030f58ef0c5abb27e968f12a2ea15264fc9db2d": {
+    "url": "https://rbatv.com.br/noticias/motorista-fica-preso-as-ferragens-apos-tombamento-de-carreta-na-sc-425-em-pouso-redondo",
+    "title": "Motorista fica preso após tombamento de carreta na SC-425 em Pouso Redondo",
+    "guid": "sc1multi:4a91bb6125724b21dfbeb4b9351e32753a468ef6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a91bb6125724b21dfbeb4b9351e32753a468ef6/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
+  "source:0429f09ca459dfa62c15daf0ffc337efdca5428d": {
+    "url": "https://ocp.news/seguranca/dnit-anuncia-interdicao-parcial-na-br-280-em-guaramirim-nesta-quarta-feira-5",
+    "title": "BR-280 em Guaramirim terá interdição parcial para obras nesta quarta-feira",
+    "guid": "sc1multi:0429f09ca459dfa62c15daf0ffc337efdca5428d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0429f09ca459dfa62c15daf0ffc337efdca5428d/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
+  "source:903a422ecff0468bade973ff924b31b1bd61361f": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/nega-prisao-beira-mar-0826",
+    "title": "Justiça nega prisão preventiva de motorista após colisão fatal na Beira-Mar Norte",
+    "guid": "sc1multi:1108ee0940d6288bce14aa8d4a77e5acdc89015a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1108ee0940d6288bce14aa8d4a77e5acdc89015a/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
+  "source:6ccfe6ffd08af96c327ca69593c031bd2fe8678e": {
+    "url": "https://tudoaquisc.com.br/transito/formiguinha-morro-penitenciaria",
+    "title": "Nova linha do Formiguinha passa a atender Morro da Penitenciária em Florianópolis",
+    "guid": "sc1multi:97154f1415fa71a8f8a812fd821e54cadb681b21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97154f1415fa71a8f8a812fd821e54cadb681b21/",
+    "usedAt": 1785777244640,
+    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  },
   "source:d54d5dc7b581d34bce37657afba03701f0aa4d1e": {
     "url": "https://tudoaquisc.com.br/esporte/figueirense-ingressos-serie-c",
     "title": "Figueirense distribui 5 mil ingressos gratuitos para jogos da Série C",
@@ -167,52 +215,60 @@
     "usedAt": 1785759244742,
     "usedAtIso": "2026-08-03T12:14:04.742Z"
   },
-  "source:8e6bdc670554620f9793c8b910a081afaa58d43a": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-mantem-100-e-esta-nas-finais-do-estadual-de-basquete-sub-20-masculino",
-    "title": "Jaraguá do Sul avança invicto às finais do Estadual Sub-20 Masculino de Basquete",
-    "guid": "sc1multi:8e6bdc670554620f9793c8b910a081afaa58d43a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e6bdc670554620f9793c8b910a081afaa58d43a/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
+    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
+    "title": "Polícias Civil e Militar libertam vítima de cárcere privado em Joaçaba",
+    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   },
-  "source:b34a00470a178686ff55f69484f1f116356eff3f": {
-    "url": "https://ocp.news/esporte/basquete-jaraguaense-e-vice-campeao-da-serie-prata-do-brasileiro-sub-15-feminino",
-    "title": "Basquete de Jaraguá do Sul é vice-campeão da Série Prata do Brasileiro Sub-15 Feminino",
-    "guid": "sc1multi:b34a00470a178686ff55f69484f1f116356eff3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b34a00470a178686ff55f69484f1f116356eff3f/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
+    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
+    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
+    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   },
-  "source:6030f58ef0c5abb27e968f12a2ea15264fc9db2d": {
-    "url": "https://rbatv.com.br/noticias/motorista-fica-preso-as-ferragens-apos-tombamento-de-carreta-na-sc-425-em-pouso-redondo",
-    "title": "Motorista fica preso após tombamento de carreta na SC-425 em Pouso Redondo",
-    "guid": "sc1multi:4a91bb6125724b21dfbeb4b9351e32753a468ef6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a91bb6125724b21dfbeb4b9351e32753a468ef6/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:2a79f63e6f5af54f78d878eb40e91653bea7fa58": {
+    "url": "https://ocp.news/politica/indicacao-propoe-rede-eletrica-subterranea-em-jaragua-do-sul",
+    "title": "Proposta sugere rede elétrica subterrânea em Jaraguá do Sul para reduzir quedas de energia",
+    "guid": "sc1multi:2a79f63e6f5af54f78d878eb40e91653bea7fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a79f63e6f5af54f78d878eb40e91653bea7fa58/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   },
-  "source:0429f09ca459dfa62c15daf0ffc337efdca5428d": {
-    "url": "https://ocp.news/seguranca/dnit-anuncia-interdicao-parcial-na-br-280-em-guaramirim-nesta-quarta-feira-5",
-    "title": "BR-280 em Guaramirim terá interdição parcial para obras nesta quarta-feira",
-    "guid": "sc1multi:0429f09ca459dfa62c15daf0ffc337efdca5428d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0429f09ca459dfa62c15daf0ffc337efdca5428d/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db": {
+    "url": "https://ocp.news/politica/vereadores-pedem-ampliacao-da-escola-erich-grutzmacher-em-jaragua-do-sul",
+    "title": "Câmara de Jaraguá do Sul aprova moções para ampliar Escola Erich Grützmacher",
+    "guid": "sc1multi:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   },
-  "source:903a422ecff0468bade973ff924b31b1bd61361f": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/nega-prisao-beira-mar-0826",
-    "title": "Justiça nega prisão preventiva de motorista após colisão fatal na Beira-Mar Norte",
-    "guid": "sc1multi:1108ee0940d6288bce14aa8d4a77e5acdc89015a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1108ee0940d6288bce14aa8d4a77e5acdc89015a/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:e0177b2cab17378d54b3224e0de3c97388474494": {
+    "url": "https://ocp.news/politica/jaragua-do-sul-cria-conselho-para-jovens-participarem-das-decisoes-sobre-o-futuro-da-cidade",
+    "title": "Jaraguá do Sul cria conselho para jovens participarem das decisões municipais",
+    "guid": "sc1multi:e0177b2cab17378d54b3224e0de3c97388474494",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e0177b2cab17378d54b3224e0de3c97388474494/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   },
-  "source:6ccfe6ffd08af96c327ca69593c031bd2fe8678e": {
-    "url": "https://tudoaquisc.com.br/transito/formiguinha-morro-penitenciaria",
-    "title": "Nova linha do Formiguinha passa a atender Morro da Penitenciária em Florianópolis",
-    "guid": "sc1multi:97154f1415fa71a8f8a812fd821e54cadb681b21",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97154f1415fa71a8f8a812fd821e54cadb681b21/",
-    "usedAt": 1785777244640,
-    "usedAtIso": "2026-08-03T17:14:04.640Z"
+  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
+    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
+    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
+    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
+    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
+    "title": "João Rodrigues é oficializado candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
   }
 }
