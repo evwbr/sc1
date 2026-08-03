@@ -1,4 +1,20 @@
 {
+  "source:1471365a537e68c566a3f0748521c27bea955bfe": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-com-recorde-de-pontos-jaragua-do-sul-e-vice-campea-geral",
+    "title": "Jaraguá do Sul é vice-campeã geral dos Joguinhos Abertos de Santa Catarina",
+    "guid": "sc1multi:1471365a537e68c566a3f0748521c27bea955bfe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1471365a537e68c566a3f0748521c27bea955bfe/",
+    "usedAt": 1785741244286,
+    "usedAtIso": "2026-08-03T07:14:04.286Z"
+  },
+  "source:5d334071b1ba186ca05641720a160fa89e6d1713": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-agredir-companheira-e-enteada-e-fugir-para-mata-em-massaranduba",
+    "title": "Homem é preso após agredir companheira e enteada em Massaranduba",
+    "guid": "sc1multi:5d334071b1ba186ca05641720a160fa89e6d1713",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d334071b1ba186ca05641720a160fa89e6d1713/",
+    "usedAt": 1785741244286,
+    "usedAtIso": "2026-08-03T07:14:04.286Z"
+  },
   "source:4ad719f10a48210171bbf67e54f9c9ce226e20bc": {
     "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-atendem-acidente-entre-carro-e-moto-em-dona-emma",
     "title": "Acidente entre carro e moto mobiliza bombeiros em Dona Emma",
@@ -47,60 +63,20 @@
     "usedAt": 1785723244445,
     "usedAtIso": "2026-08-03T02:14:04.445Z"
   },
-  "source:7d9acd68527fc06f79137fb6a2a31619b4f73879": {
-    "url": "https://tnsul.com/2026/08/02/suposta-embriaguez-por-bebida-adulterada-nao-descriminaliza-furto",
-    "title": "TJSC mantém condenação por furto de veículo em Orleans",
-    "guid": "sc1multi:10eb08ff650194217832243a2a3e4f310f135f59",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10eb08ff650194217832243a2a3e4f310f135f59/",
-    "usedAt": 1785719644332,
-    "usedAtIso": "2026-08-03T01:14:04.332Z"
+  "source:371fd3f87e5e2af3430a8ea68f8fba952cbaa0e0": {
+    "url": "https://tnsul.com/2026/08/02/criciuma-recebe-festival-de-xadrez-rapido-da-amrec-no-proximo-dia-8",
+    "title": "Criciúma recebe Festival de Xadrez Rápido da Amrec em agosto",
+    "guid": "sc1multi:364a15a1e13b9854e64eb6e14c56afe305d16880",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_364a15a1e13b9854e64eb6e14c56afe305d16880/",
+    "usedAt": 1785744844227,
+    "usedAtIso": "2026-08-03T08:14:04.227Z"
   },
-  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
-    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
-    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
-    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
-    "usedAt": 1785719644332,
-    "usedAtIso": "2026-08-03T01:14:04.332Z"
-  },
-  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
-    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
-    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
-    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
-    "usedAt": 1785719644332,
-    "usedAtIso": "2026-08-03T01:14:04.332Z"
-  },
-  "source:a07654bebeb3580a8f52ac41a0b75a58c102d50e": {
-    "url": "https://ocp.news/esporte/inter-de-limeira-vence-flamengo-e-conquista-o-13o-campeonato-de-futebol-do-beira-rio",
-    "title": "Inter de Limeira vence Flamengo e conquista Campeonato do Beira Rio em SC",
-    "guid": "sc1multi:a07654bebeb3580a8f52ac41a0b75a58c102d50e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a07654bebeb3580a8f52ac41a0b75a58c102d50e/",
-    "usedAt": 1785719644332,
-    "usedAtIso": "2026-08-03T01:14:04.332Z"
-  },
-  "source:83102314a2ca56f4acec884ca6e1162ef161555e": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-trofeus-gerais-medalhas-e-vagas-a-final-marcam-penultimo-dia",
-    "title": "Jaraguá do Sul se destaca no penúltimo dia dos Joguinhos Abertos em Blumenau",
-    "guid": "sc1multi:83102314a2ca56f4acec884ca6e1162ef161555e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83102314a2ca56f4acec884ca6e1162ef161555e/",
-    "usedAt": 1785719644332,
-    "usedAtIso": "2026-08-03T01:14:04.332Z"
-  },
-  "source:1471365a537e68c566a3f0748521c27bea955bfe": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-com-recorde-de-pontos-jaragua-do-sul-e-vice-campea-geral",
-    "title": "Jaraguá do Sul é vice-campeã geral dos Joguinhos Abertos de Santa Catarina",
-    "guid": "sc1multi:1471365a537e68c566a3f0748521c27bea955bfe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1471365a537e68c566a3f0748521c27bea955bfe/",
-    "usedAt": 1785741244286,
-    "usedAtIso": "2026-08-03T07:14:04.286Z"
-  },
-  "source:5d334071b1ba186ca05641720a160fa89e6d1713": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-apos-agredir-companheira-e-enteada-e-fugir-para-mata-em-massaranduba",
-    "title": "Homem é preso após agredir companheira e enteada em Massaranduba",
-    "guid": "sc1multi:5d334071b1ba186ca05641720a160fa89e6d1713",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d334071b1ba186ca05641720a160fa89e6d1713/",
-    "usedAt": 1785741244286,
-    "usedAtIso": "2026-08-03T07:14:04.286Z"
+  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
+    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
+    "usedAt": 1785744844227,
+    "usedAtIso": "2026-08-03T08:14:04.227Z"
   }
 }
