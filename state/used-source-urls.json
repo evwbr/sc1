@@ -1,4 +1,52 @@
 {
+  "source:758e9d93c4dbe347b3fe3f784e8b20ca0d849162": {
+    "url": "https://ocp.news/economia/confira-as-794-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
+    "title": "Sine de Jaraguá do Sul oferece 794 vagas de emprego nesta semana",
+    "guid": "sc1multi:758e9d93c4dbe347b3fe3f784e8b20ca0d849162",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_758e9d93c4dbe347b3fe3f784e8b20ca0d849162/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
+  "source:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1": {
+    "url": "https://ocp.news/cotidiano/nova-frente-fria-vira-o-tempo-em-sc-e-traz-temporais-com-pancadas-de-chuva-ao-estado",
+    "title": "Nova frente fria provoca temporais e pancadas de chuva em Santa Catarina",
+    "guid": "sc1multi:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee4a3d626927ecd6d0a6db8e71befbb34a851ec1/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
+  "source:f9804788a57c7125f224ffd8c12eca9c173e9f53": {
+    "url": "https://tnsul.com/2026/08/03/homem-e-encontrado-morto-com-marcas-de-facadas-dentro-de-casa-em-chapeco",
+    "title": "Homem é encontrado morto com marcas de facadas em Chapecó",
+    "guid": "sc1multi:8aa53779c10f126fc6d6fc94adb6df1c81f8e775",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8aa53779c10f126fc6d6fc94adb6df1c81f8e775/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
+  "source:d46e9d36168d4bf338811f11c8672149961c4771": {
+    "url": "https://tnsul.com/2026/08/03/acidente-na-br-282-mata-motorista-e-deixa-outro-preso-as-ferragens",
+    "title": "Acidente na BR-282 em Alfredo Wagner deixa um morto e um ferido grave",
+    "guid": "sc1multi:3c3b29d32a00dc351d6c71c9b844bd7698805b04",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c3b29d32a00dc351d6c71c9b844bd7698805b04/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
+  "source:601db014b6fe7a90902b637aeb7d8fc325aaf588": {
+    "url": "https://ocp.news/cotidiano/aguas-de-guaramirim-realiza-reparos-na-rede-de-abastecimento-nesta-segunda-feira-3",
+    "title": "Águas de Guaramirim realiza reparos em rede de abastecimento nesta segunda",
+    "guid": "sc1multi:601db014b6fe7a90902b637aeb7d8fc325aaf588",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_601db014b6fe7a90902b637aeb7d8fc325aaf588/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
+  "source:221b553a87294274d707edda931089a69b0f7620": {
+    "url": "https://rbatv.com.br/noticias/casan-inicia-duas-novas-frentes-de-obras-do-sistema-de-esgotamento-sanitario-em-rio-do-sul",
+    "title": "Casan inicia obras do Sistema de Esgotamento Sanitário em Rio do Sul",
+    "guid": "sc1multi:de12a5dce2a41349aacadfe4f838befbbeaab273",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de12a5dce2a41349aacadfe4f838befbbeaab273/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  },
   "source:c68ca17cebeb72dbb1f6ae1300221e2114562ef5": {
     "url": "https://tnsul.com/2026/08/03/jovem-e-resgatado-apos-cair-de-ribanceira-de-15-metros-em-sc",
     "title": "Jovem é resgatado após queda de 15 metros em São Bento do Sul",
@@ -183,52 +231,28 @@
     "usedAt": 1785748445252,
     "usedAtIso": "2026-08-03T09:14:05.252Z"
   },
-  "source:758e9d93c4dbe347b3fe3f784e8b20ca0d849162": {
-    "url": "https://ocp.news/economia/confira-as-794-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
-    "title": "Sine de Jaraguá do Sul oferece 794 vagas de emprego nesta semana",
-    "guid": "sc1multi:758e9d93c4dbe347b3fe3f784e8b20ca0d849162",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_758e9d93c4dbe347b3fe3f784e8b20ca0d849162/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  "source:59235d3a97e57b004346992e55e4666d623cb4ca": {
+    "url": "https://ocp.news/politica/vereadores-aprovam-r-43-milhoes-para-terceirizacao-nas-escolas-de-jaragua-do-sul-mas-cobram-convocacao-de-concursados",
+    "title": "Jaraguá do Sul aprova R$ 4,3 milhões para terceirização em escolas municipais",
+    "guid": "sc1multi:59235d3a97e57b004346992e55e4666d623cb4ca",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59235d3a97e57b004346992e55e4666d623cb4ca/",
+    "usedAt": 1785770044771,
+    "usedAtIso": "2026-08-03T15:14:04.771Z"
   },
-  "source:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1": {
-    "url": "https://ocp.news/cotidiano/nova-frente-fria-vira-o-tempo-em-sc-e-traz-temporais-com-pancadas-de-chuva-ao-estado",
-    "title": "Nova frente fria provoca temporais e pancadas de chuva em Santa Catarina",
-    "guid": "sc1multi:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee4a3d626927ecd6d0a6db8e71befbb34a851ec1/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  "source:5395486ba7c3a4de027b8842cf48a857241ced2c": {
+    "url": "https://correiosc.com.br/colisao-frontal-caminhoes-vitima-fatal-ferido-br-282-alfredo-wagner",
+    "title": "Colisão frontal na BR-282 em Alfredo Wagner deixa um morto",
+    "guid": "sc1multi:fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d/",
+    "usedAt": 1785770044771,
+    "usedAtIso": "2026-08-03T15:14:04.771Z"
   },
-  "source:f9804788a57c7125f224ffd8c12eca9c173e9f53": {
-    "url": "https://tnsul.com/2026/08/03/homem-e-encontrado-morto-com-marcas-de-facadas-dentro-de-casa-em-chapeco",
-    "title": "Homem é encontrado morto com marcas de facadas em Chapecó",
-    "guid": "sc1multi:8aa53779c10f126fc6d6fc94adb6df1c81f8e775",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8aa53779c10f126fc6d6fc94adb6df1c81f8e775/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:d46e9d36168d4bf338811f11c8672149961c4771": {
-    "url": "https://tnsul.com/2026/08/03/acidente-na-br-282-mata-motorista-e-deixa-outro-preso-as-ferragens",
-    "title": "Acidente na BR-282 em Alfredo Wagner deixa um morto e um ferido grave",
-    "guid": "sc1multi:3c3b29d32a00dc351d6c71c9b844bd7698805b04",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c3b29d32a00dc351d6c71c9b844bd7698805b04/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:601db014b6fe7a90902b637aeb7d8fc325aaf588": {
-    "url": "https://ocp.news/cotidiano/aguas-de-guaramirim-realiza-reparos-na-rede-de-abastecimento-nesta-segunda-feira-3",
-    "title": "Águas de Guaramirim realiza reparos em rede de abastecimento nesta segunda",
-    "guid": "sc1multi:601db014b6fe7a90902b637aeb7d8fc325aaf588",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_601db014b6fe7a90902b637aeb7d8fc325aaf588/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:221b553a87294274d707edda931089a69b0f7620": {
-    "url": "https://rbatv.com.br/noticias/casan-inicia-duas-novas-frentes-de-obras-do-sistema-de-esgotamento-sanitario-em-rio-do-sul",
-    "title": "Casan inicia obras do Sistema de Esgotamento Sanitário em Rio do Sul",
-    "guid": "sc1multi:de12a5dce2a41349aacadfe4f838befbbeaab273",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de12a5dce2a41349aacadfe4f838befbbeaab273/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  "source:d6ef043602768ae6c96f264a708c78c9aad8928e": {
+    "url": "https://ocp.news/seguranca/jaragua-do-sul-lanca-campanha-apos-aumento-dos-golpes-virtuais-veja-como-se-proteger",
+    "title": "Jaraguá do Sul lança campanha contra golpes virtuais na cidade",
+    "guid": "sc1multi:d6ef043602768ae6c96f264a708c78c9aad8928e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6ef043602768ae6c96f264a708c78c9aad8928e/",
+    "usedAt": 1785770044771,
+    "usedAtIso": "2026-08-03T15:14:04.771Z"
   }
 }
