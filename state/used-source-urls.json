@@ -1,4 +1,20 @@
 {
+  "source:e6caf88cc1e0e4b0282059bdc61ae5f217ec0765": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-apos-ser-encontrado-com-carro-furtado-em-jaragua-do-sul",
+    "title": "Homem é preso com carro furtado em Guaramirim, SC",
+    "guid": "sc1multi:e6caf88cc1e0e4b0282059bdc61ae5f217ec0765",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6caf88cc1e0e4b0282059bdc61ae5f217ec0765/",
+    "usedAt": 1785748445252,
+    "usedAtIso": "2026-08-03T09:14:05.252Z"
+  },
+  "source:a749ebbdd32d685349363827caaae96c365f0584": {
+    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
+    "title": "Antídio Lunelli é oficializado candidato ao Senado em convenção do MDB em SC",
+    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
+    "usedAt": 1785748445252,
+    "usedAtIso": "2026-08-03T09:14:05.252Z"
+  },
   "source:371fd3f87e5e2af3430a8ea68f8fba952cbaa0e0": {
     "url": "https://tnsul.com/2026/08/02/criciuma-recebe-festival-de-xadrez-rapido-da-amrec-no-proximo-dia-8",
     "title": "Criciúma recebe Festival de Xadrez Rápido da Amrec em agosto",
@@ -55,28 +71,44 @@
     "usedAt": 1785734044799,
     "usedAtIso": "2026-08-03T05:14:04.799Z"
   },
-  "source:90ce717527200878fc27877a2be728da6468c0cc": {
-    "url": "https://ocp.news/politica/pl-confirma-candidaturas-de-flavio-carlos-e-renan-bolsonaro-em-sc-durante-convencao-estadual",
-    "title": "PL confirma candidaturas de Flávio, Carlos e Renan Bolsonaro em Santa Catarina",
-    "guid": "sc1multi:90ce717527200878fc27877a2be728da6468c0cc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_90ce717527200878fc27877a2be728da6468c0cc/",
-    "usedAt": 1785726845673,
-    "usedAtIso": "2026-08-03T03:14:05.673Z"
+  "source:4b633bf3f4f66ea80b91e3fa38216b864999fb8c": {
+    "url": "https://ocp.news/cotidiano/mais-de-37-mil-estudantes-voltam-as-aulas-na-rede-municipal-em-florianopolis",
+    "title": "Mais de 37 mil estudantes retornam às aulas na rede municipal de Florianópolis",
+    "guid": "sc1multi:4b633bf3f4f66ea80b91e3fa38216b864999fb8c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b633bf3f4f66ea80b91e3fa38216b864999fb8c/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
   },
-  "source:e6caf88cc1e0e4b0282059bdc61ae5f217ec0765": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-apos-ser-encontrado-com-carro-furtado-em-jaragua-do-sul",
-    "title": "Homem é preso com carro furtado em Guaramirim, SC",
-    "guid": "sc1multi:e6caf88cc1e0e4b0282059bdc61ae5f217ec0765",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6caf88cc1e0e4b0282059bdc61ae5f217ec0765/",
-    "usedAt": 1785748445252,
-    "usedAtIso": "2026-08-03T09:14:05.252Z"
+  "source:e672a50f9923598a5cbd78365511b9c2267d7804": {
+    "url": "https://ocp.news/economia/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca",
+    "title": "Mulheres são maioria no setor de seguros em Santa Catarina, mas poucas lideram",
+    "guid": "sc1multi:e672a50f9923598a5cbd78365511b9c2267d7804",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e672a50f9923598a5cbd78365511b9c2267d7804/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
   },
-  "source:a749ebbdd32d685349363827caaae96c365f0584": {
-    "url": "https://ocp.news/politica/lunelli-sobe-o-tom-em-convencao-do-mdb-e-defende-fim-da-polarizacao-a-politica-precisa-voltar-a-melhorar-a-vida-das-pessoas",
-    "title": "Antídio Lunelli é oficializado candidato ao Senado em convenção do MDB em SC",
-    "guid": "sc1multi:a749ebbdd32d685349363827caaae96c365f0584",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a749ebbdd32d685349363827caaae96c365f0584/",
-    "usedAt": 1785748445252,
-    "usedAtIso": "2026-08-03T09:14:05.252Z"
+  "source:59dc877cd6ed60da7ed66b94198328ae2b20b3e5": {
+    "url": "https://ocp.news/cotidiano/chuvas-e-tempestades-devem-se-intensificar-no-trimestre-dizem-especialistas",
+    "title": "El Niño deve intensificar chuvas e tempestades em Santa Catarina no próximo trimestre",
+    "guid": "sc1multi:59dc877cd6ed60da7ed66b94198328ae2b20b3e5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59dc877cd6ed60da7ed66b94198328ae2b20b3e5/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:64fb46fc8cccd24dd3e628ac0ad67d5d132bf2fe": {
+    "url": "https://tnsul.com/2026/08/02/capotamento-na-br-101-mobiliza-resgate-e-deixa-sete-pessoas-feridas",
+    "title": "Capotamento na BR-101 em Içara deixa sete feridos",
+    "guid": "sc1multi:4e3205ed664d38529800f8c647263bc3324ac3d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3205ed664d38529800f8c647263bc3324ac3d1/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6": {
+    "url": "https://ocp.news/seguranca/motorista-morre-apos-hilux-sair-da-pista-percorrer-122-metros-e-bater-contra-arvores-em-sc",
+    "title": "Motorista morre após Hilux sair da pista e bater em árvores na SC-480",
+    "guid": "sc1multi:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
   }
 }
