@@ -1,4 +1,52 @@
 {
+  "source:fb78ffbb789a50f263a7ddbd7b1e3032edab6050": {
+    "url": "https://ocp.news/politica/vereadora-propoe-protocolo-para-emissao-de-segunda-via-de-guias-em-guaramirim",
+    "title": "Vereadora de Guaramirim propõe protocolo para segunda via de guias médicas",
+    "guid": "sc1multi:fb78ffbb789a50f263a7ddbd7b1e3032edab6050",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb78ffbb789a50f263a7ddbd7b1e3032edab6050/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:91af084704c80d02039c8a3c0f80300999831f46": {
+    "url": "https://tnsul.com/2026/08/03/saude-e-agricultura-pautam-candidatura-de-ze-milton",
+    "title": "Zé Milton foca saúde e agricultura em pré-campanha no Sul de Santa Catarina",
+    "guid": "sc1multi:6ee302f89366a01d2377a7fad8a3a888856d5da1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ee302f89366a01d2377a7fad8a3a888856d5da1/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:a8d76b8c6f53854ddd4736502c9d9ad93ba9ab8e": {
+    "url": "https://tnsul.com/2026/08/03/colisao-entre-caminhonete-e-furgao-deixa-mulher-ferida-em-laguna",
+    "title": "Colisão entre caminhonete e furgão deixa mulher ferida em Laguna",
+    "guid": "sc1multi:cfa0ee1e67fde136560b3144f1261bab83d7be19",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cfa0ee1e67fde136560b3144f1261bab83d7be19/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
+    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
+    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
+    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
+    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
+    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
+    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
   "source:4b633bf3f4f66ea80b91e3fa38216b864999fb8c": {
     "url": "https://ocp.news/cotidiano/mais-de-37-mil-estudantes-voltam-as-aulas-na-rede-municipal-em-florianopolis",
     "title": "Mais de 37 mil estudantes retornam às aulas na rede municipal de Florianópolis",
@@ -87,76 +135,28 @@
     "usedAt": 1785741244286,
     "usedAtIso": "2026-08-03T07:14:04.286Z"
   },
-  "source:4ad719f10a48210171bbf67e54f9c9ce226e20bc": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-de-presidente-getulio-atendem-acidente-entre-carro-e-moto-em-dona-emma",
-    "title": "Acidente entre carro e moto mobiliza bombeiros em Dona Emma",
-    "guid": "sc1multi:4e2839f5d09002165f48c599ff3219a8da8ba343",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2839f5d09002165f48c599ff3219a8da8ba343/",
-    "usedAt": 1785737644340,
-    "usedAtIso": "2026-08-03T06:14:04.340Z"
+  "source:1185b35a62804683ead6198bdc82b54fb41a7865": {
+    "url": "https://tnsul.com/2026/08/03/motorista-escapa-ileso-apos-carro-pegar-fogo-em-rodovia-de-criciuma",
+    "title": "Carro pega fogo na Rodovia Luiz Henrique da Silveira em Criciúma",
+    "guid": "sc1multi:48863a2b062f70a6565998b8a8491d8cefeba510",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48863a2b062f70a6565998b8a8491d8cefeba510/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
   },
-  "source:3fbb7a259ac940e586c7cbe2b065a9e1f9cb7e16": {
-    "url": "https://ocp.news/politica/convencao-do-pl-reune-milhares-de-apoiadores-em-sc-com-presenca-de-flavio-e-carlos-bolsonaro",
-    "title": "Convenção do PL em São José oficializa pré-candidaturas para 2026 em SC",
-    "guid": "sc1multi:3fbb7a259ac940e586c7cbe2b065a9e1f9cb7e16",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3fbb7a259ac940e586c7cbe2b065a9e1f9cb7e16/",
-    "usedAt": 1785737644340,
-    "usedAtIso": "2026-08-03T06:14:04.340Z"
+  "source:6f6a7fcc11492efd1dcb8474fe86c6a6b4f3f93f": {
+    "url": "https://rbatv.com.br/noticias/justica-de-sc-autoriza-vitima-de-abuso-sexual-a-retirar-nome-do-pai-do-registro-civil",
+    "title": "Justiça de Criciúma autoriza vítima a retirar nome do pai do registro civil",
+    "guid": "sc1multi:5171ba5d291acc84b1b02e4fb92169614b4e3b05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5171ba5d291acc84b1b02e4fb92169614b4e3b05/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
   },
-  "source:a00ce1fab01235bf81ec7895d4ed8dd3c6f35249": {
-    "url": "https://tnsul.com/2026/08/02/fies-2026-santa-catarina-registrou-17-mil-inscritos-no-segundo-semestre",
-    "title": "Santa Catarina registra 1,7 mil inscritos no Fies para 2026",
-    "guid": "sc1multi:25958254fa8704afba28dbf97a05db4ce4fa9daf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25958254fa8704afba28dbf97a05db4ce4fa9daf/",
-    "usedAt": 1785734044799,
-    "usedAtIso": "2026-08-03T05:14:04.799Z"
-  },
-  "source:fb78ffbb789a50f263a7ddbd7b1e3032edab6050": {
-    "url": "https://ocp.news/politica/vereadora-propoe-protocolo-para-emissao-de-segunda-via-de-guias-em-guaramirim",
-    "title": "Vereadora de Guaramirim propõe protocolo para segunda via de guias médicas",
-    "guid": "sc1multi:fb78ffbb789a50f263a7ddbd7b1e3032edab6050",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb78ffbb789a50f263a7ddbd7b1e3032edab6050/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
-  },
-  "source:91af084704c80d02039c8a3c0f80300999831f46": {
-    "url": "https://tnsul.com/2026/08/03/saude-e-agricultura-pautam-candidatura-de-ze-milton",
-    "title": "Zé Milton foca saúde e agricultura em pré-campanha no Sul de Santa Catarina",
-    "guid": "sc1multi:6ee302f89366a01d2377a7fad8a3a888856d5da1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ee302f89366a01d2377a7fad8a3a888856d5da1/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
-  },
-  "source:a8d76b8c6f53854ddd4736502c9d9ad93ba9ab8e": {
-    "url": "https://tnsul.com/2026/08/03/colisao-entre-caminhonete-e-furgao-deixa-mulher-ferida-em-laguna",
-    "title": "Colisão entre caminhonete e furgão deixa mulher ferida em Laguna",
-    "guid": "sc1multi:cfa0ee1e67fde136560b3144f1261bab83d7be19",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cfa0ee1e67fde136560b3144f1261bab83d7be19/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
-  },
-  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
-    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
-    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
-    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
-  },
-  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
-    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
-    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
-  },
-  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
-    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
-    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
-    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
-    "usedAt": 1785755644523,
-    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
+    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
+    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
+    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
   }
 }
