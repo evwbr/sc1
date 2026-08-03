@@ -1,4 +1,28 @@
 {
+  "source:1185b35a62804683ead6198bdc82b54fb41a7865": {
+    "url": "https://tnsul.com/2026/08/03/motorista-escapa-ileso-apos-carro-pegar-fogo-em-rodovia-de-criciuma",
+    "title": "Carro pega fogo na Rodovia Luiz Henrique da Silveira em Criciúma",
+    "guid": "sc1multi:48863a2b062f70a6565998b8a8491d8cefeba510",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48863a2b062f70a6565998b8a8491d8cefeba510/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  },
+  "source:6f6a7fcc11492efd1dcb8474fe86c6a6b4f3f93f": {
+    "url": "https://rbatv.com.br/noticias/justica-de-sc-autoriza-vitima-de-abuso-sexual-a-retirar-nome-do-pai-do-registro-civil",
+    "title": "Justiça de Criciúma autoriza vítima a retirar nome do pai do registro civil",
+    "guid": "sc1multi:5171ba5d291acc84b1b02e4fb92169614b4e3b05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5171ba5d291acc84b1b02e4fb92169614b4e3b05/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  },
+  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
+    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
+    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
+    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
+    "usedAt": 1785759244742,
+    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  },
   "source:fb78ffbb789a50f263a7ddbd7b1e3032edab6050": {
     "url": "https://ocp.news/politica/vereadora-propoe-protocolo-para-emissao-de-segunda-via-de-guias-em-guaramirim",
     "title": "Vereadora de Guaramirim propõe protocolo para segunda via de guias médicas",
@@ -119,44 +143,60 @@
     "usedAt": 1785744844227,
     "usedAtIso": "2026-08-03T08:14:04.227Z"
   },
-  "source:1471365a537e68c566a3f0748521c27bea955bfe": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-com-recorde-de-pontos-jaragua-do-sul-e-vice-campea-geral",
-    "title": "Jaraguá do Sul é vice-campeã geral dos Joguinhos Abertos de Santa Catarina",
-    "guid": "sc1multi:1471365a537e68c566a3f0748521c27bea955bfe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1471365a537e68c566a3f0748521c27bea955bfe/",
-    "usedAt": 1785741244286,
-    "usedAtIso": "2026-08-03T07:14:04.286Z"
+  "source:c68ca17cebeb72dbb1f6ae1300221e2114562ef5": {
+    "url": "https://tnsul.com/2026/08/03/jovem-e-resgatado-apos-cair-de-ribanceira-de-15-metros-em-sc",
+    "title": "Jovem é resgatado após queda de 15 metros em São Bento do Sul",
+    "guid": "sc1multi:9d289b7ff635ad80e6515b1cb85ec6071774664a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d289b7ff635ad80e6515b1cb85ec6071774664a/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
   },
-  "source:5d334071b1ba186ca05641720a160fa89e6d1713": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-apos-agredir-companheira-e-enteada-e-fugir-para-mata-em-massaranduba",
-    "title": "Homem é preso após agredir companheira e enteada em Massaranduba",
-    "guid": "sc1multi:5d334071b1ba186ca05641720a160fa89e6d1713",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d334071b1ba186ca05641720a160fa89e6d1713/",
-    "usedAt": 1785741244286,
-    "usedAtIso": "2026-08-03T07:14:04.286Z"
+  "source:c8f51fd31032b0b3311a3302f256c7262781793e": {
+    "url": "https://ocp.news/cotidiano/florianopolis-oferece-rede-de-coleta-e-pontos-gratuitos-para-o-descarte-de-residuos",
+    "title": "Florianópolis amplia rede de coleta e pontos para descarte de resíduos",
+    "guid": "sc1multi:c8f51fd31032b0b3311a3302f256c7262781793e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c8f51fd31032b0b3311a3302f256c7262781793e/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
   },
-  "source:1185b35a62804683ead6198bdc82b54fb41a7865": {
-    "url": "https://tnsul.com/2026/08/03/motorista-escapa-ileso-apos-carro-pegar-fogo-em-rodovia-de-criciuma",
-    "title": "Carro pega fogo na Rodovia Luiz Henrique da Silveira em Criciúma",
-    "guid": "sc1multi:48863a2b062f70a6565998b8a8491d8cefeba510",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48863a2b062f70a6565998b8a8491d8cefeba510/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  "source:2eda2c4f66d7c142db5754502b28f4cba9ffb97f": {
+    "url": "https://ocp.news/cotidiano/nova-linha-do-formiguinha-amplia-atendimento-em-morro-de-florianopolis",
+    "title": "Nova linha do Formiguinha amplia atendimento no Morro da Penitenciária em Florianópolis",
+    "guid": "sc1multi:2eda2c4f66d7c142db5754502b28f4cba9ffb97f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2eda2c4f66d7c142db5754502b28f4cba9ffb97f/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
   },
-  "source:6f6a7fcc11492efd1dcb8474fe86c6a6b4f3f93f": {
-    "url": "https://rbatv.com.br/noticias/justica-de-sc-autoriza-vitima-de-abuso-sexual-a-retirar-nome-do-pai-do-registro-civil",
-    "title": "Justiça de Criciúma autoriza vítima a retirar nome do pai do registro civil",
-    "guid": "sc1multi:5171ba5d291acc84b1b02e4fb92169614b4e3b05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5171ba5d291acc84b1b02e4fb92169614b4e3b05/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  "source:54c407cf6287269887f6b10773c9cb74d5100f82": {
+    "url": "https://ocp.news/cotidiano/mais-de-38-mil-estudantes-voltam-as-aulas-na-segunda-feira-em-blumenau",
+    "title": "Mais de 38 mil estudantes retornam às aulas em Blumenau",
+    "guid": "sc1multi:54c407cf6287269887f6b10773c9cb74d5100f82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54c407cf6287269887f6b10773c9cb74d5100f82/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
   },
-  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
-    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
-    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
-    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
+  "source:ba3b96af1a63540101e6fe1fe83c5463a1698d43": {
+    "url": "https://ocp.news/cotidiano/novo-centro-especializado-em-saude-de-criciuma-realiza-mais-de-500-atendimentos-em-menos-de-uma-semana",
+    "title": "Novo centro de saúde em Criciúma realiza mais de 500 atendimentos em cinco dias",
+    "guid": "sc1multi:ba3b96af1a63540101e6fe1fe83c5463a1698d43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba3b96af1a63540101e6fe1fe83c5463a1698d43/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
+    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
+    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
+    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
+    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
+    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
+    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
   }
 }
