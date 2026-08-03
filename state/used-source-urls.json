@@ -1,4 +1,44 @@
 {
+  "source:4b633bf3f4f66ea80b91e3fa38216b864999fb8c": {
+    "url": "https://ocp.news/cotidiano/mais-de-37-mil-estudantes-voltam-as-aulas-na-rede-municipal-em-florianopolis",
+    "title": "Mais de 37 mil estudantes retornam às aulas na rede municipal de Florianópolis",
+    "guid": "sc1multi:4b633bf3f4f66ea80b91e3fa38216b864999fb8c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b633bf3f4f66ea80b91e3fa38216b864999fb8c/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:e672a50f9923598a5cbd78365511b9c2267d7804": {
+    "url": "https://ocp.news/economia/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca",
+    "title": "Mulheres são maioria no setor de seguros em Santa Catarina, mas poucas lideram",
+    "guid": "sc1multi:e672a50f9923598a5cbd78365511b9c2267d7804",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e672a50f9923598a5cbd78365511b9c2267d7804/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:59dc877cd6ed60da7ed66b94198328ae2b20b3e5": {
+    "url": "https://ocp.news/cotidiano/chuvas-e-tempestades-devem-se-intensificar-no-trimestre-dizem-especialistas",
+    "title": "El Niño deve intensificar chuvas e tempestades em Santa Catarina no próximo trimestre",
+    "guid": "sc1multi:59dc877cd6ed60da7ed66b94198328ae2b20b3e5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59dc877cd6ed60da7ed66b94198328ae2b20b3e5/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:64fb46fc8cccd24dd3e628ac0ad67d5d132bf2fe": {
+    "url": "https://tnsul.com/2026/08/02/capotamento-na-br-101-mobiliza-resgate-e-deixa-sete-pessoas-feridas",
+    "title": "Capotamento na BR-101 em Içara deixa sete feridos",
+    "guid": "sc1multi:4e3205ed664d38529800f8c647263bc3324ac3d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3205ed664d38529800f8c647263bc3324ac3d1/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
+  "source:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6": {
+    "url": "https://ocp.news/seguranca/motorista-morre-apos-hilux-sair-da-pista-percorrer-122-metros-e-bater-contra-arvores-em-sc",
+    "title": "Motorista morre após Hilux sair da pista e bater em árvores na SC-480",
+    "guid": "sc1multi:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6/",
+    "usedAt": 1785752046420,
+    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  },
   "source:e6caf88cc1e0e4b0282059bdc61ae5f217ec0765": {
     "url": "https://ocp.news/seguranca/homem-e-preso-apos-ser-encontrado-com-carro-furtado-em-jaragua-do-sul",
     "title": "Homem é preso com carro furtado em Guaramirim, SC",
@@ -71,44 +111,52 @@
     "usedAt": 1785734044799,
     "usedAtIso": "2026-08-03T05:14:04.799Z"
   },
-  "source:4b633bf3f4f66ea80b91e3fa38216b864999fb8c": {
-    "url": "https://ocp.news/cotidiano/mais-de-37-mil-estudantes-voltam-as-aulas-na-rede-municipal-em-florianopolis",
-    "title": "Mais de 37 mil estudantes retornam às aulas na rede municipal de Florianópolis",
-    "guid": "sc1multi:4b633bf3f4f66ea80b91e3fa38216b864999fb8c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b633bf3f4f66ea80b91e3fa38216b864999fb8c/",
-    "usedAt": 1785752046420,
-    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  "source:fb78ffbb789a50f263a7ddbd7b1e3032edab6050": {
+    "url": "https://ocp.news/politica/vereadora-propoe-protocolo-para-emissao-de-segunda-via-de-guias-em-guaramirim",
+    "title": "Vereadora de Guaramirim propõe protocolo para segunda via de guias médicas",
+    "guid": "sc1multi:fb78ffbb789a50f263a7ddbd7b1e3032edab6050",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb78ffbb789a50f263a7ddbd7b1e3032edab6050/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
   },
-  "source:e672a50f9923598a5cbd78365511b9c2267d7804": {
-    "url": "https://ocp.news/economia/mulheres-sao-maioria-no-setor-de-seguros-mas-minoria-na-lideranca",
-    "title": "Mulheres são maioria no setor de seguros em Santa Catarina, mas poucas lideram",
-    "guid": "sc1multi:e672a50f9923598a5cbd78365511b9c2267d7804",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e672a50f9923598a5cbd78365511b9c2267d7804/",
-    "usedAt": 1785752046420,
-    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  "source:91af084704c80d02039c8a3c0f80300999831f46": {
+    "url": "https://tnsul.com/2026/08/03/saude-e-agricultura-pautam-candidatura-de-ze-milton",
+    "title": "Zé Milton foca saúde e agricultura em pré-campanha no Sul de Santa Catarina",
+    "guid": "sc1multi:6ee302f89366a01d2377a7fad8a3a888856d5da1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6ee302f89366a01d2377a7fad8a3a888856d5da1/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
   },
-  "source:59dc877cd6ed60da7ed66b94198328ae2b20b3e5": {
-    "url": "https://ocp.news/cotidiano/chuvas-e-tempestades-devem-se-intensificar-no-trimestre-dizem-especialistas",
-    "title": "El Niño deve intensificar chuvas e tempestades em Santa Catarina no próximo trimestre",
-    "guid": "sc1multi:59dc877cd6ed60da7ed66b94198328ae2b20b3e5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_59dc877cd6ed60da7ed66b94198328ae2b20b3e5/",
-    "usedAt": 1785752046420,
-    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  "source:a8d76b8c6f53854ddd4736502c9d9ad93ba9ab8e": {
+    "url": "https://tnsul.com/2026/08/03/colisao-entre-caminhonete-e-furgao-deixa-mulher-ferida-em-laguna",
+    "title": "Colisão entre caminhonete e furgão deixa mulher ferida em Laguna",
+    "guid": "sc1multi:cfa0ee1e67fde136560b3144f1261bab83d7be19",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cfa0ee1e67fde136560b3144f1261bab83d7be19/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
   },
-  "source:64fb46fc8cccd24dd3e628ac0ad67d5d132bf2fe": {
-    "url": "https://tnsul.com/2026/08/02/capotamento-na-br-101-mobiliza-resgate-e-deixa-sete-pessoas-feridas",
-    "title": "Capotamento na BR-101 em Içara deixa sete feridos",
-    "guid": "sc1multi:4e3205ed664d38529800f8c647263bc3324ac3d1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e3205ed664d38529800f8c647263bc3324ac3d1/",
-    "usedAt": 1785752046420,
-    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
+    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
+    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
+    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
   },
-  "source:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6": {
-    "url": "https://ocp.news/seguranca/motorista-morre-apos-hilux-sair-da-pista-percorrer-122-metros-e-bater-contra-arvores-em-sc",
-    "title": "Motorista morre após Hilux sair da pista e bater em árvores na SC-480",
-    "guid": "sc1multi:bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc46f9c76df8409ddb5c86192fb8bdf2fbb011f6/",
-    "usedAt": 1785752046420,
-    "usedAtIso": "2026-08-03T10:14:06.420Z"
+  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
+    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
+    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
+  },
+  "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
+    "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
+    "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
+    "guid": "sc1multi:d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c2f71ea9e7ca483f5a76e19edc5b5b6f8b8707/",
+    "usedAt": 1785755644523,
+    "usedAtIso": "2026-08-03T11:14:04.523Z"
   }
 }
