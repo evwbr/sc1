@@ -1,4 +1,20 @@
 {
+  "source:d2568ab422ea4f02bde6f2a739c8f6878dd906d5": {
+    "url": "https://rbatv.com.br/noticias/pm-atende-caso-de-ameaca-e-lesao-corporal-em-agronomica",
+    "title": "Polícia Militar atende caso de lesão corporal em Agronômica",
+    "guid": "sc1multi:93fa56da7209dcda2a019a94a07b631a38c4ffce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_93fa56da7209dcda2a019a94a07b631a38c4ffce/",
+    "usedAt": 1785716044899,
+    "usedAtIso": "2026-08-03T00:14:04.899Z"
+  },
+  "source:163e2a54c2dd022dfc0cc954e618599db0c37f73": {
+    "url": "https://ocp.news/esporte/ex-jogador-de-grandes-clubes-do-brasil-revela-que-sera-tecnico-do-jec",
+    "title": "Ex-jogador Diego Souza será técnico do Joinville em 2026",
+    "guid": "sc1multi:163e2a54c2dd022dfc0cc954e618599db0c37f73",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_163e2a54c2dd022dfc0cc954e618599db0c37f73/",
+    "usedAt": 1785716044899,
+    "usedAtIso": "2026-08-03T00:14:04.899Z"
+  },
   "source:52e59893e36aa5081ec7043c747cef2dcc4beb74": {
     "url": "https://correiosc.com.br/florianopolis-abre-consulta-publica-sobre-acessos-as-praias-no-leste-da-ilha",
     "title": "Florianópolis abre consulta pública sobre acessos às praias da orla",
@@ -175,76 +191,44 @@
     "usedAt": 1785701644143,
     "usedAtIso": "2026-08-02T20:14:04.143Z"
   },
-  "source:7b7afb6206247fffd77eca3bb1072207ebf1e490": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/acidente-de-trabalho-mata-jovem-31-7",
-    "title": "Acidente de trabalho em silo mata jovem no Oeste catarinense",
-    "guid": "sc1multi:6d210d1d156d2aa6fbe7f4b5cb095414a2474831",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d210d1d156d2aa6fbe7f4b5cb095414a2474831/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
+  "source:7d9acd68527fc06f79137fb6a2a31619b4f73879": {
+    "url": "https://tnsul.com/2026/08/02/suposta-embriaguez-por-bebida-adulterada-nao-descriminaliza-furto",
+    "title": "TJSC mantém condenação por furto de veículo em Orleans",
+    "guid": "sc1multi:10eb08ff650194217832243a2a3e4f310f135f59",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10eb08ff650194217832243a2a3e4f310f135f59/",
+    "usedAt": 1785719644332,
+    "usedAtIso": "2026-08-03T01:14:04.332Z"
   },
-  "source:83102314a2ca56f4acec884ca6e1162ef161555e": {
-    "url": "https://ocp.news/esporte/boletim-joguinhos-trofeus-gerais-medalhas-e-vagas-a-final-marcam-penultimo-dia",
-    "title": "Jaraguá do Sul se destaca no penúltimo dia dos Joguinhos Abertos em Blumenau",
-    "guid": "sc1multi:83102314a2ca56f4acec884ca6e1162ef161555e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83102314a2ca56f4acec884ca6e1162ef161555e/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
+  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
+    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
+    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
+    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
+    "usedAt": 1785719644332,
+    "usedAtIso": "2026-08-03T01:14:04.332Z"
   },
-  "source:cd74bd179e7d17d9171216b82edb5c7a6d415ce8": {
-    "url": "https://ocp.news/cotidiano/sc-nomeia-200-novos-policiais-civis-apos-aprovacao-em-concurso-publico",
-    "title": "Santa Catarina nomeia 200 novos policiais civis após concurso público",
-    "guid": "sc1multi:cd74bd179e7d17d9171216b82edb5c7a6d415ce8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd74bd179e7d17d9171216b82edb5c7a6d415ce8/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
-  },
-  "source:85c0519918bd7bb712f61ef9b6efc7de462bba78": {
-    "url": "https://tnsul.com/2026/08/02/quatro-furtos-sao-registrados-em-duas-cidades-em-um-unico-dia",
-    "title": "Quatro furtos são registrados em Criciúma e Balneário Rincão no sábado",
-    "guid": "sc1multi:bc5e45200384eaddef0e0e870a20b80d0e3ddb34",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc5e45200384eaddef0e0e870a20b80d0e3ddb34/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
-  },
-  "source:221b553a87294274d707edda931089a69b0f7620": {
-    "url": "https://rbatv.com.br/noticias/casan-inicia-duas-novas-frentes-de-obras-do-sistema-de-esgotamento-sanitario-em-rio-do-sul",
-    "title": "Casan inicia obras do Sistema de Esgotamento Sanitário em Rio do Sul",
-    "guid": "sc1multi:de12a5dce2a41349aacadfe4f838befbbeaab273",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de12a5dce2a41349aacadfe4f838befbbeaab273/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
-  },
-  "source:e97f2b46adfdcac836679eecbaf7fe3ca2b43e4d": {
-    "url": "https://ocp.news/seguranca/mulher-morre-e-tres-pessoas-ficam-feridas-em-grave-acidente-na-br-116-em-sc",
-    "title": "Mulher morre e três ficam feridos em acidente na BR-116 em Correia Pinto",
-    "guid": "sc1multi:e97f2b46adfdcac836679eecbaf7fe3ca2b43e4d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e97f2b46adfdcac836679eecbaf7fe3ca2b43e4d/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
+  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
+    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
+    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
+    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
+    "usedAt": 1785719644332,
+    "usedAtIso": "2026-08-03T01:14:04.332Z"
   },
   "source:a07654bebeb3580a8f52ac41a0b75a58c102d50e": {
     "url": "https://ocp.news/esporte/inter-de-limeira-vence-flamengo-e-conquista-o-13o-campeonato-de-futebol-do-beira-rio",
     "title": "Inter de Limeira vence Flamengo e conquista Campeonato do Beira Rio em SC",
     "guid": "sc1multi:a07654bebeb3580a8f52ac41a0b75a58c102d50e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a07654bebeb3580a8f52ac41a0b75a58c102d50e/",
-    "usedAt": 1785698044266,
-    "usedAtIso": "2026-08-02T19:14:04.266Z"
+    "usedAt": 1785719644332,
+    "usedAtIso": "2026-08-03T01:14:04.332Z"
   },
-  "source:d2568ab422ea4f02bde6f2a739c8f6878dd906d5": {
-    "url": "https://rbatv.com.br/noticias/pm-atende-caso-de-ameaca-e-lesao-corporal-em-agronomica",
-    "title": "Polícia Militar atende caso de lesão corporal em Agronômica",
-    "guid": "sc1multi:93fa56da7209dcda2a019a94a07b631a38c4ffce",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_93fa56da7209dcda2a019a94a07b631a38c4ffce/",
-    "usedAt": 1785716044899,
-    "usedAtIso": "2026-08-03T00:14:04.899Z"
-  },
-  "source:163e2a54c2dd022dfc0cc954e618599db0c37f73": {
-    "url": "https://ocp.news/esporte/ex-jogador-de-grandes-clubes-do-brasil-revela-que-sera-tecnico-do-jec",
-    "title": "Ex-jogador Diego Souza será técnico do Joinville em 2026",
-    "guid": "sc1multi:163e2a54c2dd022dfc0cc954e618599db0c37f73",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_163e2a54c2dd022dfc0cc954e618599db0c37f73/",
-    "usedAt": 1785716044899,
-    "usedAtIso": "2026-08-03T00:14:04.899Z"
+  "source:83102314a2ca56f4acec884ca6e1162ef161555e": {
+    "url": "https://ocp.news/esporte/boletim-joguinhos-trofeus-gerais-medalhas-e-vagas-a-final-marcam-penultimo-dia",
+    "title": "Jaraguá do Sul se destaca no penúltimo dia dos Joguinhos Abertos em Blumenau",
+    "guid": "sc1multi:83102314a2ca56f4acec884ca6e1162ef161555e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83102314a2ca56f4acec884ca6e1162ef161555e/",
+    "usedAt": 1785719644332,
+    "usedAtIso": "2026-08-03T01:14:04.332Z"
   }
 }
