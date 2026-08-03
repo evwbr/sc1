@@ -1,4 +1,20 @@
 {
+  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
+    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
+    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
+    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
+    "usedAt": 1785784444379,
+    "usedAtIso": "2026-08-03T19:14:04.379Z"
+  },
+  "source:aa16a021ae6e6f2e4c8be194675e8247f20b1476": {
+    "url": "https://tnsul.com/2026/08/03/voos-de-florianopolis-para-jaguaruna-e-forquilhinha-custarao-r-315",
+    "title": "Nova rota aérea ligará Florianópolis a Jaguaruna com passagens a R$ 315",
+    "guid": "sc1multi:8605f3435f2a797579d2efd681555998983daf26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8605f3435f2a797579d2efd681555998983daf26/",
+    "usedAt": 1785784444379,
+    "usedAtIso": "2026-08-03T19:14:04.379Z"
+  },
   "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
     "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
     "title": "Polícias Civil e Militar libertam vítima de cárcere privado em Joaçaba",
@@ -143,68 +159,20 @@
     "usedAt": 1785770044771,
     "usedAtIso": "2026-08-03T15:14:04.771Z"
   },
-  "source:758e9d93c4dbe347b3fe3f784e8b20ca0d849162": {
-    "url": "https://ocp.news/economia/confira-as-794-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
-    "title": "Sine de Jaraguá do Sul oferece 794 vagas de emprego nesta semana",
-    "guid": "sc1multi:758e9d93c4dbe347b3fe3f784e8b20ca0d849162",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_758e9d93c4dbe347b3fe3f784e8b20ca0d849162/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
+  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
+    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
+    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
+    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
+    "usedAt": 1785788044601,
+    "usedAtIso": "2026-08-03T20:14:04.601Z"
   },
-  "source:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1": {
-    "url": "https://ocp.news/cotidiano/nova-frente-fria-vira-o-tempo-em-sc-e-traz-temporais-com-pancadas-de-chuva-ao-estado",
-    "title": "Nova frente fria provoca temporais e pancadas de chuva em Santa Catarina",
-    "guid": "sc1multi:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee4a3d626927ecd6d0a6db8e71befbb34a851ec1/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:f9804788a57c7125f224ffd8c12eca9c173e9f53": {
-    "url": "https://tnsul.com/2026/08/03/homem-e-encontrado-morto-com-marcas-de-facadas-dentro-de-casa-em-chapeco",
-    "title": "Homem é encontrado morto com marcas de facadas em Chapecó",
-    "guid": "sc1multi:8aa53779c10f126fc6d6fc94adb6df1c81f8e775",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8aa53779c10f126fc6d6fc94adb6df1c81f8e775/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:d46e9d36168d4bf338811f11c8672149961c4771": {
-    "url": "https://tnsul.com/2026/08/03/acidente-na-br-282-mata-motorista-e-deixa-outro-preso-as-ferragens",
-    "title": "Acidente na BR-282 em Alfredo Wagner deixa um morto e um ferido grave",
-    "guid": "sc1multi:3c3b29d32a00dc351d6c71c9b844bd7698805b04",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c3b29d32a00dc351d6c71c9b844bd7698805b04/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:601db014b6fe7a90902b637aeb7d8fc325aaf588": {
-    "url": "https://ocp.news/cotidiano/aguas-de-guaramirim-realiza-reparos-na-rede-de-abastecimento-nesta-segunda-feira-3",
-    "title": "Águas de Guaramirim realiza reparos em rede de abastecimento nesta segunda",
-    "guid": "sc1multi:601db014b6fe7a90902b637aeb7d8fc325aaf588",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_601db014b6fe7a90902b637aeb7d8fc325aaf588/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:221b553a87294274d707edda931089a69b0f7620": {
-    "url": "https://rbatv.com.br/noticias/casan-inicia-duas-novas-frentes-de-obras-do-sistema-de-esgotamento-sanitario-em-rio-do-sul",
-    "title": "Casan inicia obras do Sistema de Esgotamento Sanitário em Rio do Sul",
-    "guid": "sc1multi:de12a5dce2a41349aacadfe4f838befbbeaab273",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de12a5dce2a41349aacadfe4f838befbbeaab273/",
-    "usedAt": 1785766444381,
-    "usedAtIso": "2026-08-03T14:14:04.381Z"
-  },
-  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
-    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
-    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
-    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
-    "usedAt": 1785784444379,
-    "usedAtIso": "2026-08-03T19:14:04.379Z"
-  },
-  "source:aa16a021ae6e6f2e4c8be194675e8247f20b1476": {
-    "url": "https://tnsul.com/2026/08/03/voos-de-florianopolis-para-jaguaruna-e-forquilhinha-custarao-r-315",
-    "title": "Nova rota aérea ligará Florianópolis a Jaguaruna com passagens a R$ 315",
-    "guid": "sc1multi:8605f3435f2a797579d2efd681555998983daf26",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8605f3435f2a797579d2efd681555998983daf26/",
-    "usedAt": 1785784444379,
-    "usedAtIso": "2026-08-03T19:14:04.379Z"
+  "source:01c4a3ac8c9ad655a79f7a576984c849c092e885": {
+    "url": "https://ocp.news/esporte/escolinha-jaraguaense-faz-boa-campanha-em-renomado-torneio-de-futebol-de-base",
+    "title": "Centro de Formação Atlético Junior de Jaraguá do Sul se destaca em torneio nacional de futebol de base",
+    "guid": "sc1multi:01c4a3ac8c9ad655a79f7a576984c849c092e885",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01c4a3ac8c9ad655a79f7a576984c849c092e885/",
+    "usedAt": 1785788044601,
+    "usedAtIso": "2026-08-03T20:14:04.601Z"
   }
 }
