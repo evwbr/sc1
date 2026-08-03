@@ -1,4 +1,60 @@
 {
+  "source:c68ca17cebeb72dbb1f6ae1300221e2114562ef5": {
+    "url": "https://tnsul.com/2026/08/03/jovem-e-resgatado-apos-cair-de-ribanceira-de-15-metros-em-sc",
+    "title": "Jovem é resgatado após queda de 15 metros em São Bento do Sul",
+    "guid": "sc1multi:9d289b7ff635ad80e6515b1cb85ec6071774664a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d289b7ff635ad80e6515b1cb85ec6071774664a/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:c8f51fd31032b0b3311a3302f256c7262781793e": {
+    "url": "https://ocp.news/cotidiano/florianopolis-oferece-rede-de-coleta-e-pontos-gratuitos-para-o-descarte-de-residuos",
+    "title": "Florianópolis amplia rede de coleta e pontos para descarte de resíduos",
+    "guid": "sc1multi:c8f51fd31032b0b3311a3302f256c7262781793e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c8f51fd31032b0b3311a3302f256c7262781793e/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:2eda2c4f66d7c142db5754502b28f4cba9ffb97f": {
+    "url": "https://ocp.news/cotidiano/nova-linha-do-formiguinha-amplia-atendimento-em-morro-de-florianopolis",
+    "title": "Nova linha do Formiguinha amplia atendimento no Morro da Penitenciária em Florianópolis",
+    "guid": "sc1multi:2eda2c4f66d7c142db5754502b28f4cba9ffb97f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2eda2c4f66d7c142db5754502b28f4cba9ffb97f/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:54c407cf6287269887f6b10773c9cb74d5100f82": {
+    "url": "https://ocp.news/cotidiano/mais-de-38-mil-estudantes-voltam-as-aulas-na-segunda-feira-em-blumenau",
+    "title": "Mais de 38 mil estudantes retornam às aulas em Blumenau",
+    "guid": "sc1multi:54c407cf6287269887f6b10773c9cb74d5100f82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54c407cf6287269887f6b10773c9cb74d5100f82/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:ba3b96af1a63540101e6fe1fe83c5463a1698d43": {
+    "url": "https://ocp.news/cotidiano/novo-centro-especializado-em-saude-de-criciuma-realiza-mais-de-500-atendimentos-em-menos-de-uma-semana",
+    "title": "Novo centro de saúde em Criciúma realiza mais de 500 atendimentos em cinco dias",
+    "guid": "sc1multi:ba3b96af1a63540101e6fe1fe83c5463a1698d43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba3b96af1a63540101e6fe1fe83c5463a1698d43/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
+    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
+    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
+    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
+  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
+    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
+    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
+    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
+    "usedAt": 1785762844336,
+    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  },
   "source:1185b35a62804683ead6198bdc82b54fb41a7865": {
     "url": "https://tnsul.com/2026/08/03/motorista-escapa-ileso-apos-carro-pegar-fogo-em-rodovia-de-criciuma",
     "title": "Carro pega fogo na Rodovia Luiz Henrique da Silveira em Criciúma",
@@ -127,76 +183,52 @@
     "usedAt": 1785748445252,
     "usedAtIso": "2026-08-03T09:14:05.252Z"
   },
-  "source:371fd3f87e5e2af3430a8ea68f8fba952cbaa0e0": {
-    "url": "https://tnsul.com/2026/08/02/criciuma-recebe-festival-de-xadrez-rapido-da-amrec-no-proximo-dia-8",
-    "title": "Criciúma recebe Festival de Xadrez Rápido da Amrec em agosto",
-    "guid": "sc1multi:364a15a1e13b9854e64eb6e14c56afe305d16880",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_364a15a1e13b9854e64eb6e14c56afe305d16880/",
-    "usedAt": 1785744844227,
-    "usedAtIso": "2026-08-03T08:14:04.227Z"
+  "source:758e9d93c4dbe347b3fe3f784e8b20ca0d849162": {
+    "url": "https://ocp.news/economia/confira-as-794-vagas-de-emprego-desta-semana-em-jaragua-do-sul",
+    "title": "Sine de Jaraguá do Sul oferece 794 vagas de emprego nesta semana",
+    "guid": "sc1multi:758e9d93c4dbe347b3fe3f784e8b20ca0d849162",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_758e9d93c4dbe347b3fe3f784e8b20ca0d849162/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:a5a5ee5a198a9b50e45e84008c596501afa7c1a8": {
-    "url": "https://ocp.news/politica/psd-oficializa-joao-rodrigues-como-candidato-ao-governo-de-sc-em-convencao-com-presenca-de-kassab-e-caiado",
-    "title": "PSD oficializa João Rodrigues candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:a5a5ee5a198a9b50e45e84008c596501afa7c1a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5a5ee5a198a9b50e45e84008c596501afa7c1a8/",
-    "usedAt": 1785744844227,
-    "usedAtIso": "2026-08-03T08:14:04.227Z"
+  "source:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1": {
+    "url": "https://ocp.news/cotidiano/nova-frente-fria-vira-o-tempo-em-sc-e-traz-temporais-com-pancadas-de-chuva-ao-estado",
+    "title": "Nova frente fria provoca temporais e pancadas de chuva em Santa Catarina",
+    "guid": "sc1multi:ee4a3d626927ecd6d0a6db8e71befbb34a851ec1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee4a3d626927ecd6d0a6db8e71befbb34a851ec1/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:c68ca17cebeb72dbb1f6ae1300221e2114562ef5": {
-    "url": "https://tnsul.com/2026/08/03/jovem-e-resgatado-apos-cair-de-ribanceira-de-15-metros-em-sc",
-    "title": "Jovem é resgatado após queda de 15 metros em São Bento do Sul",
-    "guid": "sc1multi:9d289b7ff635ad80e6515b1cb85ec6071774664a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d289b7ff635ad80e6515b1cb85ec6071774664a/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  "source:f9804788a57c7125f224ffd8c12eca9c173e9f53": {
+    "url": "https://tnsul.com/2026/08/03/homem-e-encontrado-morto-com-marcas-de-facadas-dentro-de-casa-em-chapeco",
+    "title": "Homem é encontrado morto com marcas de facadas em Chapecó",
+    "guid": "sc1multi:8aa53779c10f126fc6d6fc94adb6df1c81f8e775",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8aa53779c10f126fc6d6fc94adb6df1c81f8e775/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:c8f51fd31032b0b3311a3302f256c7262781793e": {
-    "url": "https://ocp.news/cotidiano/florianopolis-oferece-rede-de-coleta-e-pontos-gratuitos-para-o-descarte-de-residuos",
-    "title": "Florianópolis amplia rede de coleta e pontos para descarte de resíduos",
-    "guid": "sc1multi:c8f51fd31032b0b3311a3302f256c7262781793e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c8f51fd31032b0b3311a3302f256c7262781793e/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  "source:d46e9d36168d4bf338811f11c8672149961c4771": {
+    "url": "https://tnsul.com/2026/08/03/acidente-na-br-282-mata-motorista-e-deixa-outro-preso-as-ferragens",
+    "title": "Acidente na BR-282 em Alfredo Wagner deixa um morto e um ferido grave",
+    "guid": "sc1multi:3c3b29d32a00dc351d6c71c9b844bd7698805b04",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c3b29d32a00dc351d6c71c9b844bd7698805b04/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:2eda2c4f66d7c142db5754502b28f4cba9ffb97f": {
-    "url": "https://ocp.news/cotidiano/nova-linha-do-formiguinha-amplia-atendimento-em-morro-de-florianopolis",
-    "title": "Nova linha do Formiguinha amplia atendimento no Morro da Penitenciária em Florianópolis",
-    "guid": "sc1multi:2eda2c4f66d7c142db5754502b28f4cba9ffb97f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2eda2c4f66d7c142db5754502b28f4cba9ffb97f/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  "source:601db014b6fe7a90902b637aeb7d8fc325aaf588": {
+    "url": "https://ocp.news/cotidiano/aguas-de-guaramirim-realiza-reparos-na-rede-de-abastecimento-nesta-segunda-feira-3",
+    "title": "Águas de Guaramirim realiza reparos em rede de abastecimento nesta segunda",
+    "guid": "sc1multi:601db014b6fe7a90902b637aeb7d8fc325aaf588",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_601db014b6fe7a90902b637aeb7d8fc325aaf588/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:54c407cf6287269887f6b10773c9cb74d5100f82": {
-    "url": "https://ocp.news/cotidiano/mais-de-38-mil-estudantes-voltam-as-aulas-na-segunda-feira-em-blumenau",
-    "title": "Mais de 38 mil estudantes retornam às aulas em Blumenau",
-    "guid": "sc1multi:54c407cf6287269887f6b10773c9cb74d5100f82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54c407cf6287269887f6b10773c9cb74d5100f82/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:ba3b96af1a63540101e6fe1fe83c5463a1698d43": {
-    "url": "https://ocp.news/cotidiano/novo-centro-especializado-em-saude-de-criciuma-realiza-mais-de-500-atendimentos-em-menos-de-uma-semana",
-    "title": "Novo centro de saúde em Criciúma realiza mais de 500 atendimentos em cinco dias",
-    "guid": "sc1multi:ba3b96af1a63540101e6fe1fe83c5463a1698d43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba3b96af1a63540101e6fe1fe83c5463a1698d43/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
-    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
-    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
-    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
-    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
-    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
-    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  "source:221b553a87294274d707edda931089a69b0f7620": {
+    "url": "https://rbatv.com.br/noticias/casan-inicia-duas-novas-frentes-de-obras-do-sistema-de-esgotamento-sanitario-em-rio-do-sul",
+    "title": "Casan inicia obras do Sistema de Esgotamento Sanitário em Rio do Sul",
+    "guid": "sc1multi:de12a5dce2a41349aacadfe4f838befbbeaab273",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_de12a5dce2a41349aacadfe4f838befbbeaab273/",
+    "usedAt": 1785766444381,
+    "usedAtIso": "2026-08-03T14:14:04.381Z"
   }
 }
