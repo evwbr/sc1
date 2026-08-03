@@ -1,4 +1,60 @@
 {
+  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
+    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
+    "title": "Polícias Civil e Militar libertam vítima de cárcere privado em Joaçaba",
+    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
+    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
+    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
+    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:2a79f63e6f5af54f78d878eb40e91653bea7fa58": {
+    "url": "https://ocp.news/politica/indicacao-propoe-rede-eletrica-subterranea-em-jaragua-do-sul",
+    "title": "Proposta sugere rede elétrica subterrânea em Jaraguá do Sul para reduzir quedas de energia",
+    "guid": "sc1multi:2a79f63e6f5af54f78d878eb40e91653bea7fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a79f63e6f5af54f78d878eb40e91653bea7fa58/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db": {
+    "url": "https://ocp.news/politica/vereadores-pedem-ampliacao-da-escola-erich-grutzmacher-em-jaragua-do-sul",
+    "title": "Câmara de Jaraguá do Sul aprova moções para ampliar Escola Erich Grützmacher",
+    "guid": "sc1multi:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:e0177b2cab17378d54b3224e0de3c97388474494": {
+    "url": "https://ocp.news/politica/jaragua-do-sul-cria-conselho-para-jovens-participarem-das-decisoes-sobre-o-futuro-da-cidade",
+    "title": "Jaraguá do Sul cria conselho para jovens participarem das decisões municipais",
+    "guid": "sc1multi:e0177b2cab17378d54b3224e0de3c97388474494",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e0177b2cab17378d54b3224e0de3c97388474494/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
+    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
+    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
+    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
+  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
+    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
+    "title": "João Rodrigues é oficializado candidato ao Governo de Santa Catarina",
+    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
+    "usedAt": 1785780844346,
+    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  },
   "source:8e6bdc670554620f9793c8b910a081afaa58d43a": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-mantem-100-e-esta-nas-finais-do-estadual-de-basquete-sub-20-masculino",
     "title": "Jaraguá do Sul avança invicto às finais do Estadual Sub-20 Masculino de Basquete",
@@ -135,140 +191,20 @@
     "usedAt": 1785766444381,
     "usedAtIso": "2026-08-03T14:14:04.381Z"
   },
-  "source:c68ca17cebeb72dbb1f6ae1300221e2114562ef5": {
-    "url": "https://tnsul.com/2026/08/03/jovem-e-resgatado-apos-cair-de-ribanceira-de-15-metros-em-sc",
-    "title": "Jovem é resgatado após queda de 15 metros em São Bento do Sul",
-    "guid": "sc1multi:9d289b7ff635ad80e6515b1cb85ec6071774664a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d289b7ff635ad80e6515b1cb85ec6071774664a/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
+  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
+    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
+    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
+    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
+    "usedAt": 1785784444379,
+    "usedAtIso": "2026-08-03T19:14:04.379Z"
   },
-  "source:c8f51fd31032b0b3311a3302f256c7262781793e": {
-    "url": "https://ocp.news/cotidiano/florianopolis-oferece-rede-de-coleta-e-pontos-gratuitos-para-o-descarte-de-residuos",
-    "title": "Florianópolis amplia rede de coleta e pontos para descarte de resíduos",
-    "guid": "sc1multi:c8f51fd31032b0b3311a3302f256c7262781793e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c8f51fd31032b0b3311a3302f256c7262781793e/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:2eda2c4f66d7c142db5754502b28f4cba9ffb97f": {
-    "url": "https://ocp.news/cotidiano/nova-linha-do-formiguinha-amplia-atendimento-em-morro-de-florianopolis",
-    "title": "Nova linha do Formiguinha amplia atendimento no Morro da Penitenciária em Florianópolis",
-    "guid": "sc1multi:2eda2c4f66d7c142db5754502b28f4cba9ffb97f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2eda2c4f66d7c142db5754502b28f4cba9ffb97f/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:54c407cf6287269887f6b10773c9cb74d5100f82": {
-    "url": "https://ocp.news/cotidiano/mais-de-38-mil-estudantes-voltam-as-aulas-na-segunda-feira-em-blumenau",
-    "title": "Mais de 38 mil estudantes retornam às aulas em Blumenau",
-    "guid": "sc1multi:54c407cf6287269887f6b10773c9cb74d5100f82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54c407cf6287269887f6b10773c9cb74d5100f82/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:ba3b96af1a63540101e6fe1fe83c5463a1698d43": {
-    "url": "https://ocp.news/cotidiano/novo-centro-especializado-em-saude-de-criciuma-realiza-mais-de-500-atendimentos-em-menos-de-uma-semana",
-    "title": "Novo centro de saúde em Criciúma realiza mais de 500 atendimentos em cinco dias",
-    "guid": "sc1multi:ba3b96af1a63540101e6fe1fe83c5463a1698d43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba3b96af1a63540101e6fe1fe83c5463a1698d43/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:9efb7ba64efafdf1d4df14d75ccfb13b00f17ce4": {
-    "url": "https://rbatv.com.br/noticias/com-influencia-do-el-nino-proximos-meses-serao-mais-chuvosos-e-com-temperaturas-acima-da-media-em-santa-catarina",
-    "title": "El Niño deve aumentar chuvas e temperaturas em Santa Catarina nos próximos meses",
-    "guid": "sc1multi:1a05ce15c134fb9b3935a8d30af22323a5221f76",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a05ce15c134fb9b3935a8d30af22323a5221f76/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:0829779a1b83b2f1c08b45e2d44f228054bf8204": {
-    "url": "https://rbatv.com.br/noticias/operacao-eris-apura-suspeita-de-incentivo-a-pratica-de-violencia-extrema-em-rede-social",
-    "title": "Operação em Rio Negrinho investiga incentivo à violência em rede social",
-    "guid": "sc1multi:c6ebb302beee0738a82d0ff4d59126e6fb5a84a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ebb302beee0738a82d0ff4d59126e6fb5a84a8/",
-    "usedAt": 1785762844336,
-    "usedAtIso": "2026-08-03T13:14:04.336Z"
-  },
-  "source:1185b35a62804683ead6198bdc82b54fb41a7865": {
-    "url": "https://tnsul.com/2026/08/03/motorista-escapa-ileso-apos-carro-pegar-fogo-em-rodovia-de-criciuma",
-    "title": "Carro pega fogo na Rodovia Luiz Henrique da Silveira em Criciúma",
-    "guid": "sc1multi:48863a2b062f70a6565998b8a8491d8cefeba510",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48863a2b062f70a6565998b8a8491d8cefeba510/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
-  },
-  "source:6f6a7fcc11492efd1dcb8474fe86c6a6b4f3f93f": {
-    "url": "https://rbatv.com.br/noticias/justica-de-sc-autoriza-vitima-de-abuso-sexual-a-retirar-nome-do-pai-do-registro-civil",
-    "title": "Justiça de Criciúma autoriza vítima a retirar nome do pai do registro civil",
-    "guid": "sc1multi:5171ba5d291acc84b1b02e4fb92169614b4e3b05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5171ba5d291acc84b1b02e4fb92169614b4e3b05/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
-  },
-  "source:a20a217cb0968c06ab7c9f8b0bd2184043622ec3": {
-    "url": "https://ocp.news/seguranca/homem-morre-afogado-apos-cair-de-embarcacao-e-ser-encontrado-apos-tres-horas-de-buscas-em-sc",
-    "title": "Homem morre afogado após cair em barragem no Médio Vale do Itajaí",
-    "guid": "sc1multi:a20a217cb0968c06ab7c9f8b0bd2184043622ec3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a20a217cb0968c06ab7c9f8b0bd2184043622ec3/",
-    "usedAt": 1785759244742,
-    "usedAtIso": "2026-08-03T12:14:04.742Z"
-  },
-  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
-    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
-    "title": "Polícias Civil e Militar libertam vítima de cárcere privado em Joaçaba",
-    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
-    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
-    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
-    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:2a79f63e6f5af54f78d878eb40e91653bea7fa58": {
-    "url": "https://ocp.news/politica/indicacao-propoe-rede-eletrica-subterranea-em-jaragua-do-sul",
-    "title": "Proposta sugere rede elétrica subterrânea em Jaraguá do Sul para reduzir quedas de energia",
-    "guid": "sc1multi:2a79f63e6f5af54f78d878eb40e91653bea7fa58",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a79f63e6f5af54f78d878eb40e91653bea7fa58/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db": {
-    "url": "https://ocp.news/politica/vereadores-pedem-ampliacao-da-escola-erich-grutzmacher-em-jaragua-do-sul",
-    "title": "Câmara de Jaraguá do Sul aprova moções para ampliar Escola Erich Grützmacher",
-    "guid": "sc1multi:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:e0177b2cab17378d54b3224e0de3c97388474494": {
-    "url": "https://ocp.news/politica/jaragua-do-sul-cria-conselho-para-jovens-participarem-das-decisoes-sobre-o-futuro-da-cidade",
-    "title": "Jaraguá do Sul cria conselho para jovens participarem das decisões municipais",
-    "guid": "sc1multi:e0177b2cab17378d54b3224e0de3c97388474494",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e0177b2cab17378d54b3224e0de3c97388474494/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:92250c3dabe44f5e777054761ccedf2135be8207": {
-    "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
-    "title": "Florianópolis inicia nova linha gratuita do ônibus Formiguinha",
-    "guid": "sc1multi:10608fb0a6b8414c54f22a15f5d2c51096c92392",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10608fb0a6b8414c54f22a15f5d2c51096c92392/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
-  },
-  "source:a2d3d2cb99773d7d0ad054f698ce4100fdfd51fb": {
-    "url": "https://correiosc.com.br/psd-oficializa-joao-rodrigues-candidato-governo-santa-catarina",
-    "title": "João Rodrigues é oficializado candidato ao Governo de Santa Catarina",
-    "guid": "sc1multi:fd749539ea7adb4854cb552580bde39bd8b86eb8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd749539ea7adb4854cb552580bde39bd8b86eb8/",
-    "usedAt": 1785780844346,
-    "usedAtIso": "2026-08-03T18:14:04.346Z"
+  "source:aa16a021ae6e6f2e4c8be194675e8247f20b1476": {
+    "url": "https://tnsul.com/2026/08/03/voos-de-florianopolis-para-jaguaruna-e-forquilhinha-custarao-r-315",
+    "title": "Nova rota aérea ligará Florianópolis a Jaguaruna com passagens a R$ 315",
+    "guid": "sc1multi:8605f3435f2a797579d2efd681555998983daf26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8605f3435f2a797579d2efd681555998983daf26/",
+    "usedAt": 1785784444379,
+    "usedAtIso": "2026-08-03T19:14:04.379Z"
   }
 }
