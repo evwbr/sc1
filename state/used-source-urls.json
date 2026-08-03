@@ -1,4 +1,20 @@
 {
+  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
+    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
+    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
+    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
+    "usedAt": 1785795243955,
+    "usedAtIso": "2026-08-03T22:14:03.955Z"
+  },
+  "source:07c94c700efc6254c68af326610c4e8dfd473e31": {
+    "url": "https://ocp.news/politica/diego-machado-e-oficializado-candidato-a-deputado-estadual-pelo-psd-durante-convencao-em-florianopolis",
+    "title": "Diego Machado é oficializado candidato a deputado estadual pelo PSD em Santa Catarina",
+    "guid": "sc1multi:07c94c700efc6254c68af326610c4e8dfd473e31",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07c94c700efc6254c68af326610c4e8dfd473e31/",
+    "usedAt": 1785795243955,
+    "usedAtIso": "2026-08-03T22:14:03.955Z"
+  },
   "source:60a5fb13dbb4c438c18aae098b724f783c68d3c1": {
     "url": "https://tnsul.com/2026/08/03/homem-que-matou-adolescente-de-16-anos-em-criciuma-e-condenado",
     "title": "Homem é condenado a mais de 36 anos por matar adolescente em Criciúma",
@@ -167,36 +183,12 @@
     "usedAt": 1785777244640,
     "usedAtIso": "2026-08-03T17:14:04.640Z"
   },
-  "source:d54d5dc7b581d34bce37657afba03701f0aa4d1e": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-ingressos-serie-c",
-    "title": "Figueirense distribui 5 mil ingressos gratuitos para jogos da Série C",
-    "guid": "sc1multi:92fcbc77d053350e74accb56b345353aaa144f9d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_92fcbc77d053350e74accb56b345353aaa144f9d/",
-    "usedAt": 1785773644841,
-    "usedAtIso": "2026-08-03T16:14:04.841Z"
-  },
-  "source:51b90f32335ab5af31895deb46fc0f0f2769e3aa": {
-    "url": "https://tnsul.com/2026/08/03/rotary-busca-ampliar-impacto-social-e-fortalecer-projetos-em-sc",
-    "title": "Rotary em Criciúma amplia projetos sociais e fortalece ações em Santa Catarina",
-    "guid": "sc1multi:493fbd380f10d6399a5ef62cc9bea3c0c7c0cf8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_493fbd380f10d6399a5ef62cc9bea3c0c7c0cf8e/",
-    "usedAt": 1785773644841,
-    "usedAtIso": "2026-08-03T16:14:04.841Z"
-  },
-  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
-    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
-    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
-    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
-    "usedAt": 1785795243955,
-    "usedAtIso": "2026-08-03T22:14:03.955Z"
-  },
-  "source:07c94c700efc6254c68af326610c4e8dfd473e31": {
-    "url": "https://ocp.news/politica/diego-machado-e-oficializado-candidato-a-deputado-estadual-pelo-psd-durante-convencao-em-florianopolis",
-    "title": "Diego Machado é oficializado candidato a deputado estadual pelo PSD em Santa Catarina",
-    "guid": "sc1multi:07c94c700efc6254c68af326610c4e8dfd473e31",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07c94c700efc6254c68af326610c4e8dfd473e31/",
-    "usedAt": 1785795243955,
-    "usedAtIso": "2026-08-03T22:14:03.955Z"
+  "source:767532833c43e7016b21af97defe4ff067799b2c": {
+    "url": "https://tnsul.com/2026/08/03/novo-caso-de-agressao-a-crianca-em-cei-da-afasc-vem-a-tona",
+    "title": "Afasc demite duas profissionais após agressão em creche de Criciúma",
+    "guid": "sc1multi:651f1201241ef9227c2ada58b1449d5a2aa68f45",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_651f1201241ef9227c2ada58b1449d5a2aa68f45/",
+    "usedAt": 1785798844487,
+    "usedAtIso": "2026-08-03T23:14:04.487Z"
   }
 }
