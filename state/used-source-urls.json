@@ -1,4 +1,12 @@
 {
+  "source:0429f09ca459dfa62c15daf0ffc337efdca5428d": {
+    "url": "https://ocp.news/seguranca/dnit-anuncia-interdicao-parcial-na-br-280-em-guaramirim-nesta-quarta-feira-5",
+    "title": "BR-280 terá interdição parcial em Guaramirim para obras nesta quarta-feira",
+    "guid": "sc1multi:0429f09ca459dfa62c15daf0ffc337efdca5428d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0429f09ca459dfa62c15daf0ffc337efdca5428d/",
+    "usedAt": 1785809644083,
+    "usedAtIso": "2026-08-04T02:14:04.083Z"
+  },
   "source:50ea7722029a1f1e44003edb7468fa407110f344": {
     "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
@@ -103,28 +111,12 @@
     "usedAt": 1785791645106,
     "usedAtIso": "2026-08-03T21:14:05.106Z"
   },
-  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
-    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
-    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
-    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
-    "usedAt": 1785788044601,
-    "usedAtIso": "2026-08-03T20:14:04.601Z"
-  },
-  "source:01c4a3ac8c9ad655a79f7a576984c849c092e885": {
-    "url": "https://ocp.news/esporte/escolinha-jaraguaense-faz-boa-campanha-em-renomado-torneio-de-futebol-de-base",
-    "title": "Centro de Formação Atlético Junior de Jaraguá do Sul se destaca em torneio nacional de futebol de base",
-    "guid": "sc1multi:01c4a3ac8c9ad655a79f7a576984c849c092e885",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01c4a3ac8c9ad655a79f7a576984c849c092e885/",
-    "usedAt": 1785788044601,
-    "usedAtIso": "2026-08-03T20:14:04.601Z"
-  },
-  "source:0429f09ca459dfa62c15daf0ffc337efdca5428d": {
-    "url": "https://ocp.news/seguranca/dnit-anuncia-interdicao-parcial-na-br-280-em-guaramirim-nesta-quarta-feira-5",
-    "title": "BR-280 terá interdição parcial em Guaramirim para obras nesta quarta-feira",
-    "guid": "sc1multi:0429f09ca459dfa62c15daf0ffc337efdca5428d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0429f09ca459dfa62c15daf0ffc337efdca5428d/",
-    "usedAt": 1785809644083,
-    "usedAtIso": "2026-08-04T02:14:04.083Z"
+  "source:9812c531570d3a3b71e795892cebcf839aa31e13": {
+    "url": "https://tudoaquisc.com.br/oportunidades/guarda-vidas-civil-voluntario-3",
+    "title": "Santa Catarina abre seleção para guarda-vidas civil voluntário",
+    "guid": "sc1multi:6c888ffade31bf8eddd5ddef534c31c5a22e2902",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c888ffade31bf8eddd5ddef534c31c5a22e2902/",
+    "usedAt": 1785813244739,
+    "usedAtIso": "2026-08-04T03:14:04.739Z"
   }
 }
