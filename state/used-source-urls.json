@@ -1,4 +1,76 @@
 {
+  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
+    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
+    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
+    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:5395486ba7c3a4de027b8842cf48a857241ced2c": {
+    "url": "https://correiosc.com.br/colisao-frontal-caminhoes-vitima-fatal-ferido-br-282-alfredo-wagner",
+    "title": "Colisão frontal na BR-282 em Alfredo Wagner deixa um morto",
+    "guid": "sc1multi:fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:719cd73ff772b102df78c8fcce81ffe96ef1ab26": {
+    "url": "https://ocp.news/seguranca/bombeiros-abrem-vagas-para-formacao-de-guarda-vidas-para-o-verao-em-santa-catarina",
+    "title": "Corpo de Bombeiros abre vagas para formação de guarda-vidas em Santa Catarina",
+    "guid": "sc1multi:719cd73ff772b102df78c8fcce81ffe96ef1ab26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_719cd73ff772b102df78c8fcce81ffe96ef1ab26/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:785f00ce34e7c5db203cbc44dca73383f90ffe49": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-domina-categoria-e-e-campeao-da-supercopa-america-sub-16",
+    "title": "Jaraguá Futsal conquista título da SuperCopa América Sub-16 em Balneário Camboriú",
+    "guid": "sc1multi:785f00ce34e7c5db203cbc44dca73383f90ffe49",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_785f00ce34e7c5db203cbc44dca73383f90ffe49/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:0ed433be170fac8bad01c1ea065b98ada2ae5d79": {
+    "url": "https://ocp.news/politica/apos-desistencia-de-eduardo-bertoldi-mdb-busca-novo-nome-para-disputar-a-alesc-em-jaragua-do-sul",
+    "title": "MDB busca novo candidato para Alesc em Jaraguá do Sul após desistência",
+    "guid": "sc1multi:0ed433be170fac8bad01c1ea065b98ada2ae5d79",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ed433be170fac8bad01c1ea065b98ada2ae5d79/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
+    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
+    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
+    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
+    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
+    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
+    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7": {
+    "url": "https://ocp.news/seguranca/casamento-vira-dor-de-cabeca-e-justica-condena-empresa-por-falhas-na-decoracao-em-sc",
+    "title": "Empresa é condenada por falhas na decoração de casamento em Balneário Camboriú",
+    "guid": "sc1multi:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cce818681f4dac4cc60bc78ae9c56c9805a5d8e7/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
+  "source:64041df9bc05cc84c7e6115dec152d08815c0c90": {
+    "url": "https://ocp.news/cotidiano/interligacao-da-nova-rede-de-agua-na-sc-108-e-concluida-e-abastecimento-entra-em-fase-de-normalizacao",
+    "title": "Águas de Guaramirim conclui interligação da nova rede na SC-108",
+    "guid": "sc1multi:64041df9bc05cc84c7e6115dec152d08815c0c90",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64041df9bc05cc84c7e6115dec152d08815c0c90/",
+    "usedAt": 1785881644890,
+    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  },
   "source:50ea7722029a1f1e44003edb7468fa407110f344": {
     "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
@@ -159,14 +231,6 @@
     "usedAt": 1785874444538,
     "usedAtIso": "2026-08-04T20:14:04.538Z"
   },
-  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
-    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
-    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
-    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
-  },
   "source:facfc6f1063de5d9e5354b057504b98a157e1c74": {
     "url": "https://tnsul.com/2026/08/04/colisao-entre-carro-e-trator-deixa-7-feridos-na-sc-281",
     "title": "Colisão entre carro e trator deixa sete feridos na SC-281 em Ituporanga",
@@ -209,19 +273,19 @@
   },
   "source:c3dfe09a6f0edcc74dff63eb2a773195771e284f": {
     "url": "https://ocp.news/seguranca/jaragua-do-sul-mulher-sofre-mal-subito-e-capota-veiculo-no-bairro-jaragua-esquerdo",
-    "title": "Mulher sofre mal súbito e capota carro em Jaraguá do Sul",
+    "title": "Mulher sofre mal súbito e capota veículo em Jaraguá do Sul",
     "guid": "sc1multi:c3dfe09a6f0edcc74dff63eb2a773195771e284f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3dfe09a6f0edcc74dff63eb2a773195771e284f/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
+    "usedAt": 1785885244223,
+    "usedAtIso": "2026-08-04T23:14:04.223Z"
   },
   "source:b727c97b6f0ee3392a159185eac50c8b0bb0c9ea": {
     "url": "https://ocp.news/politica/camara-de-schroeder-entrega-duas-mocoes-de-aplausos-em-reconhecimento-a-cultura-e-a-educacao",
-    "title": "Câmara de Schroeder homenageia cultura e educação com Moções de Aplausos",
+    "title": "Câmara de Schroeder reconhece cultura e educação com Moções de Aplausos",
     "guid": "sc1multi:b727c97b6f0ee3392a159185eac50c8b0bb0c9ea",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b727c97b6f0ee3392a159185eac50c8b0bb0c9ea/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
+    "usedAt": 1785885244223,
+    "usedAtIso": "2026-08-04T23:14:04.223Z"
   },
   "source:37deb9e4443e2cf3ae43f5c399858628a7c7ff12": {
     "url": "https://ocp.news/esporte/circuito-unificado-de-padel-veja-os-campeoes-da-3a-etapa-na-jaragua-padel",
@@ -230,14 +294,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37deb9e4443e2cf3ae43f5c399858628a7c7ff12/",
     "usedAt": 1785870844577,
     "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:5395486ba7c3a4de027b8842cf48a857241ced2c": {
-    "url": "https://correiosc.com.br/colisao-frontal-caminhoes-vitima-fatal-ferido-br-282-alfredo-wagner",
-    "title": "Colisão frontal na BR-282 em Alfredo Wagner deixa um morto",
-    "guid": "sc1multi:fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fea4df650a0034ee1ba9a1fa6e05bde48ebcd19d/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
   },
   "source:c3fbd84bfeb7fc037fff1bb0a2e688e050e3ea70": {
     "url": "https://ocp.news/economia/schutzenfest-lancado-edital-de-chamamento-para-patrocinio-da-36o-edicao-da-festa-dos-atiradores",
@@ -262,46 +318,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9f1d93c971fc85d4e846f3f23e58cfaaab5d378e/",
     "usedAt": 1785867244219,
     "usedAtIso": "2026-08-04T18:14:04.219Z"
-  },
-  "source:719cd73ff772b102df78c8fcce81ffe96ef1ab26": {
-    "url": "https://ocp.news/seguranca/bombeiros-abrem-vagas-para-formacao-de-guarda-vidas-para-o-verao-em-santa-catarina",
-    "title": "Corpo de Bombeiros abre vagas para formação de guarda-vidas em Santa Catarina",
-    "guid": "sc1multi:719cd73ff772b102df78c8fcce81ffe96ef1ab26",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_719cd73ff772b102df78c8fcce81ffe96ef1ab26/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
-  },
-  "source:785f00ce34e7c5db203cbc44dca73383f90ffe49": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-domina-categoria-e-e-campeao-da-supercopa-america-sub-16",
-    "title": "Jaraguá Futsal conquista título da SuperCopa América Sub-16 em Balneário Camboriú",
-    "guid": "sc1multi:785f00ce34e7c5db203cbc44dca73383f90ffe49",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_785f00ce34e7c5db203cbc44dca73383f90ffe49/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
-  },
-  "source:0ed433be170fac8bad01c1ea065b98ada2ae5d79": {
-    "url": "https://ocp.news/politica/apos-desistencia-de-eduardo-bertoldi-mdb-busca-novo-nome-para-disputar-a-alesc-em-jaragua-do-sul",
-    "title": "MDB busca novo candidato para Alesc em Jaraguá do Sul após desistência",
-    "guid": "sc1multi:0ed433be170fac8bad01c1ea065b98ada2ae5d79",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ed433be170fac8bad01c1ea065b98ada2ae5d79/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
-  },
-  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
-    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
-    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
-    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
-  },
-  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
-    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
-    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
-    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
   },
   "source:56ec9182277629cbe55fe63b85297844a5f0ff80": {
     "url": "https://rbatv.com.br/noticias/colisao-entre-carro-e-trator-deixa-sete-feridos-na-sc-281-em-ituporanga",
@@ -351,20 +367,20 @@
     "usedAt": 1785863644635,
     "usedAtIso": "2026-08-04T17:14:04.635Z"
   },
-  "source:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7": {
-    "url": "https://ocp.news/seguranca/casamento-vira-dor-de-cabeca-e-justica-condena-empresa-por-falhas-na-decoracao-em-sc",
-    "title": "Empresa é condenada por falhas na decoração de casamento em Balneário Camboriú",
-    "guid": "sc1multi:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cce818681f4dac4cc60bc78ae9c56c9805a5d8e7/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  "source:e7186a0e89074a5ba1bda802c56b3310fefff88c": {
+    "url": "https://ocp.news/cotidiano/inmet-alerta-para-possivel-ciclone-bomba-no-sul-do-brasil-nos-proximos-dias",
+    "title": "Inmet alerta para ciclone bomba com impacto em Santa Catarina",
+    "guid": "sc1multi:e7186a0e89074a5ba1bda802c56b3310fefff88c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7186a0e89074a5ba1bda802c56b3310fefff88c/",
+    "usedAt": 1785885244223,
+    "usedAtIso": "2026-08-04T23:14:04.223Z"
   },
-  "source:64041df9bc05cc84c7e6115dec152d08815c0c90": {
-    "url": "https://ocp.news/cotidiano/interligacao-da-nova-rede-de-agua-na-sc-108-e-concluida-e-abastecimento-entra-em-fase-de-normalizacao",
-    "title": "Águas de Guaramirim conclui interligação da nova rede na SC-108",
-    "guid": "sc1multi:64041df9bc05cc84c7e6115dec152d08815c0c90",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64041df9bc05cc84c7e6115dec152d08815c0c90/",
-    "usedAt": 1785881644890,
-    "usedAtIso": "2026-08-04T22:14:04.890Z"
+  "source:833c76d7676682406cf2b7e4699dc124994b0b50": {
+    "url": "https://tnsul.com/2026/08/04/operacao-combate-estrutura-financeira-de-faccao-criminosa-em-sc",
+    "title": "Operação combate estrutura financeira de facção criminosa em Santa Catarina",
+    "guid": "sc1multi:c6e99c8f1862a510b95c6f369c29d09f1a7aaebe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6e99c8f1862a510b95c6f369c29d09f1a7aaebe/",
+    "usedAt": 1785885244223,
+    "usedAtIso": "2026-08-04T23:14:04.223Z"
   }
 }
