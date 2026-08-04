@@ -1,4 +1,28 @@
 {
+  "source:2affaad8a2a908639c55c03742a8c818c36be39a": {
+    "url": "https://tudoaquisc.com.br/esporte/natalia-pereira-corinthians",
+    "title": "Manezinha de Florianópolis deixa Corinthians para jogar nos EUA em 2026",
+    "guid": "sc1multi:0ce6920e9eec06fd247a278880c1888f13b03e70",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ce6920e9eec06fd247a278880c1888f13b03e70/",
+    "usedAt": 1785831244633,
+    "usedAtIso": "2026-08-04T08:14:04.633Z"
+  },
+  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
+    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
+    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
+    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
+    "usedAt": 1785831244633,
+    "usedAtIso": "2026-08-04T08:14:04.633Z"
+  },
+  "source:2a79f63e6f5af54f78d878eb40e91653bea7fa58": {
+    "url": "https://ocp.news/politica/indicacao-propoe-rede-eletrica-subterranea-em-jaragua-do-sul",
+    "title": "Proposta sugere rede elétrica subterrânea em Jaraguá do Sul",
+    "guid": "sc1multi:2a79f63e6f5af54f78d878eb40e91653bea7fa58",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a79f63e6f5af54f78d878eb40e91653bea7fa58/",
+    "usedAt": 1785831244633,
+    "usedAtIso": "2026-08-04T08:14:04.633Z"
+  },
   "source:5d59c5ffdaed88ac1a6aa28c3f4952ee41ba96db": {
     "url": "https://ocp.news/politica/vereadores-pedem-ampliacao-da-escola-erich-grutzmacher-em-jaragua-do-sul",
     "title": "Câmara de Jaraguá do Sul aprova moções para ampliar Escola Erich Grützmacher",
@@ -63,28 +87,20 @@
     "usedAt": 1785813244739,
     "usedAtIso": "2026-08-04T03:14:04.739Z"
   },
-  "source:2affaad8a2a908639c55c03742a8c818c36be39a": {
-    "url": "https://tudoaquisc.com.br/esporte/natalia-pereira-corinthians",
-    "title": "Manezinha de Florianópolis deixa Corinthians para jogar nos EUA em 2026",
-    "guid": "sc1multi:0ce6920e9eec06fd247a278880c1888f13b03e70",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ce6920e9eec06fd247a278880c1888f13b03e70/",
-    "usedAt": 1785831244633,
-    "usedAtIso": "2026-08-04T08:14:04.633Z"
+  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
+    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
+    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
+    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
+    "usedAt": 1785834844722,
+    "usedAtIso": "2026-08-04T09:14:04.722Z"
   },
-  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
-    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
-    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
-    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
-    "usedAt": 1785831244633,
-    "usedAtIso": "2026-08-04T08:14:04.633Z"
-  },
-  "source:2a79f63e6f5af54f78d878eb40e91653bea7fa58": {
-    "url": "https://ocp.news/politica/indicacao-propoe-rede-eletrica-subterranea-em-jaragua-do-sul",
-    "title": "Proposta sugere rede elétrica subterrânea em Jaraguá do Sul",
-    "guid": "sc1multi:2a79f63e6f5af54f78d878eb40e91653bea7fa58",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2a79f63e6f5af54f78d878eb40e91653bea7fa58/",
-    "usedAt": 1785831244633,
-    "usedAtIso": "2026-08-04T08:14:04.633Z"
+  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
+    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
+    "title": "Polícia resgata vítima de cárcere privado e prende suspeito em Joaçaba",
+    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
+    "usedAt": 1785834844722,
+    "usedAtIso": "2026-08-04T09:14:04.722Z"
   }
 }
