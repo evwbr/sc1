@@ -1,4 +1,20 @@
 {
+  "source:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9": {
+    "url": "https://ocp.news/economia/senai-sc-inicia-no-norte-de-sc-seletivas-para-a-maior-prova-de-educacao-profissional-do-mundo",
+    "title": "Senai/SC realiza seletivas da WorldSkills em cinco cidades do Norte catarinense",
+    "guid": "sc1multi:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53abd703d3978d08f3d5aa9cb5910f4351f8b3a9/",
+    "usedAt": 1785838444699,
+    "usedAtIso": "2026-08-04T10:14:04.699Z"
+  },
+  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
+    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
+    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
+    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
+    "usedAt": 1785838444699,
+    "usedAtIso": "2026-08-04T10:14:04.699Z"
+  },
   "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
     "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
     "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
@@ -71,36 +87,84 @@
     "usedAt": 1785824050018,
     "usedAtIso": "2026-08-04T06:14:10.018Z"
   },
-  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
-    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
-    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
-    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785820445024,
-    "usedAtIso": "2026-08-04T05:14:05.024Z"
+  "source:05498f0af9bc1f9b4011c258f1d9c9ec093f624a": {
+    "url": "https://rbatv.com.br/noticias/criminoso-tenta-roubar-celular-de-mulher-em-ponte-de-indaial-e-foge-apos-reacao-de-motorista",
+    "title": "Criminoso tenta roubar celular em ponte de Indaial e foge após reação",
+    "guid": "sc1multi:fecf35d08354b940d02ce92621b16b9e46d4cd4f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fecf35d08354b940d02ce92621b16b9e46d4cd4f/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
   },
-  "source:8e6bdc670554620f9793c8b910a081afaa58d43a": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-mantem-100-e-esta-nas-finais-do-estadual-de-basquete-sub-20-masculino",
-    "title": "Jaraguá do Sul avança invicto às finais do Estadual Sub-20 Masculino de Basquete",
-    "guid": "sc1multi:8e6bdc670554620f9793c8b910a081afaa58d43a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e6bdc670554620f9793c8b910a081afaa58d43a/",
-    "usedAt": 1785820445024,
-    "usedAtIso": "2026-08-04T05:14:05.024Z"
+  "source:7a110ee01ec09ef64284dfa1ea38899b9c4407aa": {
+    "url": "https://rbatv.com.br/noticias/duas-criancas-morrem-apos-atropelamento-em-pouso-redondo",
+    "title": "Duas crianças morrem atropeladas na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:3e1dc994e0010d4b69c98270c492835aab5f5dee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e1dc994e0010d4b69c98270c492835aab5f5dee/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
   },
-  "source:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9": {
-    "url": "https://ocp.news/economia/senai-sc-inicia-no-norte-de-sc-seletivas-para-a-maior-prova-de-educacao-profissional-do-mundo",
-    "title": "Senai/SC realiza seletivas da WorldSkills em cinco cidades do Norte catarinense",
-    "guid": "sc1multi:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53abd703d3978d08f3d5aa9cb5910f4351f8b3a9/",
-    "usedAt": 1785838444699,
-    "usedAtIso": "2026-08-04T10:14:04.699Z"
+  "source:ed710ead2fad101a3377ff418929d0b18835c60c": {
+    "url": "https://rbatv.com.br/noticias/ladrao-em-serie-e-preso-apos-confessar-furtos-de-carro-moto-e-ferramentas-em-indaial",
+    "title": "Homem é preso em Indaial após confessar furtos de veículos e ferramentas",
+    "guid": "sc1multi:f50e3b7b9974629c5a529b228e29f53b1c724ef1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f50e3b7b9974629c5a529b228e29f53b1c724ef1/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
   },
-  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
-    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
-    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
-    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
-    "usedAt": 1785838444699,
-    "usedAtIso": "2026-08-04T10:14:04.699Z"
+  "source:67c486fe50e3d99a0702b009d59a39acaf06dcdf": {
+    "url": "https://tnsul.com/2026/08/04/caminhoneiro-foge-apos-acidente-que-matou-mulher-na-br-282",
+    "title": "Mulher morre em colisão entre moto e caminhão na BR-282 em SC",
+    "guid": "sc1multi:b6f76e64d7ea52798a727e0de50fff80e3d9679d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b6f76e64d7ea52798a727e0de50fff80e3d9679d/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:fe5073c8a79a1d26e3191324e06e5da35dc06cf1": {
+    "url": "https://ocp.news/seguranca/adolescente-ataca-a-propria-mae-a-facadas-em-jaragua-do-sul",
+    "title": "Adolescente ataca a mãe a facadas em Jaraguá do Sul",
+    "guid": "sc1multi:fe5073c8a79a1d26e3191324e06e5da35dc06cf1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fe5073c8a79a1d26e3191324e06e5da35dc06cf1/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:659093d6cf235674b6763a7b61dfee342a40d3f0": {
+    "url": "https://rbatv.com.br/noticias/motocicleta-furtada-e-encontrada-abandonada-em-terreno-de-indaial",
+    "title": "Motocicleta furtada é recuperada em terreno de Indaial",
+    "guid": "sc1multi:48adc716e89a5f1df63b9db181b4d5fdb9d70f9c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_48adc716e89a5f1df63b9db181b4d5fdb9d70f9c/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:0f76a5cb34ef42bd676ce15dcd8e5e7a58617bba": {
+    "url": "https://rbatv.com.br/noticias/homem-deixa-chave-na-ignicao-e-tem-carro-furtado-em-indaial",
+    "title": "Fiat Uno é furtado com chave na ignição em Indaial",
+    "guid": "sc1multi:502e1ef636aaae4b46b3c6cdda80189eaef195ed",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_502e1ef636aaae4b46b3c6cdda80189eaef195ed/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:4f4447754611e92655bcad33e4e9620999f65668": {
+    "url": "https://tnsul.com/2026/08/04/mulher-e-morta-a-facadas-dentro-de-casa-em-imbituba",
+    "title": "Mulher é morta a facadas dentro de casa em Imbituba",
+    "guid": "sc1multi:8803d5b3d6723ad51de44567f56606e79d3bfadc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8803d5b3d6723ad51de44567f56606e79d3bfadc/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7": {
+    "url": "https://ocp.news/seguranca/colisao-frontal-entre-caminhao-e-motocicleta-deixa-duas-pessoas-feridas-na-sc-108-em-guaramirim",
+    "title": "Colisão frontal entre caminhão e moto fere duas pessoas na SC-108 em Guaramirim",
+    "guid": "sc1multi:4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4ec7ea6b22a8407ae4a30a183a69762eac3cf6a7/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
+  },
+  "source:a722632fdaadd27a02b120d73d07984e36460b23": {
+    "url": "https://tudoaquisc.com.br/esporte/kiany-hyakutake-laguna",
+    "title": "Laguna recebe etapa do Circuito Catarinense de Surf com vitória local",
+    "guid": "sc1multi:1ebd33abc53fdc18b4bd382606c574119b14afd9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ebd33abc53fdc18b4bd382606c574119b14afd9/",
+    "usedAt": 1785842045377,
+    "usedAtIso": "2026-08-04T11:14:05.377Z"
   }
 }
