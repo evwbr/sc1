@@ -1,4 +1,12 @@
 {
+  "source:b34a00470a178686ff55f69484f1f116356eff3f": {
+    "url": "https://ocp.news/esporte/basquete-jaraguaense-e-vice-campeao-da-serie-prata-do-brasileiro-sub-15-feminino",
+    "title": "Basquete de Jaraguá do Sul é vice-campeão da Série Prata no Brasileiro Sub-15 Feminino",
+    "guid": "sc1multi:b34a00470a178686ff55f69484f1f116356eff3f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b34a00470a178686ff55f69484f1f116356eff3f/",
+    "usedAt": 1785816844262,
+    "usedAtIso": "2026-08-04T04:14:04.262Z"
+  },
   "source:9812c531570d3a3b71e795892cebcf839aa31e13": {
     "url": "https://tudoaquisc.com.br/oportunidades/guarda-vidas-civil-voluntario-3",
     "title": "Santa Catarina abre seleção para guarda-vidas civil voluntário",
@@ -63,20 +71,20 @@
     "usedAt": 1785802444408,
     "usedAtIso": "2026-08-04T00:14:04.408Z"
   },
-  "source:767532833c43e7016b21af97defe4ff067799b2c": {
-    "url": "https://tnsul.com/2026/08/03/novo-caso-de-agressao-a-crianca-em-cei-da-afasc-vem-a-tona",
-    "title": "Afasc demite duas profissionais após agressão em creche de Criciúma",
-    "guid": "sc1multi:651f1201241ef9227c2ada58b1449d5a2aa68f45",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_651f1201241ef9227c2ada58b1449d5a2aa68f45/",
-    "usedAt": 1785798844487,
-    "usedAtIso": "2026-08-03T23:14:04.487Z"
+  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
+    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
+    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
+    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
+    "usedAt": 1785820445024,
+    "usedAtIso": "2026-08-04T05:14:05.024Z"
   },
-  "source:b34a00470a178686ff55f69484f1f116356eff3f": {
-    "url": "https://ocp.news/esporte/basquete-jaraguaense-e-vice-campeao-da-serie-prata-do-brasileiro-sub-15-feminino",
-    "title": "Basquete de Jaraguá do Sul é vice-campeão da Série Prata no Brasileiro Sub-15 Feminino",
-    "guid": "sc1multi:b34a00470a178686ff55f69484f1f116356eff3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b34a00470a178686ff55f69484f1f116356eff3f/",
-    "usedAt": 1785816844262,
-    "usedAtIso": "2026-08-04T04:14:04.262Z"
+  "source:8e6bdc670554620f9793c8b910a081afaa58d43a": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-mantem-100-e-esta-nas-finais-do-estadual-de-basquete-sub-20-masculino",
+    "title": "Jaraguá do Sul avança invicto às finais do Estadual Sub-20 Masculino de Basquete",
+    "guid": "sc1multi:8e6bdc670554620f9793c8b910a081afaa58d43a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e6bdc670554620f9793c8b910a081afaa58d43a/",
+    "usedAt": 1785820445024,
+    "usedAtIso": "2026-08-04T05:14:05.024Z"
   }
 }
