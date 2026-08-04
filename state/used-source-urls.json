@@ -1,4 +1,20 @@
 {
+  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
+    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
+    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
+    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
+    "usedAt": 1785834844722,
+    "usedAtIso": "2026-08-04T09:14:04.722Z"
+  },
+  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
+    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
+    "title": "Polícia resgata vítima de cárcere privado e prende suspeito em Joaçaba",
+    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
+    "usedAt": 1785834844722,
+    "usedAtIso": "2026-08-04T09:14:04.722Z"
+  },
   "source:2affaad8a2a908639c55c03742a8c818c36be39a": {
     "url": "https://tudoaquisc.com.br/esporte/natalia-pereira-corinthians",
     "title": "Manezinha de Florianópolis deixa Corinthians para jogar nos EUA em 2026",
@@ -71,36 +87,20 @@
     "usedAt": 1785820445024,
     "usedAtIso": "2026-08-04T05:14:05.024Z"
   },
-  "source:b34a00470a178686ff55f69484f1f116356eff3f": {
-    "url": "https://ocp.news/esporte/basquete-jaraguaense-e-vice-campeao-da-serie-prata-do-brasileiro-sub-15-feminino",
-    "title": "Basquete de Jaraguá do Sul é vice-campeão da Série Prata no Brasileiro Sub-15 Feminino",
-    "guid": "sc1multi:b34a00470a178686ff55f69484f1f116356eff3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b34a00470a178686ff55f69484f1f116356eff3f/",
-    "usedAt": 1785816844262,
-    "usedAtIso": "2026-08-04T04:14:04.262Z"
+  "source:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9": {
+    "url": "https://ocp.news/economia/senai-sc-inicia-no-norte-de-sc-seletivas-para-a-maior-prova-de-educacao-profissional-do-mundo",
+    "title": "Senai/SC realiza seletivas da WorldSkills em cinco cidades do Norte catarinense",
+    "guid": "sc1multi:53abd703d3978d08f3d5aa9cb5910f4351f8b3a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53abd703d3978d08f3d5aa9cb5910f4351f8b3a9/",
+    "usedAt": 1785838444699,
+    "usedAtIso": "2026-08-04T10:14:04.699Z"
   },
-  "source:9812c531570d3a3b71e795892cebcf839aa31e13": {
-    "url": "https://tudoaquisc.com.br/oportunidades/guarda-vidas-civil-voluntario-3",
-    "title": "Santa Catarina abre seleção para guarda-vidas civil voluntário",
-    "guid": "sc1multi:6c888ffade31bf8eddd5ddef534c31c5a22e2902",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c888ffade31bf8eddd5ddef534c31c5a22e2902/",
-    "usedAt": 1785813244739,
-    "usedAtIso": "2026-08-04T03:14:04.739Z"
-  },
-  "source:4e9b2df4bee1472f9144c8c968fc49047b526d41": {
-    "url": "https://ocp.news/economia/norte-de-sc-se-mobiliza-para-garantir-investimentos-na-futura-malha-sul-ferroviaria",
-    "title": "Norte de Santa Catarina mobiliza-se para investimentos na Malha Sul Ferroviária",
-    "guid": "sc1multi:4e9b2df4bee1472f9144c8c968fc49047b526d41",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e9b2df4bee1472f9144c8c968fc49047b526d41/",
-    "usedAt": 1785834844722,
-    "usedAtIso": "2026-08-04T09:14:04.722Z"
-  },
-  "source:cf19f944a79a8b37457cb9b4084aa29bd3b96816": {
-    "url": "https://ocp.news/seguranca/policia-civil-e-policia-militar-libertam-vitima-de-carcere-privado-e-prendem-suspeito-em-sc",
-    "title": "Polícia resgata vítima de cárcere privado e prende suspeito em Joaçaba",
-    "guid": "sc1multi:cf19f944a79a8b37457cb9b4084aa29bd3b96816",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf19f944a79a8b37457cb9b4084aa29bd3b96816/",
-    "usedAt": 1785834844722,
-    "usedAtIso": "2026-08-04T09:14:04.722Z"
+  "source:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3": {
+    "url": "https://ocp.news/informe/circuito-banco-do-brasil-de-corrida-vai-chegar-a-joinville",
+    "title": "Circuito Banco do Brasil de Corrida será realizado em Joinville em agosto",
+    "guid": "sc1multi:7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cde83f96ca6e0d432f5fc5b25fd9370e4b805a3/",
+    "usedAt": 1785838444699,
+    "usedAtIso": "2026-08-04T10:14:04.699Z"
   }
 }
