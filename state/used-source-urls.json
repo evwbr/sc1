@@ -1,4 +1,76 @@
 {
+  "source:50ea7722029a1f1e44003edb7468fa407110f344": {
+    "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
+    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:1a497b36f5f229a0eaae6f0f04503f51137ea595",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a497b36f5f229a0eaae6f0f04503f51137ea595/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
+    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
+    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
+    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:f7f6db7e7dabfc27e150ba09de31890bec5640af": {
+    "url": "https://ocp.news/politica/almeida1-agradece-convite-mas-nao-sera-candidato-a-deputado-estadual",
+    "title": "Vereador Almeida de Jaraguá do Sul não será candidato a deputado estadual",
+    "guid": "sc1multi:f7f6db7e7dabfc27e150ba09de31890bec5640af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7f6db7e7dabfc27e150ba09de31890bec5640af/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4": {
+    "url": "https://ocp.news/seguranca/motorista-fica-em-estado-gravissimo-apos-acidente-entre-caminhoes-na-br-101-em-sc",
+    "title": "Motorista fica em estado gravíssimo após acidente na BR-101 em Garuva",
+    "guid": "sc1multi:f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:c9726de75c18369624bf836615359595635e300e": {
+    "url": "https://ocp.news/cotidiano/seminario-na-alesc-vai-discutir-gestao-de-fundos-sociais-voltados-a-infancia-e-a-populacao-idosa",
+    "title": "Alesc promove seminário sobre gestão de fundos sociais para infância e idosos",
+    "guid": "sc1multi:c9726de75c18369624bf836615359595635e300e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9726de75c18369624bf836615359595635e300e/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:1ea5623af943c0d9474daac7d6544fbd0639ade5": {
+    "url": "https://ocp.news/cotidiano/hospital-jaragua-implanta-tecnologia-inedita-em-santa-catarina-para-monitoramento-cerebral-de-recem-nascidos",
+    "title": "Hospital Jaraguá implanta monitoramento cerebral inovador para recém-nascidos em SC",
+    "guid": "sc1multi:1ea5623af943c0d9474daac7d6544fbd0639ade5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ea5623af943c0d9474daac7d6544fbd0639ade5/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:b2a95d0bf3d4a2efb49ef343f5dc1ba710417cfe": {
+    "url": "https://tnsul.com/2026/08/05/comercio-de-criciuma-tera-horario-estendido-na-vespera-do-dia-dos-pais",
+    "title": "Comércio de Criciúma terá horário estendido na véspera do Dia dos Pais",
+    "guid": "sc1multi:5417d9d27aa3c089a20284e15c2821ee24e39431",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5417d9d27aa3c089a20284e15c2821ee24e39431/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0": {
+    "url": "https://ocp.news/esporte/jogos-escolares-14-a-16-anos-reune-mais-de-13-mil-estudantes-em-jaragua-do-sul",
+    "title": "Jogos Escolares reúnem mais de 1,3 mil estudantes em Jaraguá do Sul",
+    "guid": "sc1multi:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56d7502dfd5fd4511d97b028d080d8ba4b54ddc0/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
+  "source:134991161c78459cd057a49bf7d6c32d3a2318af": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/ex-vice-prefeito-incendio",
+    "title": "Ex-vice-prefeito é condenado por planejar incêndio em Santa Catarina",
+    "guid": "sc1multi:11d66f4b145c455494cb30aa6cf9e56cec2e507c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11d66f4b145c455494cb30aa6cf9e56cec2e507c/",
+    "usedAt": 1785957244699,
+    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  },
   "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
     "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
     "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
@@ -124,8 +196,8 @@
     "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
     "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:dc7d932a5510088e6b47c07a84745a9edc836682": {
     "url": "https://rbatv.com.br/noticias/homem-cai-de-telhado-de-seis-metros-e-e-levado-ao-hospital-em-agrolandia",
@@ -156,8 +228,8 @@
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
     "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:0097daf850afc7027d03b30ea6be48718b5c9d8d": {
     "url": "https://tnsul.com/2026/08/05/paciente-e-agredido-com-faca-e-ameacado-de-morte-em-posto-de-saude-em-sc",
@@ -174,14 +246,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62c843e5194eec080285bd9099835a59589652fd/",
     "usedAt": 1785946444312,
     "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:50ea7722029a1f1e44003edb7468fa407110f344": {
-    "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:1a497b36f5f229a0eaae6f0f04503f51137ea595",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a497b36f5f229a0eaae6f0f04503f51137ea595/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
   },
   "source:3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0": {
     "url": "https://ocp.news/economia/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
@@ -204,8 +268,8 @@
     "title": "Ousadia e Napoli disputam final do Municipal de Futsal de Guaramirim",
     "guid": "sc1multi:9c6d71943681d2199dcdf3e93bb98a3afdb92a82",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9c6d71943681d2199dcdf3e93bb98a3afdb92a82/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:db5e01e9499d2ff0534a43798a0da1af200106b8": {
     "url": "https://tnsul.com/2026/08/05/casal-fica-ferido-apos-incendio-atingir-casa-em-florianopolis",
@@ -220,16 +284,16 @@
     "title": "Jaraguá do Sul investe em pavimentação no bairro Nova Brasília",
     "guid": "sc1multi:893a9e39bdcf9c68758037bfddfe7a08b9c538f3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893a9e39bdcf9c68758037bfddfe7a08b9c538f3/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:f880180b0992fea2b597d76567a24002c27ea9b0": {
     "url": "https://ocp.news/seguranca/adolescente12-que-esfaqueou-a-mae-em-jaragua-do-sul-e-transferido-para-blumenau",
-    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para unidade em Blumenau",
+    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para Blumenau",
     "guid": "sc1multi:f880180b0992fea2b597d76567a24002c27ea9b0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f880180b0992fea2b597d76567a24002c27ea9b0/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:88ddaad3484ad1a02e847a1b9f03263cacba79e6": {
     "url": "https://ocp.news/cotidiano/rua-de-florianopolis-vai-ganhar-travessia-com-botoeiras-para-ampliar-seguranca-de-pedestres",
@@ -238,14 +302,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_88ddaad3484ad1a02e847a1b9f03263cacba79e6/",
     "usedAt": 1785942846854,
     "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
-    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
-    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
-    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
   },
   "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
     "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
@@ -262,30 +318,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a15c3ca8c0bc740b20a70d9387962477f0c46ba5/",
     "usedAt": 1785939244702,
     "usedAtIso": "2026-08-05T14:14:04.702Z"
-  },
-  "source:f7f6db7e7dabfc27e150ba09de31890bec5640af": {
-    "url": "https://ocp.news/politica/almeida1-agradece-convite-mas-nao-sera-candidato-a-deputado-estadual",
-    "title": "Vereador Almeida de Jaraguá do Sul não será candidato a deputado estadual",
-    "guid": "sc1multi:f7f6db7e7dabfc27e150ba09de31890bec5640af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7f6db7e7dabfc27e150ba09de31890bec5640af/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
-  },
-  "source:f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4": {
-    "url": "https://ocp.news/seguranca/motorista-fica-em-estado-gravissimo-apos-acidente-entre-caminhoes-na-br-101-em-sc",
-    "title": "Motorista fica em estado gravíssimo após acidente na BR-101 em Garuva",
-    "guid": "sc1multi:f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0551469e5b7448b27e5bdd27cbe06fb3ae6bbd4/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
-  },
-  "source:c9726de75c18369624bf836615359595635e300e": {
-    "url": "https://ocp.news/cotidiano/seminario-na-alesc-vai-discutir-gestao-de-fundos-sociais-voltados-a-infancia-e-a-populacao-idosa",
-    "title": "Alesc promove seminário sobre gestão de fundos sociais para infância e idosos",
-    "guid": "sc1multi:c9726de75c18369624bf836615359595635e300e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9726de75c18369624bf836615359595635e300e/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
   },
   "source:2c557d0843fb18bcd7621cc212d9c39474d85ae2": {
     "url": "https://ocp.news/cotidiano/internacao-involuntaria-criciuma-encaminha-mais-pessoas-em-situacao-de-rua-para-tratamento",
@@ -311,36 +343,20 @@
     "usedAt": 1785939244702,
     "usedAtIso": "2026-08-05T14:14:04.702Z"
   },
-  "source:1ea5623af943c0d9474daac7d6544fbd0639ade5": {
-    "url": "https://ocp.news/cotidiano/hospital-jaragua-implanta-tecnologia-inedita-em-santa-catarina-para-monitoramento-cerebral-de-recem-nascidos",
-    "title": "Hospital Jaraguá implanta monitoramento cerebral inovador para recém-nascidos em SC",
-    "guid": "sc1multi:1ea5623af943c0d9474daac7d6544fbd0639ade5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ea5623af943c0d9474daac7d6544fbd0639ade5/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
+    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
+    "title": "Criciúma abre licitação para construção da Cidade do Autista",
+    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
-  "source:b2a95d0bf3d4a2efb49ef343f5dc1ba710417cfe": {
-    "url": "https://tnsul.com/2026/08/05/comercio-de-criciuma-tera-horario-estendido-na-vespera-do-dia-dos-pais",
-    "title": "Comércio de Criciúma terá horário estendido na véspera do Dia dos Pais",
-    "guid": "sc1multi:5417d9d27aa3c089a20284e15c2821ee24e39431",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5417d9d27aa3c089a20284e15c2821ee24e39431/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
-  },
-  "source:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0": {
-    "url": "https://ocp.news/esporte/jogos-escolares-14-a-16-anos-reune-mais-de-13-mil-estudantes-em-jaragua-do-sul",
-    "title": "Jogos Escolares reúnem mais de 1,3 mil estudantes em Jaraguá do Sul",
-    "guid": "sc1multi:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56d7502dfd5fd4511d97b028d080d8ba4b54ddc0/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
-  },
-  "source:134991161c78459cd057a49bf7d6c32d3a2318af": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/ex-vice-prefeito-incendio",
-    "title": "Ex-vice-prefeito é condenado por planejar incêndio em Santa Catarina",
-    "guid": "sc1multi:11d66f4b145c455494cb30aa6cf9e56cec2e507c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11d66f4b145c455494cb30aa6cf9e56cec2e507c/",
-    "usedAt": 1785957244699,
-    "usedAtIso": "2026-08-05T19:14:04.699Z"
+  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
+    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
+    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
+    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
   }
 }
