@@ -1,4 +1,20 @@
 {
+  "source:53d8a79fc187c14a5b5e54b36f8b2923b5af358d": {
+    "url": "https://rbatv.com.br/noticias/municipio-de-sc-indenizara-jovem-que-perdeu-testiculo-por-atraso-no-diagnostico-medico",
+    "title": "Município catarinense indenizará jovem por perda de testículo após erro médico",
+    "guid": "sc1multi:279dcdd84c7958fc0323f509ca86581f5ba070da",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_279dcdd84c7958fc0323f509ca86581f5ba070da/",
+    "usedAt": 1785888844455,
+    "usedAtIso": "2026-08-05T00:14:04.455Z"
+  },
+  "source:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2": {
+    "url": "https://ocp.news/seguranca/br-280-tera-pare-e-siga-para-transporte-de-vigas-de-55-toneladas-em-guaramirim",
+    "title": "BR-280 terá interdição temporária para transporte de vigas entre Guaramirim e Araquari",
+    "guid": "sc1multi:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2/",
+    "usedAt": 1785888844455,
+    "usedAtIso": "2026-08-05T00:14:04.455Z"
+  },
   "source:c3dfe09a6f0edcc74dff63eb2a773195771e284f": {
     "url": "https://ocp.news/seguranca/jaragua-do-sul-mulher-sofre-mal-subito-e-capota-veiculo-no-bairro-jaragua-esquerdo",
     "title": "Mulher sofre mal súbito e capota veículo em Jaraguá do Sul",
@@ -244,8 +260,8 @@
     "title": "Centro Educacional Caminho do Saber promove desenvolvimento infantil em Jaraguá do Sul",
     "guid": "sc1multi:90d6c3263023509608bd0e64d3a7da947e5b8dca",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_90d6c3263023509608bd0e64d3a7da947e5b8dca/",
-    "usedAt": 1785874444538,
-    "usedAtIso": "2026-08-04T20:14:04.538Z"
+    "usedAt": 1785892444606,
+    "usedAtIso": "2026-08-05T01:14:04.606Z"
   },
   "source:92250c3dabe44f5e777054761ccedf2135be8207": {
     "url": "https://correiosc.com.br/nova-linha-gratuita-formiguinha-morro-da-penitenciaria-titri-florianopolis",
@@ -263,68 +279,20 @@
     "usedAt": 1785874444538,
     "usedAtIso": "2026-08-04T20:14:04.538Z"
   },
-  "source:facfc6f1063de5d9e5354b057504b98a157e1c74": {
-    "url": "https://tnsul.com/2026/08/04/colisao-entre-carro-e-trator-deixa-7-feridos-na-sc-281",
-    "title": "Colisão entre carro e trator deixa sete feridos na SC-281 em Ituporanga",
-    "guid": "sc1multi:e880a01a8f14a4ced6cc770626e8e08b3c511bb7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e880a01a8f14a4ced6cc770626e8e08b3c511bb7/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
+  "source:a1995f40e0f80fdfc5df98a1a41f4925bd32ad15": {
+    "url": "https://tnsul.com/2026/08/04/criciuma-promove-campanha-de-multivacinacao",
+    "title": "Criciúma promove Campanha de Multivacinação para crianças e adolescentes",
+    "guid": "sc1multi:6634a3666daca1a65cc58ecb092cb29dbf12e4bd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6634a3666daca1a65cc58ecb092cb29dbf12e4bd/",
+    "usedAt": 1785892444606,
+    "usedAtIso": "2026-08-05T01:14:04.606Z"
   },
-  "source:89641dc3e13ee6252e69f06d6472b0fbdfb1fd18": {
-    "url": "https://tnsul.com/2026/08/04/plano-para-invadir-brasilia-com-bombas-e-alvo-do-gaeco-em-sc",
-    "title": "Gaeco cumpre mandados em Blumenau e Corupá por plano de invasão a Brasília",
-    "guid": "sc1multi:1dc5948244afe09049bf50db4ad0c370a8fd2d57",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1dc5948244afe09049bf50db4ad0c370a8fd2d57/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:9b12318f08b5fc885556ab1a5638c291f95ca62c": {
-    "url": "https://tnsul.com/2026/08/04/adolescente-aciona-pm-apos-tentar-matar-propria-mae-em-jaragua-do-sul",
-    "title": "Adolescente tenta matar mãe em Jaraguá do Sul e aciona a PM",
-    "guid": "sc1multi:8762e678cc31d946e1ae32ec143b3f82356bf3f5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8762e678cc31d946e1ae32ec143b3f82356bf3f5/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:8f7d5cfebbf7b18cb9651f8145b0af13bf2841af": {
-    "url": "https://ocp.news/esporte/basquete-jaraguaense-faz-quadrangular-final-perfeito-e-e-campeao-do-estadual-sub-20-feminino",
-    "title": "Basquete feminino de Jaraguá do Sul conquista título estadual Sub-20",
-    "guid": "sc1multi:8f7d5cfebbf7b18cb9651f8145b0af13bf2841af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f7d5cfebbf7b18cb9651f8145b0af13bf2841af/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:f7cf2dba79f6d51b6b2996fc7f22966717555419": {
-    "url": "https://ocp.news/esporte/dupla-jaraguaense-vai-ao-podio-na-5a-etapa-do-catarinense-de-mountain-bike",
-    "title": "Atletas de Jaraguá do Sul conquistam pódio na 5ª etapa do Catarinense de Mountain Bike",
-    "guid": "sc1multi:f7cf2dba79f6d51b6b2996fc7f22966717555419",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f7cf2dba79f6d51b6b2996fc7f22966717555419/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:37deb9e4443e2cf3ae43f5c399858628a7c7ff12": {
-    "url": "https://ocp.news/esporte/circuito-unificado-de-padel-veja-os-campeoes-da-3a-etapa-na-jaragua-padel",
-    "title": "Jaraguá Padel realiza 3ª etapa do Circuito Unificado com campeões definidos",
-    "guid": "sc1multi:37deb9e4443e2cf3ae43f5c399858628a7c7ff12",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37deb9e4443e2cf3ae43f5c399858628a7c7ff12/",
-    "usedAt": 1785870844577,
-    "usedAtIso": "2026-08-04T19:14:04.577Z"
-  },
-  "source:53d8a79fc187c14a5b5e54b36f8b2923b5af358d": {
-    "url": "https://rbatv.com.br/noticias/municipio-de-sc-indenizara-jovem-que-perdeu-testiculo-por-atraso-no-diagnostico-medico",
-    "title": "Município catarinense indenizará jovem por perda de testículo após erro médico",
-    "guid": "sc1multi:279dcdd84c7958fc0323f509ca86581f5ba070da",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_279dcdd84c7958fc0323f509ca86581f5ba070da/",
-    "usedAt": 1785888844455,
-    "usedAtIso": "2026-08-05T00:14:04.455Z"
-  },
-  "source:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2": {
-    "url": "https://ocp.news/seguranca/br-280-tera-pare-e-siga-para-transporte-de-vigas-de-55-toneladas-em-guaramirim",
-    "title": "BR-280 terá interdição temporária para transporte de vigas entre Guaramirim e Araquari",
-    "guid": "sc1multi:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2/",
-    "usedAt": 1785888844455,
-    "usedAtIso": "2026-08-05T00:14:04.455Z"
+  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
+    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
+    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
+    "usedAt": 1785892444606,
+    "usedAtIso": "2026-08-05T01:14:04.606Z"
   }
 }
