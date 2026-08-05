@@ -1,4 +1,28 @@
 {
+  "source:c9c41d39681ce96e8a9ce154ac7de10f316f9622": {
+    "url": "https://ocp.news/politica/defesa-civil-de-massaranduba-tem-novo-diretor",
+    "title": "Rodrigo Caetano assume direção da Defesa Civil em Massaranduba",
+    "guid": "sc1multi:c9c41d39681ce96e8a9ce154ac7de10f316f9622",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9c41d39681ce96e8a9ce154ac7de10f316f9622/",
+    "usedAt": 1785899644915,
+    "usedAtIso": "2026-08-05T03:14:04.915Z"
+  },
+  "source:002923c5fe764e963ada239b0ce6d0ad0de333c2": {
+    "url": "https://tudoaquisc.com.br/esporte/figueirense-torcida-serie-c",
+    "title": "Figueirense esgota 5 mil ingressos gratuitos para jogo em Santa Catarina",
+    "guid": "sc1multi:92bfd2b57b32c06735349e9fe69a564c4c114a3e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_92bfd2b57b32c06735349e9fe69a564c4c114a3e/",
+    "usedAt": 1785899644915,
+    "usedAtIso": "2026-08-05T03:14:04.915Z"
+  },
+  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
+    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
+    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções estaduais",
+    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
+    "usedAt": 1785899644915,
+    "usedAtIso": "2026-08-05T03:14:04.915Z"
+  },
   "source:50ea7722029a1f1e44003edb7468fa407110f344": {
     "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
@@ -167,28 +191,20 @@
     "usedAt": 1785881644890,
     "usedAtIso": "2026-08-04T22:14:04.890Z"
   },
-  "source:c9c41d39681ce96e8a9ce154ac7de10f316f9622": {
-    "url": "https://ocp.news/politica/defesa-civil-de-massaranduba-tem-novo-diretor",
-    "title": "Rodrigo Caetano assume direção da Defesa Civil em Massaranduba",
-    "guid": "sc1multi:c9c41d39681ce96e8a9ce154ac7de10f316f9622",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9c41d39681ce96e8a9ce154ac7de10f316f9622/",
-    "usedAt": 1785899644915,
-    "usedAtIso": "2026-08-05T03:14:04.915Z"
+  "source:3761697c182b0aafde99027dbf387340bf1442c5": {
+    "url": "https://ocp.news/informe/evento-conecta-fenachopp-mobiliza-trade-turistico-de-joinville-em-acao-que-vai-promover-os-atrativos-da-cidade",
+    "title": "Conecta Fenachopp mobiliza trade turístico de Joinville para evento em 2026",
+    "guid": "sc1multi:3761697c182b0aafde99027dbf387340bf1442c5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3761697c182b0aafde99027dbf387340bf1442c5/",
+    "usedAt": 1785903244283,
+    "usedAtIso": "2026-08-05T04:14:04.283Z"
   },
-  "source:002923c5fe764e963ada239b0ce6d0ad0de333c2": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-torcida-serie-c",
-    "title": "Figueirense esgota 5 mil ingressos gratuitos para jogo em Santa Catarina",
-    "guid": "sc1multi:92bfd2b57b32c06735349e9fe69a564c4c114a3e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_92bfd2b57b32c06735349e9fe69a564c4c114a3e/",
-    "usedAt": 1785899644915,
-    "usedAtIso": "2026-08-05T03:14:04.915Z"
-  },
-  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
-    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
-    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções estaduais",
-    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785899644915,
-    "usedAtIso": "2026-08-05T03:14:04.915Z"
+  "source:2441d70e053cf9d1c3be925253186588417cad4c": {
+    "url": "https://correiosc.com.br/sinduscon-grande-florianopolis-reelege-carlos-leite",
+    "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
+    "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
+    "usedAt": 1785903244283,
+    "usedAtIso": "2026-08-05T04:14:04.283Z"
   }
 }
