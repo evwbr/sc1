@@ -1,4 +1,60 @@
 {
+  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
+    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
+    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
+    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
+    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
+    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:9c6d71943681d2199dcdf3e93bb98a3afdb92a82": {
+    "url": "https://ocp.news/esporte/ousadia-e-napoli-sao-os-finalistas-do-municipal-de-futsal-de-guaramirim",
+    "title": "Ousadia e Napoli disputam final do Municipal de Futsal de Guaramirim",
+    "guid": "sc1multi:9c6d71943681d2199dcdf3e93bb98a3afdb92a82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9c6d71943681d2199dcdf3e93bb98a3afdb92a82/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:893a9e39bdcf9c68758037bfddfe7a08b9c538f3": {
+    "url": "https://ocp.news/cotidiano/pacote-de-obras-leva-mais-infraestrutura-e-mobilidade-ao-bairro-nova-brasilia",
+    "title": "Jaraguá do Sul investe em pavimentação no bairro Nova Brasília",
+    "guid": "sc1multi:893a9e39bdcf9c68758037bfddfe7a08b9c538f3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893a9e39bdcf9c68758037bfddfe7a08b9c538f3/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:f880180b0992fea2b597d76567a24002c27ea9b0": {
+    "url": "https://ocp.news/seguranca/adolescente12-que-esfaqueou-a-mae-em-jaragua-do-sul-e-transferido-para-blumenau",
+    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para Blumenau",
+    "guid": "sc1multi:f880180b0992fea2b597d76567a24002c27ea9b0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f880180b0992fea2b597d76567a24002c27ea9b0/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
+    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
+    "title": "Criciúma abre licitação para construção da Cidade do Autista",
+    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
+  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
+    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
+    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
+    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
+    "usedAt": 1785960844293,
+    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  },
   "source:50ea7722029a1f1e44003edb7468fa407110f344": {
     "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
@@ -148,16 +204,16 @@
     "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
     "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
+    "usedAt": 1785964444562,
+    "usedAtIso": "2026-08-05T21:14:04.562Z"
   },
   "source:2441d70e053cf9d1c3be925253186588417cad4c": {
     "url": "https://correiosc.com.br/sinduscon-grande-florianopolis-reelege-carlos-leite",
     "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
     "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
+    "usedAt": 1785964444562,
+    "usedAtIso": "2026-08-05T21:14:04.562Z"
   },
   "source:c8d02fb87ffff3ff0b9c58d0116b7e5fd6232aaa": {
     "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-apos-colisao-com-carro-no-centro-de-presidente-getulio",
@@ -180,8 +236,8 @@
     "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
     "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
+    "usedAt": 1785964444562,
+    "usedAtIso": "2026-08-05T21:14:04.562Z"
   },
   "source:e2b3877b075b244b1b5ae8fe0ecbbe1612b501d6": {
     "url": "https://rbatv.com.br/noticias/policia-militar-descobre-desmanche-clandestino-e-recupera-veiculos-furtados-em-gaspar",
@@ -190,14 +246,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d329eb1463674efa2c44ad98407656b6945a45b1/",
     "usedAt": 1785950044885,
     "usedAtIso": "2026-08-05T17:14:04.885Z"
-  },
-  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
-    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
-    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
-    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:dc7d932a5510088e6b47c07a84745a9edc836682": {
     "url": "https://rbatv.com.br/noticias/homem-cai-de-telhado-de-seis-metros-e-e-levado-ao-hospital-em-agrolandia",
@@ -222,14 +270,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1fb6fe132437371a6344374250816fa95ac60f46/",
     "usedAt": 1785946444312,
     "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
-    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:0097daf850afc7027d03b30ea6be48718b5c9d8d": {
     "url": "https://tnsul.com/2026/08/05/paciente-e-agredido-com-faca-e-ameacado-de-morte-em-posto-de-saude-em-sc",
@@ -263,14 +303,6 @@
     "usedAt": 1785942846854,
     "usedAtIso": "2026-08-05T15:14:06.854Z"
   },
-  "source:9c6d71943681d2199dcdf3e93bb98a3afdb92a82": {
-    "url": "https://ocp.news/esporte/ousadia-e-napoli-sao-os-finalistas-do-municipal-de-futsal-de-guaramirim",
-    "title": "Ousadia e Napoli disputam final do Municipal de Futsal de Guaramirim",
-    "guid": "sc1multi:9c6d71943681d2199dcdf3e93bb98a3afdb92a82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9c6d71943681d2199dcdf3e93bb98a3afdb92a82/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
-  },
   "source:db5e01e9499d2ff0534a43798a0da1af200106b8": {
     "url": "https://tnsul.com/2026/08/05/casal-fica-ferido-apos-incendio-atingir-casa-em-florianopolis",
     "title": "Casal fica ferido após incêndio em residência no bairro Jurerê, Florianópolis",
@@ -278,22 +310,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf042ac91d75c7f987b65bf4a770b0fc4c4ea4e1/",
     "usedAt": 1785942846854,
     "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:893a9e39bdcf9c68758037bfddfe7a08b9c538f3": {
-    "url": "https://ocp.news/cotidiano/pacote-de-obras-leva-mais-infraestrutura-e-mobilidade-ao-bairro-nova-brasilia",
-    "title": "Jaraguá do Sul investe em pavimentação no bairro Nova Brasília",
-    "guid": "sc1multi:893a9e39bdcf9c68758037bfddfe7a08b9c538f3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893a9e39bdcf9c68758037bfddfe7a08b9c538f3/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
-  },
-  "source:f880180b0992fea2b597d76567a24002c27ea9b0": {
-    "url": "https://ocp.news/seguranca/adolescente12-que-esfaqueou-a-mae-em-jaragua-do-sul-e-transferido-para-blumenau",
-    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para Blumenau",
-    "guid": "sc1multi:f880180b0992fea2b597d76567a24002c27ea9b0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f880180b0992fea2b597d76567a24002c27ea9b0/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
   },
   "source:88ddaad3484ad1a02e847a1b9f03263cacba79e6": {
     "url": "https://ocp.news/cotidiano/rua-de-florianopolis-vai-ganhar-travessia-com-botoeiras-para-ampliar-seguranca-de-pedestres",
@@ -311,52 +327,20 @@
     "usedAt": 1785942846854,
     "usedAtIso": "2026-08-05T15:14:06.854Z"
   },
-  "source:98ce62d716ce908b550f4f7be56c646b9800cd3b": {
-    "url": "https://tnsul.com/2026/08/05/trabalhador-fica-ferido-apos-cair-seis-metros-de-telhado-em-sc",
-    "title": "Trabalhador fica ferido após queda de telhado em Agrolândia",
-    "guid": "sc1multi:a15c3ca8c0bc740b20a70d9387962477f0c46ba5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a15c3ca8c0bc740b20a70d9387962477f0c46ba5/",
-    "usedAt": 1785939244702,
-    "usedAtIso": "2026-08-05T14:14:04.702Z"
+  "source:bbe70f119b12416faa30a30c008978703050f634": {
+    "url": "https://ocp.news/cotidiano/festa-das-flores-de-joinville-tem-100-dos-espacos-comerciais-vendidos-e-reforca-seu-potencial-de-negocios",
+    "title": "Festa das Flores de Joinville tem 100% dos espaços comerciais vendidos",
+    "guid": "sc1multi:bbe70f119b12416faa30a30c008978703050f634",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbe70f119b12416faa30a30c008978703050f634/",
+    "usedAt": 1785964444562,
+    "usedAtIso": "2026-08-05T21:14:04.562Z"
   },
-  "source:2c557d0843fb18bcd7621cc212d9c39474d85ae2": {
-    "url": "https://ocp.news/cotidiano/internacao-involuntaria-criciuma-encaminha-mais-pessoas-em-situacao-de-rua-para-tratamento",
-    "title": "Criciúma encaminha pessoas em situação de rua para internação involuntária",
-    "guid": "sc1multi:2c557d0843fb18bcd7621cc212d9c39474d85ae2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c557d0843fb18bcd7621cc212d9c39474d85ae2/",
-    "usedAt": 1785939244702,
-    "usedAtIso": "2026-08-05T14:14:04.702Z"
-  },
-  "source:9020de5fc9dcbf764397653dad3beadfb0e0ad6e": {
-    "url": "https://tnsul.com/2026/08/05/operacao-contra-trafico-e-lavagem-de-dinheiro-prende-quatro-pessoas-em-sc",
-    "title": "Polícia Civil prende quatro em operação contra tráfico e lavagem em Criciúma",
-    "guid": "sc1multi:8cb165cb4a0c11d2e46781781abbf23bdcc5fa15",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8cb165cb4a0c11d2e46781781abbf23bdcc5fa15/",
-    "usedAt": 1785939244702,
-    "usedAtIso": "2026-08-05T14:14:04.702Z"
-  },
-  "source:69ba6153030f064291b9900f1a3de46fdb226e0a": {
-    "url": "https://ocp.news/cotidiano/joinville-integra-campanha-nacional-de-multivacinacao-com-foco-na-protecao-de-criancas-e-adolescentes",
-    "title": "Joinville participa da Campanha Nacional de Multivacinação para menores de 15 anos",
-    "guid": "sc1multi:69ba6153030f064291b9900f1a3de46fdb226e0a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69ba6153030f064291b9900f1a3de46fdb226e0a/",
-    "usedAt": 1785939244702,
-    "usedAtIso": "2026-08-05T14:14:04.702Z"
-  },
-  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
-    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
-    "title": "Criciúma abre licitação para construção da Cidade do Autista",
-    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
-  },
-  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
-    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
-    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
-    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
-    "usedAt": 1785960844293,
-    "usedAtIso": "2026-08-05T20:14:04.293Z"
+  "source:bd34e6da705f918c2858eea2b77f96f1c256901f": {
+    "url": "https://ocp.news/seguranca/justica-reconhece-adocao-de-jovem-criada-por-casal-desde-a-infancia-em-jaragua-do-sul",
+    "title": "Justiça reconhece adoção de jovem criada por casal em Jaraguá do Sul",
+    "guid": "sc1multi:bd34e6da705f918c2858eea2b77f96f1c256901f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd34e6da705f918c2858eea2b77f96f1c256901f/",
+    "usedAt": 1785964444562,
+    "usedAtIso": "2026-08-05T21:14:04.562Z"
   }
 }
