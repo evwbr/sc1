@@ -1,4 +1,84 @@
 {
+  "source:50ea7722029a1f1e44003edb7468fa407110f344": {
+    "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
+    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:1a497b36f5f229a0eaae6f0f04503f51137ea595",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a497b36f5f229a0eaae6f0f04503f51137ea595/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0": {
+    "url": "https://ocp.news/economia/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
+    "title": "Florianópolis certifica primeira indústria de ostras e mexilhões enlatados do Brasil",
+    "guid": "sc1multi:3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:53d8a79fc187c14a5b5e54b36f8b2923b5af358d": {
+    "url": "https://rbatv.com.br/noticias/municipio-de-sc-indenizara-jovem-que-perdeu-testiculo-por-atraso-no-diagnostico-medico",
+    "title": "Município catarinense indenizará jovem por perda de testículo após erro médico",
+    "guid": "sc1multi:279dcdd84c7958fc0323f509ca86581f5ba070da",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_279dcdd84c7958fc0323f509ca86581f5ba070da/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:9c6d71943681d2199dcdf3e93bb98a3afdb92a82": {
+    "url": "https://ocp.news/esporte/ousadia-e-napoli-sao-os-finalistas-do-municipal-de-futsal-de-guaramirim",
+    "title": "Ousadia e Napoli disputam final do Municipal de Futsal de Guaramirim",
+    "guid": "sc1multi:9c6d71943681d2199dcdf3e93bb98a3afdb92a82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9c6d71943681d2199dcdf3e93bb98a3afdb92a82/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:db5e01e9499d2ff0534a43798a0da1af200106b8": {
+    "url": "https://tnsul.com/2026/08/05/casal-fica-ferido-apos-incendio-atingir-casa-em-florianopolis",
+    "title": "Casal fica ferido após incêndio em residência no bairro Jurerê, Florianópolis",
+    "guid": "sc1multi:cf042ac91d75c7f987b65bf4a770b0fc4c4ea4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf042ac91d75c7f987b65bf4a770b0fc4c4ea4e1/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:893a9e39bdcf9c68758037bfddfe7a08b9c538f3": {
+    "url": "https://ocp.news/cotidiano/pacote-de-obras-leva-mais-infraestrutura-e-mobilidade-ao-bairro-nova-brasilia",
+    "title": "Jaraguá do Sul investe em pavimentação no bairro Nova Brasília",
+    "guid": "sc1multi:893a9e39bdcf9c68758037bfddfe7a08b9c538f3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893a9e39bdcf9c68758037bfddfe7a08b9c538f3/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:f880180b0992fea2b597d76567a24002c27ea9b0": {
+    "url": "https://ocp.news/seguranca/adolescente12-que-esfaqueou-a-mae-em-jaragua-do-sul-e-transferido-para-blumenau",
+    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para unidade em Blumenau",
+    "guid": "sc1multi:f880180b0992fea2b597d76567a24002c27ea9b0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f880180b0992fea2b597d76567a24002c27ea9b0/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:88ddaad3484ad1a02e847a1b9f03263cacba79e6": {
+    "url": "https://ocp.news/cotidiano/rua-de-florianopolis-vai-ganhar-travessia-com-botoeiras-para-ampliar-seguranca-de-pedestres",
+    "title": "Florianópolis terá travessia com botoeiras para aumentar segurança de pedestres",
+    "guid": "sc1multi:88ddaad3484ad1a02e847a1b9f03263cacba79e6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_88ddaad3484ad1a02e847a1b9f03263cacba79e6/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
+    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
+    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
+    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
+  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
+    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
+    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
+    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
+    "usedAt": 1785942846854,
+    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  },
   "source:98ce62d716ce908b550f4f7be56c646b9800cd3b": {
     "url": "https://tnsul.com/2026/08/05/trabalhador-fica-ferido-apos-cair-seis-metros-de-telhado-em-sc",
     "title": "Trabalhador fica ferido após queda de telhado em Agrolândia",
@@ -148,8 +228,8 @@
     "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
     "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785932044827,
-    "usedAtIso": "2026-08-05T12:14:04.827Z"
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
   "source:f318efbacea6859c28fd9eaa20590c62924663a3": {
     "url": "https://tnsul.com/2026/08/05/motorista-sobrevive-apos-cabine-ser-esmagada-grave-em-colisao-na-br-101",
@@ -164,16 +244,16 @@
     "title": "Homem cai de telhado em Agrolândia e é levado ao hospital",
     "guid": "sc1multi:4a0750d921b424477500790596aa8bbc50a89761",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0750d921b424477500790596aa8bbc50a89761/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
   "source:5ddcfa97c890da49ec75cf9e454f048658016dd0": {
     "url": "https://rbatv.com.br/noticias/operacao-rede-interrompida-apura-possivel-articulacao-de-acoes-violentas-contra-a-ordem-publica-e-as-instituicoes-democraticas",
     "title": "Operação em Blumenau e Corupá investiga ações violentas contra instituições democráticas",
     "guid": "sc1multi:b3e686f995b0c44dbe760fbce7668693d022764e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3e686f995b0c44dbe760fbce7668693d022764e/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
   "source:70d6332a0682975f5bc553ad571ff6f407d78395": {
     "url": "https://tnsul.com/2026/08/05/casa-e-atingida-por-incendio-apos-vazamento-de-gas-em-icara",
@@ -188,8 +268,8 @@
     "title": "Homem é preso por agressão e ameaça contra companheira em Ascurra",
     "guid": "sc1multi:1fb6fe132437371a6344374250816fa95ac60f46",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1fb6fe132437371a6344374250816fa95ac60f46/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
   "source:a1995f40e0f80fdfc5df98a1a41f4925bd32ad15": {
     "url": "https://tnsul.com/2026/08/04/criciuma-promove-campanha-de-multivacinacao",
@@ -204,8 +284,8 @@
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
     "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
   "source:fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2": {
     "url": "https://ocp.news/seguranca/prf-recupera-carro-furtado-e-prende-suspeito-na-br-101-em-joinville",
@@ -214,30 +294,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2/",
     "usedAt": 1785928444285,
     "usedAtIso": "2026-08-05T11:14:04.285Z"
-  },
-  "source:50ea7722029a1f1e44003edb7468fa407110f344": {
-    "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:1a497b36f5f229a0eaae6f0f04503f51137ea595",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a497b36f5f229a0eaae6f0f04503f51137ea595/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0": {
-    "url": "https://ocp.news/economia/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
-    "title": "Florianópolis certifica primeira indústria de ostras e mexilhões enlatados do Brasil",
-    "guid": "sc1multi:3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3ac3cf4cd9c4aa67c7b01da5901d7c8567ee99b0/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:53d8a79fc187c14a5b5e54b36f8b2923b5af358d": {
-    "url": "https://rbatv.com.br/noticias/municipio-de-sc-indenizara-jovem-que-perdeu-testiculo-por-atraso-no-diagnostico-medico",
-    "title": "Município catarinense indenizará jovem por perda de testículo após erro médico",
-    "guid": "sc1multi:279dcdd84c7958fc0323f509ca86581f5ba070da",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_279dcdd84c7958fc0323f509ca86581f5ba070da/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
   },
   "source:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2": {
     "url": "https://ocp.news/seguranca/br-280-tera-pare-e-siga-para-transporte-de-vigas-de-55-toneladas-em-guaramirim",
@@ -263,60 +319,20 @@
     "usedAt": 1785924844566,
     "usedAtIso": "2026-08-05T10:14:04.566Z"
   },
-  "source:9c6d71943681d2199dcdf3e93bb98a3afdb92a82": {
-    "url": "https://ocp.news/esporte/ousadia-e-napoli-sao-os-finalistas-do-municipal-de-futsal-de-guaramirim",
-    "title": "Ousadia e Napoli disputam final do Municipal de Futsal de Guaramirim",
-    "guid": "sc1multi:9c6d71943681d2199dcdf3e93bb98a3afdb92a82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9c6d71943681d2199dcdf3e93bb98a3afdb92a82/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  "source:0097daf850afc7027d03b30ea6be48718b5c9d8d": {
+    "url": "https://tnsul.com/2026/08/05/paciente-e-agredido-com-faca-e-ameacado-de-morte-em-posto-de-saude-em-sc",
+    "title": "Homem é agredido com faca em posto de saúde em Mafra, SC",
+    "guid": "sc1multi:f89ef806c4188b861aaf6de737be1ead92a4b3e3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f89ef806c4188b861aaf6de737be1ead92a4b3e3/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   },
-  "source:db5e01e9499d2ff0534a43798a0da1af200106b8": {
-    "url": "https://tnsul.com/2026/08/05/casal-fica-ferido-apos-incendio-atingir-casa-em-florianopolis",
-    "title": "Casal fica ferido após incêndio em residência no bairro Jurerê, Florianópolis",
-    "guid": "sc1multi:cf042ac91d75c7f987b65bf4a770b0fc4c4ea4e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf042ac91d75c7f987b65bf4a770b0fc4c4ea4e1/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:893a9e39bdcf9c68758037bfddfe7a08b9c538f3": {
-    "url": "https://ocp.news/cotidiano/pacote-de-obras-leva-mais-infraestrutura-e-mobilidade-ao-bairro-nova-brasilia",
-    "title": "Jaraguá do Sul investe em pavimentação no bairro Nova Brasília",
-    "guid": "sc1multi:893a9e39bdcf9c68758037bfddfe7a08b9c538f3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893a9e39bdcf9c68758037bfddfe7a08b9c538f3/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:f880180b0992fea2b597d76567a24002c27ea9b0": {
-    "url": "https://ocp.news/seguranca/adolescente12-que-esfaqueou-a-mae-em-jaragua-do-sul-e-transferido-para-blumenau",
-    "title": "Adolescente que esfaqueou a mãe em Jaraguá do Sul é transferido para unidade em Blumenau",
-    "guid": "sc1multi:f880180b0992fea2b597d76567a24002c27ea9b0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f880180b0992fea2b597d76567a24002c27ea9b0/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:88ddaad3484ad1a02e847a1b9f03263cacba79e6": {
-    "url": "https://ocp.news/cotidiano/rua-de-florianopolis-vai-ganhar-travessia-com-botoeiras-para-ampliar-seguranca-de-pedestres",
-    "title": "Florianópolis terá travessia com botoeiras para aumentar segurança de pedestres",
-    "guid": "sc1multi:88ddaad3484ad1a02e847a1b9f03263cacba79e6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_88ddaad3484ad1a02e847a1b9f03263cacba79e6/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
-    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
-    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
-    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
-  },
-  "source:482775adf0c4a3b7e79339fa127336c54c9cf499": {
-    "url": "https://correiosc.com.br/cbmsc-abre-editais-cursos-guarda-vidas-civil-voluntario-santa-catarina",
-    "title": "CBMSC abre inscrições para Guarda-Vidas Voluntário em Santa Catarina",
-    "guid": "sc1multi:ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac8e6b2f2c64d687ce65b74a674f610c29e5e4e1/",
-    "usedAt": 1785942846854,
-    "usedAtIso": "2026-08-05T15:14:06.854Z"
+  "source:7a270676ec5f355c8a350a51b01eef8a08381e9f": {
+    "url": "https://tudoaquisc.com.br/seguranca/vizinho-stalker-palhoca-0826",
+    "title": "Jovem de Palhoça denuncia vizinho por perseguição no condomínio",
+    "guid": "sc1multi:62c843e5194eec080285bd9099835a59589652fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62c843e5194eec080285bd9099835a59589652fd/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
   }
 }
