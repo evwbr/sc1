@@ -1,4 +1,28 @@
 {
+  "source:0ed433be170fac8bad01c1ea065b98ada2ae5d79": {
+    "url": "https://ocp.news/politica/apos-desistencia-de-eduardo-bertoldi-mdb-busca-novo-nome-para-disputar-a-alesc-em-jaragua-do-sul",
+    "title": "MDB busca novo candidato para Alesc em Jaraguá do Sul após desistência de Bertoldi",
+    "guid": "sc1multi:0ed433be170fac8bad01c1ea065b98ada2ae5d79",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ed433be170fac8bad01c1ea065b98ada2ae5d79/",
+    "usedAt": 1785914044484,
+    "usedAtIso": "2026-08-05T07:14:04.484Z"
+  },
+  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
+    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
+    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
+    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
+    "usedAt": 1785914044484,
+    "usedAtIso": "2026-08-05T07:14:04.484Z"
+  },
+  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
+    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
+    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
+    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
+    "usedAt": 1785914044484,
+    "usedAtIso": "2026-08-05T07:14:04.484Z"
+  },
   "source:e382eeb9f61f8c8482169dd0dfdbecdeebc540bd": {
     "url": "https://ocp.news/seguranca/adolescente-que-atacou-a-propria-mae-segue-apreendido-a-espera-de-decisao-judicial-em-jaragua-do-sul",
     "title": "Adolescente permanece apreendido após atacar mãe em Jaraguá do Sul",
@@ -111,52 +135,28 @@
     "usedAt": 1785896044809,
     "usedAtIso": "2026-08-05T02:14:04.809Z"
   },
-  "source:90d6c3263023509608bd0e64d3a7da947e5b8dca": {
-    "url": "https://ocp.news/informe/centro-educacional-caminho-do-saber-alia-acolhimento-educacao-e-desenvolvimento-infantil-em-jaragua-do-sul",
-    "title": "Centro Educacional Caminho do Saber promove desenvolvimento infantil em Jaraguá do Sul",
-    "guid": "sc1multi:90d6c3263023509608bd0e64d3a7da947e5b8dca",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_90d6c3263023509608bd0e64d3a7da947e5b8dca/",
-    "usedAt": 1785892444606,
-    "usedAtIso": "2026-08-05T01:14:04.606Z"
+  "source:64041df9bc05cc84c7e6115dec152d08815c0c90": {
+    "url": "https://ocp.news/cotidiano/interligacao-da-nova-rede-de-agua-na-sc-108-e-concluida-e-abastecimento-entra-em-fase-de-normalizacao",
+    "title": "Águas de Guaramirim conclui interligação da nova rede na SC-108",
+    "guid": "sc1multi:64041df9bc05cc84c7e6115dec152d08815c0c90",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64041df9bc05cc84c7e6115dec152d08815c0c90/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
   },
-  "source:a1995f40e0f80fdfc5df98a1a41f4925bd32ad15": {
-    "url": "https://tnsul.com/2026/08/04/criciuma-promove-campanha-de-multivacinacao",
-    "title": "Criciúma promove Campanha de Multivacinação para crianças e adolescentes",
-    "guid": "sc1multi:6634a3666daca1a65cc58ecb092cb29dbf12e4bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6634a3666daca1a65cc58ecb092cb29dbf12e4bd/",
-    "usedAt": 1785892444606,
-    "usedAtIso": "2026-08-05T01:14:04.606Z"
+  "source:719cd73ff772b102df78c8fcce81ffe96ef1ab26": {
+    "url": "https://ocp.news/seguranca/bombeiros-abrem-vagas-para-formacao-de-guarda-vidas-para-o-verao-em-santa-catarina",
+    "title": "Corpo de Bombeiros abre vagas para formação de guarda-vidas em Santa Catarina",
+    "guid": "sc1multi:719cd73ff772b102df78c8fcce81ffe96ef1ab26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_719cd73ff772b102df78c8fcce81ffe96ef1ab26/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
   },
-  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
-    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785892444606,
-    "usedAtIso": "2026-08-05T01:14:04.606Z"
-  },
-  "source:0ed433be170fac8bad01c1ea065b98ada2ae5d79": {
-    "url": "https://ocp.news/politica/apos-desistencia-de-eduardo-bertoldi-mdb-busca-novo-nome-para-disputar-a-alesc-em-jaragua-do-sul",
-    "title": "MDB busca novo candidato para Alesc em Jaraguá do Sul após desistência de Bertoldi",
-    "guid": "sc1multi:0ed433be170fac8bad01c1ea065b98ada2ae5d79",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ed433be170fac8bad01c1ea065b98ada2ae5d79/",
-    "usedAt": 1785914044484,
-    "usedAtIso": "2026-08-05T07:14:04.484Z"
-  },
-  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
-    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
-    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
-    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
-    "usedAt": 1785914044484,
-    "usedAtIso": "2026-08-05T07:14:04.484Z"
-  },
-  "source:040300b3ad12ad206dff784e4bb483a83960adc7": {
-    "url": "https://scportais.com.br/2026/08/03/jorginho-mello-e-confirmado-candidato-a-reeleicao-e-oficializa-a-maior-alianca-politica-de-santa-catarina",
-    "title": "Jorginho Mello oficializa maior aliança política para reeleição em Santa Catarina",
-    "guid": "sc1multi:4a0c584ce6f13a2203560bd4e13358fc46507917",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0c584ce6f13a2203560bd4e13358fc46507917/",
-    "usedAt": 1785914044484,
-    "usedAtIso": "2026-08-05T07:14:04.484Z"
+  "source:785f00ce34e7c5db203cbc44dca73383f90ffe49": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-domina-categoria-e-e-campeao-da-supercopa-america-sub-16",
+    "title": "Jaraguá Futsal conquista título da SuperCopa América Sub-16 em Balneário Camboriú",
+    "guid": "sc1multi:785f00ce34e7c5db203cbc44dca73383f90ffe49",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_785f00ce34e7c5db203cbc44dca73383f90ffe49/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
   }
 }
