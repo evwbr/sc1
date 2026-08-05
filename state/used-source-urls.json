@@ -1,4 +1,28 @@
 {
+  "source:64041df9bc05cc84c7e6115dec152d08815c0c90": {
+    "url": "https://ocp.news/cotidiano/interligacao-da-nova-rede-de-agua-na-sc-108-e-concluida-e-abastecimento-entra-em-fase-de-normalizacao",
+    "title": "Águas de Guaramirim conclui interligação da nova rede na SC-108",
+    "guid": "sc1multi:64041df9bc05cc84c7e6115dec152d08815c0c90",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64041df9bc05cc84c7e6115dec152d08815c0c90/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
+  },
+  "source:719cd73ff772b102df78c8fcce81ffe96ef1ab26": {
+    "url": "https://ocp.news/seguranca/bombeiros-abrem-vagas-para-formacao-de-guarda-vidas-para-o-verao-em-santa-catarina",
+    "title": "Corpo de Bombeiros abre vagas para formação de guarda-vidas em Santa Catarina",
+    "guid": "sc1multi:719cd73ff772b102df78c8fcce81ffe96ef1ab26",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_719cd73ff772b102df78c8fcce81ffe96ef1ab26/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
+  },
+  "source:785f00ce34e7c5db203cbc44dca73383f90ffe49": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-domina-categoria-e-e-campeao-da-supercopa-america-sub-16",
+    "title": "Jaraguá Futsal conquista título da SuperCopa América Sub-16 em Balneário Camboriú",
+    "guid": "sc1multi:785f00ce34e7c5db203cbc44dca73383f90ffe49",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_785f00ce34e7c5db203cbc44dca73383f90ffe49/",
+    "usedAt": 1785917644376,
+    "usedAtIso": "2026-08-05T08:14:04.376Z"
+  },
   "source:0ed433be170fac8bad01c1ea065b98ada2ae5d79": {
     "url": "https://ocp.news/politica/apos-desistencia-de-eduardo-bertoldi-mdb-busca-novo-nome-para-disputar-a-alesc-em-jaragua-do-sul",
     "title": "MDB busca novo candidato para Alesc em Jaraguá do Sul após desistência de Bertoldi",
@@ -111,52 +135,36 @@
     "usedAt": 1785899644915,
     "usedAtIso": "2026-08-05T03:14:04.915Z"
   },
-  "source:50ea7722029a1f1e44003edb7468fa407110f344": {
-    "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:1a497b36f5f229a0eaae6f0f04503f51137ea595",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a497b36f5f229a0eaae6f0f04503f51137ea595/",
-    "usedAt": 1785896044809,
-    "usedAtIso": "2026-08-05T02:14:04.809Z"
+  "source:8261bb89a7b6c71e8c9230d50b428616e204f5ea": {
+    "url": "https://ocp.news/economia/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
+    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
+    "guid": "sc1multi:8261bb89a7b6c71e8c9230d50b428616e204f5ea",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8261bb89a7b6c71e8c9230d50b428616e204f5ea/",
+    "usedAt": 1785921244330,
+    "usedAtIso": "2026-08-05T09:14:04.330Z"
   },
-  "source:f5a000080453f48a15edf3c05dab10665a0492e4": {
-    "url": "https://scportais.com.br/2026/08/04/agroponte-espera-impulsionar-ate-r600-milhoes-na-edicao-2026",
-    "title": "AgroPonte 2026 deve movimentar até R$ 600 milhões em Criciúma",
-    "guid": "sc1multi:3dc4464789bc77190eedff3f75d3ebd5219eb4a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dc4464789bc77190eedff3f75d3ebd5219eb4a6/",
-    "usedAt": 1785896044809,
-    "usedAtIso": "2026-08-05T02:14:04.809Z"
+  "source:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7": {
+    "url": "https://ocp.news/seguranca/casamento-vira-dor-de-cabeca-e-justica-condena-empresa-por-falhas-na-decoracao-em-sc",
+    "title": "Empresa é condenada por falhas na decoração de casamento em Balneário Camboriú",
+    "guid": "sc1multi:cce818681f4dac4cc60bc78ae9c56c9805a5d8e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cce818681f4dac4cc60bc78ae9c56c9805a5d8e7/",
+    "usedAt": 1785921244330,
+    "usedAtIso": "2026-08-05T09:14:04.330Z"
   },
-  "source:fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2": {
-    "url": "https://ocp.news/seguranca/prf-recupera-carro-furtado-e-prende-suspeito-na-br-101-em-joinville",
-    "title": "PRF prende homem com carro furtado na BR-101 em Joinville",
-    "guid": "sc1multi:fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2/",
-    "usedAt": 1785896044809,
-    "usedAtIso": "2026-08-05T02:14:04.809Z"
+  "source:c3dfe09a6f0edcc74dff63eb2a773195771e284f": {
+    "url": "https://ocp.news/seguranca/jaragua-do-sul-mulher-sofre-mal-subito-e-capota-veiculo-no-bairro-jaragua-esquerdo",
+    "title": "Mulher sofre mal súbito e capota carro em Jaraguá do Sul",
+    "guid": "sc1multi:c3dfe09a6f0edcc74dff63eb2a773195771e284f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3dfe09a6f0edcc74dff63eb2a773195771e284f/",
+    "usedAt": 1785921244330,
+    "usedAtIso": "2026-08-05T09:14:04.330Z"
   },
-  "source:64041df9bc05cc84c7e6115dec152d08815c0c90": {
-    "url": "https://ocp.news/cotidiano/interligacao-da-nova-rede-de-agua-na-sc-108-e-concluida-e-abastecimento-entra-em-fase-de-normalizacao",
-    "title": "Águas de Guaramirim conclui interligação da nova rede na SC-108",
-    "guid": "sc1multi:64041df9bc05cc84c7e6115dec152d08815c0c90",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_64041df9bc05cc84c7e6115dec152d08815c0c90/",
-    "usedAt": 1785917644376,
-    "usedAtIso": "2026-08-05T08:14:04.376Z"
-  },
-  "source:719cd73ff772b102df78c8fcce81ffe96ef1ab26": {
-    "url": "https://ocp.news/seguranca/bombeiros-abrem-vagas-para-formacao-de-guarda-vidas-para-o-verao-em-santa-catarina",
-    "title": "Corpo de Bombeiros abre vagas para formação de guarda-vidas em Santa Catarina",
-    "guid": "sc1multi:719cd73ff772b102df78c8fcce81ffe96ef1ab26",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_719cd73ff772b102df78c8fcce81ffe96ef1ab26/",
-    "usedAt": 1785917644376,
-    "usedAtIso": "2026-08-05T08:14:04.376Z"
-  },
-  "source:785f00ce34e7c5db203cbc44dca73383f90ffe49": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-domina-categoria-e-e-campeao-da-supercopa-america-sub-16",
-    "title": "Jaraguá Futsal conquista título da SuperCopa América Sub-16 em Balneário Camboriú",
-    "guid": "sc1multi:785f00ce34e7c5db203cbc44dca73383f90ffe49",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_785f00ce34e7c5db203cbc44dca73383f90ffe49/",
-    "usedAt": 1785917644376,
-    "usedAtIso": "2026-08-05T08:14:04.376Z"
+  "source:b727c97b6f0ee3392a159185eac50c8b0bb0c9ea": {
+    "url": "https://ocp.news/politica/camara-de-schroeder-entrega-duas-mocoes-de-aplausos-em-reconhecimento-a-cultura-e-a-educacao",
+    "title": "Câmara de Schroeder homenageia cultura e educação com Moções de Aplausos",
+    "guid": "sc1multi:b727c97b6f0ee3392a159185eac50c8b0bb0c9ea",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b727c97b6f0ee3392a159185eac50c8b0bb0c9ea/",
+    "usedAt": 1785921244330,
+    "usedAtIso": "2026-08-05T09:14:04.330Z"
   }
 }
