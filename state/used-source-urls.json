@@ -1,4 +1,60 @@
 {
+  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
+    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
+    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
+    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:dc7d932a5510088e6b47c07a84745a9edc836682": {
+    "url": "https://rbatv.com.br/noticias/homem-cai-de-telhado-de-seis-metros-e-e-levado-ao-hospital-em-agrolandia",
+    "title": "Homem cai de telhado em Agrolândia e é levado ao hospital",
+    "guid": "sc1multi:4a0750d921b424477500790596aa8bbc50a89761",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0750d921b424477500790596aa8bbc50a89761/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:5ddcfa97c890da49ec75cf9e454f048658016dd0": {
+    "url": "https://rbatv.com.br/noticias/operacao-rede-interrompida-apura-possivel-articulacao-de-acoes-violentas-contra-a-ordem-publica-e-as-instituicoes-democraticas",
+    "title": "Operação em Blumenau e Corupá investiga ações violentas contra instituições democráticas",
+    "guid": "sc1multi:b3e686f995b0c44dbe760fbce7668693d022764e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3e686f995b0c44dbe760fbce7668693d022764e/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:7edf6fd7c45511b168d141b6bd179b459f4dd018": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-espancar-enforcar-e-ameacar-de-morte-a-companheira-em-ascurra",
+    "title": "Homem é preso por agressão e ameaça contra companheira em Ascurra",
+    "guid": "sc1multi:1fb6fe132437371a6344374250816fa95ac60f46",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1fb6fe132437371a6344374250816fa95ac60f46/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
+    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
+    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:0097daf850afc7027d03b30ea6be48718b5c9d8d": {
+    "url": "https://tnsul.com/2026/08/05/paciente-e-agredido-com-faca-e-ameacado-de-morte-em-posto-de-saude-em-sc",
+    "title": "Homem é agredido com faca em posto de saúde em Mafra, SC",
+    "guid": "sc1multi:f89ef806c4188b861aaf6de737be1ead92a4b3e3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f89ef806c4188b861aaf6de737be1ead92a4b3e3/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
+  "source:7a270676ec5f355c8a350a51b01eef8a08381e9f": {
+    "url": "https://tudoaquisc.com.br/seguranca/vizinho-stalker-palhoca-0826",
+    "title": "Jovem de Palhoça denuncia vizinho por perseguição no condomínio",
+    "guid": "sc1multi:62c843e5194eec080285bd9099835a59589652fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62c843e5194eec080285bd9099835a59589652fd/",
+    "usedAt": 1785946444312,
+    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  },
   "source:50ea7722029a1f1e44003edb7468fa407110f344": {
     "url": "https://correiosc.com.br/frente-fria-provoca-chuva-e-aumenta-o-risco-de-temporais-em-santa-catarina",
     "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
@@ -180,8 +236,8 @@
     "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
     "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
-    "usedAt": 1785932044827,
-    "usedAtIso": "2026-08-05T12:14:04.827Z"
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   },
   "source:f10437d45c40887510f1457b47c5f0c06b44e9ab": {
     "url": "https://ocp.news/seguranca/briga-entre-duas-mulheres-leva-pm-a-arrombar-porta-no-bairro-santa-luzia",
@@ -212,8 +268,8 @@
     "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
     "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
-    "usedAt": 1785932044827,
-    "usedAtIso": "2026-08-05T12:14:04.827Z"
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   },
   "source:002923c5fe764e963ada239b0ce6d0ad0de333c2": {
     "url": "https://tudoaquisc.com.br/esporte/figueirense-torcida-serie-c",
@@ -223,116 +279,36 @@
     "usedAt": 1785932044827,
     "usedAtIso": "2026-08-05T12:14:04.827Z"
   },
-  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
-    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
-    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
-    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  "source:c8d02fb87ffff3ff0b9c58d0116b7e5fd6232aaa": {
+    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-apos-colisao-com-carro-no-centro-de-presidente-getulio",
+    "title": "Motociclista fica ferido após colisão com carro em Presidente Getúlio",
+    "guid": "sc1multi:ed7c4489e01aa9a189ed69bb3d0b5be31ff8d5d7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed7c4489e01aa9a189ed69bb3d0b5be31ff8d5d7/",
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   },
-  "source:f318efbacea6859c28fd9eaa20590c62924663a3": {
-    "url": "https://tnsul.com/2026/08/05/motorista-sobrevive-apos-cabine-ser-esmagada-grave-em-colisao-na-br-101",
-    "title": "Motorista fica gravemente ferido após colisão entre caminhões na BR-101 em Garuva",
-    "guid": "sc1multi:f538fd7aa1eff5ec0b9fb4e691da332d6bf0f33d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f538fd7aa1eff5ec0b9fb4e691da332d6bf0f33d/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
+  "source:b64363828034538f24cece3eb25884c21beea972": {
+    "url": "https://tnsul.com/2026/08/05/defesa-civil-emite-alerta-para-temporais-no-sul-de-sc-2",
+    "title": "Defesa Civil alerta para temporais isolados no Sul de Santa Catarina",
+    "guid": "sc1multi:a50f8b90515817c3a074cd3863f0dedf91edc06b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a50f8b90515817c3a074cd3863f0dedf91edc06b/",
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   },
-  "source:dc7d932a5510088e6b47c07a84745a9edc836682": {
-    "url": "https://rbatv.com.br/noticias/homem-cai-de-telhado-de-seis-metros-e-e-levado-ao-hospital-em-agrolandia",
-    "title": "Homem cai de telhado em Agrolândia e é levado ao hospital",
-    "guid": "sc1multi:4a0750d921b424477500790596aa8bbc50a89761",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a0750d921b424477500790596aa8bbc50a89761/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
+    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
+    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
+    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   },
-  "source:5ddcfa97c890da49ec75cf9e454f048658016dd0": {
-    "url": "https://rbatv.com.br/noticias/operacao-rede-interrompida-apura-possivel-articulacao-de-acoes-violentas-contra-a-ordem-publica-e-as-instituicoes-democraticas",
-    "title": "Operação em Blumenau e Corupá investiga ações violentas contra instituições democráticas",
-    "guid": "sc1multi:b3e686f995b0c44dbe760fbce7668693d022764e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3e686f995b0c44dbe760fbce7668693d022764e/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:70d6332a0682975f5bc553ad571ff6f407d78395": {
-    "url": "https://tnsul.com/2026/08/05/casa-e-atingida-por-incendio-apos-vazamento-de-gas-em-icara",
-    "title": "Incêndio atinge casa em Içara após vazamento de gás",
-    "guid": "sc1multi:9fa6c6c57ab4f5bd53d6985806aef5fc47762d8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9fa6c6c57ab4f5bd53d6985806aef5fc47762d8e/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
-  },
-  "source:7edf6fd7c45511b168d141b6bd179b459f4dd018": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-espancar-enforcar-e-ameacar-de-morte-a-companheira-em-ascurra",
-    "title": "Homem é preso por agressão e ameaça contra companheira em Ascurra",
-    "guid": "sc1multi:1fb6fe132437371a6344374250816fa95ac60f46",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1fb6fe132437371a6344374250816fa95ac60f46/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:a1995f40e0f80fdfc5df98a1a41f4925bd32ad15": {
-    "url": "https://tnsul.com/2026/08/04/criciuma-promove-campanha-de-multivacinacao",
-    "title": "Criciúma promove Campanha de Multivacinação para crianças e adolescentes",
-    "guid": "sc1multi:6634a3666daca1a65cc58ecb092cb29dbf12e4bd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6634a3666daca1a65cc58ecb092cb29dbf12e4bd/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
-  },
-  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
-    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2": {
-    "url": "https://ocp.news/seguranca/prf-recupera-carro-furtado-e-prende-suspeito-na-br-101-em-joinville",
-    "title": "PRF prende homem com carro furtado na BR-101 em Joinville",
-    "guid": "sc1multi:fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fbaeaf9ba4aa9067e4b3436744f45076dd7e56f2/",
-    "usedAt": 1785928444285,
-    "usedAtIso": "2026-08-05T11:14:04.285Z"
-  },
-  "source:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2": {
-    "url": "https://ocp.news/seguranca/br-280-tera-pare-e-siga-para-transporte-de-vigas-de-55-toneladas-em-guaramirim",
-    "title": "BR-280 terá interdição temporária para transporte de vigas em Araquari",
-    "guid": "sc1multi:5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ac600fef352d0f9f7aae7faec3c8ef8a6aa40f2/",
-    "usedAt": 1785924844566,
-    "usedAtIso": "2026-08-05T10:14:04.566Z"
-  },
-  "source:e7186a0e89074a5ba1bda802c56b3310fefff88c": {
-    "url": "https://ocp.news/cotidiano/inmet-alerta-para-possivel-ciclone-bomba-no-sul-do-brasil-nos-proximos-dias",
-    "title": "Inmet alerta para ciclone bomba com impacto em Santa Catarina",
-    "guid": "sc1multi:e7186a0e89074a5ba1bda802c56b3310fefff88c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7186a0e89074a5ba1bda802c56b3310fefff88c/",
-    "usedAt": 1785924844566,
-    "usedAtIso": "2026-08-05T10:14:04.566Z"
-  },
-  "source:833c76d7676682406cf2b7e4699dc124994b0b50": {
-    "url": "https://tnsul.com/2026/08/04/operacao-combate-estrutura-financeira-de-faccao-criminosa-em-sc",
-    "title": "Operação Desmos combate facção criminosa em várias cidades de Santa Catarina",
-    "guid": "sc1multi:c6e99c8f1862a510b95c6f369c29d09f1a7aaebe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6e99c8f1862a510b95c6f369c29d09f1a7aaebe/",
-    "usedAt": 1785924844566,
-    "usedAtIso": "2026-08-05T10:14:04.566Z"
-  },
-  "source:0097daf850afc7027d03b30ea6be48718b5c9d8d": {
-    "url": "https://tnsul.com/2026/08/05/paciente-e-agredido-com-faca-e-ameacado-de-morte-em-posto-de-saude-em-sc",
-    "title": "Homem é agredido com faca em posto de saúde em Mafra, SC",
-    "guid": "sc1multi:f89ef806c4188b861aaf6de737be1ead92a4b3e3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f89ef806c4188b861aaf6de737be1ead92a4b3e3/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
-  },
-  "source:7a270676ec5f355c8a350a51b01eef8a08381e9f": {
-    "url": "https://tudoaquisc.com.br/seguranca/vizinho-stalker-palhoca-0826",
-    "title": "Jovem de Palhoça denuncia vizinho por perseguição no condomínio",
-    "guid": "sc1multi:62c843e5194eec080285bd9099835a59589652fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62c843e5194eec080285bd9099835a59589652fd/",
-    "usedAt": 1785946444312,
-    "usedAtIso": "2026-08-05T16:14:04.312Z"
+  "source:e2b3877b075b244b1b5ae8fe0ecbbe1612b501d6": {
+    "url": "https://rbatv.com.br/noticias/policia-militar-descobre-desmanche-clandestino-e-recupera-veiculos-furtados-em-gaspar",
+    "title": "Polícia Militar recupera veículos furtados em desmanche clandestino em Gaspar",
+    "guid": "sc1multi:d329eb1463674efa2c44ad98407656b6945a45b1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d329eb1463674efa2c44ad98407656b6945a45b1/",
+    "usedAt": 1785950044885,
+    "usedAtIso": "2026-08-05T17:14:04.885Z"
   }
 }
