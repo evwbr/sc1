@@ -1,4 +1,28 @@
 {
+  "source:bd34e6da705f918c2858eea2b77f96f1c256901f": {
+    "url": "https://ocp.news/seguranca/justica-reconhece-adocao-de-jovem-criada-por-casal-desde-a-infancia-em-jaragua-do-sul",
+    "title": "Justiça reconhece adoção de jovem criada por casal em Jaraguá do Sul",
+    "guid": "sc1multi:bd34e6da705f918c2858eea2b77f96f1c256901f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd34e6da705f918c2858eea2b77f96f1c256901f/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
+  },
+  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
+    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
+    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
+    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
+  },
+  "source:d0a874739405a815cbf10dc7f42a16019dd1c7e8": {
+    "url": "https://tudoaquisc.com.br/esporte/chapecoense-copa-do-brasil",
+    "title": "Chapecoense enfrenta Cruzeiro pelas quartas de final da Copa do Brasil",
+    "guid": "sc1multi:541b27759c967af2564ae767612cc31f51328c05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_541b27759c967af2564ae767612cc31f51328c05/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
+  },
   "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
     "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
     "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
@@ -103,60 +127,28 @@
     "usedAt": 1785982458529,
     "usedAtIso": "2026-08-06T02:14:18.529Z"
   },
-  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
-    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
-    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
-    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1785978844182,
-    "usedAtIso": "2026-08-06T01:14:04.182Z"
+  "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
+    "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
+    "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
+    "guid": "sc1multi:31f6ddac8f1bd382575f76c65cc6dbb52de917d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f6ddac8f1bd382575f76c65cc6dbb52de917d1/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
   },
-  "source:afb170f3cd074132c1c6f2a636c4322e60fc972e": {
-    "url": "https://ocp.news/esporte/chapecoense-lidera-ranking-das-maiores-torcidas-de-sc-aponta-pesquisa",
-    "title": "Chapecoense lidera ranking das maiores torcidas em Santa Catarina",
-    "guid": "sc1multi:afb170f3cd074132c1c6f2a636c4322e60fc972e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_afb170f3cd074132c1c6f2a636c4322e60fc972e/",
-    "usedAt": 1785978844182,
-    "usedAtIso": "2026-08-06T01:14:04.182Z"
+  "source:bbe70f119b12416faa30a30c008978703050f634": {
+    "url": "https://ocp.news/cotidiano/festa-das-flores-de-joinville-tem-100-dos-espacos-comerciais-vendidos-e-reforca-seu-potencial-de-negocios",
+    "title": "Festa das Flores de Joinville tem 100% dos espaços comerciais vendidos",
+    "guid": "sc1multi:bbe70f119b12416faa30a30c008978703050f634",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbe70f119b12416faa30a30c008978703050f634/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
   },
-  "source:2962c9c6c6147e8cf6f9d6df623e9d5a68406d54": {
-    "url": "https://ocp.news/cotidiano/guaramirim-alerta-tutores-sobre-mutirao-de-castracao",
-    "title": "Guaramirim realiza mutirão de castração para animais no bairro Vila Amizade",
-    "guid": "sc1multi:2962c9c6c6147e8cf6f9d6df623e9d5a68406d54",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2962c9c6c6147e8cf6f9d6df623e9d5a68406d54/",
-    "usedAt": 1785978844182,
-    "usedAtIso": "2026-08-06T01:14:04.182Z"
-  },
-  "source:bf481bb60221b4fbc0d2b076b11babff53bbd006": {
-    "url": "https://ocp.news/politica/vereador-pede-instalacao-de-tela-no-campo-de-futebol-de-areia-no-bairro-caixa-dagua",
-    "title": "Vereador de Guaramirim solicita tela de proteção em campo de futebol de areia",
-    "guid": "sc1multi:bf481bb60221b4fbc0d2b076b11babff53bbd006",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bf481bb60221b4fbc0d2b076b11babff53bbd006/",
-    "usedAt": 1785978844182,
-    "usedAtIso": "2026-08-06T01:14:04.182Z"
-  },
-  "source:bd34e6da705f918c2858eea2b77f96f1c256901f": {
-    "url": "https://ocp.news/seguranca/justica-reconhece-adocao-de-jovem-criada-por-casal-desde-a-infancia-em-jaragua-do-sul",
-    "title": "Justiça reconhece adoção de jovem criada por casal em Jaraguá do Sul",
-    "guid": "sc1multi:bd34e6da705f918c2858eea2b77f96f1c256901f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd34e6da705f918c2858eea2b77f96f1c256901f/",
-    "usedAt": 1786000444148,
-    "usedAtIso": "2026-08-06T07:14:04.148Z"
-  },
-  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
-    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
-    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
-    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786000444148,
-    "usedAtIso": "2026-08-06T07:14:04.148Z"
-  },
-  "source:d0a874739405a815cbf10dc7f42a16019dd1c7e8": {
-    "url": "https://tudoaquisc.com.br/esporte/chapecoense-copa-do-brasil",
-    "title": "Chapecoense enfrenta Cruzeiro pelas quartas de final da Copa do Brasil",
-    "guid": "sc1multi:541b27759c967af2564ae767612cc31f51328c05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_541b27759c967af2564ae767612cc31f51328c05/",
-    "usedAt": 1786000444148,
-    "usedAtIso": "2026-08-06T07:14:04.148Z"
+  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
+    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
+    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
+    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
   }
 }
