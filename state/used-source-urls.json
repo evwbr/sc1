@@ -1,4 +1,52 @@
 {
+  "source:4d2834c799d1a146d867da8f0a40ace2e71b962e": {
+    "url": "https://ocp.news/cotidiano/frente-fria-provoca-temporais-entre-quinta-06-e-sexta-feira-07",
+    "title": "Frente fria provoca temporais no Oeste de Santa Catarina entre quinta e sexta",
+    "guid": "sc1multi:4d2834c799d1a146d867da8f0a40ace2e71b962e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4d2834c799d1a146d867da8f0a40ace2e71b962e/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:049c6173b535f7c37bf3eb1b2ab898179aa872dd": {
+    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-e-regiao-nesta-quinta-feira",
+    "title": "Previsão do tempo para Florianópolis e região nesta quinta-feira",
+    "guid": "sc1multi:049c6173b535f7c37bf3eb1b2ab898179aa872dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_049c6173b535f7c37bf3eb1b2ab898179aa872dd/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:a5517b9f7998161a52e11bb8eddacf54a48fb0e8": {
+    "url": "https://ocp.news/cotidiano/sc-melhora-em-todos-os-indicadores-do-ideb-e-amplia-participacao-das-escolas",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:a5517b9f7998161a52e11bb8eddacf54a48fb0e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5517b9f7998161a52e11bb8eddacf54a48fb0e8/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:1a6280b85e53f5196008f3eecab2c52a44d19cd2": {
+    "url": "https://ocp.news/politica/eleicoes-2026-mulheres-com-medidas-protetivas-ativas-em-sc-poderao-trocar-o-local-de-votacao",
+    "title": "Mulheres com medidas protetivas em SC podem mudar local de votação em 2026",
+    "guid": "sc1multi:1a6280b85e53f5196008f3eecab2c52a44d19cd2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a6280b85e53f5196008f3eecab2c52a44d19cd2/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:e8d1800792a9dc50799ba121a08e32c0298f3668": {
+    "url": "https://ocp.news/seguranca/colisao-em-estacionamento-de-supermercado-deixa-motociclista-ferida-em-jaragua-do-sul",
+    "title": "Motociclista fica ferida em colisão no estacionamento de Jaraguá do Sul",
+    "guid": "sc1multi:e8d1800792a9dc50799ba121a08e32c0298f3668",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e8d1800792a9dc50799ba121a08e32c0298f3668/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
   "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
     "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
     "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
@@ -103,60 +151,68 @@
     "usedAt": 1785993244383,
     "usedAtIso": "2026-08-06T05:14:04.383Z"
   },
-  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
-    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
-    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
-    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
-    "usedAt": 1785989644997,
-    "usedAtIso": "2026-08-06T04:14:04.997Z"
+  "source:74fc32a5944c1e4316dc73be85460c5d39055f8d": {
+    "url": "https://tnsul.com/2026/08/06/tres-pessoas-ficam-feridas-apos-colisao-entre-carros-em-sangao",
+    "title": "Três ficam feridos em colisão na Rodovia dos Imigrantes, em Sangão",
+    "guid": "sc1multi:88cfe482aa1dc341d9f2a31782fe329e308053ce",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_88cfe482aa1dc341d9f2a31782fe329e308053ce/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:4d2834c799d1a146d867da8f0a40ace2e71b962e": {
-    "url": "https://ocp.news/cotidiano/frente-fria-provoca-temporais-entre-quinta-06-e-sexta-feira-07",
-    "title": "Frente fria provoca temporais no Oeste de Santa Catarina entre quinta e sexta",
-    "guid": "sc1multi:4d2834c799d1a146d867da8f0a40ace2e71b962e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4d2834c799d1a146d867da8f0a40ace2e71b962e/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:a81edb2681a4fead73c7c7ca5dd656e71621ca36": {
+    "url": "https://rbatv.com.br/noticias/colisao-entre-carro-e-moto-deixa-homem-ferido-na-br-470",
+    "title": "Motociclista fica ferido após colisão na BR-470 em Ibirama",
+    "guid": "sc1multi:3f1050b6634fac86bc71fc843f7346771d579578",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f1050b6634fac86bc71fc843f7346771d579578/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:049c6173b535f7c37bf3eb1b2ab898179aa872dd": {
-    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-e-regiao-nesta-quinta-feira",
-    "title": "Previsão do tempo para Florianópolis e região nesta quinta-feira",
-    "guid": "sc1multi:049c6173b535f7c37bf3eb1b2ab898179aa872dd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_049c6173b535f7c37bf3eb1b2ab898179aa872dd/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:5248149cf79fc83f24d3e1401eac48f210f4a10e": {
+    "url": "https://rbatv.com.br/noticias/policia-militar-cumpre-dois-mandados-de-prisao-no-mesmo-dia-em-timbo-2",
+    "title": "Polícia Militar prende dois homens em Timbó nesta quarta-feira",
+    "guid": "sc1multi:28c83371dd1404e9a71c6942eebe39571ef3200a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_28c83371dd1404e9a71c6942eebe39571ef3200a/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:a5517b9f7998161a52e11bb8eddacf54a48fb0e8": {
-    "url": "https://ocp.news/cotidiano/sc-melhora-em-todos-os-indicadores-do-ideb-e-amplia-participacao-das-escolas",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:a5517b9f7998161a52e11bb8eddacf54a48fb0e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5517b9f7998161a52e11bb8eddacf54a48fb0e8/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:285cc5f7ea14991bd0462b4be4174150cffbea1d": {
+    "url": "https://tnsul.com/2026/08/06/colisao-entre-dois-carros-deixa-homem-ferido-e-veiculo-capotado-em-criciuma",
+    "title": "Colisão entre carros deixa homem ferido e veículo capotado em Criciúma",
+    "guid": "sc1multi:29fe934e95235d82b8559de15031b4365036a6b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_29fe934e95235d82b8559de15031b4365036a6b7/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:1a6280b85e53f5196008f3eecab2c52a44d19cd2": {
-    "url": "https://ocp.news/politica/eleicoes-2026-mulheres-com-medidas-protetivas-ativas-em-sc-poderao-trocar-o-local-de-votacao",
-    "title": "Mulheres com medidas protetivas em SC podem mudar local de votação em 2026",
-    "guid": "sc1multi:1a6280b85e53f5196008f3eecab2c52a44d19cd2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a6280b85e53f5196008f3eecab2c52a44d19cd2/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:a6e638e7365b76c5a27d335d65d448a9dbe40c3c": {
+    "url": "https://rbatv.com.br/noticias/homem-e-levado-a-delegacia-apos-admitir-troca-de-arma-por-drogas-em-ituporanga",
+    "title": "Homem é levado à delegacia após admitir troca de arma por drogas em Ituporanga",
+    "guid": "sc1multi:a6fac400bd540c99406eeafd26b7bf8cc5ea8177",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6fac400bd540c99406eeafd26b7bf8cc5ea8177/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:25a4528811d402c0b1e08aa7ceaf940cea293db9": {
+    "url": "https://rbatv.com.br/noticias/colisao-entre-motocicletas-deixa-duas-pessoas-feridas-na-sc-350-em-ituporanga",
+    "title": "Colisão entre motocicletas fere duas pessoas na SC-350 em Ituporanga",
+    "guid": "sc1multi:0b2e0c77719a4c55d535afefc67d876b5428d2f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0b2e0c77719a4c55d535afefc67d876b5428d2f9/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   },
-  "source:e8d1800792a9dc50799ba121a08e32c0298f3668": {
-    "url": "https://ocp.news/seguranca/colisao-em-estacionamento-de-supermercado-deixa-motociclista-ferida-em-jaragua-do-sul",
-    "title": "Motociclista fica ferida em colisão no estacionamento de Jaraguá do Sul",
-    "guid": "sc1multi:e8d1800792a9dc50799ba121a08e32c0298f3668",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e8d1800792a9dc50799ba121a08e32c0298f3668/",
-    "usedAt": 1786011244561,
-    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
+    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
+    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
+    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
+  },
+  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
+    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
+    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
+    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
+    "usedAt": 1786014844271,
+    "usedAtIso": "2026-08-06T11:14:04.271Z"
   }
 }
