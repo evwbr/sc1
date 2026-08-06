@@ -1,4 +1,28 @@
 {
+  "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
+    "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
+    "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
+    "guid": "sc1multi:31f6ddac8f1bd382575f76c65cc6dbb52de917d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f6ddac8f1bd382575f76c65cc6dbb52de917d1/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
+  },
+  "source:bbe70f119b12416faa30a30c008978703050f634": {
+    "url": "https://ocp.news/cotidiano/festa-das-flores-de-joinville-tem-100-dos-espacos-comerciais-vendidos-e-reforca-seu-potencial-de-negocios",
+    "title": "Festa das Flores de Joinville tem 100% dos espaços comerciais vendidos",
+    "guid": "sc1multi:bbe70f119b12416faa30a30c008978703050f634",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbe70f119b12416faa30a30c008978703050f634/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
+  },
+  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
+    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
+    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
+    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
+    "usedAt": 1786004044837,
+    "usedAtIso": "2026-08-06T08:14:04.837Z"
+  },
   "source:bd34e6da705f918c2858eea2b77f96f1c256901f": {
     "url": "https://ocp.news/seguranca/justica-reconhece-adocao-de-jovem-criada-por-casal-desde-a-infancia-em-jaragua-do-sul",
     "title": "Justiça reconhece adoção de jovem criada por casal em Jaraguá do Sul",
@@ -63,92 +87,28 @@
     "usedAt": 1785989644997,
     "usedAtIso": "2026-08-06T04:14:04.997Z"
   },
-  "source:1ea5623af943c0d9474daac7d6544fbd0639ade5": {
-    "url": "https://ocp.news/cotidiano/hospital-jaragua-implanta-tecnologia-inedita-em-santa-catarina-para-monitoramento-cerebral-de-recem-nascidos",
-    "title": "Hospital Jaraguá implanta monitoramento cerebral inovador para recém-nascidos em SC",
-    "guid": "sc1multi:1ea5623af943c0d9474daac7d6544fbd0639ade5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1ea5623af943c0d9474daac7d6544fbd0639ade5/",
-    "usedAt": 1785986044419,
-    "usedAtIso": "2026-08-06T03:14:04.419Z"
+  "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
+    "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
+    "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
+    "guid": "sc1multi:079da1c51da10a15e70c67b3a194752b73aff3cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_079da1c51da10a15e70c67b3a194752b73aff3cf/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
   },
-  "source:784d080c98b4debc729b9aa0c5d2c9eeeabf7d53": {
-    "url": "https://scportais.com.br/2026/08/04/frente-fria-traz-chuva-e-risco-de-temporais-isolados-para-sc-nesta-semana",
-    "title": "Frente fria traz temporais e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:98fb92c6ee430ca332d85d8324d0f5008d77341f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98fb92c6ee430ca332d85d8324d0f5008d77341f/",
-    "usedAt": 1785986044419,
-    "usedAtIso": "2026-08-06T03:14:04.419Z"
+  "source:3670fff14cad48e321d7453b79f963fd90bee27a": {
+    "url": "https://ocp.news/cotidiano/caminhoneiro-de-santa-catarina-esta-ha-20-dias-preso-na-argentina-apos-nevasca-historica-nos-andes",
+    "title": "Caminhoneiro de Sombrio está preso há 20 dias na Argentina por nevasca",
+    "guid": "sc1multi:3670fff14cad48e321d7453b79f963fd90bee27a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3670fff14cad48e321d7453b79f963fd90bee27a/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
   },
-  "source:67f26b9becf472f0d3f4a3b2124191bb985db5e9": {
-    "url": "https://scportais.com.br/2026/08/04/pelo-estado-04-08-pl-e-psd-oficializam-seus-candidatos-ao-governo-de-santa-catarina",
-    "title": "PSD e PL oficializam candidatos ao Governo de Santa Catarina em convenções",
-    "guid": "sc1multi:cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd8c5748e9aa637b6e3fac57ccaf68d9e2e2527f/",
-    "usedAt": 1785986044419,
-    "usedAtIso": "2026-08-06T03:14:04.419Z"
-  },
-  "source:15b02be03195ed54dac2a675f7b3924fb6174c4c": {
-    "url": "https://rbatv.com.br/noticias/colisao-envolvendo-quatro-caminhoes-deixa-motorista-ferido-na-sc-350-em-rio-do-sul",
-    "title": "Colisão entre quatro caminhões fere motorista na SC-350 em Rio do Sul",
-    "guid": "sc1multi:0b31a158e0b63bc111d1ece8fef58b9f4c5f120d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0b31a158e0b63bc111d1ece8fef58b9f4c5f120d/",
-    "usedAt": 1785982458529,
-    "usedAtIso": "2026-08-06T02:14:18.529Z"
-  },
-  "source:e6acde7ee55445030f8bfb194e06f4c690d610ef": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-confessar-incendio-criminoso-em-residencia-em-indaial",
-    "title": "Homem é preso por incêndio criminoso em residência de Indaial",
-    "guid": "sc1multi:86e12fe7fad9051520d8346b155fed27a79f4daa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_86e12fe7fad9051520d8346b155fed27a79f4daa/",
-    "usedAt": 1785982458529,
-    "usedAtIso": "2026-08-06T02:14:18.529Z"
-  },
-  "source:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0": {
-    "url": "https://ocp.news/esporte/jogos-escolares-14-a-16-anos-reune-mais-de-13-mil-estudantes-em-jaragua-do-sul",
-    "title": "Jogos Escolares reúnem mais de 1,3 mil estudantes em Jaraguá do Sul",
-    "guid": "sc1multi:56d7502dfd5fd4511d97b028d080d8ba4b54ddc0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56d7502dfd5fd4511d97b028d080d8ba4b54ddc0/",
-    "usedAt": 1785982458529,
-    "usedAtIso": "2026-08-06T02:14:18.529Z"
-  },
-  "source:134991161c78459cd057a49bf7d6c32d3a2318af": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/ex-vice-prefeito-incendio",
-    "title": "Ex-vice-prefeito condenado por planejar incêndio em Santa Catarina",
-    "guid": "sc1multi:11d66f4b145c455494cb30aa6cf9e56cec2e507c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11d66f4b145c455494cb30aa6cf9e56cec2e507c/",
-    "usedAt": 1785982458529,
-    "usedAtIso": "2026-08-06T02:14:18.529Z"
-  },
-  "source:f5a000080453f48a15edf3c05dab10665a0492e4": {
-    "url": "https://scportais.com.br/2026/08/04/agroponte-espera-impulsionar-ate-r600-milhoes-na-edicao-2026",
-    "title": "AgroPonte 2026 deve movimentar até R$ 600 milhões em Criciúma",
-    "guid": "sc1multi:3dc4464789bc77190eedff3f75d3ebd5219eb4a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dc4464789bc77190eedff3f75d3ebd5219eb4a6/",
-    "usedAt": 1785982458529,
-    "usedAtIso": "2026-08-06T02:14:18.529Z"
-  },
-  "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
-    "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
-    "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
-    "guid": "sc1multi:31f6ddac8f1bd382575f76c65cc6dbb52de917d1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f6ddac8f1bd382575f76c65cc6dbb52de917d1/",
-    "usedAt": 1786004044837,
-    "usedAtIso": "2026-08-06T08:14:04.837Z"
-  },
-  "source:bbe70f119b12416faa30a30c008978703050f634": {
-    "url": "https://ocp.news/cotidiano/festa-das-flores-de-joinville-tem-100-dos-espacos-comerciais-vendidos-e-reforca-seu-potencial-de-negocios",
-    "title": "Festa das Flores de Joinville tem 100% dos espaços comerciais vendidos",
-    "guid": "sc1multi:bbe70f119b12416faa30a30c008978703050f634",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbe70f119b12416faa30a30c008978703050f634/",
-    "usedAt": 1786004044837,
-    "usedAtIso": "2026-08-06T08:14:04.837Z"
-  },
-  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
-    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
-    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
-    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
-    "usedAt": 1786004044837,
-    "usedAtIso": "2026-08-06T08:14:04.837Z"
+  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
+    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
+    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
+    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
   }
 }
