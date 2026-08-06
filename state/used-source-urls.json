@@ -1,4 +1,60 @@
 {
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:4af37582e04c61e8e52679435609a6834761edb3": {
+    "url": "https://tnsul.com/2026/08/06/imovel-vendido-antes-da-morte-da-proprietaria-sera-transferido-ao-comprador",
+    "title": "TJSC mantém transferência de imóvel vendido em Içara antes da morte da proprietária",
+    "guid": "sc1multi:835581689f7adb9dd0e05950f9d3a8a157f5d157",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_835581689f7adb9dd0e05950f9d3a8a157f5d157/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:7565f1ae2ba28a093e631ee2b8555517af0b7364": {
+    "url": "https://tnsul.com/2026/08/06/mutirao-de-limpeza-acontecera-neste-sabado-na-regiao-da-quarta-linha",
+    "title": "Mutirão de Limpeza mobiliza moradores na região da Quarta Linha em Criciúma",
+    "guid": "sc1multi:251b9e05d1d617b1ca0037f672fbd6a952d58e05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_251b9e05d1d617b1ca0037f672fbd6a952d58e05/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:fd4d4e907c50bde1c0e9925887cfe6830f7de020": {
+    "url": "https://ocp.news/seguranca/mpsc-cobra-reparacao-de-mais-de-r-4-milhoes-por-danos-ambientais-apos-acidente-na-serra-dona-francisca",
+    "title": "MPSC exige reparação de R$ 4 milhões por acidente ambiental na Serra Dona Francisca",
+    "guid": "sc1multi:fd4d4e907c50bde1c0e9925887cfe6830f7de020",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd4d4e907c50bde1c0e9925887cfe6830f7de020/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
+    "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
+    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de ventos fortes",
+    "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
+    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
+    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
+    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
+  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
+    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
+    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
+    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
+    "usedAt": 1786047246751,
+    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  },
   "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
     "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
     "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
@@ -188,111 +244,39 @@
     "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
     "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786036444412,
-    "usedAtIso": "2026-08-06T17:14:04.412Z"
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
   },
   "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
     "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
     "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
     "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786036444412,
-    "usedAtIso": "2026-08-06T17:14:04.412Z"
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
   },
-  "source:049c6173b535f7c37bf3eb1b2ab898179aa872dd": {
-    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-e-regiao-nesta-quinta-feira",
-    "title": "Previsão do tempo para Florianópolis e região nesta quinta-feira",
-    "guid": "sc1multi:049c6173b535f7c37bf3eb1b2ab898179aa872dd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_049c6173b535f7c37bf3eb1b2ab898179aa872dd/",
-    "usedAt": 1786029244802,
-    "usedAtIso": "2026-08-06T15:14:04.802Z"
+  "source:afd17f87c9d6c56c05a9631c259b952ab9a98046": {
+    "url": "https://tnsul.com/2026/08/06/homem-que-matou-mulher-e-ocultou-cadaver-e-condenado-a-15-anos-em-icara",
+    "title": "Homem é condenado a 15 anos por feminicídio em Içara",
+    "guid": "sc1multi:969086934e761d1a443cb16b72806a0fb5da6de7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_969086934e761d1a443cb16b72806a0fb5da6de7/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
   },
-  "source:a5517b9f7998161a52e11bb8eddacf54a48fb0e8": {
-    "url": "https://ocp.news/cotidiano/sc-melhora-em-todos-os-indicadores-do-ideb-e-amplia-participacao-das-escolas",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:a5517b9f7998161a52e11bb8eddacf54a48fb0e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5517b9f7998161a52e11bb8eddacf54a48fb0e8/",
-    "usedAt": 1786029244802,
-    "usedAtIso": "2026-08-06T15:14:04.802Z"
-  },
-  "source:1a6280b85e53f5196008f3eecab2c52a44d19cd2": {
-    "url": "https://ocp.news/politica/eleicoes-2026-mulheres-com-medidas-protetivas-ativas-em-sc-poderao-trocar-o-local-de-votacao",
-    "title": "Mulheres com medidas protetivas em SC podem mudar local de votação em 2026",
-    "guid": "sc1multi:1a6280b85e53f5196008f3eecab2c52a44d19cd2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a6280b85e53f5196008f3eecab2c52a44d19cd2/",
-    "usedAt": 1786029244802,
-    "usedAtIso": "2026-08-06T15:14:04.802Z"
-  },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
+  "source:990e17c881ed7160aad4979aa6d913169e824309": {
+    "url": "https://ocp.news/esporte/quase-metade-dos-catarinenses-nao-torce-para-nenhum-clube-do-estado",
+    "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
+    "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
   },
   "source:5601599aa56478be64c526573130ab633a0022f1": {
     "url": "https://ocp.news/cotidiano/mau-tempo-adia-mudancas-no-transito-no-centro-de-jaragua-do-sul",
-    "title": "Mudanças no trânsito no Centro de Jaraguá do Sul são adiadas por mau tempo",
+    "title": "Mudanças no trânsito do Centro de Jaraguá do Sul são adiadas por mau tempo",
     "guid": "sc1multi:5601599aa56478be64c526573130ab633a0022f1",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5601599aa56478be64c526573130ab633a0022f1/",
-    "usedAt": 1786029244802,
-    "usedAtIso": "2026-08-06T15:14:04.802Z"
-  },
-  "source:31e9b3b5f5769405b467cb77a76969018acb093d": {
-    "url": "https://rbatv.com.br/noticias/defesa-civil-intensifica-acoes-preventivas-em-ribeiroes-apos-as-chuvas-em-rio-do-sul",
-    "title": "Defesa Civil intensifica ações preventivas em rios de Rio do Sul após chuvas",
-    "guid": "sc1multi:564d1a2fc241a388123ccd0f56107162e54ea040",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_564d1a2fc241a388123ccd0f56107162e54ea040/",
-    "usedAt": 1786029244802,
-    "usedAtIso": "2026-08-06T15:14:04.802Z"
-  },
-  "source:4af37582e04c61e8e52679435609a6834761edb3": {
-    "url": "https://tnsul.com/2026/08/06/imovel-vendido-antes-da-morte-da-proprietaria-sera-transferido-ao-comprador",
-    "title": "TJSC mantém transferência de imóvel vendido em Içara antes da morte da proprietária",
-    "guid": "sc1multi:835581689f7adb9dd0e05950f9d3a8a157f5d157",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_835581689f7adb9dd0e05950f9d3a8a157f5d157/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
-  },
-  "source:7565f1ae2ba28a093e631ee2b8555517af0b7364": {
-    "url": "https://tnsul.com/2026/08/06/mutirao-de-limpeza-acontecera-neste-sabado-na-regiao-da-quarta-linha",
-    "title": "Mutirão de Limpeza mobiliza moradores na região da Quarta Linha em Criciúma",
-    "guid": "sc1multi:251b9e05d1d617b1ca0037f672fbd6a952d58e05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_251b9e05d1d617b1ca0037f672fbd6a952d58e05/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
-  },
-  "source:fd4d4e907c50bde1c0e9925887cfe6830f7de020": {
-    "url": "https://ocp.news/seguranca/mpsc-cobra-reparacao-de-mais-de-r-4-milhoes-por-danos-ambientais-apos-acidente-na-serra-dona-francisca",
-    "title": "MPSC exige reparação de R$ 4 milhões por acidente ambiental na Serra Dona Francisca",
-    "guid": "sc1multi:fd4d4e907c50bde1c0e9925887cfe6830f7de020",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd4d4e907c50bde1c0e9925887cfe6830f7de020/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
-  },
-  "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
-    "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
-    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de ventos fortes",
-    "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
-  },
-  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
-    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
-    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
-  },
-  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
-    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
-    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
-    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
   }
 }
