@@ -1,4 +1,20 @@
 {
+  "source:5827fad2814a4450e437867c25114a059c815743": {
+    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
+    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
+    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
+    "usedAt": 1785993244383,
+    "usedAtIso": "2026-08-06T05:14:04.383Z"
+  },
+  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
+    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
+    "title": "Criciúma abre licitação para construção da Cidade do Autista",
+    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
+    "usedAt": 1785993244383,
+    "usedAtIso": "2026-08-06T05:14:04.383Z"
+  },
   "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
     "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
     "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
@@ -151,20 +167,20 @@
     "usedAt": 1785975244685,
     "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
-  "source:5827fad2814a4450e437867c25114a059c815743": {
-    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
-    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
-    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
-    "usedAt": 1785993244383,
-    "usedAtIso": "2026-08-06T05:14:04.383Z"
+  "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
+    "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
+    "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
+    "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
+    "usedAt": 1785996844600,
+    "usedAtIso": "2026-08-06T06:14:04.600Z"
   },
-  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
-    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
-    "title": "Criciúma abre licitação para construção da Cidade do Autista",
-    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
-    "usedAt": 1785993244383,
-    "usedAtIso": "2026-08-06T05:14:04.383Z"
+  "source:2441d70e053cf9d1c3be925253186588417cad4c": {
+    "url": "https://correiosc.com.br/sinduscon-grande-florianopolis-reelege-carlos-leite",
+    "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
+    "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
+    "usedAt": 1785996844600,
+    "usedAtIso": "2026-08-06T06:14:04.600Z"
   }
 }
