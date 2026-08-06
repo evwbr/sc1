@@ -1,4 +1,20 @@
 {
+  "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
+    "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
+    "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
+    "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
+    "usedAt": 1785996844600,
+    "usedAtIso": "2026-08-06T06:14:04.600Z"
+  },
+  "source:2441d70e053cf9d1c3be925253186588417cad4c": {
+    "url": "https://correiosc.com.br/sinduscon-grande-florianopolis-reelege-carlos-leite",
+    "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
+    "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
+    "usedAt": 1785996844600,
+    "usedAtIso": "2026-08-06T06:14:04.600Z"
+  },
   "source:5827fad2814a4450e437867c25114a059c815743": {
     "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
     "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
@@ -119,68 +135,28 @@
     "usedAt": 1785978844182,
     "usedAtIso": "2026-08-06T01:14:04.182Z"
   },
-  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
-    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
-    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
-    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
+  "source:bd34e6da705f918c2858eea2b77f96f1c256901f": {
+    "url": "https://ocp.news/seguranca/justica-reconhece-adocao-de-jovem-criada-por-casal-desde-a-infancia-em-jaragua-do-sul",
+    "title": "Justiça reconhece adoção de jovem criada por casal em Jaraguá do Sul",
+    "guid": "sc1multi:bd34e6da705f918c2858eea2b77f96f1c256901f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bd34e6da705f918c2858eea2b77f96f1c256901f/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
   },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
+  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
+    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
+    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
+    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
   },
-  "source:e8d1800792a9dc50799ba121a08e32c0298f3668": {
-    "url": "https://ocp.news/seguranca/colisao-em-estacionamento-de-supermercado-deixa-motociclista-ferida-em-jaragua-do-sul",
-    "title": "Motociclista fica ferida em colisão no estacionamento de Jaraguá do Sul",
-    "guid": "sc1multi:e8d1800792a9dc50799ba121a08e32c0298f3668",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e8d1800792a9dc50799ba121a08e32c0298f3668/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
-  },
-  "source:6bfc94f109523f2cadb9e7dfae8663950885948c": {
-    "url": "https://ocp.news/esporte/equipe-jaraguaense-bate-joinville-e-lidera-chave-do-estadual-de-basquete-sub-15-feminino",
-    "title": "Hari vence Joinville e lidera chave no Estadual Sub-15 Feminino de Basquete",
-    "guid": "sc1multi:6bfc94f109523f2cadb9e7dfae8663950885948c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bfc94f109523f2cadb9e7dfae8663950885948c/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
-  },
-  "source:3670fff14cad48e321d7453b79f963fd90bee27a": {
-    "url": "https://ocp.news/cotidiano/caminhoneiro-de-santa-catarina-esta-ha-20-dias-preso-na-argentina-apos-nevasca-historica-nos-andes",
-    "title": "Caminhoneiro de Sombrio está preso na Argentina após nevasca nos Andes",
-    "guid": "sc1multi:3670fff14cad48e321d7453b79f963fd90bee27a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3670fff14cad48e321d7453b79f963fd90bee27a/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
-  },
-  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
-    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
-    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
-    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
-    "usedAt": 1785975244685,
-    "usedAtIso": "2026-08-06T00:14:04.685Z"
-  },
-  "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
-    "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
-    "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
-    "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
-    "usedAt": 1785996844600,
-    "usedAtIso": "2026-08-06T06:14:04.600Z"
-  },
-  "source:2441d70e053cf9d1c3be925253186588417cad4c": {
-    "url": "https://correiosc.com.br/sinduscon-grande-florianopolis-reelege-carlos-leite",
-    "title": "Carlos Leite é reeleito presidente do Sinduscon Grande Florianópolis",
-    "guid": "sc1multi:0edf18c34559c19a6232957260cde65c52a718c0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0edf18c34559c19a6232957260cde65c52a718c0/",
-    "usedAt": 1785996844600,
-    "usedAtIso": "2026-08-06T06:14:04.600Z"
+  "source:d0a874739405a815cbf10dc7f42a16019dd1c7e8": {
+    "url": "https://tudoaquisc.com.br/esporte/chapecoense-copa-do-brasil",
+    "title": "Chapecoense enfrenta Cruzeiro pelas quartas de final da Copa do Brasil",
+    "guid": "sc1multi:541b27759c967af2564ae767612cc31f51328c05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_541b27759c967af2564ae767612cc31f51328c05/",
+    "usedAt": 1786000444148,
+    "usedAtIso": "2026-08-06T07:14:04.148Z"
   }
 }
