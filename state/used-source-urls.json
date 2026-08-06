@@ -1,4 +1,28 @@
 {
+  "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
+    "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
+    "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
+    "guid": "sc1multi:079da1c51da10a15e70c67b3a194752b73aff3cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_079da1c51da10a15e70c67b3a194752b73aff3cf/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  },
+  "source:3670fff14cad48e321d7453b79f963fd90bee27a": {
+    "url": "https://ocp.news/cotidiano/caminhoneiro-de-santa-catarina-esta-ha-20-dias-preso-na-argentina-apos-nevasca-historica-nos-andes",
+    "title": "Caminhoneiro de Sombrio está preso há 20 dias na Argentina por nevasca",
+    "guid": "sc1multi:3670fff14cad48e321d7453b79f963fd90bee27a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3670fff14cad48e321d7453b79f963fd90bee27a/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  },
+  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
+    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
+    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
+    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
+    "usedAt": 1786007645379,
+    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  },
   "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
     "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
     "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
@@ -87,28 +111,52 @@
     "usedAt": 1785989644997,
     "usedAtIso": "2026-08-06T04:14:04.997Z"
   },
-  "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
-    "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
-    "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
-    "guid": "sc1multi:079da1c51da10a15e70c67b3a194752b73aff3cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_079da1c51da10a15e70c67b3a194752b73aff3cf/",
-    "usedAt": 1786007645379,
-    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  "source:4d2834c799d1a146d867da8f0a40ace2e71b962e": {
+    "url": "https://ocp.news/cotidiano/frente-fria-provoca-temporais-entre-quinta-06-e-sexta-feira-07",
+    "title": "Frente fria provoca temporais no Oeste de Santa Catarina entre quinta e sexta",
+    "guid": "sc1multi:4d2834c799d1a146d867da8f0a40ace2e71b962e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4d2834c799d1a146d867da8f0a40ace2e71b962e/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
   },
-  "source:3670fff14cad48e321d7453b79f963fd90bee27a": {
-    "url": "https://ocp.news/cotidiano/caminhoneiro-de-santa-catarina-esta-ha-20-dias-preso-na-argentina-apos-nevasca-historica-nos-andes",
-    "title": "Caminhoneiro de Sombrio está preso há 20 dias na Argentina por nevasca",
-    "guid": "sc1multi:3670fff14cad48e321d7453b79f963fd90bee27a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3670fff14cad48e321d7453b79f963fd90bee27a/",
-    "usedAt": 1786007645379,
-    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  "source:049c6173b535f7c37bf3eb1b2ab898179aa872dd": {
+    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-e-regiao-nesta-quinta-feira",
+    "title": "Previsão do tempo para Florianópolis e região nesta quinta-feira",
+    "guid": "sc1multi:049c6173b535f7c37bf3eb1b2ab898179aa872dd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_049c6173b535f7c37bf3eb1b2ab898179aa872dd/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
   },
-  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
-    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
-    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
-    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
-    "usedAt": 1786007645379,
-    "usedAtIso": "2026-08-06T09:14:05.379Z"
+  "source:a5517b9f7998161a52e11bb8eddacf54a48fb0e8": {
+    "url": "https://ocp.news/cotidiano/sc-melhora-em-todos-os-indicadores-do-ideb-e-amplia-participacao-das-escolas",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:a5517b9f7998161a52e11bb8eddacf54a48fb0e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5517b9f7998161a52e11bb8eddacf54a48fb0e8/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:1a6280b85e53f5196008f3eecab2c52a44d19cd2": {
+    "url": "https://ocp.news/politica/eleicoes-2026-mulheres-com-medidas-protetivas-ativas-em-sc-poderao-trocar-o-local-de-votacao",
+    "title": "Mulheres com medidas protetivas em SC podem mudar local de votação em 2026",
+    "guid": "sc1multi:1a6280b85e53f5196008f3eecab2c52a44d19cd2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a6280b85e53f5196008f3eecab2c52a44d19cd2/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
+  },
+  "source:e8d1800792a9dc50799ba121a08e32c0298f3668": {
+    "url": "https://ocp.news/seguranca/colisao-em-estacionamento-de-supermercado-deixa-motociclista-ferida-em-jaragua-do-sul",
+    "title": "Motociclista fica ferida em colisão no estacionamento de Jaraguá do Sul",
+    "guid": "sc1multi:e8d1800792a9dc50799ba121a08e32c0298f3668",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e8d1800792a9dc50799ba121a08e32c0298f3668/",
+    "usedAt": 1786011244561,
+    "usedAtIso": "2026-08-06T10:14:04.561Z"
   }
 }
