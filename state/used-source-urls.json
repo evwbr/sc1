@@ -1,4 +1,12 @@
 {
+  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
+    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
+    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
+    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
+    "usedAt": 1785989644997,
+    "usedAtIso": "2026-08-06T04:14:04.997Z"
+  },
   "source:1ea5623af943c0d9474daac7d6544fbd0639ade5": {
     "url": "https://ocp.news/cotidiano/hospital-jaragua-implanta-tecnologia-inedita-em-santa-catarina-para-monitoramento-cerebral-de-recem-nascidos",
     "title": "Hospital Jaraguá implanta monitoramento cerebral inovador para recém-nascidos em SC",
@@ -143,12 +151,20 @@
     "usedAt": 1785975244685,
     "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
-  "source:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821": {
-    "url": "https://ocp.news/esporte/definidos-os-campeoes-da-3a-etapa-do-circuito-de-tenis-de-jaragua-do-sul-2",
-    "title": "Campeões da 3ª etapa do Circuito de Tênis de Jaraguá do Sul são definidos",
-    "guid": "sc1multi:f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72bcc9ffd1c5be9dcab5a8f4d128e99cfa5c821/",
-    "usedAt": 1785989644997,
-    "usedAtIso": "2026-08-06T04:14:04.997Z"
+  "source:5827fad2814a4450e437867c25114a059c815743": {
+    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
+    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
+    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
+    "usedAt": 1785993244383,
+    "usedAtIso": "2026-08-06T05:14:04.383Z"
+  },
+  "source:9fe6b129b165aa0770d1100571b211c278fe26d4": {
+    "url": "https://tnsul.com/2026/08/05/cidade-do-autista-criciuma-publica-licitacao-para-construcao-do-local",
+    "title": "Criciúma abre licitação para construção da Cidade do Autista",
+    "guid": "sc1multi:3b180e1ef08b4f111b6cd958a31ff36a64f4b592",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b180e1ef08b4f111b6cd958a31ff36a64f4b592/",
+    "usedAt": 1785993244383,
+    "usedAtIso": "2026-08-06T05:14:04.383Z"
   }
 }
