@@ -1,4 +1,28 @@
 {
+  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
+    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
+    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
+    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
+    "usedAt": 1785968044958,
+    "usedAtIso": "2026-08-05T22:14:04.958Z"
+  },
+  "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
+    "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
+    "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
+    "guid": "sc1multi:079da1c51da10a15e70c67b3a194752b73aff3cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_079da1c51da10a15e70c67b3a194752b73aff3cf/",
+    "usedAt": 1785968044958,
+    "usedAtIso": "2026-08-05T22:14:04.958Z"
+  },
+  "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
+    "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
+    "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
+    "guid": "sc1multi:31f6ddac8f1bd382575f76c65cc6dbb52de917d1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f6ddac8f1bd382575f76c65cc6dbb52de917d1/",
+    "usedAt": 1785968044958,
+    "usedAtIso": "2026-08-05T22:14:04.958Z"
+  },
   "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
     "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
     "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
@@ -167,116 +191,52 @@
     "usedAt": 1785957244699,
     "usedAtIso": "2026-08-05T19:14:04.699Z"
   },
-  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
-    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
-    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
-    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
+  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
+    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
+    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
+    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
-  "source:f5a000080453f48a15edf3c05dab10665a0492e4": {
-    "url": "https://scportais.com.br/2026/08/04/agroponte-espera-impulsionar-ate-r600-milhoes-na-edicao-2026",
-    "title": "AgroPonte 2026 deve movimentar até R$ 600 milhões em Criciúma",
-    "guid": "sc1multi:3dc4464789bc77190eedff3f75d3ebd5219eb4a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dc4464789bc77190eedff3f75d3ebd5219eb4a6/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
-  "source:feb03c4d0b416cdb56566b5b56a8b9168dec3d4d": {
-    "url": "https://correiosc.com.br/oab-sc-e-lide-sc-promovem-debate-com-candidatos-ao-senado",
-    "title": "OAB/SC e LIDE promovem debate com candidatos ao Senado por Santa Catarina",
-    "guid": "sc1multi:a6177768ac7e36527546e16825593eced9961f1a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6177768ac7e36527546e16825593eced9961f1a/",
-    "usedAt": 1785968044958,
-    "usedAtIso": "2026-08-05T22:14:04.958Z"
-  },
-  "source:02d2d535bfd52612e898a59450d3d986aec2459e": {
-    "url": "https://rbatv.com.br/noticias/principio-de-incendio-atinge-empresa-na-margem-da-br-470-em-apiuna",
-    "title": "Princípio de incêndio atinge empresa na margem da BR-470 em Apiúna",
-    "guid": "sc1multi:ebdb77ca7960ab1a043107df77d1bc132f3a7bdc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebdb77ca7960ab1a043107df77d1bc132f3a7bdc/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
-  },
-  "source:afb170f3cd074132c1c6f2a636c4322e60fc972e": {
-    "url": "https://ocp.news/esporte/chapecoense-lidera-ranking-das-maiores-torcidas-de-sc-aponta-pesquisa",
-    "title": "Chapecoense lidera ranking das maiores torcidas de Santa Catarina",
-    "guid": "sc1multi:afb170f3cd074132c1c6f2a636c4322e60fc972e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_afb170f3cd074132c1c6f2a636c4322e60fc972e/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
-  },
-  "source:2962c9c6c6147e8cf6f9d6df623e9d5a68406d54": {
-    "url": "https://ocp.news/cotidiano/guaramirim-alerta-tutores-sobre-mutirao-de-castracao",
-    "title": "Guaramirim realiza mutirão de castração para animais no bairro Vila Amizade",
-    "guid": "sc1multi:2962c9c6c6147e8cf6f9d6df623e9d5a68406d54",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2962c9c6c6147e8cf6f9d6df623e9d5a68406d54/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
-  },
-  "source:bf481bb60221b4fbc0d2b076b11babff53bbd006": {
-    "url": "https://ocp.news/politica/vereador-pede-instalacao-de-tela-no-campo-de-futebol-de-areia-no-bairro-caixa-dagua",
-    "title": "Vereador de Guaramirim solicita tela de proteção em campo de futebol de areia",
-    "guid": "sc1multi:bf481bb60221b4fbc0d2b076b11babff53bbd006",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bf481bb60221b4fbc0d2b076b11babff53bbd006/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
+  "source:e8d1800792a9dc50799ba121a08e32c0298f3668": {
+    "url": "https://ocp.news/seguranca/colisao-em-estacionamento-de-supermercado-deixa-motociclista-ferida-em-jaragua-do-sul",
+    "title": "Motociclista fica ferida em colisão no estacionamento de Jaraguá do Sul",
+    "guid": "sc1multi:e8d1800792a9dc50799ba121a08e32c0298f3668",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e8d1800792a9dc50799ba121a08e32c0298f3668/",
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
   "source:6bfc94f109523f2cadb9e7dfae8663950885948c": {
     "url": "https://ocp.news/esporte/equipe-jaraguaense-bate-joinville-e-lidera-chave-do-estadual-de-basquete-sub-15-feminino",
     "title": "Hari vence Joinville e lidera chave no Estadual Sub-15 Feminino de Basquete",
     "guid": "sc1multi:6bfc94f109523f2cadb9e7dfae8663950885948c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bfc94f109523f2cadb9e7dfae8663950885948c/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
   "source:3670fff14cad48e321d7453b79f963fd90bee27a": {
     "url": "https://ocp.news/cotidiano/caminhoneiro-de-santa-catarina-esta-ha-20-dias-preso-na-argentina-apos-nevasca-historica-nos-andes",
     "title": "Caminhoneiro de Sombrio está preso na Argentina após nevasca nos Andes",
     "guid": "sc1multi:3670fff14cad48e321d7453b79f963fd90bee27a",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3670fff14cad48e321d7453b79f963fd90bee27a/",
-    "usedAt": 1785953644434,
-    "usedAtIso": "2026-08-05T18:14:04.434Z"
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   },
-  "source:c8d02fb87ffff3ff0b9c58d0116b7e5fd6232aaa": {
-    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-apos-colisao-com-carro-no-centro-de-presidente-getulio",
-    "title": "Motociclista fica ferido após colisão com carro em Presidente Getúlio",
-    "guid": "sc1multi:ed7c4489e01aa9a189ed69bb3d0b5be31ff8d5d7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed7c4489e01aa9a189ed69bb3d0b5be31ff8d5d7/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
-  },
-  "source:b64363828034538f24cece3eb25884c21beea972": {
-    "url": "https://tnsul.com/2026/08/05/defesa-civil-emite-alerta-para-temporais-no-sul-de-sc-2",
-    "title": "Defesa Civil alerta para temporais isolados no Sul de Santa Catarina",
-    "guid": "sc1multi:a50f8b90515817c3a074cd3863f0dedf91edc06b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a50f8b90515817c3a074cd3863f0dedf91edc06b/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
-  },
-  "source:e2b3877b075b244b1b5ae8fe0ecbbe1612b501d6": {
-    "url": "https://rbatv.com.br/noticias/policia-militar-descobre-desmanche-clandestino-e-recupera-veiculos-furtados-em-gaspar",
-    "title": "Polícia Militar recupera veículos furtados em desmanche clandestino em Gaspar",
-    "guid": "sc1multi:d329eb1463674efa2c44ad98407656b6945a45b1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d329eb1463674efa2c44ad98407656b6945a45b1/",
-    "usedAt": 1785950044885,
-    "usedAtIso": "2026-08-05T17:14:04.885Z"
-  },
-  "source:079da1c51da10a15e70c67b3a194752b73aff3cf": {
-    "url": "https://ocp.news/esporte/momento-marcante-jaragua-do-sul-estreia-na-superliga-de-voleibol-nesta-sexta-feira",
-    "title": "Jaraguá do Sul estreia na Superliga C de Voleibol neste fim de semana",
-    "guid": "sc1multi:079da1c51da10a15e70c67b3a194752b73aff3cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_079da1c51da10a15e70c67b3a194752b73aff3cf/",
-    "usedAt": 1785968044958,
-    "usedAtIso": "2026-08-05T22:14:04.958Z"
-  },
-  "source:31f6ddac8f1bd382575f76c65cc6dbb52de917d1": {
-    "url": "https://ocp.news/cotidiano/plano-de-acao-frio-intenso-e-adaptado-para-seguir-as-condicoes-meteorologicas-em-jaragua-do-sul",
-    "title": "Plano de Ação Frio Intenso é adaptado para Jaraguá do Sul",
-    "guid": "sc1multi:31f6ddac8f1bd382575f76c65cc6dbb52de917d1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f6ddac8f1bd382575f76c65cc6dbb52de917d1/",
-    "usedAt": 1785968044958,
-    "usedAtIso": "2026-08-05T22:14:04.958Z"
+  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
+    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
+    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
+    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
+    "usedAt": 1785975244685,
+    "usedAtIso": "2026-08-06T00:14:04.685Z"
   }
 }
