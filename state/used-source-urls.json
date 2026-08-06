@@ -1,4 +1,44 @@
 {
+  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
+    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
+    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
+    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  },
+  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
+    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
+    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
+    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  },
+  "source:afd17f87c9d6c56c05a9631c259b952ab9a98046": {
+    "url": "https://tnsul.com/2026/08/06/homem-que-matou-mulher-e-ocultou-cadaver-e-condenado-a-15-anos-em-icara",
+    "title": "Homem é condenado a 15 anos por feminicídio em Içara",
+    "guid": "sc1multi:969086934e761d1a443cb16b72806a0fb5da6de7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_969086934e761d1a443cb16b72806a0fb5da6de7/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  },
+  "source:990e17c881ed7160aad4979aa6d913169e824309": {
+    "url": "https://ocp.news/esporte/quase-metade-dos-catarinenses-nao-torce-para-nenhum-clube-do-estado",
+    "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
+    "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  },
+  "source:5601599aa56478be64c526573130ab633a0022f1": {
+    "url": "https://ocp.news/cotidiano/mau-tempo-adia-mudancas-no-transito-no-centro-de-jaragua-do-sul",
+    "title": "Mudanças no trânsito do Centro de Jaraguá do Sul são adiadas por mau tempo",
+    "guid": "sc1multi:5601599aa56478be64c526573130ab633a0022f1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5601599aa56478be64c526573130ab633a0022f1/",
+    "usedAt": 1786050844824,
+    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  },
   "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
     "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
     "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
@@ -180,16 +220,16 @@
     "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
     "guid": "sc1multi:44ac0af27852472882d54ffbc56e776923f01a40",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_44ac0af27852472882d54ffbc56e776923f01a40/",
-    "usedAt": 1786036444412,
-    "usedAtIso": "2026-08-06T17:14:04.412Z"
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
   "source:0751d99ab0f2080dca5c6ba4e0eb2182070331fd": {
     "url": "https://ocp.news/entretenimento/beer-train-estreia-em-santa-catarina-a-bordo-da-maior-maria-fumaca-do-brasil",
     "title": "Beer Train estreia em Santa Catarina a bordo da maior Maria Fumaça do Brasil",
     "guid": "sc1multi:0751d99ab0f2080dca5c6ba4e0eb2182070331fd",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0751d99ab0f2080dca5c6ba4e0eb2182070331fd/",
-    "usedAt": 1786036444412,
-    "usedAtIso": "2026-08-06T17:14:04.412Z"
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
   "source:f85be94944fbcf5bf8e66045520743bfcc8b0f7d": {
     "url": "https://ocp.news/cotidiano/2a-bienal1-internacional-do-livro-comeca-em-jaragua-do-sul",
@@ -239,44 +279,44 @@
     "usedAt": 1786036444412,
     "usedAtIso": "2026-08-06T17:14:04.412Z"
   },
-  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
-    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
-    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
-    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  "source:d030e29ef52be3bdd4bac30ea3114cf0b4bef213": {
+    "url": "https://ocp.news/politica/homem-incendeia-propria-casa-apos-briga-e-aguarda-policia-para-ser-preso-em-indaial",
+    "title": "Homem ateia fogo em casa e é preso em Indaial, Santa Catarina",
+    "guid": "sc1multi:d030e29ef52be3bdd4bac30ea3114cf0b4bef213",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d030e29ef52be3bdd4bac30ea3114cf0b4bef213/",
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
-  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
-    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
-    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
-    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  "source:2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174": {
+    "url": "https://ocp.news/esporte/presidente-do-juventus-detalha-negociacao-da-saf-fase-critica-da-rj-e-situacao-de-terreno",
+    "title": "Presidente do Juventus detalha negociação da SAF e situação financeira do clube",
+    "guid": "sc1multi:2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174/",
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
-  "source:afd17f87c9d6c56c05a9631c259b952ab9a98046": {
-    "url": "https://tnsul.com/2026/08/06/homem-que-matou-mulher-e-ocultou-cadaver-e-condenado-a-15-anos-em-icara",
-    "title": "Homem é condenado a 15 anos por feminicídio em Içara",
-    "guid": "sc1multi:969086934e761d1a443cb16b72806a0fb5da6de7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_969086934e761d1a443cb16b72806a0fb5da6de7/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  "source:92cbca71ebd018db28287158a5ea2a2fba79adcf": {
+    "url": "https://ocp.news/politica/vereador-propoe-destinar-carro-da-camara-para-agentes-comunitarios-de-saude-em-jaragua-do-sul",
+    "title": "Vereador de Jaraguá do Sul propõe destinar carro da Câmara a agentes comunitários de saúde",
+    "guid": "sc1multi:92cbca71ebd018db28287158a5ea2a2fba79adcf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_92cbca71ebd018db28287158a5ea2a2fba79adcf/",
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
-  "source:990e17c881ed7160aad4979aa6d913169e824309": {
-    "url": "https://ocp.news/esporte/quase-metade-dos-catarinenses-nao-torce-para-nenhum-clube-do-estado",
-    "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
-    "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  "source:687673ea17ea90800d896546e5886718454d6ad1": {
+    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
+    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
+    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   },
-  "source:5601599aa56478be64c526573130ab633a0022f1": {
-    "url": "https://ocp.news/cotidiano/mau-tempo-adia-mudancas-no-transito-no-centro-de-jaragua-do-sul",
-    "title": "Mudanças no trânsito do Centro de Jaraguá do Sul são adiadas por mau tempo",
-    "guid": "sc1multi:5601599aa56478be64c526573130ab633a0022f1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5601599aa56478be64c526573130ab633a0022f1/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+  "source:919fb23f55590103314108ad160c7ecb54fd42b9": {
+    "url": "https://correiosc.com.br/pressao-no-avai-e-estreia-de-diego-souza-marcam-a-coluna-da-semana",
+    "title": "Diego Souza estreia pelo Avaí em jogo na Ressacada contra o CRB",
+    "guid": "sc1multi:457c815f1433f09677da0cdfab1827dfd2ec8086",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_457c815f1433f09677da0cdfab1827dfd2ec8086/",
+    "usedAt": 1786054446050,
+    "usedAtIso": "2026-08-06T22:14:06.050Z"
   }
 }
