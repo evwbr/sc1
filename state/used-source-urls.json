@@ -1,4 +1,60 @@
 {
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
+    "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
+    "title": "Defesa Civil de SC monitora formação de ciclone-bomba no litoral catarinense",
+    "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
+    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
+    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
+    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
+    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
+    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
+    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:0e5317a03bf452b9857e272e65b18222ffaaa72c": {
+    "url": "https://rbatv.com.br/noticias/ciclone-bomba-se-forma-sobre-o-oceano-mas-santa-catarina-tera-impactos-provocados-pela-frente-fria-e-pelo-vento-sul",
+    "title": "Santa Catarina enfrenta temporais e vento sul devido a ciclone-bomba no oceano",
+    "guid": "sc1multi:385370720b3ec189749cdebedcbd7c66316c680e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_385370720b3ec189749cdebedcbd7c66316c680e/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:5f23e35fe9780f1e6c48b8498b140b15deb7d969": {
+    "url": "https://ocp.news/economia/apos-mais-de-quatro-anos-santa-catarina-perde-lideranca-no-ranking-do-metro-quadrado-mais-caro-do-brasil",
+    "title": "Santa Catarina perde liderança no metro quadrado mais caro do Brasil",
+    "guid": "sc1multi:5f23e35fe9780f1e6c48b8498b140b15deb7d969",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f23e35fe9780f1e6c48b8498b140b15deb7d969/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
+  "source:9616469a75f22c38d20508cc92b4969eab35d006": {
+    "url": "https://ocp.news/economia/sebrae-sc-oferece-workshops-gratuitos-sobre-franquias-em-joinville",
+    "title": "Sebrae oferece workshop gratuito sobre franquias em Joinville",
+    "guid": "sc1multi:9616469a75f22c38d20508cc92b4969eab35d006",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9616469a75f22c38d20508cc92b4969eab35d006/",
+    "usedAt": 1786065244693,
+    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  },
   "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
     "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
     "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
@@ -156,16 +212,16 @@
     "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
     "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   },
   "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
     "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
     "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
     "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   },
   "source:afd17f87c9d6c56c05a9631c259b952ab9a98046": {
     "url": "https://tnsul.com/2026/08/06/homem-que-matou-mulher-e-ocultou-cadaver-e-condenado-a-15-anos-em-icara",
@@ -180,8 +236,8 @@
     "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
     "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
-    "usedAt": 1786050844824,
-    "usedAtIso": "2026-08-06T21:14:04.824Z"
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   },
   "source:5601599aa56478be64c526573130ab633a0022f1": {
     "url": "https://ocp.news/cotidiano/mau-tempo-adia-mudancas-no-transito-no-centro-de-jaragua-do-sul",
@@ -191,21 +247,13 @@
     "usedAt": 1786050844824,
     "usedAtIso": "2026-08-06T21:14:04.824Z"
   },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
   "source:4af37582e04c61e8e52679435609a6834761edb3": {
     "url": "https://tnsul.com/2026/08/06/imovel-vendido-antes-da-morte-da-proprietaria-sera-transferido-ao-comprador",
     "title": "TJSC mantém transferência de imóvel vendido em Içara antes da morte da proprietária",
     "guid": "sc1multi:835581689f7adb9dd0e05950f9d3a8a157f5d157",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_835581689f7adb9dd0e05950f9d3a8a157f5d157/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   },
   "source:7565f1ae2ba28a093e631ee2b8555517af0b7364": {
     "url": "https://tnsul.com/2026/08/06/mutirao-de-limpeza-acontecera-neste-sabado-na-regiao-da-quarta-linha",
@@ -220,55 +268,15 @@
     "title": "MPSC exige reparação de R$ 4 milhões por acidente ambiental na Serra Dona Francisca",
     "guid": "sc1multi:fd4d4e907c50bde1c0e9925887cfe6830f7de020",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd4d4e907c50bde1c0e9925887cfe6830f7de020/",
-    "usedAt": 1786047246751,
-    "usedAtIso": "2026-08-06T20:14:06.751Z"
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   },
-  "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
-    "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
-    "title": "Defesa Civil de SC monitora formação de ciclone-bomba no litoral catarinense",
-    "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
-  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
-    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
-    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
-  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
-    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
-    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
-    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
-  "source:0e5317a03bf452b9857e272e65b18222ffaaa72c": {
-    "url": "https://rbatv.com.br/noticias/ciclone-bomba-se-forma-sobre-o-oceano-mas-santa-catarina-tera-impactos-provocados-pela-frente-fria-e-pelo-vento-sul",
-    "title": "Santa Catarina enfrenta temporais e vento sul devido a ciclone-bomba no oceano",
-    "guid": "sc1multi:385370720b3ec189749cdebedcbd7c66316c680e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_385370720b3ec189749cdebedcbd7c66316c680e/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
-  "source:5f23e35fe9780f1e6c48b8498b140b15deb7d969": {
-    "url": "https://ocp.news/economia/apos-mais-de-quatro-anos-santa-catarina-perde-lideranca-no-ranking-do-metro-quadrado-mais-caro-do-brasil",
-    "title": "Santa Catarina perde liderança no metro quadrado mais caro do Brasil",
-    "guid": "sc1multi:5f23e35fe9780f1e6c48b8498b140b15deb7d969",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f23e35fe9780f1e6c48b8498b140b15deb7d969/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
-  },
-  "source:9616469a75f22c38d20508cc92b4969eab35d006": {
-    "url": "https://ocp.news/economia/sebrae-sc-oferece-workshops-gratuitos-sobre-franquias-em-joinville",
-    "title": "Sebrae oferece workshop gratuito sobre franquias em Joinville",
-    "guid": "sc1multi:9616469a75f22c38d20508cc92b4969eab35d006",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9616469a75f22c38d20508cc92b4969eab35d006/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
+  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
+    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
+    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
+    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
+    "usedAt": 1786068845482,
+    "usedAtIso": "2026-08-07T02:14:05.482Z"
   }
 }
