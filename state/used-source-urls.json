@@ -1,4 +1,44 @@
 {
+  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
+    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
+    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
+    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
+    "usedAt": 1786094044898,
+    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  },
+  "source:990e17c881ed7160aad4979aa6d913169e824309": {
+    "url": "https://ocp.news/esporte/quase-metade-dos-catarinenses-nao-torce-para-nenhum-clube-do-estado",
+    "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
+    "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
+    "usedAt": 1786094044898,
+    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  },
+  "source:4af37582e04c61e8e52679435609a6834761edb3": {
+    "url": "https://tnsul.com/2026/08/06/imovel-vendido-antes-da-morte-da-proprietaria-sera-transferido-ao-comprador",
+    "title": "TJSC mantém transferência de imóvel vendido em Içara antes da morte da proprietária",
+    "guid": "sc1multi:835581689f7adb9dd0e05950f9d3a8a157f5d157",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_835581689f7adb9dd0e05950f9d3a8a157f5d157/",
+    "usedAt": 1786094044898,
+    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  },
+  "source:fd4d4e907c50bde1c0e9925887cfe6830f7de020": {
+    "url": "https://ocp.news/seguranca/mpsc-cobra-reparacao-de-mais-de-r-4-milhoes-por-danos-ambientais-apos-acidente-na-serra-dona-francisca",
+    "title": "MPSC exige reparação de R$ 4 milhões por acidente ambiental na Serra Dona Francisca",
+    "guid": "sc1multi:fd4d4e907c50bde1c0e9925887cfe6830f7de020",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd4d4e907c50bde1c0e9925887cfe6830f7de020/",
+    "usedAt": 1786094044898,
+    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  },
+  "source:687673ea17ea90800d896546e5886718454d6ad1": {
+    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
+    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
+    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
+    "usedAt": 1786094044898,
+    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  },
   "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
     "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
     "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
@@ -143,92 +183,52 @@
     "usedAt": 1786079644213,
     "usedAtIso": "2026-08-07T05:14:04.213Z"
   },
-  "source:5827fad2814a4450e437867c25114a059c815743": {
-    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
-    "title": "Avelino Lombardi é o primeiro catarinense a presidir a Febrac",
-    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
+  "source:ab54e2d6302587c32c9646ab2811238a101f16fa": {
+    "url": "https://ocp.news/cotidiano/saiba-como-sera-o-tempo-em-florianopolis-e-regiao-nesta-sexta-feira",
+    "title": "Previsão de chuva e queda de temperatura em Florianópolis nesta sexta-feira",
+    "guid": "sc1multi:ab54e2d6302587c32c9646ab2811238a101f16fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ab54e2d6302587c32c9646ab2811238a101f16fa/",
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
   },
-  "source:e377c74ff0d9cd0f8df670e537ef84a43293a3ad": {
-    "url": "https://ocp.news/politica/agosto1-lilas-conta-com-iluminacao-tematica-na-camara-municipal",
-    "title": "Câmara de Jaraguá do Sul ilumina fachada em campanha Agosto Lilás",
-    "guid": "sc1multi:e377c74ff0d9cd0f8df670e537ef84a43293a3ad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e377c74ff0d9cd0f8df670e537ef84a43293a3ad/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
+  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
+    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
+    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
+    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
+  },
+  "source:92cbca71ebd018db28287158a5ea2a2fba79adcf": {
+    "url": "https://ocp.news/politica/vereador-propoe-destinar-carro-da-camara-para-agentes-comunitarios-de-saude-em-jaragua-do-sul",
+    "title": "Vereador de Jaraguá do Sul propõe destinar carro da Câmara a agentes comunitários de saúde",
+    "guid": "sc1multi:92cbca71ebd018db28287158a5ea2a2fba79adcf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_92cbca71ebd018db28287158a5ea2a2fba79adcf/",
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
+  },
+  "source:afd17f87c9d6c56c05a9631c259b952ab9a98046": {
+    "url": "https://tnsul.com/2026/08/06/homem-que-matou-mulher-e-ocultou-cadaver-e-condenado-a-15-anos-em-icara",
+    "title": "Homem é condenado a 15 anos por feminicídio em Içara",
+    "guid": "sc1multi:969086934e761d1a443cb16b72806a0fb5da6de7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_969086934e761d1a443cb16b72806a0fb5da6de7/",
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
   },
   "source:9d381882a6c97b856e0a0ad5d871a0d332c8ba32": {
     "url": "https://tudoaquisc.com.br/ocorrencias/incendio-itacorubi-060826",
     "title": "Incêndio atinge apartamento no Itacorubi e mulher é resgatada",
     "guid": "sc1multi:0da914b233751dab8f0a05b64a8bbf172dd0d61a",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0da914b233751dab8f0a05b64a8bbf172dd0d61a/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
   },
-  "source:d030e29ef52be3bdd4bac30ea3114cf0b4bef213": {
-    "url": "https://ocp.news/politica/homem-incendeia-propria-casa-apos-briga-e-aguarda-policia-para-ser-preso-em-indaial",
-    "title": "Homem ateia fogo em casa após briga e espera prisão em Indaial",
-    "guid": "sc1multi:d030e29ef52be3bdd4bac30ea3114cf0b4bef213",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d030e29ef52be3bdd4bac30ea3114cf0b4bef213/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
-  },
-  "source:2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174": {
-    "url": "https://ocp.news/esporte/presidente-do-juventus-detalha-negociacao-da-saf-fase-critica-da-rj-e-situacao-de-terreno",
-    "title": "Presidente do Juventus detalha negociação da SAF e situação financeira do clube",
-    "guid": "sc1multi:2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e8b0edaeae37e9b15ee93a3cb3aa6776cb56174/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
-  },
-  "source:07a261868ea1230cb3cbefbb9a0461b5e1b7354e": {
-    "url": "https://ocp.news/economia/onze-industrias-de-sc-estao-entre-as-mais-inovadoras-do-brasil",
-    "title": "Onze indústrias catarinenses estão entre as mais inovadoras do Brasil",
-    "guid": "sc1multi:07a261868ea1230cb3cbefbb9a0461b5e1b7354e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07a261868ea1230cb3cbefbb9a0461b5e1b7354e/",
-    "usedAt": 1786076044404,
-    "usedAtIso": "2026-08-07T04:14:04.404Z"
-  },
-  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
-    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
-    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
-    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
-  },
-  "source:990e17c881ed7160aad4979aa6d913169e824309": {
-    "url": "https://ocp.news/esporte/quase-metade-dos-catarinenses-nao-torce-para-nenhum-clube-do-estado",
-    "title": "Pesquisa revela que quase metade dos catarinenses não torce para clubes locais",
-    "guid": "sc1multi:990e17c881ed7160aad4979aa6d913169e824309",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_990e17c881ed7160aad4979aa6d913169e824309/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
-  },
-  "source:4af37582e04c61e8e52679435609a6834761edb3": {
-    "url": "https://tnsul.com/2026/08/06/imovel-vendido-antes-da-morte-da-proprietaria-sera-transferido-ao-comprador",
-    "title": "TJSC mantém transferência de imóvel vendido em Içara antes da morte da proprietária",
-    "guid": "sc1multi:835581689f7adb9dd0e05950f9d3a8a157f5d157",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_835581689f7adb9dd0e05950f9d3a8a157f5d157/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
-  },
-  "source:fd4d4e907c50bde1c0e9925887cfe6830f7de020": {
-    "url": "https://ocp.news/seguranca/mpsc-cobra-reparacao-de-mais-de-r-4-milhoes-por-danos-ambientais-apos-acidente-na-serra-dona-francisca",
-    "title": "MPSC exige reparação de R$ 4 milhões por acidente ambiental na Serra Dona Francisca",
-    "guid": "sc1multi:fd4d4e907c50bde1c0e9925887cfe6830f7de020",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd4d4e907c50bde1c0e9925887cfe6830f7de020/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
-  },
-  "source:687673ea17ea90800d896546e5886718454d6ad1": {
-    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
-    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
-    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
+  "source:5827fad2814a4450e437867c25114a059c815743": {
+    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
+    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
+    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
+    "usedAt": 1786097644532,
+    "usedAtIso": "2026-08-07T10:14:04.532Z"
   }
 }
