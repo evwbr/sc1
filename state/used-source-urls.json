@@ -1,4 +1,60 @@
 {
+  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
+    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
+    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
+    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
+    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
+    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
+    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:5827fad2814a4450e437867c25114a059c815743": {
+    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
+    "title": "Cohab-SC pode ser extinta e direitos transferidos ao Estado de Santa Catarina",
+    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
+    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
+    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
+    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
+    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
+    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
+    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
+    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
+    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
+    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
+  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
+    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
+    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
+    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  },
   "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
     "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
     "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
@@ -124,16 +180,16 @@
     "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
     "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   },
   "source:7033c68e0480190913844bf6292a860254975214": {
     "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
     "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
     "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   },
   "source:ec461d21665b2f55b1affe474fe933331c0a4679": {
     "url": "https://ocp.news/seguranca/operacao-na-br-101-apreende-mais-de-r-400-mil-em-mercadorias-e-veiculo-em-garuva",
@@ -148,8 +204,8 @@
     "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
     "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   },
   "source:7f1640fdfe68d9dd1f078fd4376ced526c04bc4f": {
     "url": "https://ocp.news/seguranca/pedido-de-ajuda-em-tarefa-termina-em-agressao-entre-funcionarios-em-jaragua-do-sul",
@@ -191,92 +247,28 @@
     "usedAt": 1786126444295,
     "usedAtIso": "2026-08-07T18:14:04.295Z"
   },
-  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
-    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
-    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
+  "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
+    "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
+    "title": "Vereador de Criciúma ironiza pedido de lombada após pavimentação de rua",
+    "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   },
-  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
-    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
-    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
-    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:85f0ace3a8c0e46b21ece9978d9fa3686aa01b45": {
-    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-apos-colisao-com-carro-em-ituporanga-2",
-    "title": "Motociclista fica ferido após colisão com carro em Ituporanga",
-    "guid": "sc1multi:b24f063891b03e58a1c3275ba6b79a8239dbb37a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b24f063891b03e58a1c3275ba6b79a8239dbb37a/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
+    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
+    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   },
   "source:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63": {
     "url": "https://ocp.news/esporte/jaragua-futsal-acerta-retorno-de-ala-apos-11-anos",
     "title": "Dian retorna ao Jaraguá Futsal após 11 anos na Europa",
     "guid": "sc1multi:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
-  },
-  "source:7d19c40c1b9bf43bbcf91e018a68209171701319": {
-    "url": "https://tnsul.com/2026/08/07/motorista-escapa-ileso-apos-carro-capotar-e-cair-em-mangue-na-sc-401",
-    "title": "Motorista escapa ileso após capotar carro na SC-401 em Florianópolis",
-    "guid": "sc1multi:0d78154814ba441111a3a9d89ad96b85283d6a35",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0d78154814ba441111a3a9d89ad96b85283d6a35/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
-  },
-  "source:5827fad2814a4450e437867c25114a059c815743": {
-    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
-    "title": "Cohab-SC pode ser extinta e direitos transferidos ao Estado de Santa Catarina",
-    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
-    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
-    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
-    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
-    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
-    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
-    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
-    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
-    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
-    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
-  },
-  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
-    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
-    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
-    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
   }
 }
