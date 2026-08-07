@@ -1,4 +1,84 @@
 {
+  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
+    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
+    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
+    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
+    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
+    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
+    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:ec461d21665b2f55b1affe474fe933331c0a4679": {
+    "url": "https://ocp.news/seguranca/operacao-na-br-101-apreende-mais-de-r-400-mil-em-mercadorias-e-veiculo-em-garuva",
+    "title": "Operação na BR-101 apreende R$ 400 mil em mercadorias em Garuva",
+    "guid": "sc1multi:ec461d21665b2f55b1affe474fe933331c0a4679",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec461d21665b2f55b1affe474fe933331c0a4679/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:7cb56b8e608adc1f521bb9912d9a509155234e58": {
+    "url": "https://rbatv.com.br/noticias/jovem-e-preso-com-53-pedras-de-crack-apos-tentar-fugir-da-pm-em-blumenau",
+    "title": "Jovem é preso com 53 pedras de crack após tentar fugir da PM em Blumenau",
+    "guid": "sc1multi:9873f5d8e7877df62a57710c2a224dc732f85e57",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9873f5d8e7877df62a57710c2a224dc732f85e57/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:10a0d7a320c0635c64bade9424cab4a8784c42a8": {
+    "url": "https://ocp.news/seguranca/mulher-e-atropelada-na-saida-de-baile-e-tem-parte-da-perna-amputada-em-sc",
+    "title": "Mulher sofre amputação após atropelamento em Rio do Campo, SC",
+    "guid": "sc1multi:10a0d7a320c0635c64bade9424cab4a8784c42a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10a0d7a320c0635c64bade9424cab4a8784c42a8/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:8e7faf82007a242c60bcecbf9f8b925bd28f3279": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-mais-de-8-kg-de-cocaina-em-gaspar",
+    "title": "Homem é preso com mais de 8 kg de cocaína em Gaspar",
+    "guid": "sc1multi:73b06947be9d352bd6b489e22e1a17ed2e596a29",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_73b06947be9d352bd6b489e22e1a17ed2e596a29/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:c3a79c9321d8b914b258dc82fa9c22f8f3c00779": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-trafico-de-drogas-em-rio-do-sul-3",
+    "title": "Homem é preso por tráfico de drogas em Rio do Sul, Santa Catarina",
+    "guid": "sc1multi:8eecc2063a7c2b49abbb893d4db0f0d87d2b0088",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8eecc2063a7c2b49abbb893d4db0f0d87d2b0088/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
+    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:4fef169b36b22e8314f39472c3d3cf70901caab3": {
+    "url": "https://ocp.news/cotidiano/educacao-de-jaragua-do-sul-segue-sendo-a-melhor-do-estado-no-ideb",
+    "title": "Jaraguá do Sul lidera educação em Santa Catarina no Ideb 2023",
+    "guid": "sc1multi:4fef169b36b22e8314f39472c3d3cf70901caab3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fef169b36b22e8314f39472c3d3cf70901caab3/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
+  "source:56b6597f6baad518060bb9aba3d90ff8b05f3eb3": {
+    "url": "https://ocp.news/cotidiano/ciclone-bomba-se-forma-no-sul-e-traz-risco-de-ventos-de-ate-100-km-h-em-sc",
+    "title": "Ciclone-bomba provoca ventos fortes e temporais em Santa Catarina",
+    "guid": "sc1multi:56b6597f6baad518060bb9aba3d90ff8b05f3eb3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56b6597f6baad518060bb9aba3d90ff8b05f3eb3/",
+    "usedAt": 1786104844352,
+    "usedAtIso": "2026-08-07T12:14:04.352Z"
+  },
   "source:5bcc4f324e69fbc6343a9f5c9a747c7fad316304": {
     "url": "https://tnsul.com/2026/08/07/colisao-entre-dois-carros-deixa-homem-ferido-em-sombrio",
     "title": "Colisão entre dois carros deixa homem ferido em Sombrio",
@@ -148,167 +228,79 @@
     "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
     "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786094044898,
-    "usedAtIso": "2026-08-07T09:14:04.898Z"
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
   },
-  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
-    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
-    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
-    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
+  "source:83660bec4cbe20a47a81f358cd2f772852187e46": {
+    "url": "https://ocp.news/seguranca/condenado-por-roubo-pela-justica-de-jaragua-do-sul-morre-em-confronto-com-a-pm-no-mato-grosso-do-sul",
+    "title": "Condenado pela Justiça de Jaraguá do Sul morre em confronto no Mato Grosso do Sul",
+    "guid": "sc1multi:83660bec4cbe20a47a81f358cd2f772852187e46",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83660bec4cbe20a47a81f358cd2f772852187e46/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
   },
-  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
-    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
-    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
-    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
+  "source:31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5": {
+    "url": "https://ocp.news/economia/sc-realiza-missao-para-buscar-parcerias-estrategicas-com-paraguai",
+    "title": "Santa Catarina realiza missão oficial para fortalecer parcerias com Paraguai",
+    "guid": "sc1multi:31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
   },
-  "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
-    "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
-    "title": "Defesa Civil de SC monitora possível ciclone-bomba no litoral catarinense",
-    "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
+  "source:3c5ab9f0508cca455e59cfd50d983b259235c68c": {
+    "url": "https://ocp.news/cotidiano/florianopolis-lidera-crescimento-do-ideb-entre-as-capitais-e-registra-avanco-historico-na-aprendizagem",
+    "title": "Florianópolis lidera crescimento do Ideb entre as capitais brasileiras",
+    "guid": "sc1multi:3c5ab9f0508cca455e59cfd50d983b259235c68c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c5ab9f0508cca455e59cfd50d983b259235c68c/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
+  },
+  "source:8b6c3c1de47e5e6b6392dfd9854c7277603a4dc0": {
+    "url": "https://ocp.news/esporte/investimento-no-esporte-transforma-talentos-e-projeta-jaragua-do-sul-para-o-mundo",
+    "title": "Investimento em esporte projeta Jaraguá do Sul no cenário nacional e internacional",
+    "guid": "sc1multi:8b6c3c1de47e5e6b6392dfd9854c7277603a4dc0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b6c3c1de47e5e6b6392dfd9854c7277603a4dc0/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
+  },
+  "source:ee0d14345326307456a9c7b49ae640edba04b661": {
+    "url": "https://ocp.news/cotidiano/blumenau-mantem-ideb-nos-maiores-patamares-da-historia-em-2025",
+    "title": "Blumenau mantém IDEB nos maiores patamares da história em 2025",
+    "guid": "sc1multi:ee0d14345326307456a9c7b49ae640edba04b661",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ee0d14345326307456a9c7b49ae640edba04b661/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
+  },
+  "source:cb90ef284d4bc67d6c7e7366fffa3848a030d93e": {
+    "url": "https://tnsul.com/2026/08/07/carreta-tombada-bloqueia-pista-e-provoca-congestionamento-na-br-101",
+    "title": "Carreta tombada bloqueia pista da BR-101 em Biguaçu e causa congestionamento",
+    "guid": "sc1multi:ff3ad8fcabfd1e219fd36d11d5918b16c9919acf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff3ad8fcabfd1e219fd36d11d5918b16c9919acf/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
+  },
+  "source:ac37ea0b183e59d58723b16fa7e0af64cd239de8": {
+    "url": "https://tnsul.com/2026/08/07/carla-ayres-defende-dialogo-e-investimentos-para-sc-em-brasilia",
+    "title": "Carla Ayres defende investimentos para saúde e diálogo em Santa Catarina",
+    "guid": "sc1multi:8fe51cfab6766c8d2be8035a37ee8f1a90bbc167",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8fe51cfab6766c8d2be8035a37ee8f1a90bbc167/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
+  },
+  "source:7033c68e0480190913844bf6292a860254975214": {
+    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
+    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
+    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
   },
   "source:0e5317a03bf452b9857e272e65b18222ffaaa72c": {
     "url": "https://rbatv.com.br/noticias/ciclone-bomba-se-forma-sobre-o-oceano-mas-santa-catarina-tera-impactos-provocados-pela-frente-fria-e-pelo-vento-sul",
-    "title": "Santa Catarina enfrenta temporais e vento sul devido a ciclone-bomba no oceano",
+    "title": "Santa Catarina enfrenta temporais e vento sul por ciclone-bomba no oceano",
     "guid": "sc1multi:385370720b3ec189749cdebedcbd7c66316c680e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_385370720b3ec189749cdebedcbd7c66316c680e/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
-  },
-  "source:5f23e35fe9780f1e6c48b8498b140b15deb7d969": {
-    "url": "https://ocp.news/economia/apos-mais-de-quatro-anos-santa-catarina-perde-lideranca-no-ranking-do-metro-quadrado-mais-caro-do-brasil",
-    "title": "Santa Catarina perde liderança no metro quadrado mais caro do Brasil",
-    "guid": "sc1multi:5f23e35fe9780f1e6c48b8498b140b15deb7d969",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f23e35fe9780f1e6c48b8498b140b15deb7d969/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
-  },
-  "source:9616469a75f22c38d20508cc92b4969eab35d006": {
-    "url": "https://ocp.news/economia/sebrae-sc-oferece-workshops-gratuitos-sobre-franquias-em-joinville",
-    "title": "Sebrae oferece workshop gratuito sobre franquias em Joinville",
-    "guid": "sc1multi:9616469a75f22c38d20508cc92b4969eab35d006",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9616469a75f22c38d20508cc92b4969eab35d006/",
-    "usedAt": 1786086844102,
-    "usedAtIso": "2026-08-07T07:14:04.102Z"
-  },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786083244929,
-    "usedAtIso": "2026-08-07T06:14:04.929Z"
-  },
-  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
-    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
-    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:04421079842d8ffb81da55e78409112cd1d955ec": {
-    "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
-    "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
-    "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786083244929,
-    "usedAtIso": "2026-08-07T06:14:04.929Z"
-  },
-  "source:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44": {
-    "url": "https://ocp.news/cotidiano/bebe-de-quase-5-kg-nasce-em-tubarao-e-bate-recorde-em-maternidade-em-2026",
-    "title": "Bebê de quase 5 kg nasce em Tubarão e bate recorde em maternidade",
-    "guid": "sc1multi:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ff2fe6c60d4c8a0e427474180b1eb53d7288f44/",
-    "usedAt": 1786083244929,
-    "usedAtIso": "2026-08-07T06:14:04.929Z"
-  },
-  "source:9f7d77bbf7e2f2761c44c983a3ca1228cc22e471": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-recebe-quase-300-atletas-para-etapa-do-estadual-de-badminton",
-    "title": "Jaraguá do Sul recebe 291 atletas para etapa do Estadual de Badminton",
-    "guid": "sc1multi:9f7d77bbf7e2f2761c44c983a3ca1228cc22e471",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9f7d77bbf7e2f2761c44c983a3ca1228cc22e471/",
-    "usedAt": 1786083244929,
-    "usedAtIso": "2026-08-07T06:14:04.929Z"
-  },
-  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
-    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
-    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
-    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:ec461d21665b2f55b1affe474fe933331c0a4679": {
-    "url": "https://ocp.news/seguranca/operacao-na-br-101-apreende-mais-de-r-400-mil-em-mercadorias-e-veiculo-em-garuva",
-    "title": "Operação na BR-101 apreende R$ 400 mil em mercadorias em Garuva",
-    "guid": "sc1multi:ec461d21665b2f55b1affe474fe933331c0a4679",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec461d21665b2f55b1affe474fe933331c0a4679/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:7cb56b8e608adc1f521bb9912d9a509155234e58": {
-    "url": "https://rbatv.com.br/noticias/jovem-e-preso-com-53-pedras-de-crack-apos-tentar-fugir-da-pm-em-blumenau",
-    "title": "Jovem é preso com 53 pedras de crack após tentar fugir da PM em Blumenau",
-    "guid": "sc1multi:9873f5d8e7877df62a57710c2a224dc732f85e57",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9873f5d8e7877df62a57710c2a224dc732f85e57/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:10a0d7a320c0635c64bade9424cab4a8784c42a8": {
-    "url": "https://ocp.news/seguranca/mulher-e-atropelada-na-saida-de-baile-e-tem-parte-da-perna-amputada-em-sc",
-    "title": "Mulher sofre amputação após atropelamento em Rio do Campo, SC",
-    "guid": "sc1multi:10a0d7a320c0635c64bade9424cab4a8784c42a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_10a0d7a320c0635c64bade9424cab4a8784c42a8/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:8e7faf82007a242c60bcecbf9f8b925bd28f3279": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-mais-de-8-kg-de-cocaina-em-gaspar",
-    "title": "Homem é preso com mais de 8 kg de cocaína em Gaspar",
-    "guid": "sc1multi:73b06947be9d352bd6b489e22e1a17ed2e596a29",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_73b06947be9d352bd6b489e22e1a17ed2e596a29/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:c3a79c9321d8b914b258dc82fa9c22f8f3c00779": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-trafico-de-drogas-em-rio-do-sul-3",
-    "title": "Homem é preso por tráfico de drogas em Rio do Sul, Santa Catarina",
-    "guid": "sc1multi:8eecc2063a7c2b49abbb893d4db0f0d87d2b0088",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8eecc2063a7c2b49abbb893d4db0f0d87d2b0088/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
-    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:4fef169b36b22e8314f39472c3d3cf70901caab3": {
-    "url": "https://ocp.news/cotidiano/educacao-de-jaragua-do-sul-segue-sendo-a-melhor-do-estado-no-ideb",
-    "title": "Jaraguá do Sul lidera educação em Santa Catarina no Ideb 2023",
-    "guid": "sc1multi:4fef169b36b22e8314f39472c3d3cf70901caab3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fef169b36b22e8314f39472c3d3cf70901caab3/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
-  },
-  "source:56b6597f6baad518060bb9aba3d90ff8b05f3eb3": {
-    "url": "https://ocp.news/cotidiano/ciclone-bomba-se-forma-no-sul-e-traz-risco-de-ventos-de-ate-100-km-h-em-sc",
-    "title": "Ciclone-bomba provoca ventos fortes e temporais em Santa Catarina",
-    "guid": "sc1multi:56b6597f6baad518060bb9aba3d90ff8b05f3eb3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56b6597f6baad518060bb9aba3d90ff8b05f3eb3/",
-    "usedAt": 1786104844352,
-    "usedAtIso": "2026-08-07T12:14:04.352Z"
+    "usedAt": 1786112045002,
+    "usedAtIso": "2026-08-07T14:14:05.002Z"
   }
 }
