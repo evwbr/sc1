@@ -1,4 +1,60 @@
 {
+  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
+    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
+    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
+    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:c80ee98053eedc352e61fc21514c7dde37203fa1": {
+    "url": "https://ocp.news/cotidiano/massaranduba1-promove-acoes-do-agosto-lilas-para-conscientizar-sobre-o-combate-a-violencia-contra-a-mulher",
+    "title": "Massaranduba realiza ações do Agosto Lilás contra violência à mulher",
+    "guid": "sc1multi:c80ee98053eedc352e61fc21514c7dde37203fa1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80ee98053eedc352e61fc21514c7dde37203fa1/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7": {
+    "url": "https://ocp.news/politica/palestra1-em-schroeder-debate-20-anos-da-lei-maria-da-penha-e-lanca-curso-de-defesa-pessoal-para-mulheres",
+    "title": "Schroeder celebra 20 anos da Lei Maria da Penha com palestra e curso de defesa pessoal",
+    "guid": "sc1multi:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
+    "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
+    "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
+    "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:83d93076dc7a5e21d114a0268b0edae4f08c2470": {
+    "url": "https://tnsul.com/2026/08/07/maracaja-pode-ser-ponto-para-atuacao-do-exercito-em-casos-de-calamidade",
+    "title": "Maracajá será base do Exército em casos de calamidade na região da AMESC",
+    "guid": "sc1multi:2da30d49b9517083fe6603ed9fbdcb0d65a3a055",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2da30d49b9517083fe6603ed9fbdcb0d65a3a055/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:c65fe8e11690e47e900214e8a457e350a76c4823": {
+    "url": "https://ocp.news/esporte/chapecoense-e-apontada-como-o-clube-mais-simpatico-de-santa-catarina",
+    "title": "Chapecoense é eleita clube mais simpático de Santa Catarina",
+    "guid": "sc1multi:c65fe8e11690e47e900214e8a457e350a76c4823",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c65fe8e11690e47e900214e8a457e350a76c4823/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
+  "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
+    "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
+    "title": "Programa beneficia 100 pescadores artesanais em Biguaçu, SC",
+    "guid": "sc1multi:c2b71162b30694ea0456b788f7725565b1f50a85",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
+    "usedAt": 1786137244104,
+    "usedAtIso": "2026-08-07T21:14:04.104Z"
+  },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
     "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de ventos fortes",
@@ -140,16 +196,16 @@
     "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
     "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
     "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
     "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
     "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:85f0ace3a8c0e46b21ece9978d9fa3686aa01b45": {
     "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-apos-colisao-com-carro-em-ituporanga-2",
@@ -177,35 +233,35 @@
   },
   "source:5827fad2814a4450e437867c25114a059c815743": {
     "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
-    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria da Assistência Social",
+    "title": "Cohab-SC pode ser extinta e direitos transferidos ao Estado de Santa Catarina",
     "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
     "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
     "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
     "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
     "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
     "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
     "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
     "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
     "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
     "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786119245304,
-    "usedAtIso": "2026-08-07T16:14:05.304Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
   "source:04421079842d8ffb81da55e78409112cd1d955ec": {
     "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
@@ -215,108 +271,12 @@
     "usedAt": 1786119245304,
     "usedAtIso": "2026-08-07T16:14:05.304Z"
   },
-  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
-    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
-    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
-    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:9d381882a6c97b856e0a0ad5d871a0d332c8ba32": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-itacorubi-060826",
-    "title": "Incêndio atinge apartamento no Itacorubi e mulher é resgatada",
-    "guid": "sc1multi:0da914b233751dab8f0a05b64a8bbf172dd0d61a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0da914b233751dab8f0a05b64a8bbf172dd0d61a/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
-  "source:c80ee98053eedc352e61fc21514c7dde37203fa1": {
-    "url": "https://ocp.news/cotidiano/massaranduba1-promove-acoes-do-agosto-lilas-para-conscientizar-sobre-o-combate-a-violencia-contra-a-mulher",
-    "title": "Massaranduba realiza ações do Agosto Lilás contra violência à mulher",
-    "guid": "sc1multi:c80ee98053eedc352e61fc21514c7dde37203fa1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80ee98053eedc352e61fc21514c7dde37203fa1/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:6264bd98f8edda5be91399bfe9ec39ffac7635ed": {
-    "url": "https://tnsul.com/2026/08/07/jovem-recem-habilitado-cai-com-carro-em-ribanceira-de-35-metros-em-blumenau",
-    "title": "Jovem cai com carro em ribanceira de 35 metros em Blumenau",
-    "guid": "sc1multi:754683bc19b5897293866e9dd583dbeaa5b37a52",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_754683bc19b5897293866e9dd583dbeaa5b37a52/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
-  "source:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7": {
-    "url": "https://ocp.news/politica/palestra1-em-schroeder-debate-20-anos-da-lei-maria-da-penha-e-lanca-curso-de-defesa-pessoal-para-mulheres",
-    "title": "Schroeder celebra 20 anos da Lei Maria da Penha com palestra e curso de defesa pessoal",
-    "guid": "sc1multi:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:da2aef71bd44b9ac94672cb8f86bc8227cee3044": {
-    "url": "https://ocp.news/cotidiano/mutirao-de-limpeza-acontecera-neste-sabado-na-regiao-da-quarta-linha-em-criciuma",
-    "title": "Mutirão de Limpeza mobiliza moradores na Quarta Linha em Criciúma",
-    "guid": "sc1multi:da2aef71bd44b9ac94672cb8f86bc8227cee3044",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_da2aef71bd44b9ac94672cb8f86bc8227cee3044/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
-  "source:339db6efabe70f3227a3c56b4a8d011b8f20ce96": {
-    "url": "https://ocp.news/cotidiano/rompimento-de-adutora-prejudica-abastecimento-e-provoca-longas-filas-no-acesso-a-florianopolis",
-    "title": "Rompimento de adutora causa interdição e filas na Avenida Gustavo Richard em Florianópolis",
-    "guid": "sc1multi:339db6efabe70f3227a3c56b4a8d011b8f20ce96",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_339db6efabe70f3227a3c56b4a8d011b8f20ce96/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
-  "source:7f59173e5a5a4c34f20dfc898776b3bf2bb3d389": {
-    "url": "https://ocp.news/cotidiano/saiba-como-sera-o-tempo-em-florianopolis-nesta-sexta-feira",
-    "title": "Previsão de chuva e queda de temperatura em Florianópolis nesta sexta-feira",
-    "guid": "sc1multi:7f59173e5a5a4c34f20dfc898776b3bf2bb3d389",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7f59173e5a5a4c34f20dfc898776b3bf2bb3d389/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
   "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
     "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
     "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
     "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786115657828,
-    "usedAtIso": "2026-08-07T15:14:17.828Z"
-  },
-  "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
-    "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
-    "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
-    "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:83d93076dc7a5e21d114a0268b0edae4f08c2470": {
-    "url": "https://tnsul.com/2026/08/07/maracaja-pode-ser-ponto-para-atuacao-do-exercito-em-casos-de-calamidade",
-    "title": "Maracajá será base do Exército em casos de calamidade na região da AMESC",
-    "guid": "sc1multi:2da30d49b9517083fe6603ed9fbdcb0d65a3a055",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2da30d49b9517083fe6603ed9fbdcb0d65a3a055/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:c65fe8e11690e47e900214e8a457e350a76c4823": {
-    "url": "https://ocp.news/esporte/chapecoense-e-apontada-como-o-clube-mais-simpatico-de-santa-catarina",
-    "title": "Chapecoense é eleita clube mais simpático de Santa Catarina",
-    "guid": "sc1multi:c65fe8e11690e47e900214e8a457e350a76c4823",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c65fe8e11690e47e900214e8a457e350a76c4823/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
-    "title": "Programa beneficia 100 pescadores artesanais em Biguaçu, SC",
-    "guid": "sc1multi:c2b71162b30694ea0456b788f7725565b1f50a85",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786140845002,
+    "usedAtIso": "2026-08-07T22:14:05.002Z"
   }
 }
