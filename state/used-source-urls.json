@@ -1,4 +1,52 @@
 {
+  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
+    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
+    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
+    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
+  "source:b6fe814a2934bdfd2ee81224e10eb87e30ef7372": {
+    "url": "https://ocp.news/politica/jaragua-do-sul-e-regiao-devem-ter-ao-menos-13-candidatos-a-deputado-nas-eleicoes",
+    "title": "Jaraguá do Sul e região têm 13 candidatos a deputado nas eleições",
+    "guid": "sc1multi:b6fe814a2934bdfd2ee81224e10eb87e30ef7372",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b6fe814a2934bdfd2ee81224e10eb87e30ef7372/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
+  "source:cf92ce17ffbf5429811a6f455bc7457ff1497eef": {
+    "url": "https://ocp.news/seguranca/vitima-e-retirada-pela-escada-apos-incendio-em-predio-de-florianopolis",
+    "title": "Vítima é resgatada após incêndio em prédio no Itacorubi, Florianópolis",
+    "guid": "sc1multi:cf92ce17ffbf5429811a6f455bc7457ff1497eef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf92ce17ffbf5429811a6f455bc7457ff1497eef/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
+  "source:4fef169b36b22e8314f39472c3d3cf70901caab3": {
+    "url": "https://ocp.news/cotidiano/educacao-de-jaragua-do-sul-segue-sendo-a-melhor-do-estado-no-ideb",
+    "title": "Jaraguá do Sul lidera educação em Santa Catarina no Ideb 2023",
+    "guid": "sc1multi:4fef169b36b22e8314f39472c3d3cf70901caab3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fef169b36b22e8314f39472c3d3cf70901caab3/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
+  "source:56b6597f6baad518060bb9aba3d90ff8b05f3eb3": {
+    "url": "https://ocp.news/cotidiano/ciclone-bomba-se-forma-no-sul-e-traz-risco-de-ventos-de-ate-100-km-h-em-sc",
+    "title": "Ciclone-bomba provoca ventos fortes e temporais em Santa Catarina",
+    "guid": "sc1multi:56b6597f6baad518060bb9aba3d90ff8b05f3eb3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56b6597f6baad518060bb9aba3d90ff8b05f3eb3/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
+  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
+    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
+    "usedAt": 1786079644213,
+    "usedAtIso": "2026-08-07T05:14:04.213Z"
+  },
   "source:5827fad2814a4450e437867c25114a059c815743": {
     "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
     "title": "Avelino Lombardi é o primeiro catarinense a presidir a Febrac",
@@ -140,8 +188,8 @@
     "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
     "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
@@ -153,19 +201,19 @@
   },
   "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
     "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
+    "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição em Florianópolis",
     "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   },
   "source:04421079842d8ffb81da55e78409112cd1d955ec": {
     "url": "https://correiosc.com.br/daniella-mieko-representara-o-brasil-no-sul-americano-de-atletismo",
     "title": "Daniella Mieko, de São José, representará Brasil no Sul-Americano de Atletismo",
     "guid": "sc1multi:63afdbe2e3845ec0aa87e025c46d2b1a25f77c65",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_63afdbe2e3845ec0aa87e025c46d2b1a25f77c65/",
-    "usedAt": 1786065244693,
-    "usedAtIso": "2026-08-07T01:14:04.693Z"
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   },
   "source:0e5317a03bf452b9857e272e65b18222ffaaa72c": {
     "url": "https://rbatv.com.br/noticias/ciclone-bomba-se-forma-sobre-o-oceano-mas-santa-catarina-tera-impactos-provocados-pela-frente-fria-e-pelo-vento-sul",
@@ -191,84 +239,28 @@
     "usedAt": 1786065244693,
     "usedAtIso": "2026-08-07T01:14:04.693Z"
   },
-  "source:6bc92147f47a675e6bafb01518676fccb6c2f32c": {
-    "url": "https://correiosc.com.br/florianopolis-certifica-primeira-industria-de-ostras-e-mexilhoes-enlatados-do-brasil",
-    "title": "Florianópolis certifica indústria local de ostras e mexilhões enlatados",
-    "guid": "sc1multi:6a63c1a9f91d89749a763c9aefd581fd58de3416",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6a63c1a9f91d89749a763c9aefd581fd58de3416/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
-  },
-  "source:51e6578f00358d4ad5b6c5f1f92e22badf37ffba": {
-    "url": "https://scportais.com.br/2026/08/05/pelo-estado-05-08-absolvidos-seis-acusados-da-operacao-ouvidos-moucos",
-    "title": "Justiça Federal absolve seis acusados da Operação Ouvidos Moucos em Florianópolis",
-    "guid": "sc1multi:308785d12c23a08e4a01165c425c7140ad9cc073",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_308785d12c23a08e4a01165c425c7140ad9cc073/",
-    "usedAt": 1786061644180,
-    "usedAtIso": "2026-08-07T00:14:04.180Z"
+  "source:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44": {
+    "url": "https://ocp.news/cotidiano/bebe-de-quase-5-kg-nasce-em-tubarao-e-bate-recorde-em-maternidade-em-2026",
+    "title": "Bebê de quase 5 kg nasce em Tubarão e bate recorde em maternidade",
+    "guid": "sc1multi:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ff2fe6c60d4c8a0e427474180b1eb53d7288f44/",
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   },
   "source:9f7d77bbf7e2f2761c44c983a3ca1228cc22e471": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-recebe-quase-300-atletas-para-etapa-do-estadual-de-badminton",
     "title": "Jaraguá do Sul recebe 291 atletas para etapa do Estadual de Badminton",
     "guid": "sc1multi:9f7d77bbf7e2f2761c44c983a3ca1228cc22e471",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9f7d77bbf7e2f2761c44c983a3ca1228cc22e471/",
-    "usedAt": 1786061644180,
-    "usedAtIso": "2026-08-07T00:14:04.180Z"
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   },
   "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
     "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
     "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
     "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
-    "usedAt": 1786061644180,
-    "usedAtIso": "2026-08-07T00:14:04.180Z"
-  },
-  "source:b6fe814a2934bdfd2ee81224e10eb87e30ef7372": {
-    "url": "https://ocp.news/politica/jaragua-do-sul-e-regiao-devem-ter-ao-menos-13-candidatos-a-deputado-nas-eleicoes",
-    "title": "Jaraguá do Sul e região têm 13 candidatos a deputado nas eleições",
-    "guid": "sc1multi:b6fe814a2934bdfd2ee81224e10eb87e30ef7372",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b6fe814a2934bdfd2ee81224e10eb87e30ef7372/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
-  },
-  "source:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44": {
-    "url": "https://ocp.news/cotidiano/bebe-de-quase-5-kg-nasce-em-tubarao-e-bate-recorde-em-maternidade-em-2026",
-    "title": "Bebê de quase 5 kg nasce em Tubarão e bate recorde em maternidade",
-    "guid": "sc1multi:8ff2fe6c60d4c8a0e427474180b1eb53d7288f44",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ff2fe6c60d4c8a0e427474180b1eb53d7288f44/",
-    "usedAt": 1786061644180,
-    "usedAtIso": "2026-08-07T00:14:04.180Z"
-  },
-  "source:cf92ce17ffbf5429811a6f455bc7457ff1497eef": {
-    "url": "https://ocp.news/seguranca/vitima-e-retirada-pela-escada-apos-incendio-em-predio-de-florianopolis",
-    "title": "Vítima é resgatada após incêndio em prédio no Itacorubi, Florianópolis",
-    "guid": "sc1multi:cf92ce17ffbf5429811a6f455bc7457ff1497eef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf92ce17ffbf5429811a6f455bc7457ff1497eef/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
-  },
-  "source:4fef169b36b22e8314f39472c3d3cf70901caab3": {
-    "url": "https://ocp.news/cotidiano/educacao-de-jaragua-do-sul-segue-sendo-a-melhor-do-estado-no-ideb",
-    "title": "Jaraguá do Sul lidera educação em Santa Catarina no Ideb 2023",
-    "guid": "sc1multi:4fef169b36b22e8314f39472c3d3cf70901caab3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4fef169b36b22e8314f39472c3d3cf70901caab3/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
-  },
-  "source:56b6597f6baad518060bb9aba3d90ff8b05f3eb3": {
-    "url": "https://ocp.news/cotidiano/ciclone-bomba-se-forma-no-sul-e-traz-risco-de-ventos-de-ate-100-km-h-em-sc",
-    "title": "Ciclone-bomba provoca ventos fortes e temporais em Santa Catarina",
-    "guid": "sc1multi:56b6597f6baad518060bb9aba3d90ff8b05f3eb3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_56b6597f6baad518060bb9aba3d90ff8b05f3eb3/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
-  },
-  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
-    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786079644213,
-    "usedAtIso": "2026-08-07T05:14:04.213Z"
+    "usedAt": 1786083244929,
+    "usedAtIso": "2026-08-07T06:14:04.929Z"
   }
 }
