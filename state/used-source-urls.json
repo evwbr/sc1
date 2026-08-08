@@ -1,4 +1,52 @@
 {
+  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
+    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
+    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
+    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
+  "source:919fb23f55590103314108ad160c7ecb54fd42b9": {
+    "url": "https://correiosc.com.br/pressao-no-avai-e-estreia-de-diego-souza-marcam-a-coluna-da-semana",
+    "title": "Diego Souza estreia no Avaí em jogo decisivo na Ressacada",
+    "guid": "sc1multi:457c815f1433f09677da0cdfab1827dfd2ec8086",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_457c815f1433f09677da0cdfab1827dfd2ec8086/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
+  "source:b31786a9a7bf2ca0eee132dd0c96e718c36fc616": {
+    "url": "https://ocp.news/politica/flavio-bolsonaro-divulga-lista-com-47-nomes-para-o-senado",
+    "title": "Flávio Bolsonaro anuncia apoio a Carlos Bolsonaro e Caroline de Toni em Santa Catarina",
+    "guid": "sc1multi:b31786a9a7bf2ca0eee132dd0c96e718c36fc616",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b31786a9a7bf2ca0eee132dd0c96e718c36fc616/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
+  "source:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c": {
+    "url": "https://ocp.news/cotidiano/clube-fundado-ha-quase-50-anos-ganha-projecao-internacional-com-visitas-de-veleiros-estrangeiros",
+    "title": "Joinville Iate Clube recebe veleiros internacionais e destaca Santa Catarina",
+    "guid": "sc1multi:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a4aadd6237fb59dc61f14b02dc8b517c6a8374c/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
+  "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
+    "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
+    "title": "Vereador de Criciúma ironiza pedido de lombada na Rua Miguel Patrício de Souza",
+    "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
+  "source:69b399751f5ef6e740cd0c72cdaf7183d0ea39b3": {
+    "url": "https://tudoaquisc.com.br/seguranca/20-anos-da-lei-maria-da-penha",
+    "title": "Lei Maria da Penha completa 20 anos com aumento de feminicídios em Santa Catarina",
+    "guid": "sc1multi:a949dff647e4057391d522819feee7ae7a1f6e0d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a949dff647e4057391d522819feee7ae7a1f6e0d/",
+    "usedAt": 1786191244171,
+    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
     "title": "Defesa Civil de SC monitora possível ciclone-bomba no litoral catarinense",
@@ -159,116 +207,44 @@
     "usedAt": 1786176844178,
     "usedAtIso": "2026-08-08T08:14:04.178Z"
   },
-  "source:c80ee98053eedc352e61fc21514c7dde37203fa1": {
-    "url": "https://ocp.news/cotidiano/massaranduba1-promove-acoes-do-agosto-lilas-para-conscientizar-sobre-o-combate-a-violencia-contra-a-mulher",
-    "title": "Massaranduba realiza ações do Agosto Lilás contra violência à mulher",
-    "guid": "sc1multi:c80ee98053eedc352e61fc21514c7dde37203fa1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80ee98053eedc352e61fc21514c7dde37203fa1/",
-    "usedAt": 1786173244969,
-    "usedAtIso": "2026-08-08T07:14:04.969Z"
-  },
-  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
-    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
-    "title": "Paciente de Taió terá cirurgia de prótese de quadril após espera de cinco anos",
-    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
-    "usedAt": 1786173244969,
-    "usedAtIso": "2026-08-08T07:14:04.969Z"
-  },
   "source:9d3ca1d934d324f99a8eb917444661c0d4441679": {
     "url": "https://rbatv.com.br/noticias/dois-homens-sao-presos-suspeitos-de-furto-em-usina-fotovoltaica-em-sao-joaquim",
     "title": "Dois homens são presos por furto em usina fotovoltaica em São Joaquim",
     "guid": "sc1multi:25159b829543a025534d4aeb306972ab4123025d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/",
-    "usedAt": 1786173244969,
-    "usedAtIso": "2026-08-08T07:14:04.969Z"
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
   },
   "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
     "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
     "title": "Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama",
     "guid": "sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/",
-    "usedAt": 1786173244969,
-    "usedAtIso": "2026-08-08T07:14:04.969Z"
-  },
-  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
-    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
-    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
-    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
-  },
-  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
-    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
-    "title": "Contorno de Florianópolis terá bloqueios e desvios neste domingo",
-    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
-    "usedAt": 1786169644287,
-    "usedAtIso": "2026-08-08T06:14:04.287Z"
-  },
-  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
-    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
-    "title": "Mais de 400 jovens participam de evento de voleibol em Jaraguá do Sul",
-    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
-    "usedAt": 1786169644287,
-    "usedAtIso": "2026-08-08T06:14:04.287Z"
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
   },
   "source:800a774614cb7b41259b786364ea8b44515125db": {
     "url": "https://tnsul.com/2026/08/07/motociclista-morre-apos-colisao-na-ponte-anita-garibaldi",
     "title": "Motociclista morre em colisão na Ponte Anita Garibaldi, em Laguna",
     "guid": "sc1multi:3f36fd1896591d29802d68be35b236bc59b433b9",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f36fd1896591d29802d68be35b236bc59b433b9/",
-    "usedAt": 1786169644287,
-    "usedAtIso": "2026-08-08T06:14:04.287Z"
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
   },
-  "source:7f1640fdfe68d9dd1f078fd4376ced526c04bc4f": {
-    "url": "https://ocp.news/seguranca/pedido-de-ajuda-em-tarefa-termina-em-agressao-entre-funcionarios-em-jaragua-do-sul",
-    "title": "Discussão entre funcionários termina em agressão em Jaraguá do Sul",
-    "guid": "sc1multi:7f1640fdfe68d9dd1f078fd4376ced526c04bc4f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7f1640fdfe68d9dd1f078fd4376ced526c04bc4f/",
-    "usedAt": 1786169644287,
-    "usedAtIso": "2026-08-08T06:14:04.287Z"
+  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
+    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
+    "title": "Contorno de Florianópolis terá bloqueios e desvios neste domingo",
+    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
   },
-  "source:919fb23f55590103314108ad160c7ecb54fd42b9": {
-    "url": "https://correiosc.com.br/pressao-no-avai-e-estreia-de-diego-souza-marcam-a-coluna-da-semana",
-    "title": "Diego Souza estreia no Avaí em jogo decisivo na Ressacada",
-    "guid": "sc1multi:457c815f1433f09677da0cdfab1827dfd2ec8086",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_457c815f1433f09677da0cdfab1827dfd2ec8086/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
-  },
-  "source:b31786a9a7bf2ca0eee132dd0c96e718c36fc616": {
-    "url": "https://ocp.news/politica/flavio-bolsonaro-divulga-lista-com-47-nomes-para-o-senado",
-    "title": "Flávio Bolsonaro anuncia apoio a Carlos Bolsonaro e Caroline de Toni em Santa Catarina",
-    "guid": "sc1multi:b31786a9a7bf2ca0eee132dd0c96e718c36fc616",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b31786a9a7bf2ca0eee132dd0c96e718c36fc616/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
-  },
-  "source:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c": {
-    "url": "https://ocp.news/cotidiano/clube-fundado-ha-quase-50-anos-ganha-projecao-internacional-com-visitas-de-veleiros-estrangeiros",
-    "title": "Joinville Iate Clube recebe veleiros internacionais e destaca Santa Catarina",
-    "guid": "sc1multi:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a4aadd6237fb59dc61f14b02dc8b517c6a8374c/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
-  },
-  "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
-    "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
-    "title": "Vereador de Criciúma ironiza pedido de lombada na Rua Miguel Patrício de Souza",
-    "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
-  },
-  "source:69b399751f5ef6e740cd0c72cdaf7183d0ea39b3": {
-    "url": "https://tudoaquisc.com.br/seguranca/20-anos-da-lei-maria-da-penha",
-    "title": "Lei Maria da Penha completa 20 anos com aumento de feminicídios em Santa Catarina",
-    "guid": "sc1multi:a949dff647e4057391d522819feee7ae7a1f6e0d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a949dff647e4057391d522819feee7ae7a1f6e0d/",
-    "usedAt": 1786191244171,
-    "usedAtIso": "2026-08-08T12:14:04.171Z"
+  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
+    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
+    "title": "Mais de 400 jovens participam de encontro de voleibol em Jaraguá do Sul",
+    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
   }
 }
