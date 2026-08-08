@@ -9,80 +9,78 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Sat, 08 Aug 2026 07:16:04 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Aug 2026 08:17:09 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Paciente de Taió terá cirurgia de prótese de quadril após espera de cinco anos]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/?rssretry=43</link>
+<title><![CDATA[Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 08 Aug 2026 00:49:57 GMT</pubDate>
+<pubDate>Fri, 07 Aug 2026 20:37:02 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3:rssretry43]]></guid>
-<description><![CDATA[Paciente de Taió conseguiu decisão judicial para realização de cirurgia de revisão de prótese de quadril após cinco anos de espera no SUS.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FTJS.webp%3Foc%3D1786173282" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FTJS.webp%3Foc%3D1786173282" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FTJS.webp%3Foc%3D1786173282"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920:rssretry43]]></guid>
+<description><![CDATA[O Senai de Santa Catarina premiou os vencedores da etapa estadual da WorldSkills em Jaraguá do Sul, que representarão o estado na fase nacional da competição.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FSENAI_world-skills_estudantes-de-SC-classificados.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FSENAI_world-skills_estudantes-de-SC-classificados.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FSENAI_world-skills_estudantes-de-SC-classificados.jpeg"/>
 <content:encoded><![CDATA[
-<p>A Vara Única da comarca de Taió condenou o Estado de Santa Catarina e o Município de Taió a realizarem, em até 30 dias, a cirurgia de revisão com substituição da prótese de quadril de um paciente que aguarda pelo procedimento desde 2021.</p>
-<p>O paciente foi chamado para a cirurgia em maio de 2024, após cerca de três anos de espera, mas o procedimento foi cancelado pela administração pública e ele foi reposicionado na fila atrás de outras 100 pessoas, sem justificativa apresentada.</p>
-<p>Um laudo pericial confirmou que o paciente apresenta luxação da prótese total do quadril direito e possui indicação médica para a cirurgia de revisão.</p>
-<p>O juiz destacou que a demora ultrapassa a alta demanda do sistema e que não é razoável que o paciente tenha que reiniciar toda a espera, violando princípios de razoabilidade e proteção da confiança legítima.</p>
-<p>Além da determinação para a realização da cirurgia, a decisão prevê multa diária de R$ 1 mil para o Estado e o Município em caso de descumprimento, limitada inicialmente a R$ 60 mil.</p>
+<p>Mais de cem estudantes participaram das seletivas realizadas em Jaraguá do Sul, Blumenau, Joinville, Palhoça e São Bento do Sul, competindo em 28 ocupações ligadas à indústria.</p>
+<p>Jaraguá do Sul classificou nove estudantes em diversas áreas, como desenho mecânico em CAD, tornearia a CNC, eletrônica, web design, indústria 4.0, cyber segurança e energias renováveis.</p>
+<p>Os competidores foram avaliados em desafios que simulam situações reais do ambiente industrial, com provas específicas baseadas em padrões internacionais da WorldSkills.</p>
+<p>A cerimônia contou com a presença de representantes da Fiesc, Senai/SC, prefeitos, empresários e líderes regionais, reforçando o apoio à educação profissional no estado.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Dois homens são presos por furto em usina fotovoltaica em São Joaquim]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/?rssretry=43</link>
+<title><![CDATA[Maracajá será base do Exército em casos de calamidade na região da AMESC]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_2da30d49b9517083fe6603ed9fbdcb0d65a3a055/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 08 Aug 2026 00:36:40 GMT</pubDate>
+<pubDate>Fri, 07 Aug 2026 20:32:50 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:25159b829543a025534d4aeb306972ab4123025d:rssretry43]]></guid>
-<description><![CDATA[Dois homens foram presos suspeitos de furto em uma usina fotovoltaica às margens da SC-114, em São Joaquim.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-06-at-21.32.31-576x1024.webp%3Foc%3D1786173283" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-06-at-21.32.31-576x1024.webp%3Foc%3D1786173283" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-06-at-21.32.31-576x1024.webp%3Foc%3D1786173283"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:2da30d49b9517083fe6603ed9fbdcb0d65a3a055:rssretry43]]></guid>
+<description><![CDATA[Maracajá definiu o Parque Ecológico Municipal como ponto de apoio do Exército em situações de calamidade pública.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-07-at-15.27.17.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-07-at-15.27.17.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-07-at-15.27.17.jpeg"/>
 <content:encoded><![CDATA[
-<p>A prisão ocorreu após uma barreira policial em frente ao Posto 21 da Polícia Militar Rodoviária, onde os veículos usados na ação foram localizados transitando em comboio.</p>
-<p>Durante a abordagem, foram encontradas diversas ferramentas e fios queimados nos veículos, além de dois celulares que serão analisados pela Polícia Civil.</p>
-<p>Dois homens, de 38 e 36 anos, foram presos suspeitos de envolvimento em um furto qualificado ocorrido em uma usina fotovoltaica às margens da SC-114, no km 299, em São Joaquim, na Serra Catarinense. A ocorrência é investigada pela Polícia Civil e teve desdobramentos após informações sobre os veículos que teriam sido utilizados na ação.</p>
+<p>O prefeito de Maracajá recebeu representantes do 28º Batalhão de Infantaria Blindado de Criciúma para alinhar ações preventivas contra eventos climáticos extremos.</p>
+<p>Durante a reunião, foram discutidos os impactos do fenômeno El Niño, como chuvas intensas e alagamentos, que podem afetar a região.</p>
+<p>Ficou definido que, em caso de calamidade, o Parque Ecológico Municipal Prefeito Thomaz Pedro da Rocha será a base de operações do Exército para atender Maracajá e municípios da AMESC.</p>
+<p>Autoridades municipais destacaram a importância do planejamento antecipado e da cooperação entre o Exército, a Defesa Civil e a Administração para proteger a população regional.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/?rssretry=43</link>
+<title><![CDATA[Chapecoense é o clube mais simpático de Santa Catarina, aponta pesquisa]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_c65fe8e11690e47e900214e8a457e350a76c4823/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sat, 08 Aug 2026 00:24:46 GMT</pubDate>
+<pubDate>Fri, 07 Aug 2026 20:19:24 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5:rssretry43]]></guid>
-<description><![CDATA[Atualização de Santa Catarina.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FCaptura-de-tela-2026-08-07-212347-1024x586.webp%3Foc%3D1786173283" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FCaptura-de-tela-2026-08-07-212347-1024x586.webp%3Foc%3D1786173283" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FCaptura-de-tela-2026-08-07-212347-1024x586.webp%3Foc%3D1786173283"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:c65fe8e11690e47e900214e8a457e350a76c4823:rssretry43]]></guid>
+<description><![CDATA[Pesquisa realizada em Santa Catarina aponta a Chapecoense como o clube mais simpático do estado.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTORCIDA-CHAPECOENSE-1.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTORCIDA-CHAPECOENSE-1.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTORCIDA-CHAPECOENSE-1.jpg"/>
 <content:encoded><![CDATA[
-<p>A Polícia Militar recebeu uma denúncia sobre possíveis maus-tratos a animais em uma residência em Ibirama.</p>
-<p>No local, os policiais encontraram animais amarrados em condições que caracterizariam maus-tratos.</p>
-<p>Durante a averiguação, o proprietário autorizou a entrada dos policiais na casa, onde foram encontrados cerca de 349 gramas de maconha, nove gramas de cocaína, uma balança de precisão, um celular e R$ 102 em dinheiro.</p>
-<p>O homem foi conduzido à Polícia Civil de Rio do Sul, onde foram tomadas as providências legais cabíveis.</p>
-<p>A ocorrência também será investigada em relação à denúncia de maus-tratos aos animais.</p>
+<p>A Chapecoense lidera o ranking de simpatia entre os clubes catarinenses, com 30,7% das preferências da população local.</p>
+<p>O clube do Oeste também foi o mais citado entre homens e mulheres, além de liderar em todas as faixas etárias pesquisadas.</p>
+<p>A pesquisa ouviu 1.008 pessoas em 100 cidades de Santa Catarina nos dias 22 e 23 de julho de 2026, com margem de erro de 3,1 pontos percentuais.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Massaranduba realiza ações do Agosto Lilás contra violência à mulher]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_c80ee98053eedc352e61fc21514c7dde37203fa1/?rssretry=43</link>
+<title><![CDATA[Posto de combustíveis é interditado em Florianópolis por irregularidades]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 07 Aug 2026 14:44:11 GMT</pubDate>
+<pubDate>Fri, 07 Aug 2026 19:29:18 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:c80ee98053eedc352e61fc21514c7dde37203fa1:rssretry43]]></guid>
-<description><![CDATA[Massaranduba promove durante agosto atividades para conscientizar sobre o combate à violência contra a mulher.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fviolencia-contra-mulheres.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fviolencia-contra-mulheres.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fviolencia-contra-mulheres.jpeg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e:rssretry43]]></guid>
+<description><![CDATA[Um posto de combustíveis em Florianópolis foi interditado pelo Procon Municipal após fiscalização identificar diversas irregularidades.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FPosto-e-interditado-em-Florianopolis-apos-fiscalizacao.png" type="image/png"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FPosto-e-interditado-em-Florianopolis-apos-fiscalizacao.png" medium="image" type="image/png"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FPosto-e-interditado-em-Florianopolis-apos-fiscalizacao.png"/>
 <content:encoded><![CDATA[
-<p>A Secretaria de Assistência Social de Massaranduba está realizando uma série de ações da campanha Agosto Lilás ao longo deste mês.</p>
-<p>As atividades incluem rodas de conversa nas escolas do município, abordando respeito, igualdade e prevenção à violência de gênero.</p>
-<p>No dia 19 de agosto, será realizado um encontro voltado às mulheres com momentos de orientação, acolhimento e troca de experiências.</p>
-<p>A campanha visa incentivar o debate sobre a violência contra a mulher, ampliar o acesso à informação e reforçar a importância da denúncia e da rede de apoio.</p>
-<p>O Agosto Lilás é uma iniciativa nacional que marca o aniversário da Lei Maria da Penha, sancionada em 7 de agosto de 2006.</p>
+<p>A interdição ocorreu na tarde de quinta-feira (6), quando fiscais encontraram indícios de venda de combustíveis sem comprovação de origem e ausência de documentos obrigatórios, como alvarás e licenças.</p>
+<p>O estabelecimento também não apresentou o Livro de Movimentação de Combustíveis (LMC), essencial para o controle da entrada e saída dos produtos comercializados.</p>
+<p>Além disso, foram constatados problemas na emissão de notas fiscais, divergências entre o CNPJ utilizado e os dados cadastrados na Agência Nacional do Petróleo (ANP), e falta das notas fiscais de compra dos combustíveis.</p>
+<p>O Procon determinou a interdição do posto, que permanecerá fechado até a regularização das pendências identificadas durante a fiscalização.</p>
+<p>A medida está prevista no Código de Defesa do Consumidor, que permite a suspensão das atividades de estabelecimentos que descumpram normas de proteção ao consumidor.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
