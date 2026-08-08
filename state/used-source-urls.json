@@ -1,4 +1,52 @@
 {
+  "source:687673ea17ea90800d896546e5886718454d6ad1": {
+    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
+    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
+    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
+  "source:7033c68e0480190913844bf6292a860254975214": {
+    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
+    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
+    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
+  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
+    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
+  "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
+    "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
+    "title": "Vereador de Criciúma ironiza pedido de lombada após pavimentação de rua",
+    "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
+  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
+    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
+    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
+  "source:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-acerta-retorno-de-ala-apos-11-anos",
+    "title": "Dian retorna ao Jaraguá Futsal após 11 anos na Europa",
+    "guid": "sc1multi:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63/",
+    "usedAt": 1786144445162,
+    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  },
   "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
     "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
     "title": "Bombeiros resgatam veículo submerso na Lagoa da Conceição, Florianópolis",
@@ -113,11 +161,11 @@
   },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
-    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de ventos fortes",
+    "title": "Defesa Civil de SC monitora formação de ciclone-bomba no litoral catarinense",
     "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
-    "usedAt": 1786133644381,
-    "usedAtIso": "2026-08-07T20:14:04.381Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:83660bec4cbe20a47a81f358cd2f772852187e46": {
     "url": "https://ocp.news/seguranca/condenado-por-roubo-pela-justica-de-jaragua-do-sul-morre-em-confronto-com-a-pm-no-mato-grosso-do-sul",
@@ -175,100 +223,60 @@
     "usedAt": 1786133644381,
     "usedAtIso": "2026-08-07T20:14:04.381Z"
   },
-  "source:687673ea17ea90800d896546e5886718454d6ad1": {
-    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
-    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
-    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  "source:800a774614cb7b41259b786364ea8b44515125db": {
+    "url": "https://tnsul.com/2026/08/07/motociclista-morre-apos-colisao-na-ponte-anita-garibaldi",
+    "title": "Motociclista morre em colisão na Ponte Anita Garibaldi, em Laguna",
+    "guid": "sc1multi:3f36fd1896591d29802d68be35b236bc59b433b9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f36fd1896591d29802d68be35b236bc59b433b9/",
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
-  "source:7033c68e0480190913844bf6292a860254975214": {
-    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
-    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
-    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
-  },
-  "source:ec461d21665b2f55b1affe474fe933331c0a4679": {
-    "url": "https://ocp.news/seguranca/operacao-na-br-101-apreende-mais-de-r-400-mil-em-mercadorias-e-veiculo-em-garuva",
-    "title": "Operação na BR-101 apreende R$ 400 mil em mercadorias em Garuva",
-    "guid": "sc1multi:ec461d21665b2f55b1affe474fe933331c0a4679",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec461d21665b2f55b1affe474fe933331c0a4679/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
-  },
-  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
-    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
+  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
+    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
+    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:7f1640fdfe68d9dd1f078fd4376ced526c04bc4f": {
     "url": "https://ocp.news/seguranca/pedido-de-ajuda-em-tarefa-termina-em-agressao-entre-funcionarios-em-jaragua-do-sul",
     "title": "Discussão por tarefa termina em agressão entre funcionários em Jaraguá do Sul",
     "guid": "sc1multi:7f1640fdfe68d9dd1f078fd4376ced526c04bc4f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7f1640fdfe68d9dd1f078fd4376ced526c04bc4f/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:f9f01a0f390b1a9f7a3be805f0379625f640f670": {
     "url": "https://ocp.news/cotidiano/floripa-airport-ganha-nova-operacao-da-jetsmart-com-rota-para-cordoba",
-    "title": "JetSMART lança nova rota internacional entre Florianópolis e Córdoba",
+    "title": "Floripa Airport inaugura rota internacional para Córdoba com JetSMART",
     "guid": "sc1multi:f9f01a0f390b1a9f7a3be805f0379625f640f670",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f9f01a0f390b1a9f7a3be805f0379625f640f670/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e": {
     "url": "https://ocp.news/cotidiano/procon-de-florianopolis-interdita-posto-de-combustivel-por-falhas-de-seguranca",
     "title": "Procon de Florianópolis interdita posto de combustível por irregularidades",
     "guid": "sc1multi:423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:273fd6432bdd94e960965e415dde6ec20ff00687": {
     "url": "https://ocp.news/entretenimento/planetadoc-apresenta-mostra-gratuita-de-filmes-vencedores-no-cic-e-amplia-programacao-para-plataformas-digitais",
     "title": "Planetadoc realiza mostra gratuita de filmes premiados em Florianópolis",
     "guid": "sc1multi:273fd6432bdd94e960965e415dde6ec20ff00687",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_273fd6432bdd94e960965e415dde6ec20ff00687/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   },
   "source:69b399751f5ef6e740cd0c72cdaf7183d0ea39b3": {
     "url": "https://tudoaquisc.com.br/seguranca/20-anos-da-lei-maria-da-penha",
     "title": "Lei Maria da Penha completa 20 anos com aumento de feminicídios em Santa Catarina",
     "guid": "sc1multi:a949dff647e4057391d522819feee7ae7a1f6e0d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a949dff647e4057391d522819feee7ae7a1f6e0d/",
-    "usedAt": 1786126444295,
-    "usedAtIso": "2026-08-07T18:14:04.295Z"
-  },
-  "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
-    "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
-    "title": "Vereador de Criciúma ironiza pedido de lombada após pavimentação de rua",
-    "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
-  },
-  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
-    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
-    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
-    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
-  },
-  "source:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-acerta-retorno-de-ala-apos-11-anos",
-    "title": "Dian retorna ao Jaraguá Futsal após 11 anos na Europa",
-    "guid": "sc1multi:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
+    "usedAt": 1786148044914,
+    "usedAtIso": "2026-08-08T00:14:04.914Z"
   }
 }
