@@ -1,4 +1,52 @@
 {
+  "source:687673ea17ea90800d896546e5886718454d6ad1": {
+    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
+    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
+    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
+  "source:7033c68e0480190913844bf6292a860254975214": {
+    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
+    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
+    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
+  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
+    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
+  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
+    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
+    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
+  "source:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-acerta-retorno-de-ala-apos-11-anos",
+    "title": "Dian retorna ao Jaraguá Futsal após 11 anos na Europa",
+    "guid": "sc1multi:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
+  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
+    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
+    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
+    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
+    "usedAt": 1786162444240,
+    "usedAtIso": "2026-08-08T04:14:04.240Z"
+  },
   "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
     "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
     "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição em Florianópolis",
@@ -145,11 +193,11 @@
   },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
-    "title": "Defesa Civil de SC monitora formação de ciclone-bomba no litoral catarinense",
+    "title": "Defesa Civil de SC monitora possível ciclone-bomba no litoral catarinense",
     "guid": "sc1multi:ef20e42c983cd72275963a97a155f491ca030807",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ef20e42c983cd72275963a97a155f491ca030807/",
-    "usedAt": 1786148044914,
-    "usedAtIso": "2026-08-08T00:14:04.914Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   },
   "source:800a774614cb7b41259b786364ea8b44515125db": {
     "url": "https://tnsul.com/2026/08/07/motociclista-morre-apos-colisao-na-ponte-anita-garibaldi",
@@ -177,114 +225,42 @@
   },
   "source:f9f01a0f390b1a9f7a3be805f0379625f640f670": {
     "url": "https://ocp.news/cotidiano/floripa-airport-ganha-nova-operacao-da-jetsmart-com-rota-para-cordoba",
-    "title": "Floripa Airport inaugura rota internacional para Córdoba com JetSMART",
+    "title": "JetSMART lança nova rota internacional entre Florianópolis e Córdoba",
     "guid": "sc1multi:f9f01a0f390b1a9f7a3be805f0379625f640f670",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f9f01a0f390b1a9f7a3be805f0379625f640f670/",
-    "usedAt": 1786148044914,
-    "usedAtIso": "2026-08-08T00:14:04.914Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   },
   "source:423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e": {
     "url": "https://ocp.news/cotidiano/procon-de-florianopolis-interdita-posto-de-combustivel-por-falhas-de-seguranca",
     "title": "Procon de Florianópolis interdita posto de combustível por irregularidades",
     "guid": "sc1multi:423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_423cc38b06edcbb95f9f5ea822598e1d8d9a8b2e/",
-    "usedAt": 1786148044914,
-    "usedAtIso": "2026-08-08T00:14:04.914Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   },
   "source:273fd6432bdd94e960965e415dde6ec20ff00687": {
     "url": "https://ocp.news/entretenimento/planetadoc-apresenta-mostra-gratuita-de-filmes-vencedores-no-cic-e-amplia-programacao-para-plataformas-digitais",
     "title": "Planetadoc realiza mostra gratuita de filmes premiados em Florianópolis",
     "guid": "sc1multi:273fd6432bdd94e960965e415dde6ec20ff00687",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_273fd6432bdd94e960965e415dde6ec20ff00687/",
-    "usedAt": 1786148044914,
-    "usedAtIso": "2026-08-08T00:14:04.914Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   },
   "source:69b399751f5ef6e740cd0c72cdaf7183d0ea39b3": {
     "url": "https://tudoaquisc.com.br/seguranca/20-anos-da-lei-maria-da-penha",
     "title": "Lei Maria da Penha completa 20 anos com aumento de feminicídios em Santa Catarina",
     "guid": "sc1multi:a949dff647e4057391d522819feee7ae7a1f6e0d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a949dff647e4057391d522819feee7ae7a1f6e0d/",
-    "usedAt": 1786148044914,
-    "usedAtIso": "2026-08-08T00:14:04.914Z"
-  },
-  "source:687673ea17ea90800d896546e5886718454d6ad1": {
-    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
-    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
-    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
-  },
-  "source:7033c68e0480190913844bf6292a860254975214": {
-    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
-    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
-    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
-  },
-  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
-    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   },
   "source:c808279c54cbf27575965b8c37ca5b05a6bb2f53": {
     "url": "https://tnsul.com/2026/08/07/vamos-fazer-carro-sem-roda-diz-vereador-apos-pedido-de-lombada",
-    "title": "Vereador de Criciúma ironiza pedido de lombada após pavimentação de rua",
+    "title": "Vereador de Criciúma ironiza pedido de lombada na Rua Miguel Patrício de Souza",
     "guid": "sc1multi:1345dc66e4044c2c9da60fa2e5e3c490fdda4174",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1345dc66e4044c2c9da60fa2e5e3c490fdda4174/",
-    "usedAt": 1786144445162,
-    "usedAtIso": "2026-08-07T23:14:05.162Z"
-  },
-  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
-    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
-    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
-    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
-  },
-  "source:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-acerta-retorno-de-ala-apos-11-anos",
-    "title": "Dian retorna ao Jaraguá Futsal após 11 anos na Europa",
-    "guid": "sc1multi:bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bfdb5441afc61f00b8cd3b79ac618eaf1a70ac63/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
-  },
-  "source:d42015da63fd7c2812d7256974b0df3688893b2e": {
-    "url": "https://scportais.com.br/2026/08/05/setor-de-servicos-lidera-geracao-de-empregos-em-sc-no-1o-semestre",
-    "title": "Setor de serviços lidera geração de empregos em Santa Catarina no 1º semestre",
-    "guid": "sc1multi:eba3182d19ab721017cbcb50180d5e46d56316d0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eba3182d19ab721017cbcb50180d5e46d56316d0/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:0979c9c2ae968b09af667a50a5727459b8b87ea3": {
-    "url": "https://scportais.com.br/2026/08/05/aquicultores-ganham-novo-prazo-para-atualizar-cadastro-e-renovar-licenca",
-    "title": "Prazo para atualização cadastral de aquicultores em Santa Catarina é prorrogado",
-    "guid": "sc1multi:462df542580ed90284d1e6854e93871f4968a331",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_462df542580ed90284d1e6854e93871f4968a331/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:89a2cd98f411893ece321bbfe3c72a225ab1c0f3": {
-    "url": "https://scportais.com.br/2026/08/05/ciclone-bomba-avanca-pelo-sul-do-brasil-entenda-os-impactos-e-areas-de-risco",
-    "title": "Ciclone-bomba provoca ventos fortes e queda de temperatura em Santa Catarina",
-    "guid": "sc1multi:83595a9bfb7086df917452b2af585e04aa52c59f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83595a9bfb7086df917452b2af585e04aa52c59f/",
-    "usedAt": 1786140845002,
-    "usedAtIso": "2026-08-07T22:14:05.002Z"
-  },
-  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
-    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
-    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
-    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
+    "usedAt": 1786166047602,
+    "usedAtIso": "2026-08-08T05:14:07.602Z"
   }
 }
