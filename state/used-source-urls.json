@@ -1,4 +1,60 @@
 {
+  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
+    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
+    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
+    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:64ddec3c4503578b433c2bdb8ba4ad577f085889": {
+    "url": "https://tnsul.com/2026/08/07/balneario-arroio-do-silva-sedia-jogos-de-handebol-da-olesc",
+    "title": "Balneário Arroio do Silva recebe jogos de handebol da Olesc",
+    "guid": "sc1multi:704db7df16bcf4927b6f9ee2cd2ea91d18b50eb0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_704db7df16bcf4927b6f9ee2cd2ea91d18b50eb0/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
+    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
+    "title": "Contorno de Florianópolis terá bloqueio neste domingo para atividade operacional",
+    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
+    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
+    "title": "Mais de 400 jovens participam de encontro de voleibol em Jaraguá do Sul",
+    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
+    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
+    "title": "Paciente de Taió aguarda cirurgia de prótese de quadril há cinco anos",
+    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:9d3ca1d934d324f99a8eb917444661c0d4441679": {
+    "url": "https://rbatv.com.br/noticias/dois-homens-sao-presos-suspeitos-de-furto-em-usina-fotovoltaica-em-sao-joaquim",
+    "title": "Dois homens são presos por furto em usina fotovoltaica em São Joaquim",
+    "guid": "sc1multi:25159b829543a025534d4aeb306972ab4123025d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
+  "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
+    "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
+    "title": "Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama",
+    "guid": "sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/",
+    "usedAt": 1786151646099,
+    "usedAtIso": "2026-08-08T01:14:06.099Z"
+  },
   "source:b924ec9ad02ab1b53ffc02e330e2e32fa918cb02": {
     "url": "https://correiosc.com.br/defesa-civil-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil",
     "title": "Defesa Civil de SC monitora formação de ciclone-bomba no litoral catarinense",
@@ -167,53 +223,45 @@
     "usedAt": 1786140845002,
     "usedAtIso": "2026-08-07T22:14:05.002Z"
   },
-  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
-    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
-    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
-    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
   "source:c80ee98053eedc352e61fc21514c7dde37203fa1": {
     "url": "https://ocp.news/cotidiano/massaranduba1-promove-acoes-do-agosto-lilas-para-conscientizar-sobre-o-combate-a-violencia-contra-a-mulher",
     "title": "Massaranduba realiza ações do Agosto Lilás contra violência à mulher",
     "guid": "sc1multi:c80ee98053eedc352e61fc21514c7dde37203fa1",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c80ee98053eedc352e61fc21514c7dde37203fa1/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786155244871,
+    "usedAtIso": "2026-08-08T02:14:04.871Z"
   },
   "source:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7": {
     "url": "https://ocp.news/politica/palestra1-em-schroeder-debate-20-anos-da-lei-maria-da-penha-e-lanca-curso-de-defesa-pessoal-para-mulheres",
     "title": "Schroeder celebra 20 anos da Lei Maria da Penha com palestra e curso de defesa pessoal",
     "guid": "sc1multi:ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ebf6d4e71e6d3bea4bd064e2050121dba94bb5b7/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786155244871,
+    "usedAtIso": "2026-08-08T02:14:04.871Z"
   },
   "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
     "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
     "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
     "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786155244871,
+    "usedAtIso": "2026-08-08T02:14:04.871Z"
   },
   "source:83d93076dc7a5e21d114a0268b0edae4f08c2470": {
     "url": "https://tnsul.com/2026/08/07/maracaja-pode-ser-ponto-para-atuacao-do-exercito-em-casos-de-calamidade",
-    "title": "Maracajá será base do Exército em casos de calamidade na região da AMESC",
+    "title": "Maracajá será base do Exército em casos de calamidade na região",
     "guid": "sc1multi:2da30d49b9517083fe6603ed9fbdcb0d65a3a055",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2da30d49b9517083fe6603ed9fbdcb0d65a3a055/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786155244871,
+    "usedAtIso": "2026-08-08T02:14:04.871Z"
   },
   "source:c65fe8e11690e47e900214e8a457e350a76c4823": {
     "url": "https://ocp.news/esporte/chapecoense-e-apontada-como-o-clube-mais-simpatico-de-santa-catarina",
     "title": "Chapecoense é eleita clube mais simpático de Santa Catarina",
     "guid": "sc1multi:c65fe8e11690e47e900214e8a457e350a76c4823",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c65fe8e11690e47e900214e8a457e350a76c4823/",
-    "usedAt": 1786137244104,
-    "usedAtIso": "2026-08-07T21:14:04.104Z"
+    "usedAt": 1786155244871,
+    "usedAtIso": "2026-08-08T02:14:04.871Z"
   },
   "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
     "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
@@ -222,85 +270,5 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
     "usedAt": 1786137244104,
     "usedAtIso": "2026-08-07T21:14:04.104Z"
-  },
-  "source:83660bec4cbe20a47a81f358cd2f772852187e46": {
-    "url": "https://ocp.news/seguranca/condenado-por-roubo-pela-justica-de-jaragua-do-sul-morre-em-confronto-com-a-pm-no-mato-grosso-do-sul",
-    "title": "Homem com mandado de prisão de Jaraguá do Sul morre em confronto no MS",
-    "guid": "sc1multi:83660bec4cbe20a47a81f358cd2f772852187e46",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83660bec4cbe20a47a81f358cd2f772852187e46/",
-    "usedAt": 1786133644381,
-    "usedAtIso": "2026-08-07T20:14:04.381Z"
-  },
-  "source:31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5": {
-    "url": "https://ocp.news/economia/sc-realiza-missao-para-buscar-parcerias-estrategicas-com-paraguai",
-    "title": "Santa Catarina realiza missão oficial para fortalecer parcerias com Paraguai",
-    "guid": "sc1multi:31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31b9cd0fab1b7eae44f7059f0d9cbe1b63fa60d5/",
-    "usedAt": 1786133644381,
-    "usedAtIso": "2026-08-07T20:14:04.381Z"
-  },
-  "source:3c5ab9f0508cca455e59cfd50d983b259235c68c": {
-    "url": "https://ocp.news/cotidiano/florianopolis-lidera-crescimento-do-ideb-entre-as-capitais-e-registra-avanco-historico-na-aprendizagem",
-    "title": "Florianópolis lidera crescimento do Ideb entre capitais brasileiras",
-    "guid": "sc1multi:3c5ab9f0508cca455e59cfd50d983b259235c68c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c5ab9f0508cca455e59cfd50d983b259235c68c/",
-    "usedAt": 1786133644381,
-    "usedAtIso": "2026-08-07T20:14:04.381Z"
-  },
-  "source:64ddec3c4503578b433c2bdb8ba4ad577f085889": {
-    "url": "https://tnsul.com/2026/08/07/balneario-arroio-do-silva-sedia-jogos-de-handebol-da-olesc",
-    "title": "Balneário Arroio do Silva recebe jogos de handebol da Olesc",
-    "guid": "sc1multi:704db7df16bcf4927b6f9ee2cd2ea91d18b50eb0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_704db7df16bcf4927b6f9ee2cd2ea91d18b50eb0/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
-  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
-    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
-    "title": "Contorno de Florianópolis terá bloqueio neste domingo para atividade operacional",
-    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
-  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
-    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
-    "title": "Mais de 400 jovens participam de encontro de voleibol em Jaraguá do Sul",
-    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
-  "source:641a5b0d95f1c8cc0f8820f9fd5446c47dae539d": {
-    "url": "https://tnsul.com/2026/08/07/ex-prefeito-de-capivari-de-baixo-e-condenado-a-mais-de-13-anos-de-prisao",
-    "title": "Ex-prefeito de Capivari de Baixo é condenado a mais de 13 anos de prisão",
-    "guid": "sc1multi:f21e291f1081505cd245676fa0cb2cd921388718",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f21e291f1081505cd245676fa0cb2cd921388718/",
-    "usedAt": 1786133644381,
-    "usedAtIso": "2026-08-07T20:14:04.381Z"
-  },
-  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
-    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
-    "title": "Paciente de Taió aguarda cirurgia de prótese de quadril há cinco anos",
-    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
-  "source:9d3ca1d934d324f99a8eb917444661c0d4441679": {
-    "url": "https://rbatv.com.br/noticias/dois-homens-sao-presos-suspeitos-de-furto-em-usina-fotovoltaica-em-sao-joaquim",
-    "title": "Dois homens são presos por furto em usina fotovoltaica em São Joaquim",
-    "guid": "sc1multi:25159b829543a025534d4aeb306972ab4123025d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
-  },
-  "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
-    "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
-    "title": "Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama",
-    "guid": "sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/",
-    "usedAt": 1786151646099,
-    "usedAtIso": "2026-08-08T01:14:06.099Z"
   }
 }
