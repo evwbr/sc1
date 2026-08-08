@@ -1,4 +1,44 @@
 {
+  "source:cf6cdb676cd11fa143a8d424c13a080499aca511": {
+    "url": "https://ocp.news/cotidiano/a-briga-pelo-cargo-que-ninguem-elege-mas-todo-mundo-quer-de-mao-beijada",
+    "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
+    "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
+    "usedAt": 1786227244387,
+    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  },
+  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
+    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
+    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
+    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
+    "usedAt": 1786227244387,
+    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  },
+  "source:44fcb60ea1090c220ef3d8c6984874596029be46": {
+    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-microtrator-mobiliza-bombeiros-na-sc-110-em-petrolandia",
+    "title": "Acidente entre carro e microtrator mobiliza bombeiros na SC-110 em Petrolândia",
+    "guid": "sc1multi:c2c617adba8ecc08f5923b1b7df7822716092f7d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2c617adba8ecc08f5923b1b7df7822716092f7d/",
+    "usedAt": 1786227244387,
+    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  },
+  "source:395efaaa690685bdd4418375dae471acafdab5d6": {
+    "url": "https://ocp.news/esporte/de-olho-no-quinto-lugar-jaragua-futsal-fecha-primeira-fase-da-lnf-contra-time-paulista",
+    "title": "Jaraguá Futsal busca quinto lugar na Liga Nacional contra Santo André",
+    "guid": "sc1multi:395efaaa690685bdd4418375dae471acafdab5d6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_395efaaa690685bdd4418375dae471acafdab5d6/",
+    "usedAt": 1786227244387,
+    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  },
+  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
+    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
+    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
+    "usedAt": 1786227244387,
+    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  },
   "source:87c610d9a7ec74fa8fb1639659f03c55fc057e37": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-vence-em-sua-estreia-na-superliga-masculina-de-voleibol",
     "title": "Jaraguá do Sul vence na estreia da Superliga Masculina de Voleibol",
@@ -180,40 +220,40 @@
     "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
     "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
   "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
     "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
     "title": "Homem com mandado de prisão é preso em Atalanta, SC",
     "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
   "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
     "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
     "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
     "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
   "source:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497": {
     "url": "https://ocp.news/seguranca/homem-invade-casas-assusta-moradores-e-morre-pouco-depois-em-guaramirim",
     "title": "Homem invade casas e morre em Guaramirim após perturbar moradores",
     "guid": "sc1multi:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
   "source:86c1750c7027114a9505598fc11844e76683dd9f": {
     "url": "https://rbatv.com.br/noticias/acidente-entre-dois-veiculos-deixa-feridos-na-br-470-em-rio-do-sul",
-    "title": "Colisão entre dois carros deixa feridos na BR-470 em Rio do Sul",
+    "title": "Colisão entre dois veículos deixa feridos na BR-470 em Rio do Sul",
     "guid": "sc1multi:3651630c3711817b5c3c89fdb04a10946e5ffb2c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3651630c3711817b5c3c89fdb04a10946e5ffb2c/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
   "source:d7731c2997f5e5f3c0710837c54c835346deeaaa": {
     "url": "https://tnsul.com/2026/08/08/criciuma-futsal-busca-a-primeira-vitoria-no-brasileiro",
@@ -223,60 +263,20 @@
     "usedAt": 1786212844526,
     "usedAtIso": "2026-08-08T18:14:04.526Z"
   },
-  "source:cf6cdb676cd11fa143a8d424c13a080499aca511": {
-    "url": "https://ocp.news/cotidiano/a-briga-pelo-cargo-que-ninguem-elege-mas-todo-mundo-quer-de-mao-beijada",
-    "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
-    "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
-    "usedAt": 1786227244387,
-    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  "source:bbc1b4369efa2ef951473d8918c59bfb7a587b04": {
+    "url": "https://rbatv.com.br/noticias/motociclista-morre-apos-grave-acidente-na-sc-350-em-ituporanga",
+    "title": "Motociclista morre em acidente na SC-350 em Ituporanga",
+    "guid": "sc1multi:d0a1501843d5e38439899aaf5b9ca14965a5ec25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d0a1501843d5e38439899aaf5b9ca14965a5ec25/",
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   },
-  "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
-    "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
-    "title": "Santa Catarina registra avanço em todos os indicadores do Ideb 2025",
-    "guid": "sc1multi:7037725dacbaa7fa3acff882178f5f00c904bf01",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7037725dacbaa7fa3acff882178f5f00c904bf01/",
-    "usedAt": 1786227244387,
-    "usedAtIso": "2026-08-08T22:14:04.387Z"
-  },
-  "source:44fcb60ea1090c220ef3d8c6984874596029be46": {
-    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-microtrator-mobiliza-bombeiros-na-sc-110-em-petrolandia",
-    "title": "Acidente entre carro e microtrator mobiliza bombeiros na SC-110 em Petrolândia",
-    "guid": "sc1multi:c2c617adba8ecc08f5923b1b7df7822716092f7d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2c617adba8ecc08f5923b1b7df7822716092f7d/",
-    "usedAt": 1786227244387,
-    "usedAtIso": "2026-08-08T22:14:04.387Z"
-  },
-  "source:395efaaa690685bdd4418375dae471acafdab5d6": {
-    "url": "https://ocp.news/esporte/de-olho-no-quinto-lugar-jaragua-futsal-fecha-primeira-fase-da-lnf-contra-time-paulista",
-    "title": "Jaraguá Futsal busca quinto lugar na Liga Nacional contra Santo André",
-    "guid": "sc1multi:395efaaa690685bdd4418375dae471acafdab5d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_395efaaa690685bdd4418375dae471acafdab5d6/",
-    "usedAt": 1786227244387,
-    "usedAtIso": "2026-08-08T22:14:04.387Z"
-  },
-  "source:d140e4fda18782afb1beb40af6e8ac0246895afb": {
-    "url": "https://tudoaquisc.com.br/esporte/adiee-ginastica-artistica",
-    "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
-    "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786209244291,
-    "usedAtIso": "2026-08-08T17:14:04.291Z"
-  },
-  "source:687673ea17ea90800d896546e5886718454d6ad1": {
-    "url": "https://scportais.com.br/2026/08/06/eleicoes-2026-veja-os-candidatos-confirmados-ao-governo-de-sc",
-    "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
-    "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786209244291,
-    "usedAtIso": "2026-08-08T17:14:04.291Z"
-  },
-  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
-    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
-    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
-    "usedAt": 1786227244387,
-    "usedAtIso": "2026-08-08T22:14:04.387Z"
+  "source:5ce2803fd849f2cedbcdb35756181bacd6307026": {
+    "url": "https://ocp.news/seguranca/empresario-e-preso-com-3-toneladas-de-cabos-eletricos-furtados-em-schroeder",
+    "title": "Empresário é preso com três toneladas de cabos elétricos furtados em Schroeder",
+    "guid": "sc1multi:5ce2803fd849f2cedbcdb35756181bacd6307026",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ce2803fd849f2cedbcdb35756181bacd6307026/",
+    "usedAt": 1786230845615,
+    "usedAtIso": "2026-08-08T23:14:05.615Z"
   }
 }
