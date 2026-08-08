@@ -1,4 +1,44 @@
 {
+  "source:9d3ca1d934d324f99a8eb917444661c0d4441679": {
+    "url": "https://rbatv.com.br/noticias/dois-homens-sao-presos-suspeitos-de-furto-em-usina-fotovoltaica-em-sao-joaquim",
+    "title": "Dois homens são presos por furto em usina fotovoltaica em São Joaquim",
+    "guid": "sc1multi:25159b829543a025534d4aeb306972ab4123025d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
+  },
+  "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
+    "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
+    "title": "Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama",
+    "guid": "sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
+  },
+  "source:800a774614cb7b41259b786364ea8b44515125db": {
+    "url": "https://tnsul.com/2026/08/07/motociclista-morre-apos-colisao-na-ponte-anita-garibaldi",
+    "title": "Motociclista morre em colisão na Ponte Anita Garibaldi, em Laguna",
+    "guid": "sc1multi:3f36fd1896591d29802d68be35b236bc59b433b9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f36fd1896591d29802d68be35b236bc59b433b9/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
+  },
+  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
+    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
+    "title": "Contorno de Florianópolis terá bloqueios e desvios neste domingo",
+    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
+  },
+  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
+    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
+    "title": "Mais de 400 jovens participam de encontro de voleibol em Jaraguá do Sul",
+    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
+    "usedAt": 1786198443982,
+    "usedAtIso": "2026-08-08T14:14:03.982Z"
+  },
   "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
     "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
     "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
@@ -175,76 +215,28 @@
     "usedAt": 1786180444803,
     "usedAtIso": "2026-08-08T09:14:04.803Z"
   },
+  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
+    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
+    "title": "Paciente de Taió aguarda cirurgia de prótese de quadril há cinco anos",
+    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
+    "usedAt": 1786202044312,
+    "usedAtIso": "2026-08-08T15:14:04.312Z"
+  },
   "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
     "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
     "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
     "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
-    "usedAt": 1786176844178,
-    "usedAtIso": "2026-08-08T08:14:04.178Z"
-  },
-  "source:83d93076dc7a5e21d114a0268b0edae4f08c2470": {
-    "url": "https://tnsul.com/2026/08/07/maracaja-pode-ser-ponto-para-atuacao-do-exercito-em-casos-de-calamidade",
-    "title": "Maracajá será base do Exército em casos de calamidade na região da AMESC",
-    "guid": "sc1multi:2da30d49b9517083fe6603ed9fbdcb0d65a3a055",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2da30d49b9517083fe6603ed9fbdcb0d65a3a055/",
-    "usedAt": 1786176844178,
-    "usedAtIso": "2026-08-08T08:14:04.178Z"
+    "usedAt": 1786202044312,
+    "usedAtIso": "2026-08-08T15:14:04.312Z"
   },
   "source:c65fe8e11690e47e900214e8a457e350a76c4823": {
     "url": "https://ocp.news/esporte/chapecoense-e-apontada-como-o-clube-mais-simpatico-de-santa-catarina",
-    "title": "Chapecoense é o clube mais simpático de Santa Catarina, aponta pesquisa",
+    "title": "Chapecoense é o clube mais simpático entre catarinenses, aponta pesquisa",
     "guid": "sc1multi:c65fe8e11690e47e900214e8a457e350a76c4823",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c65fe8e11690e47e900214e8a457e350a76c4823/",
-    "usedAt": 1786176844178,
-    "usedAtIso": "2026-08-08T08:14:04.178Z"
-  },
-  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
-    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
-    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
-    "usedAt": 1786176844178,
-    "usedAtIso": "2026-08-08T08:14:04.178Z"
-  },
-  "source:9d3ca1d934d324f99a8eb917444661c0d4441679": {
-    "url": "https://rbatv.com.br/noticias/dois-homens-sao-presos-suspeitos-de-furto-em-usina-fotovoltaica-em-sao-joaquim",
-    "title": "Dois homens são presos por furto em usina fotovoltaica em São Joaquim",
-    "guid": "sc1multi:25159b829543a025534d4aeb306972ab4123025d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_25159b829543a025534d4aeb306972ab4123025d/",
-    "usedAt": 1786198443982,
-    "usedAtIso": "2026-08-08T14:14:03.982Z"
-  },
-  "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
-    "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
-    "title": "Denúncia de maus-tratos leva à prisão e apreensão de drogas em Ibirama",
-    "guid": "sc1multi:cec497561430e61cd8ee60d9e85a22d2f3b66da5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cec497561430e61cd8ee60d9e85a22d2f3b66da5/",
-    "usedAt": 1786198443982,
-    "usedAtIso": "2026-08-08T14:14:03.982Z"
-  },
-  "source:800a774614cb7b41259b786364ea8b44515125db": {
-    "url": "https://tnsul.com/2026/08/07/motociclista-morre-apos-colisao-na-ponte-anita-garibaldi",
-    "title": "Motociclista morre em colisão na Ponte Anita Garibaldi, em Laguna",
-    "guid": "sc1multi:3f36fd1896591d29802d68be35b236bc59b433b9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f36fd1896591d29802d68be35b236bc59b433b9/",
-    "usedAt": 1786198443982,
-    "usedAtIso": "2026-08-08T14:14:03.982Z"
-  },
-  "source:7a294093bca5216e40352db7d538b5d48ed1093f": {
-    "url": "https://ocp.news/cotidiano/contorno-de-florianopolis-tera-bloqueio-neste-domingo-confira-o-trecho",
-    "title": "Contorno de Florianópolis terá bloqueios e desvios neste domingo",
-    "guid": "sc1multi:7a294093bca5216e40352db7d538b5d48ed1093f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a294093bca5216e40352db7d538b5d48ed1093f/",
-    "usedAt": 1786198443982,
-    "usedAtIso": "2026-08-08T14:14:03.982Z"
-  },
-  "source:9ce686a0a6e60723d95f9cb6eff97a79c626c007": {
-    "url": "https://ocp.news/esporte/mais-de-400-jovens-participam-de-evento-de-voleibol-em-jaragua-do-sul",
-    "title": "Mais de 400 jovens participam de encontro de voleibol em Jaraguá do Sul",
-    "guid": "sc1multi:9ce686a0a6e60723d95f9cb6eff97a79c626c007",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ce686a0a6e60723d95f9cb6eff97a79c626c007/",
-    "usedAt": 1786198443982,
-    "usedAtIso": "2026-08-08T14:14:03.982Z"
+    "usedAt": 1786202044312,
+    "usedAtIso": "2026-08-08T15:14:04.312Z"
   }
 }
