@@ -1,4 +1,28 @@
 {
+  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
+    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
+    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
+    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
+    "usedAt": 1786180444803,
+    "usedAtIso": "2026-08-08T09:14:04.803Z"
+  },
+  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
+    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
+    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
+    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
+    "usedAt": 1786180444803,
+    "usedAtIso": "2026-08-08T09:14:04.803Z"
+  },
+  "source:87c610d9a7ec74fa8fb1639659f03c55fc057e37": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-vence-em-sua-estreia-na-superliga-masculina-de-voleibol",
+    "title": "Jaraguá do Sul vence na estreia da Superliga Masculina de Voleibol",
+    "guid": "sc1multi:87c610d9a7ec74fa8fb1639659f03c55fc057e37",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_87c610d9a7ec74fa8fb1639659f03c55fc057e37/",
+    "usedAt": 1786180444803,
+    "usedAtIso": "2026-08-08T09:14:04.803Z"
+  },
   "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
     "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
     "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
@@ -164,8 +188,8 @@
     "title": "Oito candidatos confirmados para o governo de Santa Catarina em 2026",
     "guid": "sc1multi:052d263093932787eedb6f5e0cafcdfa5d1d5de8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_052d263093932787eedb6f5e0cafcdfa5d1d5de8/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
+    "usedAt": 1786184044229,
+    "usedAtIso": "2026-08-08T10:14:04.229Z"
   },
   "source:7033c68e0480190913844bf6292a860254975214": {
     "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
@@ -204,55 +228,31 @@
     "title": "Equipe de Florianópolis disputa Campeonato Brasileiro de Ginástica Artística",
     "guid": "sc1multi:6bd3d85413ecc2e2917f9d45311481b315e826b6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6bd3d85413ecc2e2917f9d45311481b315e826b6/",
-    "usedAt": 1786162444240,
-    "usedAtIso": "2026-08-08T04:14:04.240Z"
+    "usedAt": 1786184044229,
+    "usedAtIso": "2026-08-08T10:14:04.229Z"
   },
-  "source:042cd38ee58ff5090da0efe5b91827e6ea4c310e": {
-    "url": "https://correiosc.com.br/bombeiros-resgatam-veiculo-lagoa-da-conceicao",
-    "title": "Bombeiros resgatam carro submerso na Lagoa da Conceição, Florianópolis",
-    "guid": "sc1multi:160c41fae085d333a909878fb45e89d6e1215d4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_160c41fae085d333a909878fb45e89d6e1215d4c/",
-    "usedAt": 1786180444803,
-    "usedAtIso": "2026-08-08T09:14:04.803Z"
+  "source:d7731c2997f5e5f3c0710837c54c835346deeaaa": {
+    "url": "https://tnsul.com/2026/08/08/criciuma-futsal-busca-a-primeira-vitoria-no-brasileiro",
+    "title": "Criciúma Futsal busca primeira vitória no Campeonato Brasileiro em casa",
+    "guid": "sc1multi:187f31bae6fa0643716477ff9a10cdbaf23bc109",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_187f31bae6fa0643716477ff9a10cdbaf23bc109/",
+    "usedAt": 1786184044229,
+    "usedAtIso": "2026-08-08T10:14:04.229Z"
   },
-  "source:eb7935cebb983d36905fa12d9b3fe859c86ef114": {
-    "url": "https://scportais.com.br/2026/08/06/defesa-civil-de-sc-monitora-formacao-de-ciclone-bomba-no-sul-do-brasil-entenda-como-o-fenomeno-se-forma-e-quais-os-impactos-no-estado",
-    "title": "Defesa Civil de SC monitora ciclone-bomba com potencial de temporais no estado",
-    "guid": "sc1multi:8bd4173742439c786596b18a302c5ab6d18cf40e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8bd4173742439c786596b18a302c5ab6d18cf40e/",
-    "usedAt": 1786180444803,
-    "usedAtIso": "2026-08-08T09:14:04.803Z"
-  },
-  "source:5827fad2814a4450e437867c25114a059c815743": {
-    "url": "https://scportais.com.br/2026/08/06/pelo-estado-06-08-nao-deu-para-zanatta-na-chapa-com-flavio-bolsonaro",
-    "title": "Cohab-SC pode ser extinta e políticas passam para Secretaria de Assistência Social",
-    "guid": "sc1multi:7de8c8bdbf3cda3665950bd60241ef49f7bc86ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7de8c8bdbf3cda3665950bd60241ef49f7bc86ef/",
-    "usedAt": 1786158846238,
-    "usedAtIso": "2026-08-08T03:14:06.238Z"
+  "source:cf6cdb676cd11fa143a8d424c13a080499aca511": {
+    "url": "https://ocp.news/cotidiano/a-briga-pelo-cargo-que-ninguem-elege-mas-todo-mundo-quer-de-mao-beijada",
+    "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
+    "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
+    "usedAt": 1786184044229,
+    "usedAtIso": "2026-08-08T10:14:04.229Z"
   },
   "source:395efaaa690685bdd4418375dae471acafdab5d6": {
     "url": "https://ocp.news/esporte/de-olho-no-quinto-lugar-jaragua-futsal-fecha-primeira-fase-da-lnf-contra-time-paulista",
     "title": "Jaraguá Futsal busca quinto lugar na Liga Nacional contra Santo André",
     "guid": "sc1multi:395efaaa690685bdd4418375dae471acafdab5d6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_395efaaa690685bdd4418375dae471acafdab5d6/",
-    "usedAt": 1786158846238,
-    "usedAtIso": "2026-08-08T03:14:06.238Z"
-  },
-  "source:87c610d9a7ec74fa8fb1639659f03c55fc057e37": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-vence-em-sua-estreia-na-superliga-masculina-de-voleibol",
-    "title": "Jaraguá do Sul vence na estreia da Superliga Masculina de Voleibol",
-    "guid": "sc1multi:87c610d9a7ec74fa8fb1639659f03c55fc057e37",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_87c610d9a7ec74fa8fb1639659f03c55fc057e37/",
-    "usedAt": 1786180444803,
-    "usedAtIso": "2026-08-08T09:14:04.803Z"
-  },
-  "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
-    "title": "Programa beneficia 100 pescadores artesanais em Biguaçu, SC",
-    "guid": "sc1multi:c2b71162b30694ea0456b788f7725565b1f50a85",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
-    "usedAt": 1786158846238,
-    "usedAtIso": "2026-08-08T03:14:06.238Z"
+    "usedAt": 1786184044229,
+    "usedAtIso": "2026-08-08T10:14:04.229Z"
   }
 }
