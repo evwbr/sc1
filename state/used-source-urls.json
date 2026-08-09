@@ -1,4 +1,52 @@
 {
+  "source:cf6cdb676cd11fa143a8d424c13a080499aca511": {
+    "url": "https://ocp.news/cotidiano/a-briga-pelo-cargo-que-ninguem-elege-mas-todo-mundo-quer-de-mao-beijada",
+    "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
+    "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
+  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
+    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
+    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
+  "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
+    "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
+    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
+    "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
+  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
+    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
+    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
+    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
+  "source:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355": {
+    "url": "https://ocp.news/seguranca/identificado-homem-que-morreu-apos-surto-em-guaramirim-no-sabado-8",
+    "title": "Homem morre após surto no bairro Figueirinha em Guaramirim",
+    "guid": "sc1multi:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7d9d948c36bd5b829e5c9a22bf3e52b40e40355/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
+  "source:c107348d05812315803ba01ef4d150fe0a19905b": {
+    "url": "https://tnsul.com/2026/08/08/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-lixo-na-quarta-linha",
+    "title": "Mutirão de Limpeza recolhe três toneladas de lixo na Quarta Linha em Criciúma",
+    "guid": "sc1multi:b88a65f3a489416e432fa10a61dafe22cf1f05d2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b88a65f3a489416e432fa10a61dafe22cf1f05d2/",
+    "usedAt": 1786281244254,
+    "usedAtIso": "2026-08-09T13:14:04.254Z"
+  },
   "source:474563ccb113119f6c3942897409e0eeddddd835": {
     "url": "https://tnsul.com/2026/08/09/tigre-busca-pontos-para-manter-distancia-na-lideranca-da-serie-b",
     "title": "Criciúma busca manter liderança da Série B em jogo contra Athletic-MG",
@@ -127,164 +175,28 @@
     "usedAt": 1786274044282,
     "usedAtIso": "2026-08-09T11:14:04.282Z"
   },
-  "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
-    "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
-    "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
-  },
-  "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
-    "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
-    "title": "Homem com mandado de prisão é preso em Atalanta, SC",
-    "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
-  },
-  "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
-    "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
-    "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
+  "source:a53e2c2bd7fcd69949c88518802786449f5a8e70": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-se-aproxima-de-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
+    "title": "Jaraguá do Sul lidera fase Regional Sul da Superliga C Masculina de Voleibol",
+    "guid": "sc1multi:a53e2c2bd7fcd69949c88518802786449f5a8e70",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a53e2c2bd7fcd69949c88518802786449f5a8e70/",
+    "usedAt": 1786288448185,
+    "usedAtIso": "2026-08-09T15:14:08.185Z"
   },
   "source:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497": {
     "url": "https://ocp.news/seguranca/homem-invade-casas-assusta-moradores-e-morre-pouco-depois-em-guaramirim",
     "title": "Homem invade casas e morre após confusão em Guaramirim",
     "guid": "sc1multi:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
-  },
-  "source:bbc1b4369efa2ef951473d8918c59bfb7a587b04": {
-    "url": "https://rbatv.com.br/noticias/motociclista-morre-apos-grave-acidente-na-sc-350-em-ituporanga",
-    "title": "Motociclista morre em acidente na SC-350 em Ituporanga",
-    "guid": "sc1multi:d0a1501843d5e38439899aaf5b9ca14965a5ec25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d0a1501843d5e38439899aaf5b9ca14965a5ec25/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
-  },
-  "source:5ce2803fd849f2cedbcdb35756181bacd6307026": {
-    "url": "https://ocp.news/seguranca/empresario-e-preso-com-3-toneladas-de-cabos-eletricos-furtados-em-schroeder",
-    "title": "Empresário é preso com três toneladas de cabos elétricos furtados em Schroeder",
-    "guid": "sc1multi:5ce2803fd849f2cedbcdb35756181bacd6307026",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ce2803fd849f2cedbcdb35756181bacd6307026/",
-    "usedAt": 1786266844394,
-    "usedAtIso": "2026-08-09T09:14:04.394Z"
-  },
-  "source:7033c68e0480190913844bf6292a860254975214": {
-    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
-    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
-    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
+    "usedAt": 1786288448185,
+    "usedAtIso": "2026-08-09T15:14:08.185Z"
   },
   "source:86c1750c7027114a9505598fc11844e76683dd9f": {
     "url": "https://rbatv.com.br/noticias/acidente-entre-dois-veiculos-deixa-feridos-na-br-470-em-rio-do-sul",
-    "title": "Colisão entre dois carros deixa feridos na BR-470 em Rio do Sul",
+    "title": "Colisão entre dois veículos deixa feridos na BR-470 em Rio do Sul",
     "guid": "sc1multi:3651630c3711817b5c3c89fdb04a10946e5ffb2c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3651630c3711817b5c3c89fdb04a10946e5ffb2c/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
-  },
-  "source:44fcb60ea1090c220ef3d8c6984874596029be46": {
-    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-microtrator-mobiliza-bombeiros-na-sc-110-em-petrolandia",
-    "title": "Acidente entre carro e microtrator mobiliza bombeiros na SC-110 em Petrolândia",
-    "guid": "sc1multi:c2c617adba8ecc08f5923b1b7df7822716092f7d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2c617adba8ecc08f5923b1b7df7822716092f7d/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
-  },
-  "source:a8ba97d7f1fe2c637ee9ae7ac214a695aa149013": {
-    "url": "https://tnsul.com/2026/08/08/motorista-de-aplicativo-e-preso-por-conduzir-veiculo-roubado-em-criciuma",
-    "title": "Motorista de aplicativo é preso por dirigir carro roubado em Criciúma",
-    "guid": "sc1multi:7e6329a4c59db06d25b00cf8a9b08d20ad411503",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e6329a4c59db06d25b00cf8a9b08d20ad411503/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
-  },
-  "source:a53e2c2bd7fcd69949c88518802786449f5a8e70": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-se-aproxima-de-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
-    "title": "Jaraguá do Sul lidera fase Regional Sul da Superliga C Masculina de Voleibol",
-    "guid": "sc1multi:a53e2c2bd7fcd69949c88518802786449f5a8e70",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a53e2c2bd7fcd69949c88518802786449f5a8e70/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
-  },
-  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
-    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
-    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
-    "usedAt": 1786263244072,
-    "usedAtIso": "2026-08-09T08:14:04.072Z"
-  },
-  "source:cf6cdb676cd11fa143a8d424c13a080499aca511": {
-    "url": "https://ocp.news/cotidiano/a-briga-pelo-cargo-que-ninguem-elege-mas-todo-mundo-quer-de-mao-beijada",
-    "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
-    "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
-  },
-  "source:395efaaa690685bdd4418375dae471acafdab5d6": {
-    "url": "https://ocp.news/esporte/de-olho-no-quinto-lugar-jaragua-futsal-fecha-primeira-fase-da-lnf-contra-time-paulista",
-    "title": "Jaraguá Futsal busca quinto lugar na Liga Nacional contra Santo André",
-    "guid": "sc1multi:395efaaa690685bdd4418375dae471acafdab5d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_395efaaa690685bdd4418375dae471acafdab5d6/",
-    "usedAt": 1786259644551,
-    "usedAtIso": "2026-08-09T07:14:04.551Z"
-  },
-  "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
-    "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
-    "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
-  },
-  "source:87c610d9a7ec74fa8fb1639659f03c55fc057e37": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-vence-em-sua-estreia-na-superliga-masculina-de-voleibol",
-    "title": "Jaraguá do Sul vence na estreia da Superliga Masculina de Voleibol",
-    "guid": "sc1multi:87c610d9a7ec74fa8fb1639659f03c55fc057e37",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_87c610d9a7ec74fa8fb1639659f03c55fc057e37/",
-    "usedAt": 1786259644551,
-    "usedAtIso": "2026-08-09T07:14:04.551Z"
-  },
-  "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
-    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
-    "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
-  },
-  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
-    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
-    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
-  },
-  "source:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355": {
-    "url": "https://ocp.news/seguranca/identificado-homem-que-morreu-apos-surto-em-guaramirim-no-sabado-8",
-    "title": "Homem morre após surto no bairro Figueirinha em Guaramirim",
-    "guid": "sc1multi:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7d9d948c36bd5b829e5c9a22bf3e52b40e40355/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
-  },
-  "source:c107348d05812315803ba01ef4d150fe0a19905b": {
-    "url": "https://tnsul.com/2026/08/08/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-lixo-na-quarta-linha",
-    "title": "Mutirão de Limpeza recolhe três toneladas de lixo na Quarta Linha em Criciúma",
-    "guid": "sc1multi:b88a65f3a489416e432fa10a61dafe22cf1f05d2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b88a65f3a489416e432fa10a61dafe22cf1f05d2/",
-    "usedAt": 1786281244254,
-    "usedAtIso": "2026-08-09T13:14:04.254Z"
+    "usedAt": 1786288448185,
+    "usedAtIso": "2026-08-09T15:14:08.185Z"
   }
 }
