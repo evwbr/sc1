@@ -1,4 +1,60 @@
 {
+  "source:fc005f0abfb5ea8a17e9aff3551e41e083070026": {
+    "url": "https://ocp.news/cotidiano/dupla-e-condenada-por-golpe-da-falsa-adolescente-em-jaragua-do-sul-e-tera-que-devolver-r-20-mil",
+    "title": "Dupla é condenada por golpe da falsa adolescente em Jaraguá do Sul",
+    "guid": "sc1multi:fc005f0abfb5ea8a17e9aff3551e41e083070026",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc005f0abfb5ea8a17e9aff3551e41e083070026/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:1a0067eb99799bae2cf13243d217edf19f8b5891": {
+    "url": "https://ocp.news/cotidiano/duas-historias-de-amor-legado-e-inspiracao-marcam-o-dia-dos-pais-em-jaragua-do-sul",
+    "title": "Histórias de amor e legado marcam o Dia dos Pais em Jaraguá do Sul",
+    "guid": "sc1multi:1a0067eb99799bae2cf13243d217edf19f8b5891",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a0067eb99799bae2cf13243d217edf19f8b5891/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
+    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
+    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
+    "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
+    "title": "Programa beneficia 100 pescadores artesanais em Biguaçu, SC",
+    "guid": "sc1multi:c2b71162b30694ea0456b788f7725565b1f50a85",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:7033c68e0480190913844bf6292a860254975214": {
+    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
+    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
+    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
+    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
+    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
+    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
+  "source:cc886823e786c791ad1d3e9d268416375290b949": {
+    "url": "https://tnsul.com/2026/08/08/corpo-e-encontrado-no-rio-ararangua",
+    "title": "Corpo é encontrado no Rio Araranguá em Santa Catarina",
+    "guid": "sc1multi:893dbc3a6ab71d0dc39e4ad45144a1fe72c4cdaa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893dbc3a6ab71d0dc39e4ad45144a1fe72c4cdaa/",
+    "usedAt": 1786234443985,
+    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  },
   "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
     "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
     "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
@@ -164,16 +220,16 @@
     "title": "Flávio Bolsonaro anuncia apoio a Carlos Bolsonaro e Caroline de Toni para o Senado",
     "guid": "sc1multi:b31786a9a7bf2ca0eee132dd0c96e718c36fc616",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b31786a9a7bf2ca0eee132dd0c96e718c36fc616/",
-    "usedAt": 1786220045646,
-    "usedAtIso": "2026-08-08T20:14:05.646Z"
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   },
   "source:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c": {
     "url": "https://ocp.news/cotidiano/clube-fundado-ha-quase-50-anos-ganha-projecao-internacional-com-visitas-de-veleiros-estrangeiros",
     "title": "Joinville Iate Clube recebe veleiros internacionais e destaca Santa Catarina",
     "guid": "sc1multi:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a4aadd6237fb59dc61f14b02dc8b517c6a8374c/",
-    "usedAt": 1786220045646,
-    "usedAtIso": "2026-08-08T20:14:05.646Z"
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   },
   "source:5e6aa7eec7a95e9fb003dd05bab6dee4344c4eee": {
     "url": "https://rbatv.com.br/noticias/denuncia-de-maus-tratos-leva-pm-a-apreender-drogas-e-prender-homem-em-ibirama",
@@ -204,87 +260,31 @@
     "title": "Lei Maria da Penha completa 20 anos com aumento de feminicídios em Santa Catarina",
     "guid": "sc1multi:a949dff647e4057391d522819feee7ae7a1f6e0d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a949dff647e4057391d522819feee7ae7a1f6e0d/",
-    "usedAt": 1786220045646,
-    "usedAtIso": "2026-08-08T20:14:05.646Z"
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   },
-  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
-    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
-    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
-    "usedAt": 1786216444143,
-    "usedAtIso": "2026-08-08T19:14:04.143Z"
+  "source:c107348d05812315803ba01ef4d150fe0a19905b": {
+    "url": "https://tnsul.com/2026/08/08/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-lixo-na-quarta-linha",
+    "title": "Mutirão de Limpeza recolhe três toneladas de lixo na Quarta Linha em Criciúma",
+    "guid": "sc1multi:b88a65f3a489416e432fa10a61dafe22cf1f05d2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b88a65f3a489416e432fa10a61dafe22cf1f05d2/",
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   },
-  "source:e5a2d524b25c329a3707955fff14dc0d6a25445d": {
-    "url": "https://tnsul.com/2026/08/08/carro-capota-na-marginal-da-br-101-em-sombrio",
-    "title": "Carro capota na marginal da BR-101 em Sombrio",
-    "guid": "sc1multi:f206ad149fdd99c7f488891e474e685564c96fce",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f206ad149fdd99c7f488891e474e685564c96fce/",
-    "usedAt": 1786216444143,
-    "usedAtIso": "2026-08-08T19:14:04.143Z"
+  "source:7b2f9e3d6efcb6eaa6fef80c93c030e4ed702e45": {
+    "url": "https://tnsul.com/2026/08/08/tigre-empata-no-jogo-de-ida-da-semifinal-do-catarinense-sub-20",
+    "title": "Criciúma empata jogo de ida da semifinal do Catarinense Sub-20",
+    "guid": "sc1multi:b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5/",
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   },
-  "source:fc005f0abfb5ea8a17e9aff3551e41e083070026": {
-    "url": "https://ocp.news/cotidiano/dupla-e-condenada-por-golpe-da-falsa-adolescente-em-jaragua-do-sul-e-tera-que-devolver-r-20-mil",
-    "title": "Dupla é condenada por golpe da falsa adolescente em Jaraguá do Sul",
-    "guid": "sc1multi:fc005f0abfb5ea8a17e9aff3551e41e083070026",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc005f0abfb5ea8a17e9aff3551e41e083070026/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:1a0067eb99799bae2cf13243d217edf19f8b5891": {
-    "url": "https://ocp.news/cotidiano/duas-historias-de-amor-legado-e-inspiracao-marcam-o-dia-dos-pais-em-jaragua-do-sul",
-    "title": "Histórias de amor e legado marcam o Dia dos Pais em Jaraguá do Sul",
-    "guid": "sc1multi:1a0067eb99799bae2cf13243d217edf19f8b5891",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a0067eb99799bae2cf13243d217edf19f8b5891/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c": {
-    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-neste-sabado-em-jaragua-do-sul",
-    "title": "Prefeito de Jaraguá do Sul oficializa filiação ao PL em evento com governador",
-    "guid": "sc1multi:8a90c72f8043d886e9df45cbbf53f2d001fb0e0c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a90c72f8043d886e9df45cbbf53f2d001fb0e0c/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:3d39b91387ba8c41d77479a4b0b5f0e4e33b8bad": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/100-pescadores-biguacu-0826",
-    "title": "Programa beneficia 100 pescadores artesanais em Biguaçu, SC",
-    "guid": "sc1multi:c2b71162b30694ea0456b788f7725565b1f50a85",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c2b71162b30694ea0456b788f7725565b1f50a85/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:7033c68e0480190913844bf6292a860254975214": {
-    "url": "https://tudoaquisc.com.br/transito/vazamento-casan-gustavo-richard-0826",
-    "title": "Via importante de Florianópolis é bloqueada por vazamento de água da Casan",
-    "guid": "sc1multi:39a7c5dafd00e06ecb7b549e8651d62414bd9f77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a7c5dafd00e06ecb7b549e8651d62414bd9f77/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:e434bbd5e1f933821bb3a9fcd5e08763af1d2c2e": {
-    "url": "https://correiosc.com.br/ciclone-bomba-frente-fria-vento-sul-sc",
-    "title": "Ciclone-bomba aumenta risco de temporais em Santa Catarina",
-    "guid": "sc1multi:185535cdb2385eb69e0296e7be65d954c594eb74",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_185535cdb2385eb69e0296e7be65d954c594eb74/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
-  },
-  "source:d7731c2997f5e5f3c0710837c54c835346deeaaa": {
-    "url": "https://tnsul.com/2026/08/08/criciuma-futsal-busca-a-primeira-vitoria-no-brasileiro",
-    "title": "Criciúma Futsal busca primeira vitória no Campeonato Brasileiro em casa",
-    "guid": "sc1multi:187f31bae6fa0643716477ff9a10cdbaf23bc109",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_187f31bae6fa0643716477ff9a10cdbaf23bc109/",
-    "usedAt": 1786212844526,
-    "usedAtIso": "2026-08-08T18:14:04.526Z"
-  },
-  "source:cc886823e786c791ad1d3e9d268416375290b949": {
-    "url": "https://tnsul.com/2026/08/08/corpo-e-encontrado-no-rio-ararangua",
-    "title": "Corpo é encontrado no Rio Araranguá em Santa Catarina",
-    "guid": "sc1multi:893dbc3a6ab71d0dc39e4ad45144a1fe72c4cdaa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_893dbc3a6ab71d0dc39e4ad45144a1fe72c4cdaa/",
-    "usedAt": 1786234443985,
-    "usedAtIso": "2026-08-09T00:14:03.985Z"
+  "source:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-bate-santo-andre-garante-5o-lugar-e-tera-duelo-catarinense-nas-oitavas-da-lnf",
+    "title": "Jaraguá Futsal vence Santo André e enfrenta Tubarão nas oitavas da LNF",
+    "guid": "sc1multi:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8/",
+    "usedAt": 1786238044498,
+    "usedAtIso": "2026-08-09T01:14:04.498Z"
   }
 }
