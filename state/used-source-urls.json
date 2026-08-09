@@ -1,4 +1,60 @@
 {
+  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
+    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
+    "title": "Paciente de Taió espera cirurgia de revisão de prótese de quadril há cinco anos",
+    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
+    "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
+    "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
+    "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:348e9a76a08b399e782e8f411d8c0e6ac55b97db": {
+    "url": "https://tnsul.com/2026/08/08/embarcacao-naufraga-na-lagoa-santo-antonio-em-laguna",
+    "title": "Embarcação naufraga na Lagoa Santo Antônio, em Laguna",
+    "guid": "sc1multi:693f921eca4855d579f1741fba3af4ea1e4f755f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_693f921eca4855d579f1741fba3af4ea1e4f755f/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:266abe78c39ff006952b63da56bbe54c3ef891a9": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-em-ato-politico-em-jaragua-do-sul",
+    "title": "Prefeito Jair Franzner oficializa filiação ao PL em Jaraguá do Sul",
+    "guid": "sc1multi:266abe78c39ff006952b63da56bbe54c3ef891a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_266abe78c39ff006952b63da56bbe54c3ef891a9/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:c107348d05812315803ba01ef4d150fe0a19905b": {
+    "url": "https://tnsul.com/2026/08/08/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-lixo-na-quarta-linha",
+    "title": "Mutirão de Limpeza recolhe três toneladas de lixo na Quarta Linha em Criciúma",
+    "guid": "sc1multi:b88a65f3a489416e432fa10a61dafe22cf1f05d2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b88a65f3a489416e432fa10a61dafe22cf1f05d2/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:7b2f9e3d6efcb6eaa6fef80c93c030e4ed702e45": {
+    "url": "https://tnsul.com/2026/08/08/tigre-empata-no-jogo-de-ida-da-semifinal-do-catarinense-sub-20",
+    "title": "Criciúma empata na semifinal do Catarinense Sub-20",
+    "guid": "sc1multi:b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
+  "source:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-bate-santo-andre-garante-5o-lugar-e-tera-duelo-catarinense-nas-oitavas-da-lnf",
+    "title": "Jaraguá Futsal vence Santo André e enfrenta Tubarão nas oitavas da LNF",
+    "guid": "sc1multi:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8/",
+    "usedAt": 1786256044599,
+    "usedAtIso": "2026-08-09T06:14:04.599Z"
+  },
   "source:b31786a9a7bf2ca0eee132dd0c96e718c36fc616": {
     "url": "https://ocp.news/politica/flavio-bolsonaro-divulga-lista-com-47-nomes-para-o-senado",
     "title": "Flávio Bolsonaro anuncia apoio a Carlos Bolsonaro e Caroline de Toni para o Senado",
@@ -132,8 +188,8 @@
     "title": "Suplências ao Senado em Santa Catarina ganham destaque nas eleições",
     "guid": "sc1multi:cf6cdb676cd11fa143a8d424c13a080499aca511",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf6cdb676cd11fa143a8d424c13a080499aca511/",
-    "usedAt": 1786245244022,
-    "usedAtIso": "2026-08-09T03:14:04.022Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   },
   "source:e193d7411c5158689a4d0ccdf74138ed78aa3cef": {
     "url": "https://scportais.com.br/2026/08/07/pelo-estado-07-08-santa-catarina-melhora-todos-os-seus-indicadores-da-educacao",
@@ -156,24 +212,24 @@
     "title": "Jaraguá Futsal busca quinto lugar na Liga Nacional contra Santo André",
     "guid": "sc1multi:395efaaa690685bdd4418375dae471acafdab5d6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_395efaaa690685bdd4418375dae471acafdab5d6/",
-    "usedAt": 1786245244022,
-    "usedAtIso": "2026-08-09T03:14:04.022Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   },
   "source:cdab5fc5c1eff85701a55bed50f6a8c84c98388f": {
     "url": "https://tudoaquisc.com.br/ocorrencias/posto-e-interditado-floripa-flo-07-8",
     "title": "Posto de combustíveis é interditado em Florianópolis por irregularidades",
     "guid": "sc1multi:7149b1eb8a13cfbf6817760ce1294525445f8f1e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7149b1eb8a13cfbf6817760ce1294525445f8f1e/",
-    "usedAt": 1786245244022,
-    "usedAtIso": "2026-08-09T03:14:04.022Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   },
   "source:87c610d9a7ec74fa8fb1639659f03c55fc057e37": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-vence-em-sua-estreia-na-superliga-masculina-de-voleibol",
     "title": "Jaraguá do Sul vence na estreia da Superliga Masculina de Voleibol",
     "guid": "sc1multi:87c610d9a7ec74fa8fb1639659f03c55fc057e37",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_87c610d9a7ec74fa8fb1639659f03c55fc057e37/",
-    "usedAt": 1786245244022,
-    "usedAtIso": "2026-08-09T03:14:04.022Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   },
   "source:a8ba97d7f1fe2c637ee9ae7ac214a695aa149013": {
     "url": "https://tnsul.com/2026/08/08/motorista-de-aplicativo-e-preso-por-conduzir-veiculo-roubado-em-criciuma",
@@ -199,22 +255,6 @@
     "usedAt": 1786245244022,
     "usedAtIso": "2026-08-09T03:14:04.022Z"
   },
-  "source:7cd86cc001a38cf198d1efa7eaab68e29c6f713f": {
-    "url": "https://rbatv.com.br/noticias/paciente-busca-justica-apos-esperar-cirurgia-ha-5-anos-e-cair-para-fim-da-fila-do-sus",
-    "title": "Paciente de Taió espera cirurgia de revisão de prótese de quadril há cinco anos",
-    "guid": "sc1multi:f65efde73f1c88c93ce8dbe89291f265bdf919d3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f65efde73f1c88c93ce8dbe89291f265bdf919d3/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
-  "source:0019c4981a1200a77c0bd995c95b04e108a2e920": {
-    "url": "https://ocp.news/cotidiano/senai-sc-premia-vencedores-da-etapa-estadual-da-worldskills",
-    "title": "Senai/SC premia vencedores da etapa estadual da WorldSkills em Jaraguá do Sul",
-    "guid": "sc1multi:0019c4981a1200a77c0bd995c95b04e108a2e920",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0019c4981a1200a77c0bd995c95b04e108a2e920/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
   "source:c65fe8e11690e47e900214e8a457e350a76c4823": {
     "url": "https://ocp.news/esporte/chapecoense-e-apontada-como-o-clube-mais-simpatico-de-santa-catarina",
     "title": "Chapecoense é eleita clube mais simpático de Santa Catarina em pesquisa",
@@ -223,60 +263,20 @@
     "usedAt": 1786241643869,
     "usedAtIso": "2026-08-09T02:14:03.869Z"
   },
-  "source:348e9a76a08b399e782e8f411d8c0e6ac55b97db": {
-    "url": "https://tnsul.com/2026/08/08/embarcacao-naufraga-na-lagoa-santo-antonio-em-laguna",
-    "title": "Embarcação naufraga na Lagoa Santo Antônio, em Laguna",
-    "guid": "sc1multi:693f921eca4855d579f1741fba3af4ea1e4f755f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_693f921eca4855d579f1741fba3af4ea1e4f755f/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
-  "source:266abe78c39ff006952b63da56bbe54c3ef891a9": {
-    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-em-ato-politico-em-jaragua-do-sul",
-    "title": "Prefeito Jair Franzner oficializa filiação ao PL em Jaraguá do Sul",
-    "guid": "sc1multi:266abe78c39ff006952b63da56bbe54c3ef891a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_266abe78c39ff006952b63da56bbe54c3ef891a9/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
   "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
     "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
-    "title": "Joinville avança direto às quartas na Liga Nacional de Futsal",
+    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
     "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
-    "usedAt": 1786241643869,
-    "usedAtIso": "2026-08-09T02:14:03.869Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   },
   "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
     "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
     "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
     "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
-    "usedAt": 1786241643869,
-    "usedAtIso": "2026-08-09T02:14:03.869Z"
-  },
-  "source:c107348d05812315803ba01ef4d150fe0a19905b": {
-    "url": "https://tnsul.com/2026/08/08/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-lixo-na-quarta-linha",
-    "title": "Mutirão de Limpeza recolhe três toneladas de lixo na Quarta Linha em Criciúma",
-    "guid": "sc1multi:b88a65f3a489416e432fa10a61dafe22cf1f05d2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b88a65f3a489416e432fa10a61dafe22cf1f05d2/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
-  "source:7b2f9e3d6efcb6eaa6fef80c93c030e4ed702e45": {
-    "url": "https://tnsul.com/2026/08/08/tigre-empata-no-jogo-de-ida-da-semifinal-do-catarinense-sub-20",
-    "title": "Criciúma empata na semifinal do Catarinense Sub-20",
-    "guid": "sc1multi:b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3b75bfdd56bc63a3ac3bf88a2989aef33fc2ed5/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
-  },
-  "source:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-bate-santo-andre-garante-5o-lugar-e-tera-duelo-catarinense-nas-oitavas-da-lnf",
-    "title": "Jaraguá Futsal vence Santo André e enfrenta Tubarão nas oitavas da LNF",
-    "guid": "sc1multi:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8/",
-    "usedAt": 1786256044599,
-    "usedAtIso": "2026-08-09T06:14:04.599Z"
+    "usedAt": 1786259644551,
+    "usedAtIso": "2026-08-09T07:14:04.551Z"
   }
 }
