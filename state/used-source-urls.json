@@ -1,4 +1,44 @@
 {
+  "source:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf": {
+    "url": "https://ocp.news/seguranca/filho-e-levado-a-delegacia-apos-agredir-a-mae-e-causar-danos-em-residencia-de-jaragua-do-sul",
+    "title": "Homem é levado à delegacia após agredir mãe em Jaraguá do Sul",
+    "guid": "sc1multi:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ffad5dc86b2b6767adaec11a8e9ef9f7751063cf/",
+    "usedAt": 1786346044643,
+    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  },
+  "source:7e14b70e3c83043931e26042e3407e25b46c6d20": {
+    "url": "https://ocp.news/seguranca/caminhao-vindo-da-fronteira-com-a-argentina-e-flagrado-com-mais-de-5-toneladas-de-camarao-sob-palha",
+    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial na BR-470",
+    "guid": "sc1multi:7e14b70e3c83043931e26042e3407e25b46c6d20",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e14b70e3c83043931e26042e3407e25b46c6d20/",
+    "usedAt": 1786346044643,
+    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  },
+  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
+    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
+    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
+    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
+    "usedAt": 1786346044643,
+    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  },
+  "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
+    "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
+    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
+    "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
+    "usedAt": 1786346044643,
+    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  },
+  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
+    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
+    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
+    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
+    "usedAt": 1786346044643,
+    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  },
   "source:767e6a354c5af030c948f74ffd75ce57c8f0cf8b": {
     "url": "https://ocp.news/esporte/historico-jaragua-do-sul-conquista-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
     "title": "Jaraguá do Sul garante vaga na fase final da Superliga C Masculina de Voleibol",
@@ -135,76 +175,36 @@
     "usedAt": 1786331644524,
     "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
-    "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
-    "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
+    "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
+    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
+    "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
+    "usedAt": 1786349644752,
+    "usedAtIso": "2026-08-10T08:14:04.752Z"
   },
-  "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
-    "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
-    "title": "Homem com mandado de prisão é preso em Atalanta, SC",
-    "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  "source:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355": {
+    "url": "https://ocp.news/seguranca/identificado-homem-que-morreu-apos-surto-em-guaramirim-no-sabado-8",
+    "title": "Homem morre após surto no bairro Figueirinha em Guaramirim",
+    "guid": "sc1multi:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7d9d948c36bd5b829e5c9a22bf3e52b40e40355/",
+    "usedAt": 1786349644752,
+    "usedAtIso": "2026-08-10T08:14:04.752Z"
   },
-  "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
-    "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
-    "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  "source:a53e2c2bd7fcd69949c88518802786449f5a8e70": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-se-aproxima-de-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
+    "title": "Jaraguá do Sul lidera fase Regional Sul da Superliga C Masculina de Voleibol",
+    "guid": "sc1multi:a53e2c2bd7fcd69949c88518802786449f5a8e70",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a53e2c2bd7fcd69949c88518802786449f5a8e70/",
+    "usedAt": 1786349644752,
+    "usedAtIso": "2026-08-10T08:14:04.752Z"
   },
-  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
-    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
-    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
-  },
-  "source:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf": {
-    "url": "https://ocp.news/seguranca/filho-e-levado-a-delegacia-apos-agredir-a-mae-e-causar-danos-em-residencia-de-jaragua-do-sul",
-    "title": "Homem é levado à delegacia após agredir mãe em Jaraguá do Sul",
-    "guid": "sc1multi:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ffad5dc86b2b6767adaec11a8e9ef9f7751063cf/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
-  },
-  "source:7e14b70e3c83043931e26042e3407e25b46c6d20": {
-    "url": "https://ocp.news/seguranca/caminhao-vindo-da-fronteira-com-a-argentina-e-flagrado-com-mais-de-5-toneladas-de-camarao-sob-palha",
-    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial na BR-470",
-    "guid": "sc1multi:7e14b70e3c83043931e26042e3407e25b46c6d20",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e14b70e3c83043931e26042e3407e25b46c6d20/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
-  },
-  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
-    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
-    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
-  },
-  "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
-    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
-    "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
-  },
-  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
-    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
-    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  "source:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497": {
+    "url": "https://ocp.news/seguranca/homem-invade-casas-assusta-moradores-e-morre-pouco-depois-em-guaramirim",
+    "title": "Homem invade casas e morre em Guaramirim após perturbar moradores",
+    "guid": "sc1multi:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497/",
+    "usedAt": 1786349644752,
+    "usedAtIso": "2026-08-10T08:14:04.752Z"
   }
 }
