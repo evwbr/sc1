@@ -1,4 +1,44 @@
 {
+  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
+    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
+    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  },
+  "source:19783d03aedd4c6485fb17cb223b6b681d96b477": {
+    "url": "https://ocp.news/seguranca/agosto-lilas-mobiliza-jaragua-do-sul-no-combate-a-violencia-contra-a-mulher",
+    "title": "Jaraguá do Sul mobiliza campanha Agosto Lilás contra violência à mulher",
+    "guid": "sc1multi:19783d03aedd4c6485fb17cb223b6b681d96b477",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19783d03aedd4c6485fb17cb223b6b681d96b477/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  },
+  "source:5589478711d7e20e08d41604f34d89176f274e99": {
+    "url": "https://ocp.news/cotidiano/associacao-beneficente-novo-amanha-e-credenciada-para-comandar-a-casa-izabel-em-jaragua-do-sul",
+    "title": "Associação Novo Amanhã assume gestão da Casa Izabel em Jaraguá do Sul",
+    "guid": "sc1multi:5589478711d7e20e08d41604f34d89176f274e99",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5589478711d7e20e08d41604f34d89176f274e99/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  },
+  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
+    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
+    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
+    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  },
+  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
+    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  },
   "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
     "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
     "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
@@ -153,11 +193,11 @@
   },
   "source:13dfbebac3b3379f7f8136f3b07ed0bc636a9661": {
     "url": "https://correiosc.com.br/slug-chuva-e-frio-nos-proximos-dias-em-sc",
-    "title": "Chuva e frio devem predominar em Santa Catarina nos próximos dias",
+    "title": "Chuva e frio devem persistir em Santa Catarina nos próximos dias",
     "guid": "sc1multi:1a80138974e76d472bf93d3cc1eab2f900fdfe83",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a80138974e76d472bf93d3cc1eab2f900fdfe83/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
   },
   "source:d8915193f79ba23a93fa8503fd07ab203bd5c03b": {
     "url": "https://tnsul.com/2026/08/10/idosa-confunde-pedais-e-carro-invade-loja-de-tintas-em-taio",
@@ -215,140 +255,20 @@
     "usedAt": 1786385644561,
     "usedAtIso": "2026-08-10T18:14:04.561Z"
   },
-  "source:6cee95e3f7499e7af86182a4ed831091be0a1ce4": {
-    "url": "https://rbatv.com.br/noticias/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-operacao-na-br-470-em-indaial",
-    "title": "Mais de 5 toneladas de camarão são apreendidas na BR-470 em Indaial",
-    "guid": "sc1multi:e6eea868531de8a387cdb9c08eaaa33bb1a109bf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6eea868531de8a387cdb9c08eaaa33bb1a109bf/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
+  "source:8ac777d32c90b493dfbb9f4845a697473271aad3": {
+    "url": "https://ocp.news/seguranca/mpsc-aponta-suspeita-de-fraude-em-licitacao-de-sonorizacao-em-barra-velha",
+    "title": "MPSC investiga suspeita de fraude em licitação de sonorização em Barra Velha",
+    "guid": "sc1multi:8ac777d32c90b493dfbb9f4845a697473271aad3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ac777d32c90b493dfbb9f4845a697473271aad3/",
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
   },
-  "source:d028a423274531a68744c1a2fc51add76308ce43": {
-    "url": "https://ocp.news/cotidiano/gincana-de-dia-dos-pais-reune-100-idosos-na-pro-familia-em-blumenau",
-    "title": "Gincana de Dia dos Pais reúne 100 idosos na Pró-Família em Blumenau",
-    "guid": "sc1multi:d028a423274531a68744c1a2fc51add76308ce43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d028a423274531a68744c1a2fc51add76308ce43/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
-  },
-  "source:823497c85bbf83a4077f33e42f8eed3b581993c9": {
-    "url": "https://ocp.news/cotidiano/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-residuos-no-bairro-quarta-linha-em-criciuma",
-    "title": "Mutirão de Limpeza recolhe três toneladas de resíduos no bairro Quarta Linha, Criciúma",
-    "guid": "sc1multi:823497c85bbf83a4077f33e42f8eed3b581993c9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_823497c85bbf83a4077f33e42f8eed3b581993c9/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
-  },
-  "source:ba7540c8701fdec93e315fb15703f79914ee64ad": {
-    "url": "https://ocp.news/cotidiano/funcionalidade-pet-desaparecido-do-app-joinville-facil-completa-um-mes",
-    "title": "Funcionalidade 'Pet Desaparecido' do Joinville Fácil completa um mês",
-    "guid": "sc1multi:ba7540c8701fdec93e315fb15703f79914ee64ad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba7540c8701fdec93e315fb15703f79914ee64ad/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
-  },
-  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
-    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
-    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:19783d03aedd4c6485fb17cb223b6b681d96b477": {
-    "url": "https://ocp.news/seguranca/agosto-lilas-mobiliza-jaragua-do-sul-no-combate-a-violencia-contra-a-mulher",
-    "title": "Jaraguá do Sul mobiliza campanha Agosto Lilás contra violência à mulher",
-    "guid": "sc1multi:19783d03aedd4c6485fb17cb223b6b681d96b477",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19783d03aedd4c6485fb17cb223b6b681d96b477/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
-    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
-    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:8c352c7e3c050146b1de69cdf3792f4501bd1a93": {
-    "url": "https://ocp.news/seguranca/acidente-com-caminhao-causa-interdicao-e-filas-na-br-101-no-norte-de-sc",
-    "title": "Carreta carregada com arroz tomba e bloqueia BR-101 em Araquari",
-    "guid": "sc1multi:8c352c7e3c050146b1de69cdf3792f4501bd1a93",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c352c7e3c050146b1de69cdf3792f4501bd1a93/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:54e2677d06dae1582d0f770bf49b5a05c74f38a8": {
-    "url": "https://rbatv.com.br/noticias/mulher-fica-gravemente-ferida-apos-ser-atropelada-por-caminhao-na-br-470-em-rio-do-sul",
-    "title": "Mulher fica gravemente ferida após atropelamento na BR-470 em Rio do Sul",
-    "guid": "sc1multi:00ef6e8df8f49165ec2f1b21b33ac3e3cac5d2ed",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_00ef6e8df8f49165ec2f1b21b33ac3e3cac5d2ed/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:106041778ca8176038fa72f33bb1a213ac4b6ce7": {
-    "url": "https://ocp.news/politica/eleicoes-2026-tre-sc-realiza-distribuicao-de-18-860-urnas-eletronicas-em-sc",
-    "title": "TRE-SC distribui 18.860 urnas eletrônicas para Eleições 2026 em Santa Catarina",
-    "guid": "sc1multi:106041778ca8176038fa72f33bb1a213ac4b6ce7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_106041778ca8176038fa72f33bb1a213ac4b6ce7/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:5f0904853a2ec46dca996c36f444cb540b62f211": {
-    "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nesta-segunda-feira",
-    "title": "Tempo instável e frio marcam segunda-feira em Florianópolis e SC",
-    "guid": "sc1multi:5f0904853a2ec46dca996c36f444cb540b62f211",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f0904853a2ec46dca996c36f444cb540b62f211/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:0838cf77b66a6c79b506cfb79c466bad1fef54e3": {
-    "url": "https://ocp.news/cotidiano/frio-intenso-chega-a-sc-nesta-segunda-com-chance-de-geada-e-temperaturas-negativas",
-    "title": "Frio intenso traz geada e temperaturas negativas ao Planalto Sul de SC",
-    "guid": "sc1multi:0838cf77b66a6c79b506cfb79c466bad1fef54e3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0838cf77b66a6c79b506cfb79c466bad1fef54e3/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:7e3ef74207f19933458557f55aac657ed8308d65": {
-    "url": "https://tnsul.com/2026/08/10/mae-e-presa-apos-deixar-bebe-de-1-ano-e-duas-criancas-sozinhos-em-sc",
-    "title": "Mãe é presa por deixar três crianças sozinhas em São Miguel do Oeste",
-    "guid": "sc1multi:e44b6331415cfd9278ff18fe06539495d2b8b8bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e44b6331415cfd9278ff18fe06539495d2b8b8bc/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:3fa382b930cf698dde17319186ae7272b34313af": {
-    "url": "https://ocp.news/seguranca/briga-entre-moradores-apos-veiculo-ser-danificado-termina-em-caso-de-policia-em-jaragua-do-sul",
-    "title": "Briga entre moradores por dano em veículo mobiliza polícia em Jaraguá do Sul",
-    "guid": "sc1multi:3fa382b930cf698dde17319186ae7272b34313af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3fa382b930cf698dde17319186ae7272b34313af/",
-    "usedAt": 1786378444569,
-    "usedAtIso": "2026-08-10T16:14:04.569Z"
-  },
-  "source:5589478711d7e20e08d41604f34d89176f274e99": {
-    "url": "https://ocp.news/cotidiano/associacao-beneficente-novo-amanha-e-credenciada-para-comandar-a-casa-izabel-em-jaragua-do-sul",
-    "title": "Associação Novo Amanhã assume gestão da Casa Izabel em Jaraguá do Sul",
-    "guid": "sc1multi:5589478711d7e20e08d41604f34d89176f274e99",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5589478711d7e20e08d41604f34d89176f274e99/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
-    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
-    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
-    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
-    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
-    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
+  "source:9144eb9508f64dc6707a45ce0e758076e75c05ee": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-furtar-fios-de-cobre-de-obra-em-blumenau",
+    "title": "Homem é preso por furtar fios de cobre em obra no bairro Velha, Blumenau",
+    "guid": "sc1multi:3eb7262c8b0f1ddd85836e12e4301983d79e7a4d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3eb7262c8b0f1ddd85836e12e4301983d79e7a4d/",
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
   }
 }
