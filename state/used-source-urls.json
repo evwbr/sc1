@@ -1,4 +1,28 @@
 {
+  "source:894dda2445e5525f78a89d7141b3ada52b0a230d": {
+    "url": "https://rbatv.com.br/noticias/carro-invade-loja-apos-colisao-em-taio",
+    "title": "Carro invade loja de tintas após colisão em Taió",
+    "guid": "sc1multi:025e5e866dbfa34a9450b9dfe2b29df744c2ce6d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_025e5e866dbfa34a9450b9dfe2b29df744c2ce6d/",
+    "usedAt": 1786320845513,
+    "usedAtIso": "2026-08-10T00:14:05.513Z"
+  },
+  "source:a53e2c2bd7fcd69949c88518802786449f5a8e70": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-se-aproxima-de-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
+    "title": "Jaraguá do Sul lidera fase Regional Sul da Superliga C Masculina de Voleibol",
+    "guid": "sc1multi:a53e2c2bd7fcd69949c88518802786449f5a8e70",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a53e2c2bd7fcd69949c88518802786449f5a8e70/",
+    "usedAt": 1786320845513,
+    "usedAtIso": "2026-08-10T00:14:05.513Z"
+  },
+  "source:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497": {
+    "url": "https://ocp.news/seguranca/homem-invade-casas-assusta-moradores-e-morre-pouco-depois-em-guaramirim",
+    "title": "Homem invade casas e morre após confusão em Guaramirim",
+    "guid": "sc1multi:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497/",
+    "usedAt": 1786320845513,
+    "usedAtIso": "2026-08-10T00:14:05.513Z"
+  },
   "source:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355": {
     "url": "https://ocp.news/seguranca/identificado-homem-que-morreu-apos-surto-em-guaramirim-no-sabado-8",
     "title": "Homem morre após surto no bairro Figueirinha em Guaramirim",
@@ -79,52 +103,36 @@
     "usedAt": 1786306444106,
     "usedAtIso": "2026-08-09T20:14:04.106Z"
   },
-  "source:e1596ed9e536b3ab1091ecd238b7c43ba74a15e4": {
-    "url": "https://ocp.news/seguranca/meteorologista-alerta-para-possivel-super-el-nino-apos-sequencia-de-tornados-no-sul",
-    "title": "Meteorologista alerta para possível Super El Niño e tempo severo no Sul",
-    "guid": "sc1multi:e1596ed9e536b3ab1091ecd238b7c43ba74a15e4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1596ed9e536b3ab1091ecd238b7c43ba74a15e4/",
-    "usedAt": 1786302844141,
-    "usedAtIso": "2026-08-09T19:14:04.141Z"
+  "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
+    "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
+    "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
   },
-  "source:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-bate-santo-andre-garante-5o-lugar-e-tera-duelo-catarinense-nas-oitavas-da-lnf",
-    "title": "Jaraguá Futsal vence Santo André e enfrenta Tubarão nas oitavas da LNF",
-    "guid": "sc1multi:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8/",
-    "usedAt": 1786302844141,
-    "usedAtIso": "2026-08-09T19:14:04.141Z"
+  "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
+    "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
+    "title": "Homem com mandado de prisão é preso em Atalanta, SC",
+    "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
   },
-  "source:266abe78c39ff006952b63da56bbe54c3ef891a9": {
-    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-em-ato-politico-em-jaragua-do-sul",
-    "title": "Prefeito Jair Franzner oficializa filiação ao PL em Jaraguá do Sul",
-    "guid": "sc1multi:266abe78c39ff006952b63da56bbe54c3ef891a9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_266abe78c39ff006952b63da56bbe54c3ef891a9/",
-    "usedAt": 1786302844141,
-    "usedAtIso": "2026-08-09T19:14:04.141Z"
+  "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
+    "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
+    "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
+    "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
   },
-  "source:894dda2445e5525f78a89d7141b3ada52b0a230d": {
-    "url": "https://rbatv.com.br/noticias/carro-invade-loja-apos-colisao-em-taio",
-    "title": "Carro invade loja de tintas após colisão em Taió",
-    "guid": "sc1multi:025e5e866dbfa34a9450b9dfe2b29df744c2ce6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_025e5e866dbfa34a9450b9dfe2b29df744c2ce6d/",
-    "usedAt": 1786320845513,
-    "usedAtIso": "2026-08-10T00:14:05.513Z"
-  },
-  "source:a53e2c2bd7fcd69949c88518802786449f5a8e70": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-se-aproxima-de-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
-    "title": "Jaraguá do Sul lidera fase Regional Sul da Superliga C Masculina de Voleibol",
-    "guid": "sc1multi:a53e2c2bd7fcd69949c88518802786449f5a8e70",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a53e2c2bd7fcd69949c88518802786449f5a8e70/",
-    "usedAt": 1786320845513,
-    "usedAtIso": "2026-08-10T00:14:05.513Z"
-  },
-  "source:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497": {
-    "url": "https://ocp.news/seguranca/homem-invade-casas-assusta-moradores-e-morre-pouco-depois-em-guaramirim",
-    "title": "Homem invade casas e morre após confusão em Guaramirim",
-    "guid": "sc1multi:e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1ce3d4aa542ed0d88251d1ef326c3d6dc77a497/",
-    "usedAt": 1786320845513,
-    "usedAtIso": "2026-08-10T00:14:05.513Z"
+  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
+    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
+    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
   }
 }
