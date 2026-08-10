@@ -1,4 +1,44 @@
 {
+  "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
+    "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
+    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
+    "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
+    "usedAt": 1786396444225,
+    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  },
+  "source:18c17caa9bab7c3b1091be7166db264a47140ff1": {
+    "url": "https://scportais.com.br/2026/08/09/pelo-estado-11-08-depois-da-eleicao-nao-existem-adversarios-existem-cidadaos-que-esperam-resultados",
+    "title": "Gelson Merísio apresenta propostas para saúde, educação e segurança em Santa Catarina",
+    "guid": "sc1multi:95016f75a771014d96cefa6669ba8af7acd446fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95016f75a771014d96cefa6669ba8af7acd446fa/",
+    "usedAt": 1786396444225,
+    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  },
+  "source:70e8b233e7ea7a4f3cbe2bb4c930aae88623afe1": {
+    "url": "https://tudoaquisc.com.br/esporte/catarinense-tenis-vacaria",
+    "title": "Atleta catarinense de 17 anos vence torneio internacional de tênis no RS",
+    "guid": "sc1multi:32c61f12d272875bf8403984cb2976fc0a812a15",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32c61f12d272875bf8403984cb2976fc0a812a15/",
+    "usedAt": 1786396444225,
+    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  },
+  "source:927c86560f7ad7fbcdc3da5e7bd751905ecf4a53": {
+    "url": "https://ocp.news/seguranca/homem-e-detido-apos-entrar-em-residencia-com-faca-e-ameacar-morador-em-jaragua-do-sul",
+    "title": "Homem é detido após ameaçar morador com faca em Jaraguá do Sul",
+    "guid": "sc1multi:927c86560f7ad7fbcdc3da5e7bd751905ecf4a53",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_927c86560f7ad7fbcdc3da5e7bd751905ecf4a53/",
+    "usedAt": 1786396444225,
+    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  },
+  "source:039c948f4b7f887fd6c3c74601e009855031f184": {
+    "url": "https://ocp.news/seguranca/mulher-de-27-anos-desaparece-apos-sair-para-tomar-cafe-em-joinville",
+    "title": "Mulher de 27 anos desaparece após sair para tomar café em Joinville",
+    "guid": "sc1multi:039c948f4b7f887fd6c3c74601e009855031f184",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_039c948f4b7f887fd6c3c74601e009855031f184/",
+    "usedAt": 1786396444225,
+    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  },
   "source:09a9e3091da99e6373525e5175c1d6d25102a0a4": {
     "url": "https://ocp.news/cotidiano/celesc-abre-concurso-publico-com-salarios-de-ate-r-69-mil",
     "title": "Celesc abre concurso público com salários de até R$ 6,9 mil em Santa Catarina",
@@ -175,14 +215,6 @@
     "usedAt": 1786385644561,
     "usedAtIso": "2026-08-10T18:14:04.561Z"
   },
-  "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
-    "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
-    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
-    "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
-    "usedAt": 1786396444225,
-    "usedAtIso": "2026-08-10T21:14:04.225Z"
-  },
   "source:6cee95e3f7499e7af86182a4ed831091be0a1ce4": {
     "url": "https://rbatv.com.br/noticias/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-operacao-na-br-470-em-indaial",
     "title": "Mais de 5 toneladas de camarão são apreendidas na BR-470 em Indaial",
@@ -217,27 +249,19 @@
   },
   "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
     "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
-    "title": "Investidores de Balneário Camboriú e Brasília disputam concessão do CentroSul em Florianópolis",
+    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
     "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
   },
   "source:19783d03aedd4c6485fb17cb223b6b681d96b477": {
     "url": "https://ocp.news/seguranca/agosto-lilas-mobiliza-jaragua-do-sul-no-combate-a-violencia-contra-a-mulher",
     "title": "Jaraguá do Sul mobiliza campanha Agosto Lilás contra violência à mulher",
     "guid": "sc1multi:19783d03aedd4c6485fb17cb223b6b681d96b477",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19783d03aedd4c6485fb17cb223b6b681d96b477/",
-    "usedAt": 1786382044509,
-    "usedAtIso": "2026-08-10T17:14:04.509Z"
-  },
-  "source:18c17caa9bab7c3b1091be7166db264a47140ff1": {
-    "url": "https://scportais.com.br/2026/08/09/pelo-estado-11-08-depois-da-eleicao-nao-existem-adversarios-existem-cidadaos-que-esperam-resultados",
-    "title": "Gelson Merísio apresenta propostas para saúde, educação e segurança em Santa Catarina",
-    "guid": "sc1multi:95016f75a771014d96cefa6669ba8af7acd446fa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95016f75a771014d96cefa6669ba8af7acd446fa/",
-    "usedAt": 1786396444225,
-    "usedAtIso": "2026-08-10T21:14:04.225Z"
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
   },
   "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
     "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
@@ -287,14 +311,6 @@
     "usedAt": 1786378444569,
     "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
-  "source:70e8b233e7ea7a4f3cbe2bb4c930aae88623afe1": {
-    "url": "https://tudoaquisc.com.br/esporte/catarinense-tenis-vacaria",
-    "title": "Atleta catarinense de 17 anos vence torneio internacional de tênis no RS",
-    "guid": "sc1multi:32c61f12d272875bf8403984cb2976fc0a812a15",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32c61f12d272875bf8403984cb2976fc0a812a15/",
-    "usedAt": 1786396444225,
-    "usedAtIso": "2026-08-10T21:14:04.225Z"
-  },
   "source:7e3ef74207f19933458557f55aac657ed8308d65": {
     "url": "https://tnsul.com/2026/08/10/mae-e-presa-apos-deixar-bebe-de-1-ano-e-duas-criancas-sozinhos-em-sc",
     "title": "Mãe é presa por deixar três crianças sozinhas em São Miguel do Oeste",
@@ -311,36 +327,28 @@
     "usedAt": 1786378444569,
     "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
-  "source:04ae9be70bc6bb4d82a757b2391b2423f9071223": {
-    "url": "https://rbatv.com.br/noticias/pm-prende-quatro-pessoas-em-ocorrencias-de-furto-roubo-e-violencia-domestica-em-blumenau",
-    "title": "PM prende quatro pessoas por furto, roubo e violência doméstica em Blumenau",
-    "guid": "sc1multi:2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  "source:5589478711d7e20e08d41604f34d89176f274e99": {
+    "url": "https://ocp.news/cotidiano/associacao-beneficente-novo-amanha-e-credenciada-para-comandar-a-casa-izabel-em-jaragua-do-sul",
+    "title": "Associação Novo Amanhã assume gestão da Casa Izabel em Jaraguá do Sul",
+    "guid": "sc1multi:5589478711d7e20e08d41604f34d89176f274e99",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5589478711d7e20e08d41604f34d89176f274e99/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
   },
-  "source:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6": {
-    "url": "https://ocp.news/cotidiano/predio-mais-alto-do-mundo-levara-o-nome-de-senna-saiba-onde-sera-construido",
-    "title": "Senna Tower será o maior prédio residencial do mundo em Balneário Camboriú",
-    "guid": "sc1multi:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5a1d3fc98c279735589b4ca3a31dce2679f6c0a6/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
+    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
+    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
+    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
   },
-  "source:927c86560f7ad7fbcdc3da5e7bd751905ecf4a53": {
-    "url": "https://ocp.news/seguranca/homem-e-detido-apos-entrar-em-residencia-com-faca-e-ameacar-morador-em-jaragua-do-sul",
-    "title": "Homem é detido após ameaçar morador com faca em Jaraguá do Sul",
-    "guid": "sc1multi:927c86560f7ad7fbcdc3da5e7bd751905ecf4a53",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_927c86560f7ad7fbcdc3da5e7bd751905ecf4a53/",
-    "usedAt": 1786396444225,
-    "usedAtIso": "2026-08-10T21:14:04.225Z"
-  },
-  "source:039c948f4b7f887fd6c3c74601e009855031f184": {
-    "url": "https://ocp.news/seguranca/mulher-de-27-anos-desaparece-apos-sair-para-tomar-cafe-em-joinville",
-    "title": "Mulher de 27 anos desaparece após sair para tomar café em Joinville",
-    "guid": "sc1multi:039c948f4b7f887fd6c3c74601e009855031f184",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_039c948f4b7f887fd6c3c74601e009855031f184/",
-    "usedAt": 1786396444225,
-    "usedAtIso": "2026-08-10T21:14:04.225Z"
+  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
+    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
+    "usedAt": 1786400044397,
+    "usedAtIso": "2026-08-10T22:14:04.397Z"
   }
 }
