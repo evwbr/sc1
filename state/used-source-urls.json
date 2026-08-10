@@ -1,4 +1,60 @@
 {
+  "source:04ae9be70bc6bb4d82a757b2391b2423f9071223": {
+    "url": "https://rbatv.com.br/noticias/pm-prende-quatro-pessoas-em-ocorrencias-de-furto-roubo-e-violencia-domestica-em-blumenau",
+    "title": "PM prende quatro pessoas por furto, roubo e violência doméstica em Blumenau",
+    "guid": "sc1multi:2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:09a9e3091da99e6373525e5175c1d6d25102a0a4": {
+    "url": "https://ocp.news/cotidiano/celesc-abre-concurso-publico-com-salarios-de-ate-r-69-mil",
+    "title": "Celesc abre concurso público com salários de até R$ 6,9 mil em Santa Catarina",
+    "guid": "sc1multi:09a9e3091da99e6373525e5175c1d6d25102a0a4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_09a9e3091da99e6373525e5175c1d6d25102a0a4/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:33ffad4c27fcbadd22618f3fb7d41c8f3265c68b": {
+    "url": "https://ocp.news/seguranca/divida-de-r-750-pode-ter-motivado-briga-que-terminou-em-morte-em-sao-francisco-do-sul",
+    "title": "Briga por dívida de R$ 750 termina em morte em São Francisco do Sul",
+    "guid": "sc1multi:33ffad4c27fcbadd22618f3fb7d41c8f3265c68b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33ffad4c27fcbadd22618f3fb7d41c8f3265c68b/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:ede12024ccb9f53c9586edff102373090c08847c": {
+    "url": "https://ocp.news/esporte/equipe-jaraguaense-soma-cinco-titulos-e-15-podios-no-brasileiro-de-xadrez",
+    "title": "Clube de Xadrez de Jaraguá do Sul conquista cinco títulos no Brasileiro",
+    "guid": "sc1multi:ede12024ccb9f53c9586edff102373090c08847c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ede12024ccb9f53c9586edff102373090c08847c/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:d12dc282ad4fddc8c118f5e6a7e7340b32493d68": {
+    "url": "https://tnsul.com/2026/08/10/mulher-morre-apos-colisao-frontal-entre-carro-e-caminhao-na-br-282",
+    "title": "Mulher morre em colisão frontal na BR-282 em Ponte Serrada",
+    "guid": "sc1multi:bbeb1951cb1da5b3fb28be66c62f26564a4ef04d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbeb1951cb1da5b3fb28be66c62f26564a4ef04d/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:ac717ee46fbd2e952647a4a147ed5cd4bee07580": {
+    "url": "https://ocp.news/politica/futuro-da-casan-coloca-joao-rodrigues-e-ralf-zimmer-em-lados-opostos-no-debate",
+    "title": "Candidatos ao Governo de SC divergem sobre futuro da Casan no saneamento",
+    "guid": "sc1multi:ac717ee46fbd2e952647a4a147ed5cd4bee07580",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac717ee46fbd2e952647a4a147ed5cd4bee07580/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
+  "source:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6": {
+    "url": "https://ocp.news/cotidiano/predio-mais-alto-do-mundo-levara-o-nome-de-senna-saiba-onde-sera-construido",
+    "title": "Senna Tower será o maior prédio residencial do mundo em Balneário Camboriú",
+    "guid": "sc1multi:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5a1d3fc98c279735589b4ca3a31dce2679f6c0a6/",
+    "usedAt": 1786374845150,
+    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  },
   "source:54357d99abdaa8835f19d755ff7ebf04ad439dc0": {
     "url": "https://ocp.news/economia/missao-de-sc-ao-paraguai-avanca-em-parcerias-para-logistica-no-comercio-exterior",
     "title": "Missão de Santa Catarina ao Paraguai fortalece parcerias logísticas e comerciais",
@@ -172,8 +228,8 @@
     "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
     "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:be63689a2aeb6611613cdd12c6c262220247428a": {
     "url": "https://tnsul.com/2026/08/10/homem-persegue-companheira-apos-briga-sofre-acidente-e-e-preso-em-itapema",
@@ -185,11 +241,11 @@
   },
   "source:8c352c7e3c050146b1de69cdf3792f4501bd1a93": {
     "url": "https://ocp.news/seguranca/acidente-com-caminhao-causa-interdicao-e-filas-na-br-101-no-norte-de-sc",
-    "title": "Carreta tomba e interdita BR-101 em Araquari, SC",
+    "title": "Carreta carregada com arroz tomba e bloqueia BR-101 em Araquari",
     "guid": "sc1multi:8c352c7e3c050146b1de69cdf3792f4501bd1a93",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c352c7e3c050146b1de69cdf3792f4501bd1a93/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:767e6a354c5af030c948f74ffd75ce57c8f0cf8b": {
     "url": "https://ocp.news/esporte/historico-jaragua-do-sul-conquista-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
@@ -236,16 +292,8 @@
     "title": "Mulher fica gravemente ferida após atropelamento na BR-470 em Rio do Sul",
     "guid": "sc1multi:00ef6e8df8f49165ec2f1b21b33ac3e3cac5d2ed",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_00ef6e8df8f49165ec2f1b21b33ac3e3cac5d2ed/",
-    "usedAt": 1786360444271,
-    "usedAtIso": "2026-08-10T11:14:04.271Z"
-  },
-  "source:04ae9be70bc6bb4d82a757b2391b2423f9071223": {
-    "url": "https://rbatv.com.br/noticias/pm-prende-quatro-pessoas-em-ocorrencias-de-furto-roubo-e-violencia-domestica-em-blumenau",
-    "title": "PM prende quatro pessoas por furto, roubo e violência doméstica em Blumenau",
-    "guid": "sc1multi:2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2f2e9dbcfe9e154f0a69b1dfe4542579b7a0539d/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:f14c8e4e49418ad083e29fc566db7ebc0b86fac7": {
     "url": "https://tnsul.com/2026/08/09/apos-30-anos-na-educacao-professora-lanca-o-primeiro-livro",
@@ -276,24 +324,24 @@
     "title": "TRE-SC distribui 18.860 urnas eletrônicas para Eleições 2026 em Santa Catarina",
     "guid": "sc1multi:106041778ca8176038fa72f33bb1a213ac4b6ce7",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_106041778ca8176038fa72f33bb1a213ac4b6ce7/",
-    "usedAt": 1786356844601,
-    "usedAtIso": "2026-08-10T10:14:04.601Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:5f0904853a2ec46dca996c36f444cb540b62f211": {
     "url": "https://ocp.news/cotidiano/saiba-como-fica-o-tempo-em-florianopolis-nesta-segunda-feira",
     "title": "Tempo instável e frio marcam segunda-feira em Florianópolis e SC",
     "guid": "sc1multi:5f0904853a2ec46dca996c36f444cb540b62f211",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f0904853a2ec46dca996c36f444cb540b62f211/",
-    "usedAt": 1786356844601,
-    "usedAtIso": "2026-08-10T10:14:04.601Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:0838cf77b66a6c79b506cfb79c466bad1fef54e3": {
     "url": "https://ocp.news/cotidiano/frio-intenso-chega-a-sc-nesta-segunda-com-chance-de-geada-e-temperaturas-negativas",
     "title": "Frio intenso traz geada e temperaturas negativas ao Planalto Sul de SC",
     "guid": "sc1multi:0838cf77b66a6c79b506cfb79c466bad1fef54e3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0838cf77b66a6c79b506cfb79c466bad1fef54e3/",
-    "usedAt": 1786356844601,
-    "usedAtIso": "2026-08-10T10:14:04.601Z"
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
   "source:43adb282634302b7be5418980ab9b1220cfef85b": {
     "url": "https://tnsul.com/2026/08/09/tre-sc-realiza-distribuicao-de-18-860-urnas-eletronicas-para-eleicoes-2026",
@@ -335,52 +383,28 @@
     "usedAt": 1786356844601,
     "usedAtIso": "2026-08-10T10:14:04.601Z"
   },
-  "source:09a9e3091da99e6373525e5175c1d6d25102a0a4": {
-    "url": "https://ocp.news/cotidiano/celesc-abre-concurso-publico-com-salarios-de-ate-r-69-mil",
-    "title": "Celesc abre concurso público com salários de até R$ 6,9 mil em Santa Catarina",
-    "guid": "sc1multi:09a9e3091da99e6373525e5175c1d6d25102a0a4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_09a9e3091da99e6373525e5175c1d6d25102a0a4/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  "source:70e8b233e7ea7a4f3cbe2bb4c930aae88623afe1": {
+    "url": "https://tudoaquisc.com.br/esporte/catarinense-tenis-vacaria",
+    "title": "Atleta catarinense de 17 anos vence torneio de tênis em Vacaria-RS",
+    "guid": "sc1multi:32c61f12d272875bf8403984cb2976fc0a812a15",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32c61f12d272875bf8403984cb2976fc0a812a15/",
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
-  "source:33ffad4c27fcbadd22618f3fb7d41c8f3265c68b": {
-    "url": "https://ocp.news/seguranca/divida-de-r-750-pode-ter-motivado-briga-que-terminou-em-morte-em-sao-francisco-do-sul",
-    "title": "Briga por dívida de R$ 750 termina em morte em São Francisco do Sul",
-    "guid": "sc1multi:33ffad4c27fcbadd22618f3fb7d41c8f3265c68b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_33ffad4c27fcbadd22618f3fb7d41c8f3265c68b/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  "source:7e3ef74207f19933458557f55aac657ed8308d65": {
+    "url": "https://tnsul.com/2026/08/10/mae-e-presa-apos-deixar-bebe-de-1-ano-e-duas-criancas-sozinhos-em-sc",
+    "title": "Mãe é presa por deixar três crianças sozinhas em São Miguel do Oeste",
+    "guid": "sc1multi:e44b6331415cfd9278ff18fe06539495d2b8b8bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e44b6331415cfd9278ff18fe06539495d2b8b8bc/",
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   },
-  "source:ede12024ccb9f53c9586edff102373090c08847c": {
-    "url": "https://ocp.news/esporte/equipe-jaraguaense-soma-cinco-titulos-e-15-podios-no-brasileiro-de-xadrez",
-    "title": "Clube de Xadrez de Jaraguá do Sul conquista cinco títulos no Brasileiro",
-    "guid": "sc1multi:ede12024ccb9f53c9586edff102373090c08847c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ede12024ccb9f53c9586edff102373090c08847c/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
-  },
-  "source:d12dc282ad4fddc8c118f5e6a7e7340b32493d68": {
-    "url": "https://tnsul.com/2026/08/10/mulher-morre-apos-colisao-frontal-entre-carro-e-caminhao-na-br-282",
-    "title": "Mulher morre em colisão frontal na BR-282 em Ponte Serrada",
-    "guid": "sc1multi:bbeb1951cb1da5b3fb28be66c62f26564a4ef04d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbeb1951cb1da5b3fb28be66c62f26564a4ef04d/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
-  },
-  "source:ac717ee46fbd2e952647a4a147ed5cd4bee07580": {
-    "url": "https://ocp.news/politica/futuro-da-casan-coloca-joao-rodrigues-e-ralf-zimmer-em-lados-opostos-no-debate",
-    "title": "Candidatos ao Governo de SC divergem sobre futuro da Casan no saneamento",
-    "guid": "sc1multi:ac717ee46fbd2e952647a4a147ed5cd4bee07580",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac717ee46fbd2e952647a4a147ed5cd4bee07580/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
-  },
-  "source:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6": {
-    "url": "https://ocp.news/cotidiano/predio-mais-alto-do-mundo-levara-o-nome-de-senna-saiba-onde-sera-construido",
-    "title": "Senna Tower será o maior prédio residencial do mundo em Balneário Camboriú",
-    "guid": "sc1multi:5a1d3fc98c279735589b4ca3a31dce2679f6c0a6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5a1d3fc98c279735589b4ca3a31dce2679f6c0a6/",
-    "usedAt": 1786374845150,
-    "usedAtIso": "2026-08-10T15:14:05.150Z"
+  "source:3fa382b930cf698dde17319186ae7272b34313af": {
+    "url": "https://ocp.news/seguranca/briga-entre-moradores-apos-veiculo-ser-danificado-termina-em-caso-de-policia-em-jaragua-do-sul",
+    "title": "Briga entre moradores por dano em veículo mobiliza polícia em Jaraguá do Sul",
+    "guid": "sc1multi:3fa382b930cf698dde17319186ae7272b34313af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3fa382b930cf698dde17319186ae7272b34313af/",
+    "usedAt": 1786378444569,
+    "usedAtIso": "2026-08-10T16:14:04.569Z"
   }
 }
