@@ -1,4 +1,36 @@
 {
+  "source:bbc1b4369efa2ef951473d8918c59bfb7a587b04": {
+    "url": "https://rbatv.com.br/noticias/motociclista-morre-apos-grave-acidente-na-sc-350-em-ituporanga",
+    "title": "Motociclista morre em acidente na SC-350 em Ituporanga",
+    "guid": "sc1multi:d0a1501843d5e38439899aaf5b9ca14965a5ec25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d0a1501843d5e38439899aaf5b9ca14965a5ec25/",
+    "usedAt": 1786335244349,
+    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  },
+  "source:5ce2803fd849f2cedbcdb35756181bacd6307026": {
+    "url": "https://ocp.news/seguranca/empresario-e-preso-com-3-toneladas-de-cabos-eletricos-furtados-em-schroeder",
+    "title": "Empresário é preso com três toneladas de cabos elétricos furtados em Schroeder",
+    "guid": "sc1multi:5ce2803fd849f2cedbcdb35756181bacd6307026",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ce2803fd849f2cedbcdb35756181bacd6307026/",
+    "usedAt": 1786335244349,
+    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  },
+  "source:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c": {
+    "url": "https://ocp.news/cotidiano/clube-fundado-ha-quase-50-anos-ganha-projecao-internacional-com-visitas-de-veleiros-estrangeiros",
+    "title": "Joinville Iate Clube atrai veleiros internacionais e destaca Santa Catarina",
+    "guid": "sc1multi:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a4aadd6237fb59dc61f14b02dc8b517c6a8374c/",
+    "usedAt": 1786335244349,
+    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  },
+  "source:fc005f0abfb5ea8a17e9aff3551e41e083070026": {
+    "url": "https://ocp.news/cotidiano/dupla-e-condenada-por-golpe-da-falsa-adolescente-em-jaragua-do-sul-e-tera-que-devolver-r-20-mil",
+    "title": "Dupla é condenada por golpe da falsa adolescente em Jaraguá do Sul",
+    "guid": "sc1multi:fc005f0abfb5ea8a17e9aff3551e41e083070026",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc005f0abfb5ea8a17e9aff3551e41e083070026/",
+    "usedAt": 1786335244349,
+    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  },
   "source:f14c8e4e49418ad083e29fc566db7ebc0b86fac7": {
     "url": "https://tnsul.com/2026/08/09/apos-30-anos-na-educacao-professora-lanca-o-primeiro-livro",
     "title": "Professora de Criciúma lança livro infantil após 30 anos na educação",
@@ -119,36 +151,36 @@
     "usedAt": 1786317247619,
     "usedAtIso": "2026-08-09T23:14:07.619Z"
   },
-  "source:bbc1b4369efa2ef951473d8918c59bfb7a587b04": {
-    "url": "https://rbatv.com.br/noticias/motociclista-morre-apos-grave-acidente-na-sc-350-em-ituporanga",
-    "title": "Motociclista morre em acidente na SC-350 em Ituporanga",
-    "guid": "sc1multi:d0a1501843d5e38439899aaf5b9ca14965a5ec25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d0a1501843d5e38439899aaf5b9ca14965a5ec25/",
-    "usedAt": 1786335244349,
-    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  "source:e1596ed9e536b3ab1091ecd238b7c43ba74a15e4": {
+    "url": "https://ocp.news/seguranca/meteorologista-alerta-para-possivel-super-el-nino-apos-sequencia-de-tornados-no-sul",
+    "title": "Meteorologista alerta para possível Super El Niño e tempo severo no Sul",
+    "guid": "sc1multi:e1596ed9e536b3ab1091ecd238b7c43ba74a15e4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1596ed9e536b3ab1091ecd238b7c43ba74a15e4/",
+    "usedAt": 1786338844433,
+    "usedAtIso": "2026-08-10T05:14:04.433Z"
   },
-  "source:5ce2803fd849f2cedbcdb35756181bacd6307026": {
-    "url": "https://ocp.news/seguranca/empresario-e-preso-com-3-toneladas-de-cabos-eletricos-furtados-em-schroeder",
-    "title": "Empresário é preso com três toneladas de cabos elétricos furtados em Schroeder",
-    "guid": "sc1multi:5ce2803fd849f2cedbcdb35756181bacd6307026",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ce2803fd849f2cedbcdb35756181bacd6307026/",
-    "usedAt": 1786335244349,
-    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  "source:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-bate-santo-andre-garante-5o-lugar-e-tera-duelo-catarinense-nas-oitavas-da-lnf",
+    "title": "Jaraguá Futsal vence Santo André e enfrenta Tubarão nas oitavas da LNF",
+    "guid": "sc1multi:7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7eb85a2b91bd089b86f60b1377c6017ca8dc1ad8/",
+    "usedAt": 1786338844433,
+    "usedAtIso": "2026-08-10T05:14:04.433Z"
   },
-  "source:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c": {
-    "url": "https://ocp.news/cotidiano/clube-fundado-ha-quase-50-anos-ganha-projecao-internacional-com-visitas-de-veleiros-estrangeiros",
-    "title": "Joinville Iate Clube atrai veleiros internacionais e destaca Santa Catarina",
-    "guid": "sc1multi:7a4aadd6237fb59dc61f14b02dc8b517c6a8374c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a4aadd6237fb59dc61f14b02dc8b517c6a8374c/",
-    "usedAt": 1786335244349,
-    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  "source:266abe78c39ff006952b63da56bbe54c3ef891a9": {
+    "url": "https://ocp.news/politica/jair-franzner-oficializa-filiacao-ao-pl-em-ato-politico-em-jaragua-do-sul",
+    "title": "Prefeito Jair Franzner oficializa filiação ao PL em Jaraguá do Sul",
+    "guid": "sc1multi:266abe78c39ff006952b63da56bbe54c3ef891a9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_266abe78c39ff006952b63da56bbe54c3ef891a9/",
+    "usedAt": 1786338844433,
+    "usedAtIso": "2026-08-10T05:14:04.433Z"
   },
-  "source:fc005f0abfb5ea8a17e9aff3551e41e083070026": {
-    "url": "https://ocp.news/cotidiano/dupla-e-condenada-por-golpe-da-falsa-adolescente-em-jaragua-do-sul-e-tera-que-devolver-r-20-mil",
-    "title": "Dupla é condenada por golpe da falsa adolescente em Jaraguá do Sul",
-    "guid": "sc1multi:fc005f0abfb5ea8a17e9aff3551e41e083070026",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc005f0abfb5ea8a17e9aff3551e41e083070026/",
-    "usedAt": 1786335244349,
-    "usedAtIso": "2026-08-10T04:14:04.349Z"
+  "source:b31786a9a7bf2ca0eee132dd0c96e718c36fc616": {
+    "url": "https://ocp.news/politica/flavio-bolsonaro-divulga-lista-com-47-nomes-para-o-senado",
+    "title": "Flávio Bolsonaro anuncia apoio a Carlos Bolsonaro e Caroline de Toni para o Senado",
+    "guid": "sc1multi:b31786a9a7bf2ca0eee132dd0c96e718c36fc616",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b31786a9a7bf2ca0eee132dd0c96e718c36fc616/",
+    "usedAt": 1786338844433,
+    "usedAtIso": "2026-08-10T05:14:04.433Z"
   }
 }
