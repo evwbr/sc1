@@ -1,4 +1,36 @@
 {
+  "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
+    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
+    "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
+    "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  },
+  "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
+    "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
+    "title": "Homem com mandado de prisão é preso em Atalanta, SC",
+    "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  },
+  "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
+    "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
+    "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
+    "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  },
+  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
+    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
+    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
+    "usedAt": 1786324445288,
+    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  },
   "source:894dda2445e5525f78a89d7141b3ada52b0a230d": {
     "url": "https://rbatv.com.br/noticias/carro-invade-loja-apos-colisao-em-taio",
     "title": "Carro invade loja de tintas após colisão em Taió",
@@ -55,84 +87,52 @@
     "usedAt": 1786313644238,
     "usedAtIso": "2026-08-09T22:14:04.238Z"
   },
-  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
-    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
-    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
-    "usedAt": 1786310044224,
-    "usedAtIso": "2026-08-09T21:14:04.224Z"
+  "source:f14c8e4e49418ad083e29fc566db7ebc0b86fac7": {
+    "url": "https://tnsul.com/2026/08/09/apos-30-anos-na-educacao-professora-lanca-o-primeiro-livro",
+    "title": "Professora de Criciúma lança livro infantil após 30 anos na educação",
+    "guid": "sc1multi:388949c6d5196016ca5a2998bf9da94072a3b2b2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_388949c6d5196016ca5a2998bf9da94072a3b2b2/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:7e14b70e3c83043931e26042e3407e25b46c6d20": {
-    "url": "https://ocp.news/seguranca/caminhao-vindo-da-fronteira-com-a-argentina-e-flagrado-com-mais-de-5-toneladas-de-camarao-sob-palha",
-    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial, SC",
-    "guid": "sc1multi:7e14b70e3c83043931e26042e3407e25b46c6d20",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e14b70e3c83043931e26042e3407e25b46c6d20/",
-    "usedAt": 1786306444106,
-    "usedAtIso": "2026-08-09T20:14:04.106Z"
+  "source:b0157f30e61f00d84a946bba813e2f205b1c2958": {
+    "url": "https://tnsul.com/2026/08/09/homem-fica-ferido-apos-cair-de-laje-durante-servico-em-jaguaruna",
+    "title": "Homem fica ferido após cair de laje em Jaguaruna",
+    "guid": "sc1multi:ae7e5fbf1182e6d0a91f6f6cca1b475f63b3a4a4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ae7e5fbf1182e6d0a91f6f6cca1b475f63b3a4a4/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:767e6a354c5af030c948f74ffd75ce57c8f0cf8b": {
-    "url": "https://ocp.news/esporte/historico-jaragua-do-sul-conquista-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
-    "title": "Jaraguá do Sul garante vaga na fase final da Superliga C Masculina de Voleibol",
-    "guid": "sc1multi:767e6a354c5af030c948f74ffd75ce57c8f0cf8b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_767e6a354c5af030c948f74ffd75ce57c8f0cf8b/",
-    "usedAt": 1786306444106,
-    "usedAtIso": "2026-08-09T20:14:04.106Z"
+  "source:43adb282634302b7be5418980ab9b1220cfef85b": {
+    "url": "https://tnsul.com/2026/08/09/tre-sc-realiza-distribuicao-de-18-860-urnas-eletronicas-para-eleicoes-2026",
+    "title": "TRE-SC distribui 18.860 urnas eletrônicas para Eleições 2026 em Santa Catarina",
+    "guid": "sc1multi:3d50bb53ce61c9e16d049ae5fae6f73b950e854f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3d50bb53ce61c9e16d049ae5fae6f73b950e854f/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582": {
-    "url": "https://ocp.news/politica/ralf-zimmer-questiona-joao-rodrigues-sobre-possivel-candidatura-da-esposa-em-debate-ao-governo-de-sc",
-    "title": "Ralf Zimmer questiona João Rodrigues sobre candidatura da esposa em debate ao governo de SC",
-    "guid": "sc1multi:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582/",
-    "usedAt": 1786306444106,
-    "usedAtIso": "2026-08-09T20:14:04.106Z"
+  "source:acf7b3115e1a248e0be890104c4635419d58c130": {
+    "url": "https://tnsul.com/2026/08/09/coral-show-crianca-feliz-lanca-temporada-de-apresentacoes-gratuitas",
+    "title": "Coral Show Criança Feliz lança temporada gratuita no Sul de Santa Catarina",
+    "guid": "sc1multi:8e577648b649119eb7a9b697dcae377467171565",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8e577648b649119eb7a9b697dcae377467171565/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:5b3f9b260d8e973f6b00c6732730de349fa3f648": {
-    "url": "https://ocp.news/seguranca/homem-e-conduzido-a-delegacia-apos-briga-entre-companheiros-em-jaragua-do-sul",
-    "title": "Homem é levado à delegacia após briga em Jaraguá do Sul",
-    "guid": "sc1multi:5b3f9b260d8e973f6b00c6732730de349fa3f648",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b3f9b260d8e973f6b00c6732730de349fa3f648/",
-    "usedAt": 1786306444106,
-    "usedAtIso": "2026-08-09T20:14:04.106Z"
+  "source:eb23ba652f004fe0feaa03d071e74f346ae0af5c": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-com-drogas-durante-acao-contra-o-trafico-em-guaramirim",
+    "title": "Homem é preso com drogas durante ação policial em Guaramirim",
+    "guid": "sc1multi:eb23ba652f004fe0feaa03d071e74f346ae0af5c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_eb23ba652f004fe0feaa03d071e74f346ae0af5c/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   },
-  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
-    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
-    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
-    "usedAt": 1786306444106,
-    "usedAtIso": "2026-08-09T20:14:04.106Z"
-  },
-  "source:de514572a6c0de979dd5a1c5b15d51441ce4ea31": {
-    "url": "https://rbatv.com.br/noticias/bombeiros-voluntarios-iniciam-capacitacao-em-manutencao-de-motores-de-embarcacoes-em-presidente-getulio",
-    "title": "Bombeiros Voluntários de Presidente Getúlio capacitam-se em manutenção de motores de embarcações",
-    "guid": "sc1multi:0761026525ff7a14bf691efd09bdd30968c5b627",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0761026525ff7a14bf691efd09bdd30968c5b627/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
-  },
-  "source:13ed31a681d2ebceb51fb24e70e3a014af2b9a08": {
-    "url": "https://rbatv.com.br/noticias/homem-com-mandado-de-prisao-em-aberto-e-preso-durante-abordagem-em-atalanta",
-    "title": "Homem com mandado de prisão é preso em Atalanta, SC",
-    "guid": "sc1multi:6b499f7b7b53bca2acd7ad299a9d67d7ee701da2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6b499f7b7b53bca2acd7ad299a9d67d7ee701da2/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
-  },
-  "source:eb8fe00b5de1e642dbfd8438942fc9c40c1d275f": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-rendida-por-dois-homens-apos-veiculo-apresentar-problemas-mecanicos-em-ituporanga",
-    "title": "Mulher é rendida e roubada após problema mecânico em Ituporanga",
-    "guid": "sc1multi:6e8c8e9857f5ce393b35057711a12c9d6405fd43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e8c8e9857f5ce393b35057711a12c9d6405fd43/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
-  },
-  "source:01a0c95e76ddea9527c10fff17faecdc9c33814d": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-em-flagrante-apos-furtar-fiacao-eletrica-em-lontras",
-    "title": "Homem é preso em flagrante por furtar fiação elétrica em Lontras",
-    "guid": "sc1multi:b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b66af6aee5fc646dcb5d9eb3de5abc146d3b2ba3/",
-    "usedAt": 1786324445288,
-    "usedAtIso": "2026-08-10T01:14:05.288Z"
+  "source:13dfbebac3b3379f7f8136f3b07ed0bc636a9661": {
+    "url": "https://correiosc.com.br/slug-chuva-e-frio-nos-proximos-dias-em-sc",
+    "title": "Chuva e frio devem predominar em Santa Catarina nos próximos dias",
+    "guid": "sc1multi:1a80138974e76d472bf93d3cc1eab2f900fdfe83",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a80138974e76d472bf93d3cc1eab2f900fdfe83/",
+    "usedAt": 1786331644524,
+    "usedAtIso": "2026-08-10T03:14:04.524Z"
   }
 }
