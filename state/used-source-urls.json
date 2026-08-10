@@ -1,4 +1,60 @@
 {
+  "source:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf": {
+    "url": "https://ocp.news/seguranca/filho-e-levado-a-delegacia-apos-agredir-a-mae-e-causar-danos-em-residencia-de-jaragua-do-sul",
+    "title": "Homem é levado à delegacia após agredir mãe em Jaraguá do Sul",
+    "guid": "sc1multi:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ffad5dc86b2b6767adaec11a8e9ef9f7751063cf/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:7e14b70e3c83043931e26042e3407e25b46c6d20": {
+    "url": "https://ocp.news/seguranca/caminhao-vindo-da-fronteira-com-a-argentina-e-flagrado-com-mais-de-5-toneladas-de-camarao-sob-palha",
+    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial, SC",
+    "guid": "sc1multi:7e14b70e3c83043931e26042e3407e25b46c6d20",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e14b70e3c83043931e26042e3407e25b46c6d20/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
+    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
+    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
+    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:be63689a2aeb6611613cdd12c6c262220247428a": {
+    "url": "https://tnsul.com/2026/08/10/homem-persegue-companheira-apos-briga-sofre-acidente-e-e-preso-em-itapema",
+    "title": "Homem é preso após perseguição e acidente em Itapema",
+    "guid": "sc1multi:7bd3f9f43965200b2535a57cb31fdb0017e97482",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bd3f9f43965200b2535a57cb31fdb0017e97482/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:8c352c7e3c050146b1de69cdf3792f4501bd1a93": {
+    "url": "https://ocp.news/seguranca/acidente-com-caminhao-causa-interdicao-e-filas-na-br-101-no-norte-de-sc",
+    "title": "Carreta tomba e interdita BR-101 em Araquari, SC",
+    "guid": "sc1multi:8c352c7e3c050146b1de69cdf3792f4501bd1a93",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c352c7e3c050146b1de69cdf3792f4501bd1a93/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:767e6a354c5af030c948f74ffd75ce57c8f0cf8b": {
+    "url": "https://ocp.news/esporte/historico-jaragua-do-sul-conquista-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
+    "title": "Jaraguá do Sul garante vaga na fase final da Superliga C Masculina de Vôlei",
+    "guid": "sc1multi:767e6a354c5af030c948f74ffd75ce57c8f0cf8b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_767e6a354c5af030c948f74ffd75ce57c8f0cf8b/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
+  "source:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582": {
+    "url": "https://ocp.news/politica/ralf-zimmer-questiona-joao-rodrigues-sobre-possivel-candidatura-da-esposa-em-debate-ao-governo-de-sc",
+    "title": "Ralf Zimmer questiona João Rodrigues sobre candidatura da esposa em debate ao governo de SC",
+    "guid": "sc1multi:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582/",
+    "usedAt": 1786364044631,
+    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  },
   "source:e1596ed9e536b3ab1091ecd238b7c43ba74a15e4": {
     "url": "https://ocp.news/seguranca/meteorologista-alerta-para-possivel-super-el-nino-apos-sequencia-de-tornados-no-sul",
     "title": "Meteorologista alerta para possível Super El Niño e tempo severo no Sul do Brasil",
@@ -188,8 +244,8 @@
     "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
     "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
-    "usedAt": 1786349644752,
-    "usedAtIso": "2026-08-10T08:14:04.752Z"
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
   "source:d7d9d948c36bd5b829e5c9a22bf3e52b40e40355": {
     "url": "https://ocp.news/seguranca/identificado-homem-que-morreu-apos-surto-em-guaramirim-no-sabado-8",
@@ -215,76 +271,76 @@
     "usedAt": 1786349644752,
     "usedAtIso": "2026-08-10T08:14:04.752Z"
   },
-  "source:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf": {
-    "url": "https://ocp.news/seguranca/filho-e-levado-a-delegacia-apos-agredir-a-mae-e-causar-danos-em-residencia-de-jaragua-do-sul",
-    "title": "Homem é levado à delegacia após agredir mãe em Jaraguá do Sul",
-    "guid": "sc1multi:ffad5dc86b2b6767adaec11a8e9ef9f7751063cf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ffad5dc86b2b6767adaec11a8e9ef9f7751063cf/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:789956943b2239fc407b5f0b268241e9a693f531": {
+    "url": "https://tnsul.com/2026/08/10/bebe-de-seis-meses-morre-apos-colisao-entre-carro-e-carreta-na-br-470",
+    "title": "Bebê de seis meses morre após colisão na BR-470 em Brunópolis",
+    "guid": "sc1multi:e1f9364bfc836924287217576840931a8ae60876",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e1f9364bfc836924287217576840931a8ae60876/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:7e14b70e3c83043931e26042e3407e25b46c6d20": {
-    "url": "https://ocp.news/seguranca/caminhao-vindo-da-fronteira-com-a-argentina-e-flagrado-com-mais-de-5-toneladas-de-camarao-sob-palha",
-    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial, SC",
-    "guid": "sc1multi:7e14b70e3c83043931e26042e3407e25b46c6d20",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e14b70e3c83043931e26042e3407e25b46c6d20/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9": {
+    "url": "https://ocp.news/entretenimento/jantar-italiano-de-schroeder-celebra-sabores-e-tradicoes-da-italia",
+    "title": "Jantar Italiano em Schroeder celebra tradições e sabores da Itália",
+    "guid": "sc1multi:a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:eeb92d9e3a100fe48f7e9fa2805da716757457fb": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-ferroviaria-2x2",
-    "title": "Figueirense empata com Ferroviária em jogo da Série C no Orlando Scarpelli",
-    "guid": "sc1multi:8c800451b747ef2fe69011087a031f5f1632ede6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c800451b747ef2fe69011087a031f5f1632ede6/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:804237a1e98e6b32dfae1a6f31905af102dac47d": {
+    "url": "https://tnsul.com/2026/08/10/motoboy-aplica-golpe-e-pizzaria-sofre-prejuizo-de-r-16-mil-em-criciuma",
+    "title": "Motoboy aplica golpe e pizzaria tem prejuízo de R$ 1,6 mil em Criciúma",
+    "guid": "sc1multi:8371f85f77ce808b793f7b8813cbce175320a121",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8371f85f77ce808b793f7b8813cbce175320a121/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:84bac51112481e7b624e23924c84ade38b6a7e43": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-de-mata-mata-da-liga-nacional-de-futsal",
-    "title": "Liga Nacional de Futsal define confrontos das oitavas de final com times catarinenses",
-    "guid": "sc1multi:84bac51112481e7b624e23924c84ade38b6a7e43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_84bac51112481e7b624e23924c84ade38b6a7e43/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  "source:6cee95e3f7499e7af86182a4ed831091be0a1ce4": {
+    "url": "https://rbatv.com.br/noticias/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-operacao-na-br-470-em-indaial",
+    "title": "Mais de 5 toneladas de camarão são apreendidas na BR-470 em Indaial",
+    "guid": "sc1multi:e6eea868531de8a387cdb9c08eaaa33bb1a109bf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6eea868531de8a387cdb9c08eaaa33bb1a109bf/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:b363adf7ba4b936b83c91474a183bd510ac6f8a1": {
-    "url": "https://ocp.news/esporte/veja-os-confrontos-das-oitavas-de-final-da-liga-nacional-de-futsal",
-    "title": "Jaraguá e Tubarão se enfrentam nas oitavas da Liga Nacional de Futsal",
-    "guid": "sc1multi:b363adf7ba4b936b83c91474a183bd510ac6f8a1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b363adf7ba4b936b83c91474a183bd510ac6f8a1/",
-    "usedAt": 1786346044643,
-    "usedAtIso": "2026-08-10T07:14:04.643Z"
+  "source:d028a423274531a68744c1a2fc51add76308ce43": {
+    "url": "https://ocp.news/cotidiano/gincana-de-dia-dos-pais-reune-100-idosos-na-pro-familia-em-blumenau",
+    "title": "Gincana de Dia dos Pais reúne 100 idosos na Pró-Família em Blumenau",
+    "guid": "sc1multi:d028a423274531a68744c1a2fc51add76308ce43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d028a423274531a68744c1a2fc51add76308ce43/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:be63689a2aeb6611613cdd12c6c262220247428a": {
-    "url": "https://tnsul.com/2026/08/10/homem-persegue-companheira-apos-briga-sofre-acidente-e-e-preso-em-itapema",
-    "title": "Homem é preso após perseguição e acidente em Itapema",
-    "guid": "sc1multi:7bd3f9f43965200b2535a57cb31fdb0017e97482",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bd3f9f43965200b2535a57cb31fdb0017e97482/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:823497c85bbf83a4077f33e42f8eed3b581993c9": {
+    "url": "https://ocp.news/cotidiano/mutirao-de-limpeza-recolhe-cerca-de-tres-toneladas-de-residuos-no-bairro-quarta-linha-em-criciuma",
+    "title": "Mutirão de Limpeza recolhe três toneladas de resíduos em Criciúma",
+    "guid": "sc1multi:823497c85bbf83a4077f33e42f8eed3b581993c9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_823497c85bbf83a4077f33e42f8eed3b581993c9/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:8c352c7e3c050146b1de69cdf3792f4501bd1a93": {
-    "url": "https://ocp.news/seguranca/acidente-com-caminhao-causa-interdicao-e-filas-na-br-101-no-norte-de-sc",
-    "title": "Carreta tomba e interdita BR-101 em Araquari, SC",
-    "guid": "sc1multi:8c352c7e3c050146b1de69cdf3792f4501bd1a93",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c352c7e3c050146b1de69cdf3792f4501bd1a93/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:22547a09322b01f8a05b8ea58011905014370c82": {
+    "url": "https://tnsul.com/2026/08/10/br-101-tem-parte-da-pista-interditada-apos-tombamento-de-caminhao",
+    "title": "Caminhão tomba e interdita faixa da BR-101 em Araquari",
+    "guid": "sc1multi:73fde6fb1bc3e3234f018421f683f768f293b220",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_73fde6fb1bc3e3234f018421f683f768f293b220/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:767e6a354c5af030c948f74ffd75ce57c8f0cf8b": {
-    "url": "https://ocp.news/esporte/historico-jaragua-do-sul-conquista-vaga-na-fase-final-da-superliga-c-masculina-de-voleibol",
-    "title": "Jaraguá do Sul garante vaga na fase final da Superliga C Masculina de Vôlei",
-    "guid": "sc1multi:767e6a354c5af030c948f74ffd75ce57c8f0cf8b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_767e6a354c5af030c948f74ffd75ce57c8f0cf8b/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:ba7540c8701fdec93e315fb15703f79914ee64ad": {
+    "url": "https://ocp.news/cotidiano/funcionalidade-pet-desaparecido-do-app-joinville-facil-completa-um-mes",
+    "title": "Funcionalidade 'Pet Desaparecido' do Joinville Fácil completa um mês",
+    "guid": "sc1multi:ba7540c8701fdec93e315fb15703f79914ee64ad",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ba7540c8701fdec93e315fb15703f79914ee64ad/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   },
-  "source:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582": {
-    "url": "https://ocp.news/politica/ralf-zimmer-questiona-joao-rodrigues-sobre-possivel-candidatura-da-esposa-em-debate-ao-governo-de-sc",
-    "title": "Ralf Zimmer questiona João Rodrigues sobre candidatura da esposa em debate ao governo de SC",
-    "guid": "sc1multi:4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bbf1bf2dde9e1c9bde6dc5b79dc1f9703790582/",
-    "usedAt": 1786364044631,
-    "usedAtIso": "2026-08-10T12:14:04.631Z"
+  "source:8712ae3616b2256e7ba8a8a9229bbf03750029ab": {
+    "url": "https://tudoaquisc.com.br/educacao/33-mil-estudantes-ufsc-26-2",
+    "title": "33 mil estudantes iniciam",
+    "guid": "sc1multi:851b3e4377eb6780231e7d4ff24dc82337322f21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_851b3e4377eb6780231e7d4ff24dc82337322f21/",
+    "usedAt": 1786367644856,
+    "usedAtIso": "2026-08-10T13:14:04.856Z"
   }
 }
