@@ -1,4 +1,12 @@
 {
+  "source:e64cb56c84b975bbddf9133034190c52a9019a84": {
+    "url": "https://tudoaquisc.com.br/saude/vacinacao-mobiliza-1-setembro-1",
+    "title": "Florianópolis mobiliza vacinação até 1º de setembro para todas as idades",
+    "guid": "sc1multi:6972395bc3694a33c1251bc9eb31764117c0a3df",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6972395bc3694a33c1251bc9eb31764117c0a3df/",
+    "usedAt": 1786439644246,
+    "usedAtIso": "2026-08-11T09:14:04.246Z"
+  },
   "source:d1ed2270f6bae5ab598e1a6c0f1af66b4b977ac7": {
     "url": "https://tudoaquisc.com.br/policia/sogra-esfaqueia-nora-7-vezes-10",
     "title": "Sogra esfaqueia nora sete vezes em Joaçaba, SC",
@@ -15,28 +23,60 @@
     "usedAt": 1786428844727,
     "usedAtIso": "2026-08-11T06:14:04.727Z"
   },
-  "source:a47e57739cc45ffd9acff0858e216773813f41d1": {
-    "url": "https://tudoaquisc.com.br/oportunidades/celesc-concurso-salarios-69-000",
-    "title": "Celesc abre concurso com salários de até R$ 6,9 mil em Santa Catarina",
-    "guid": "sc1multi:c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2/",
-    "usedAt": 1786425244492,
-    "usedAtIso": "2026-08-11T05:14:04.492Z"
+  "source:d8a3736476e4ac00a85a2d545790e338033a4bf4": {
+    "url": "https://rbatv.com.br/noticias/inscricoes-para-concurso-da-guarda-municipal-de-rio-do-sul-entram-na-reta-final",
+    "title": "Inscrições para concurso da Guarda Municipal de Rio do Sul terminam nesta quinta",
+    "guid": "sc1multi:414cf03c742107d8269dcd425edbb4b04b8ea5c6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_414cf03c742107d8269dcd425edbb4b04b8ea5c6/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
   },
-  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
-    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
-    "title": "Florianópolis convoca população para Campanha Nacional de Multivacinação",
-    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
-    "usedAt": 1786418044327,
-    "usedAtIso": "2026-08-11T03:14:04.327Z"
+  "source:122158378fdc3751f5470e4a9733243992141991": {
+    "url": "https://rbatv.com.br/noticias/aeroporto-helmuth-baumgarten-recebe-voo-de-homologacao-do-sistema-apapi-na-cabeceira-25",
+    "title": "Aeroporto Helmuth Baumgarten passa por voo de homologação do sistema APAPI",
+    "guid": "sc1multi:4db2fb5ba32202007abded07053ba0b18d0b0edd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4db2fb5ba32202007abded07053ba0b18d0b0edd/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
   },
-  "source:e64cb56c84b975bbddf9133034190c52a9019a84": {
-    "url": "https://tudoaquisc.com.br/saude/vacinacao-mobiliza-1-setembro-1",
-    "title": "Florianópolis mobiliza vacinação até 1º de setembro para todas as idades",
-    "guid": "sc1multi:6972395bc3694a33c1251bc9eb31764117c0a3df",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6972395bc3694a33c1251bc9eb31764117c0a3df/",
-    "usedAt": 1786439644246,
-    "usedAtIso": "2026-08-11T09:14:04.246Z"
+  "source:131616a53e7dee86216ae0b3439fd10529117404": {
+    "url": "https://tnsul.com/2026/08/11/tce-sc-suspende-licitacao-de-r-38-milhoes-para-verificar-obitos-no-sul",
+    "title": "TCE/SC suspende licitação de R$ 3,8 milhões para verificação de óbitos no Sul catarinense",
+    "guid": "sc1multi:74d49091c538c02f3a2148193d55bfd1aaf98883",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d49091c538c02f3a2148193d55bfd1aaf98883/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
+  },
+  "source:bcfaabe6e4b1f39baaeb8bd47941afb208d4dd6f": {
+    "url": "https://rbatv.com.br/noticias/incendio-atinge-fabrica-de-salgadinhos-e-mobiliza-15-bombeiros-em-indaial",
+    "title": "Incêndio atinge fábrica de salgadinhos em Indaial e mobiliza bombeiros",
+    "guid": "sc1multi:79ef82290da892ffdee370789324ffec40f4d317",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_79ef82290da892ffdee370789324ffec40f4d317/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
+  },
+  "source:70984dd56a8c4a23be1858e60574a5ee9ce572f5": {
+    "url": "https://rbatv.com.br/noticias/pm-apreende-milhares-de-comprimidos-de-ecstasy-drogas-e-duas-armas-em-blumenau",
+    "title": "PM apreende milhares de comprimidos de ecstasy e armas em Blumenau",
+    "guid": "sc1multi:e83248843c8297e4e81bae357f02780413a0b4cb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e83248843c8297e4e81bae357f02780413a0b4cb/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
+  },
+  "source:6d07e887869be218b8bfc13af9ff714efe06aeb4": {
+    "url": "https://tnsul.com/2026/08/11/homem-ateia-fogo-em-carro-com-cachorro-dentro-em-criciuma",
+    "title": "Homem ateia fogo em carro com cachorro dentro em Criciúma",
+    "guid": "sc1multi:895170b243d8a05b610e634b8ea9ea0d8e3cccc3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_895170b243d8a05b610e634b8ea9ea0d8e3cccc3/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
+  },
+  "source:60f4edd575aea90d68d34df299dff99008e7b7b6": {
+    "url": "https://rbatv.com.br/noticias/pm-cumpre-tres-mandados-de-prisao-em-rio-dos-cedros-e-timbo",
+    "title": "Polícia Militar cumpre três mandados de prisão em Rio dos Cedros e Timbó",
+    "guid": "sc1multi:8036bc35efbb08cba3f443e1b7aa779f31f88168",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8036bc35efbb08cba3f443e1b7aa779f31f88168/",
+    "usedAt": 1786446844645,
+    "usedAtIso": "2026-08-11T11:14:04.645Z"
   }
 }
