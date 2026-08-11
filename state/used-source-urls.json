@@ -1,4 +1,28 @@
 {
+  "source:13dfbebac3b3379f7f8136f3b07ed0bc636a9661": {
+    "url": "https://correiosc.com.br/slug-chuva-e-frio-nos-proximos-dias-em-sc",
+    "title": "Chuva e frio devem persistir em Santa Catarina nos próximos dias",
+    "guid": "sc1multi:1a80138974e76d472bf93d3cc1eab2f900fdfe83",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a80138974e76d472bf93d3cc1eab2f900fdfe83/",
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
+  },
+  "source:8ac777d32c90b493dfbb9f4845a697473271aad3": {
+    "url": "https://ocp.news/seguranca/mpsc-aponta-suspeita-de-fraude-em-licitacao-de-sonorizacao-em-barra-velha",
+    "title": "MPSC investiga suspeita de fraude em licitação de sonorização em Barra Velha",
+    "guid": "sc1multi:8ac777d32c90b493dfbb9f4845a697473271aad3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ac777d32c90b493dfbb9f4845a697473271aad3/",
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
+  },
+  "source:9144eb9508f64dc6707a45ce0e758076e75c05ee": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-furtar-fios-de-cobre-de-obra-em-blumenau",
+    "title": "Homem é preso por furtar fios de cobre em obra no bairro Velha, Blumenau",
+    "guid": "sc1multi:3eb7262c8b0f1ddd85836e12e4301983d79e7a4d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3eb7262c8b0f1ddd85836e12e4301983d79e7a4d/",
+    "usedAt": 1786403644560,
+    "usedAtIso": "2026-08-10T23:14:04.560Z"
+  },
   "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
     "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
     "title": "Investidores disputam concessão do CentroSul em Florianópolis",
@@ -191,84 +215,28 @@
     "usedAt": 1786389244904,
     "usedAtIso": "2026-08-10T19:14:04.904Z"
   },
-  "source:13dfbebac3b3379f7f8136f3b07ed0bc636a9661": {
-    "url": "https://correiosc.com.br/slug-chuva-e-frio-nos-proximos-dias-em-sc",
-    "title": "Chuva e frio devem persistir em Santa Catarina nos próximos dias",
-    "guid": "sc1multi:1a80138974e76d472bf93d3cc1eab2f900fdfe83",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a80138974e76d472bf93d3cc1eab2f900fdfe83/",
-    "usedAt": 1786403644560,
-    "usedAtIso": "2026-08-10T23:14:04.560Z"
+  "source:31ffbc62c47544e1df261943bbcd428bd7f81a03": {
+    "url": "https://scportais.com.br/2026/08/10/governador-veta-criacao-de-incentivo-financeiro-para-abate-de-javali-europeu-em-sc",
+    "title": "Governador veta incentivo financeiro para abate de javali-europeu em Santa Catarina",
+    "guid": "sc1multi:37f4b9f1cd9d9dba49717e8256a35d55073aa308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37f4b9f1cd9d9dba49717e8256a35d55073aa308/",
+    "usedAt": 1786407245419,
+    "usedAtIso": "2026-08-11T00:14:05.419Z"
   },
-  "source:d8915193f79ba23a93fa8503fd07ab203bd5c03b": {
-    "url": "https://tnsul.com/2026/08/10/idosa-confunde-pedais-e-carro-invade-loja-de-tintas-em-taio",
-    "title": "Idosa invade loja de tintas com carro em Taió e fica ferida",
-    "guid": "sc1multi:7ccc87ac6909f969df5b8ccb3a7a9645aac2790b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7ccc87ac6909f969df5b8ccb3a7a9645aac2790b/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
+  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
+    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
+    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
+    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
+    "usedAt": 1786407245419,
+    "usedAtIso": "2026-08-11T00:14:05.419Z"
   },
-  "source:ac38250eb808b6c5df4e9312381e4f0b89571903": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-convoca-populacao-para-atualizar-vacinacao-contra-mais-de-20-doencas",
-    "title": "Florianópolis convoca população para atualizar vacinação contra mais de 20 doenças",
-    "guid": "sc1multi:ac38250eb808b6c5df4e9312381e4f0b89571903",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac38250eb808b6c5df4e9312381e4f0b89571903/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:8b6594b2eeaec38b421f40f5eb7cccf034549aea": {
-    "url": "https://ocp.news/seguranca/colisao-entre-dois-carros-mobiliza-bombeiros-em-jaragua-do-sul",
-    "title": "Colisão entre três carros mobiliza bombeiros em Jaraguá do Sul",
-    "guid": "sc1multi:8b6594b2eeaec38b421f40f5eb7cccf034549aea",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8b6594b2eeaec38b421f40f5eb7cccf034549aea/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9": {
-    "url": "https://ocp.news/entretenimento/jantar-italiano-de-schroeder-celebra-sabores-e-tradicoes-da-italia",
-    "title": "Jantar Italiano em Schroeder celebra tradições e sabores da Itália",
-    "guid": "sc1multi:a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a3edc3050bfb5cec3dec1ff8eeeacbdc1ab5eeb9/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:e1e1c0fdb5502b0ca409313edbca56651a9fe3e1": {
-    "url": "https://rbatv.com.br/noticias/familia-procura-jovem-maranhense-desaparecido-ha-um-ano-informacoes-indicam-passagem-pelo-alto-vale-do-itajai",
-    "title": "Família busca jovem desaparecido com possível passagem pelo Alto Vale do Itajaí",
-    "guid": "sc1multi:74d61f94ceb0a3e352a5d594ae5de3f387b8aa5f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_74d61f94ceb0a3e352a5d594ae5de3f387b8aa5f/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:9b48d44e10815d8377005ad1253af44d6c8e1b6a": {
-    "url": "https://tnsul.com/2026/08/10/buraco-e-tapado-menos-de-24-horas-apos-alerta-do-tn-sul-em-criciuma",
-    "title": "Buraco na Rua Imigrante Meller em Criciúma é tapado em menos de 24 horas",
-    "guid": "sc1multi:d6f0dbecad3e6ddd83607ad387f640248a34191e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6f0dbecad3e6ddd83607ad387f640248a34191e/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:567c7937a95d065c58e6a249d3c979d9412989e0": {
-    "url": "https://rbatv.com.br/noticias/caminhao-fica-sem-freio-e-tomba-na-margem-de-rodovia-em-leoberto-leal",
-    "title": "Caminhão tomba após perder freio em rodovia de Leoberto Leal",
-    "guid": "sc1multi:a00a3710b9bff08f5a4e7c48e4901498209f2015",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a00a3710b9bff08f5a4e7c48e4901498209f2015/",
-    "usedAt": 1786385644561,
-    "usedAtIso": "2026-08-10T18:14:04.561Z"
-  },
-  "source:8ac777d32c90b493dfbb9f4845a697473271aad3": {
-    "url": "https://ocp.news/seguranca/mpsc-aponta-suspeita-de-fraude-em-licitacao-de-sonorizacao-em-barra-velha",
-    "title": "MPSC investiga suspeita de fraude em licitação de sonorização em Barra Velha",
-    "guid": "sc1multi:8ac777d32c90b493dfbb9f4845a697473271aad3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8ac777d32c90b493dfbb9f4845a697473271aad3/",
-    "usedAt": 1786403644560,
-    "usedAtIso": "2026-08-10T23:14:04.560Z"
-  },
-  "source:9144eb9508f64dc6707a45ce0e758076e75c05ee": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-furtar-fios-de-cobre-de-obra-em-blumenau",
-    "title": "Homem é preso por furtar fios de cobre em obra no bairro Velha, Blumenau",
-    "guid": "sc1multi:3eb7262c8b0f1ddd85836e12e4301983d79e7a4d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3eb7262c8b0f1ddd85836e12e4301983d79e7a4d/",
-    "usedAt": 1786403644560,
-    "usedAtIso": "2026-08-10T23:14:04.560Z"
+  "source:deffda8bdf1a2a2ba85b18cb304199f1a2a8d621": {
+    "url": "https://ocp.news/seguranca/homem-e-condenado-a-37-anos-de-prisao-por-tentativa-de-feminicidio-em-sc",
+    "title": "Homem é condenado a 37 anos por tentativa de feminicídio em Santa Catarina",
+    "guid": "sc1multi:deffda8bdf1a2a2ba85b18cb304199f1a2a8d621",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_deffda8bdf1a2a2ba85b18cb304199f1a2a8d621/",
+    "usedAt": 1786407245419,
+    "usedAtIso": "2026-08-11T00:14:05.419Z"
   }
 }
