@@ -1,4 +1,76 @@
 {
+  "source:60f4edd575aea90d68d34df299dff99008e7b7b6": {
+    "url": "https://rbatv.com.br/noticias/pm-cumpre-tres-mandados-de-prisao-em-rio-dos-cedros-e-timbo",
+    "title": "Polícia Militar cumpre três mandados de prisão em Rio dos Cedros e Timbó",
+    "guid": "sc1multi:8036bc35efbb08cba3f443e1b7aa779f31f88168",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8036bc35efbb08cba3f443e1b7aa779f31f88168/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:a2101c284c02f8b61c49a29fd7b57856120f9018": {
+    "url": "https://tnsul.com/2026/08/11/incendio-destroi-tres-carros-e-caminhao-dentro-de-oficina-em-florianopolis",
+    "title": "Incêndio destrói três carros e caminhão em oficina nos Ingleses, Florianópolis",
+    "guid": "sc1multi:9ba8dd35aec4943dae5d1d6bea444c5b757d18b8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ba8dd35aec4943dae5d1d6bea444c5b757d18b8/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:aaf55232cf39641c9865031a970f6ab6af30e8ea": {
+    "url": "https://tnsul.com/2026/08/11/furgao-pega-fogo-apos-falha-mecanica-em-tubarao",
+    "title": "Furgão pega fogo no bairro Vila Esperança em Tubarão",
+    "guid": "sc1multi:0396bbba6488fa6351550a491dec44bc72bb1ada",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0396bbba6488fa6351550a491dec44bc72bb1ada/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:c9e9386dd8af8db988fafc58c359ec422eacc2ad": {
+    "url": "https://ocp.news/esporte/time-jaraguaense-garante-2o-lugar-de-etapa-da-supercopa-do-brasil-de-basquete-sub-22",
+    "title": "Basquete masculino de Jaraguá do Sul conquista vice-campeonato na Supercopa Sub-22",
+    "guid": "sc1multi:c9e9386dd8af8db988fafc58c359ec422eacc2ad",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9e9386dd8af8db988fafc58c359ec422eacc2ad/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
+    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
+    "title": "Florianópolis convoca população para campanha de multivacinação até 1º de setembro",
+    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:31ffbc62c47544e1df261943bbcd428bd7f81a03": {
+    "url": "https://scportais.com.br/2026/08/10/governador-veta-criacao-de-incentivo-financeiro-para-abate-de-javali-europeu-em-sc",
+    "title": "Governador veta incentivo financeiro para abate de javali-europeu em Santa Catarina",
+    "guid": "sc1multi:37f4b9f1cd9d9dba49717e8256a35d55073aa308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37f4b9f1cd9d9dba49717e8256a35d55073aa308/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
+    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
+    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
+    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:6f75d9f1c392acd28693001d9a792f239e6e96d8": {
+    "url": "https://tudoaquisc.com.br/policia/prf-eletronicos-remedios-br-101",
+    "title": "PRF apreende eletrônicos e remédios na BR-101 em Santa Catarina",
+    "guid": "sc1multi:4575b2c84cd3013079253a51e51586bbf82fc382",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4575b2c84cd3013079253a51e51586bbf82fc382/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
+  "source:a47e57739cc45ffd9acff0858e216773813f41d1": {
+    "url": "https://tudoaquisc.com.br/oportunidades/celesc-concurso-salarios-69-000",
+    "title": "Celesc abre concurso com salários de até R$ 6,9 mil em Santa Catarina",
+    "guid": "sc1multi:c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2/",
+    "usedAt": 1786461244615,
+    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  },
   "source:9b1beb009abd722b2a791524c50601b725da4214": {
     "url": "https://rbatv.com.br/noticias/ciclista-de-13-anos-fica-ferido-apos-colisao-com-carro-em-lontras",
     "title": "Ciclista de 13 anos fica ferido após colisão com carro em Lontras",
@@ -148,8 +220,8 @@
     "title": "Rio do Sul define regras para circulação de bicicletas e patinetes elétricos",
     "guid": "sc1multi:ac7f916c3c3b3f608f93cb346c1da12300335cad",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac7f916c3c3b3f608f93cb346c1da12300335cad/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:5cae19f5c970a7bd7a6d3eac4adc9633997ceb15": {
     "url": "https://rbatv.com.br/noticias/homem-e-preso-com-quase-200-gramas-de-cocaina-na-br-470-em-rio-do-sul",
@@ -164,32 +236,32 @@
     "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
     "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:18c17caa9bab7c3b1091be7166db264a47140ff1": {
     "url": "https://scportais.com.br/2026/08/09/pelo-estado-11-08-depois-da-eleicao-nao-existem-adversarios-existem-cidadaos-que-esperam-resultados",
     "title": "Gelson Merísio apresenta propostas para saúde, educação e segurança em Santa Catarina",
     "guid": "sc1multi:95016f75a771014d96cefa6669ba8af7acd446fa",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95016f75a771014d96cefa6669ba8af7acd446fa/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:d8a3736476e4ac00a85a2d545790e338033a4bf4": {
     "url": "https://rbatv.com.br/noticias/inscricoes-para-concurso-da-guarda-municipal-de-rio-do-sul-entram-na-reta-final",
     "title": "Inscrições para concurso da Guarda Municipal de Rio do Sul terminam nesta quinta",
     "guid": "sc1multi:414cf03c742107d8269dcd425edbb4b04b8ea5c6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_414cf03c742107d8269dcd425edbb4b04b8ea5c6/",
-    "usedAt": 1786446844645,
-    "usedAtIso": "2026-08-11T11:14:04.645Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:122158378fdc3751f5470e4a9733243992141991": {
     "url": "https://rbatv.com.br/noticias/aeroporto-helmuth-baumgarten-recebe-voo-de-homologacao-do-sistema-apapi-na-cabeceira-25",
-    "title": "Aeroporto Helmuth Baumgarten passa por voo de homologação do sistema APAPI",
+    "title": "Aeroporto de Rio do Sul realiza voo para homologar sistema APAPI na pista",
     "guid": "sc1multi:4db2fb5ba32202007abded07053ba0b18d0b0edd",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4db2fb5ba32202007abded07053ba0b18d0b0edd/",
-    "usedAt": 1786446844645,
-    "usedAtIso": "2026-08-11T11:14:04.645Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:131616a53e7dee86216ae0b3439fd10529117404": {
     "url": "https://tnsul.com/2026/08/11/tce-sc-suspende-licitacao-de-r-38-milhoes-para-verificar-obitos-no-sul",
@@ -204,16 +276,16 @@
     "title": "Incêndio atinge fábrica de salgadinhos em Indaial e mobiliza bombeiros",
     "guid": "sc1multi:79ef82290da892ffdee370789324ffec40f4d317",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_79ef82290da892ffdee370789324ffec40f4d317/",
-    "usedAt": 1786446844645,
-    "usedAtIso": "2026-08-11T11:14:04.645Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:70984dd56a8c4a23be1858e60574a5ee9ce572f5": {
     "url": "https://rbatv.com.br/noticias/pm-apreende-milhares-de-comprimidos-de-ecstasy-drogas-e-duas-armas-em-blumenau",
     "title": "PM apreende milhares de comprimidos de ecstasy e armas em Blumenau",
     "guid": "sc1multi:e83248843c8297e4e81bae357f02780413a0b4cb",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e83248843c8297e4e81bae357f02780413a0b4cb/",
-    "usedAt": 1786446844645,
-    "usedAtIso": "2026-08-11T11:14:04.645Z"
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
   "source:6d07e887869be218b8bfc13af9ff714efe06aeb4": {
     "url": "https://tnsul.com/2026/08/11/homem-ateia-fogo-em-carro-com-cachorro-dentro-em-criciuma",
@@ -223,76 +295,20 @@
     "usedAt": 1786446844645,
     "usedAtIso": "2026-08-11T11:14:04.645Z"
   },
-  "source:60f4edd575aea90d68d34df299dff99008e7b7b6": {
-    "url": "https://rbatv.com.br/noticias/pm-cumpre-tres-mandados-de-prisao-em-rio-dos-cedros-e-timbo",
-    "title": "Polícia Militar cumpre três mandados de prisão em Rio dos Cedros e Timbó",
-    "guid": "sc1multi:8036bc35efbb08cba3f443e1b7aa779f31f88168",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8036bc35efbb08cba3f443e1b7aa779f31f88168/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  "source:166ee08e0fa2e787277e392552d70eb0f84fe5b3": {
+    "url": "https://ocp.news/seguranca/estudante-e-encontrada-morta-uma-semana-apos-iniciar-faculdade-em-sc-namorado-confessa-crime",
+    "title": "Estudante é encontrada morta em Sangão uma semana após iniciar faculdade",
+    "guid": "sc1multi:166ee08e0fa2e787277e392552d70eb0f84fe5b3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_166ee08e0fa2e787277e392552d70eb0f84fe5b3/",
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   },
-  "source:a2101c284c02f8b61c49a29fd7b57856120f9018": {
-    "url": "https://tnsul.com/2026/08/11/incendio-destroi-tres-carros-e-caminhao-dentro-de-oficina-em-florianopolis",
-    "title": "Incêndio destrói três carros e caminhão em oficina nos Ingleses, Florianópolis",
-    "guid": "sc1multi:9ba8dd35aec4943dae5d1d6bea444c5b757d18b8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9ba8dd35aec4943dae5d1d6bea444c5b757d18b8/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:aaf55232cf39641c9865031a970f6ab6af30e8ea": {
-    "url": "https://tnsul.com/2026/08/11/furgao-pega-fogo-apos-falha-mecanica-em-tubarao",
-    "title": "Furgão pega fogo no bairro Vila Esperança em Tubarão",
-    "guid": "sc1multi:0396bbba6488fa6351550a491dec44bc72bb1ada",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0396bbba6488fa6351550a491dec44bc72bb1ada/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:c9e9386dd8af8db988fafc58c359ec422eacc2ad": {
-    "url": "https://ocp.news/esporte/time-jaraguaense-garante-2o-lugar-de-etapa-da-supercopa-do-brasil-de-basquete-sub-22",
-    "title": "Basquete masculino de Jaraguá do Sul conquista vice-campeonato na Supercopa Sub-22",
-    "guid": "sc1multi:c9e9386dd8af8db988fafc58c359ec422eacc2ad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c9e9386dd8af8db988fafc58c359ec422eacc2ad/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
-    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
-    "title": "Florianópolis convoca população para campanha de multivacinação até 1º de setembro",
-    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:31ffbc62c47544e1df261943bbcd428bd7f81a03": {
-    "url": "https://scportais.com.br/2026/08/10/governador-veta-criacao-de-incentivo-financeiro-para-abate-de-javali-europeu-em-sc",
-    "title": "Governador veta incentivo financeiro para abate de javali-europeu em Santa Catarina",
-    "guid": "sc1multi:37f4b9f1cd9d9dba49717e8256a35d55073aa308",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37f4b9f1cd9d9dba49717e8256a35d55073aa308/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
-    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
-    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
-    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:6f75d9f1c392acd28693001d9a792f239e6e96d8": {
-    "url": "https://tudoaquisc.com.br/policia/prf-eletronicos-remedios-br-101",
-    "title": "PRF apreende eletrônicos e remédios na BR-101 em Santa Catarina",
-    "guid": "sc1multi:4575b2c84cd3013079253a51e51586bbf82fc382",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4575b2c84cd3013079253a51e51586bbf82fc382/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
-  },
-  "source:a47e57739cc45ffd9acff0858e216773813f41d1": {
-    "url": "https://tudoaquisc.com.br/oportunidades/celesc-concurso-salarios-69-000",
-    "title": "Celesc abre concurso com salários de até R$ 6,9 mil em Santa Catarina",
-    "guid": "sc1multi:c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2/",
-    "usedAt": 1786461244615,
-    "usedAtIso": "2026-08-11T15:14:04.615Z"
+  "source:6ec015bd923b92cd5c0c904a278caa6c4ad7ef5f": {
+    "url": "https://tnsul.com/2026/08/11/colisao-frontal-entre-carro-e-moto-deixa-homem-ferido-na-sc-161",
+    "title": "Colisão entre carro e moto fere homem na SC-161 em Anchieta",
+    "guid": "sc1multi:f85da50bef44d2d210ae69e018250cf4747a66f7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f85da50bef44d2d210ae69e018250cf4747a66f7/",
+    "usedAt": 1786464844487,
+    "usedAtIso": "2026-08-11T16:14:04.487Z"
   }
 }
