@@ -1,4 +1,60 @@
 {
+  "source:54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29": {
+    "url": "https://ocp.news/cotidiano/moradores-de-blumenau-podem-pedir-servicos-de-manutencao-pela-internet",
+    "title": "Blumenau amplia serviços municipais com atendimento online",
+    "guid": "sc1multi:54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:5c89c53e28dbaba99a5603e604fbf3e6d152eb25": {
+    "url": "https://ocp.news/cotidiano/obras-avancam-em-unidades-basicas-de-saude-de-criciuma",
+    "title": "Prefeitura de Criciúma avança em obras de três UBSs na cidade",
+    "guid": "sc1multi:5c89c53e28dbaba99a5603e604fbf3e6d152eb25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5c89c53e28dbaba99a5603e604fbf3e6d152eb25/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:44846ed6a851bf622bd64af456bb7cc118e3168f": {
+    "url": "https://ocp.news/cotidiano/escola-municipal-de-joinville-lidera-como-melhor-escola-de-santa-catarina-no-ideb",
+    "title": "Escola Municipal de Joinville lidera IDEB em Santa Catarina nos anos iniciais",
+    "guid": "sc1multi:44846ed6a851bf622bd64af456bb7cc118e3168f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_44846ed6a851bf622bd64af456bb7cc118e3168f/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:e74a9cdb40a5aeb7cf76337c9e2557e87622fd7d": {
+    "url": "https://rbatv.com.br/noticias/idade-minima-capacete-obrigatorio-e-mais-rio-do-sul-estabelece-regras-para-autopropelidos-e-bicicletas-eletricas",
+    "title": "Rio do Sul define regras para circulação de bicicletas e patinetes elétricos",
+    "guid": "sc1multi:ac7f916c3c3b3f608f93cb346c1da12300335cad",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac7f916c3c3b3f608f93cb346c1da12300335cad/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:5cae19f5c970a7bd7a6d3eac4adc9633997ceb15": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-quase-200-gramas-de-cocaina-na-br-470-em-rio-do-sul",
+    "title": "Homem é preso com quase 200 gramas de cocaína na BR-470 em Rio do Sul",
+    "guid": "sc1multi:08f4c05b9721508fdb3512fd7326d6d137e8459f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_08f4c05b9721508fdb3512fd7326d6d137e8459f/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
+    "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
+    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
+    "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
+  "source:18c17caa9bab7c3b1091be7166db264a47140ff1": {
+    "url": "https://scportais.com.br/2026/08/09/pelo-estado-11-08-depois-da-eleicao-nao-existem-adversarios-existem-cidadaos-que-esperam-resultados",
+    "title": "Gelson Merísio apresenta propostas para saúde, educação e segurança em Santa Catarina",
+    "guid": "sc1multi:95016f75a771014d96cefa6669ba8af7acd446fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95016f75a771014d96cefa6669ba8af7acd446fa/",
+    "usedAt": 1786450444566,
+    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  },
   "source:d8a3736476e4ac00a85a2d545790e338033a4bf4": {
     "url": "https://rbatv.com.br/noticias/inscricoes-para-concurso-da-guarda-municipal-de-rio-do-sul-entram-na-reta-final",
     "title": "Inscrições para concurso da Guarda Municipal de Rio do Sul terminam nesta quinta",
@@ -63,76 +119,44 @@
     "usedAt": 1786439644246,
     "usedAtIso": "2026-08-11T09:14:04.246Z"
   },
-  "source:d1ed2270f6bae5ab598e1a6c0f1af66b4b977ac7": {
-    "url": "https://tudoaquisc.com.br/policia/sogra-esfaqueia-nora-7-vezes-10",
-    "title": "Sogra esfaqueia nora sete vezes em Joaçaba, SC",
-    "guid": "sc1multi:43a1b9b45b6be829ada57db63fe1a1eb77edd10a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_43a1b9b45b6be829ada57db63fe1a1eb77edd10a/",
-    "usedAt": 1786432444984,
-    "usedAtIso": "2026-08-11T07:14:04.984Z"
+  "source:520818b7df350fe8c4cb1a3886a7ee2395272d6e": {
+    "url": "https://ocp.news/seguranca/operacao-apura-armazenamento-de-material-de-abuso-sexual-infantil-no-litoral-norte-de-sc",
+    "title": "Operação em Balneário Piçarras combate armazenamento de material de abuso infantil",
+    "guid": "sc1multi:520818b7df350fe8c4cb1a3886a7ee2395272d6e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_520818b7df350fe8c4cb1a3886a7ee2395272d6e/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
   },
-  "source:437502a0b1bd47315411b94f47e03a3a609e01fe": {
-    "url": "https://ocp.news/seguranca/menina-de-11-anos-beijada-a-forca-em-frente-a-mercado-sera-indenizada-em-sc",
-    "title": "Menina de 11 anos será indenizada por agressão em Santa Catarina",
-    "guid": "sc1multi:437502a0b1bd47315411b94f47e03a3a609e01fe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_437502a0b1bd47315411b94f47e03a3a609e01fe/",
-    "usedAt": 1786428844727,
-    "usedAtIso": "2026-08-11T06:14:04.727Z"
+  "source:bd0b474b1403bfda202cdc6daf08229e369f2ec2": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-cumpre-dois-mandados-de-prisao-em-ituporanga",
+    "title": "Polícia Civil prende dois homens em Ituporanga por furto e roubo",
+    "guid": "sc1multi:46bac773405ce2151fea04c61541e5784935d35d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_46bac773405ce2151fea04c61541e5784935d35d/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
   },
-  "source:54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29": {
-    "url": "https://ocp.news/cotidiano/moradores-de-blumenau-podem-pedir-servicos-de-manutencao-pela-internet",
-    "title": "Blumenau amplia serviços municipais com atendimento online",
-    "guid": "sc1multi:54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
+    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
+    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
+    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
   },
-  "source:5c89c53e28dbaba99a5603e604fbf3e6d152eb25": {
-    "url": "https://ocp.news/cotidiano/obras-avancam-em-unidades-basicas-de-saude-de-criciuma",
-    "title": "Prefeitura de Criciúma avança em obras de três UBSs na cidade",
-    "guid": "sc1multi:5c89c53e28dbaba99a5603e604fbf3e6d152eb25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5c89c53e28dbaba99a5603e604fbf3e6d152eb25/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
+    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
   },
-  "source:44846ed6a851bf622bd64af456bb7cc118e3168f": {
-    "url": "https://ocp.news/cotidiano/escola-municipal-de-joinville-lidera-como-melhor-escola-de-santa-catarina-no-ideb",
-    "title": "Escola Municipal de Joinville lidera IDEB em Santa Catarina nos anos iniciais",
-    "guid": "sc1multi:44846ed6a851bf622bd64af456bb7cc118e3168f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_44846ed6a851bf622bd64af456bb7cc118e3168f/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
-  },
-  "source:e74a9cdb40a5aeb7cf76337c9e2557e87622fd7d": {
-    "url": "https://rbatv.com.br/noticias/idade-minima-capacete-obrigatorio-e-mais-rio-do-sul-estabelece-regras-para-autopropelidos-e-bicicletas-eletricas",
-    "title": "Rio do Sul define regras para circulação de bicicletas e patinetes elétricos",
-    "guid": "sc1multi:ac7f916c3c3b3f608f93cb346c1da12300335cad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac7f916c3c3b3f608f93cb346c1da12300335cad/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
-  },
-  "source:5cae19f5c970a7bd7a6d3eac4adc9633997ceb15": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-quase-200-gramas-de-cocaina-na-br-470-em-rio-do-sul",
-    "title": "Homem é preso com quase 200 gramas de cocaína na BR-470 em Rio do Sul",
-    "guid": "sc1multi:08f4c05b9721508fdb3512fd7326d6d137e8459f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_08f4c05b9721508fdb3512fd7326d6d137e8459f/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
-  },
-  "source:8ca9c32dc79c5fe8c066c45c4c9a47783360d540": {
-    "url": "https://correiosc.com.br/mais-de-5-toneladas-de-camarao-sao-apreendidas-em-indaial",
-    "title": "Mais de 5 toneladas de camarão são apreendidas em Indaial",
-    "guid": "sc1multi:1b8fe81215868f2c9e9b15d3f26499900c14b3eb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1b8fe81215868f2c9e9b15d3f26499900c14b3eb/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
-  },
-  "source:18c17caa9bab7c3b1091be7166db264a47140ff1": {
-    "url": "https://scportais.com.br/2026/08/09/pelo-estado-11-08-depois-da-eleicao-nao-existem-adversarios-existem-cidadaos-que-esperam-resultados",
-    "title": "Gelson Merísio apresenta propostas para saúde, educação e segurança em Santa Catarina",
-    "guid": "sc1multi:95016f75a771014d96cefa6669ba8af7acd446fa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_95016f75a771014d96cefa6669ba8af7acd446fa/",
-    "usedAt": 1786450444566,
-    "usedAtIso": "2026-08-11T12:14:04.566Z"
+  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
+    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
+    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
   }
 }
