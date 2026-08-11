@@ -1,4 +1,44 @@
 {
+  "source:520818b7df350fe8c4cb1a3886a7ee2395272d6e": {
+    "url": "https://ocp.news/seguranca/operacao-apura-armazenamento-de-material-de-abuso-sexual-infantil-no-litoral-norte-de-sc",
+    "title": "Operação em Balneário Piçarras combate armazenamento de material de abuso infantil",
+    "guid": "sc1multi:520818b7df350fe8c4cb1a3886a7ee2395272d6e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_520818b7df350fe8c4cb1a3886a7ee2395272d6e/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  },
+  "source:bd0b474b1403bfda202cdc6daf08229e369f2ec2": {
+    "url": "https://rbatv.com.br/noticias/policia-civil-cumpre-dois-mandados-de-prisao-em-ituporanga",
+    "title": "Polícia Civil prende dois homens em Ituporanga por furto e roubo",
+    "guid": "sc1multi:46bac773405ce2151fea04c61541e5784935d35d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_46bac773405ce2151fea04c61541e5784935d35d/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  },
+  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
+    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
+    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
+    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  },
+  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
+    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
+    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  },
+  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
+    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
+    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
+    "usedAt": 1786454051698,
+    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  },
   "source:54daa1fc54d6dd44d8c10b7ebd5baa3681dabb29": {
     "url": "https://ocp.news/cotidiano/moradores-de-blumenau-podem-pedir-servicos-de-manutencao-pela-internet",
     "title": "Blumenau amplia serviços municipais com atendimento online",
@@ -119,44 +159,84 @@
     "usedAt": 1786439644246,
     "usedAtIso": "2026-08-11T09:14:04.246Z"
   },
-  "source:520818b7df350fe8c4cb1a3886a7ee2395272d6e": {
-    "url": "https://ocp.news/seguranca/operacao-apura-armazenamento-de-material-de-abuso-sexual-infantil-no-litoral-norte-de-sc",
-    "title": "Operação em Balneário Piçarras combate armazenamento de material de abuso infantil",
-    "guid": "sc1multi:520818b7df350fe8c4cb1a3886a7ee2395272d6e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_520818b7df350fe8c4cb1a3886a7ee2395272d6e/",
-    "usedAt": 1786454051698,
-    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  "source:9b1beb009abd722b2a791524c50601b725da4214": {
+    "url": "https://rbatv.com.br/noticias/ciclista-de-13-anos-fica-ferido-apos-colisao-com-carro-em-lontras",
+    "title": "Ciclista de 13 anos fica ferido após colisão com carro em Lontras",
+    "guid": "sc1multi:3c6b3b6d1a31e2b7333d60ff3520ab1d70793b25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c6b3b6d1a31e2b7333d60ff3520ab1d70793b25/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
   },
-  "source:bd0b474b1403bfda202cdc6daf08229e369f2ec2": {
-    "url": "https://rbatv.com.br/noticias/policia-civil-cumpre-dois-mandados-de-prisao-em-ituporanga",
-    "title": "Polícia Civil prende dois homens em Ituporanga por furto e roubo",
-    "guid": "sc1multi:46bac773405ce2151fea04c61541e5784935d35d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_46bac773405ce2151fea04c61541e5784935d35d/",
-    "usedAt": 1786454051698,
-    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  "source:607ce63a8c21855c863a11d943d434d7aa313314": {
+    "url": "https://tnsul.com/2026/08/11/motorista-foge-apos-caminhonete-atingir-muro-de-residencia-em-sc",
+    "title": "Caminhonete colide contra muro de residência em Xanxerê",
+    "guid": "sc1multi:b3a86ea21c27c81f13a2688800f4f435314f0ff6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3a86ea21c27c81f13a2688800f4f435314f0ff6/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
   },
-  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
-    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
-    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
-    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
-    "usedAt": 1786454051698,
-    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  "source:eceaa3f4e97b5c01e01477e659041dd5b5e6a322": {
+    "url": "https://rbatv.com.br/noticias/secretaria-de-agricultura-e-meio-ambiente-de-rio-do-sul-esta-em-novo-endereco",
+    "title": "Secretaria de Agricultura de Rio do Sul muda para nova sede no bairro Valada Itoupava",
+    "guid": "sc1multi:cb3a5a2d3ada3824ad5e225ebb6b7873dc7d2203",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb3a5a2d3ada3824ad5e225ebb6b7873dc7d2203/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
   },
-  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
-    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
-    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
-    "usedAt": 1786454051698,
-    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  "source:75b34254708261d76c0e459902f413e3652841ee": {
+    "url": "https://ocp.news/entretenimento/menopausa-sem-tabu-mulheres-em-chamas-leva-humor-e-identificacao-a-arena-opus",
+    "title": "Peça Mulheres em Chamas aborda menopausa com humor em São José",
+    "guid": "sc1multi:75b34254708261d76c0e459902f413e3652841ee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75b34254708261d76c0e459902f413e3652841ee/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
   },
-  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
-    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
-    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
-    "usedAt": 1786454051698,
-    "usedAtIso": "2026-08-11T13:14:11.698Z"
+  "source:83bedf6044f0734cedd4528c6c8779a6acc15b00": {
+    "url": "https://ocp.news/esporte/florianopolis-participa-do-parajasc-2026-com-mais-de-120-atletas",
+    "title": "Florianópolis participa do Parajasc 2026 com 126 atletas",
+    "guid": "sc1multi:83bedf6044f0734cedd4528c6c8779a6acc15b00",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83bedf6044f0734cedd4528c6c8779a6acc15b00/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
+  },
+  "source:ace44e5650dfdbbdc879e16b1ed2f125e2cd7467": {
+    "url": "https://ocp.news/economia/sem-previsao-para-sair-caminhoneiro-de-sc-segue-retido-em-meio-a-nevasca-na-argentina",
+    "title": "Caminhoneiros de Santa Catarina seguem retidos em nevasca na Argentina",
+    "guid": "sc1multi:ace44e5650dfdbbdc879e16b1ed2f125e2cd7467",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ace44e5650dfdbbdc879e16b1ed2f125e2cd7467/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
+  },
+  "source:3de7a3fe10a887a92bacf91d8471c8ab354914d3": {
+    "url": "https://tnsul.com/2026/08/11/pedestre-sofre-fratura-exposta-apos-ser-atingido-por-moto-em-brusque",
+    "title": "Pedestre sofre fratura exposta após acidente com moto em Brusque",
+    "guid": "sc1multi:51a0e05546125852459e9e29aebde3e267fbe2c8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_51a0e05546125852459e9e29aebde3e267fbe2c8/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
+  },
+  "source:42c2d09569fee7ec2edd23507aa1b15dcce7079f": {
+    "url": "https://ocp.news/esporte/clube-de-atiradores-jaragua-e-vice-campeao-de-etapa-do-estadual-de-carabina-deitado",
+    "title": "Clube de Atiradores Jaraguá é vice-campeão no Estadual de Carabina Deitado",
+    "guid": "sc1multi:42c2d09569fee7ec2edd23507aa1b15dcce7079f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42c2d09569fee7ec2edd23507aa1b15dcce7079f/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
+  },
+  "source:ff0903bf22e50dee30232ab279586ae5f2eff9d7": {
+    "url": "https://tudoaquisc.com.br/tempo/mare-alta-alagamentoss-florianopolis-10-08",
+    "title": "Maré alta pode causar alagamentos em Florianópolis",
+    "guid": "sc1multi:d937c2f69ed0676c8e80730beab407391d76b9fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d937c2f69ed0676c8e80730beab407391d76b9fa/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
+  },
+  "source:13dfbebac3b3379f7f8136f3b07ed0bc636a9661": {
+    "url": "https://correiosc.com.br/slug-chuva-e-frio-nos-proximos-dias-em-sc",
+    "title": "Chuva e frio devem persistir em Santa Catarina nos próximos dias",
+    "guid": "sc1multi:1a80138974e76d472bf93d3cc1eab2f900fdfe83",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1a80138974e76d472bf93d3cc1eab2f900fdfe83/",
+    "usedAt": 1786457644897,
+    "usedAtIso": "2026-08-11T14:14:04.897Z"
   }
 }
