@@ -1,4 +1,12 @@
 {
+  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
+    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
+    "title": "Florianópolis convoca população para Campanha Nacional de Multivacinação",
+    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
+    "usedAt": 1786418044327,
+    "usedAtIso": "2026-08-11T03:14:04.327Z"
+  },
   "source:6f75d9f1c392acd28693001d9a792f239e6e96d8": {
     "url": "https://tudoaquisc.com.br/policia/prf-eletronicos-remedios-br-101",
     "title": "PRF apreende eletrônicos e remédios na BR-101 em Santa Catarina",
@@ -55,52 +63,12 @@
     "usedAt": 1786403644560,
     "usedAtIso": "2026-08-10T23:14:04.560Z"
   },
-  "source:ea09b1b09eb3ba59c945c4ac6d69867e64c4a7a6": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/7-empresarios-centrosul",
-    "title": "Investidores disputam concessão do CentroSul em Florianópolis",
-    "guid": "sc1multi:953c651c98db8591a3069d5f8cf5f203b19f8792",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_953c651c98db8591a3069d5f8cf5f203b19f8792/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:19783d03aedd4c6485fb17cb223b6b681d96b477": {
-    "url": "https://ocp.news/seguranca/agosto-lilas-mobiliza-jaragua-do-sul-no-combate-a-violencia-contra-a-mulher",
-    "title": "Jaraguá do Sul mobiliza campanha Agosto Lilás contra violência à mulher",
-    "guid": "sc1multi:19783d03aedd4c6485fb17cb223b6b681d96b477",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_19783d03aedd4c6485fb17cb223b6b681d96b477/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:5589478711d7e20e08d41604f34d89176f274e99": {
-    "url": "https://ocp.news/cotidiano/associacao-beneficente-novo-amanha-e-credenciada-para-comandar-a-casa-izabel-em-jaragua-do-sul",
-    "title": "Associação Novo Amanhã assume gestão da Casa Izabel em Jaraguá do Sul",
-    "guid": "sc1multi:5589478711d7e20e08d41604f34d89176f274e99",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5589478711d7e20e08d41604f34d89176f274e99/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6": {
-    "url": "https://ocp.news/seguranca/defesa-civil-investiga-possivel-tornado-apos-estragos-em-itaiopolis",
-    "title": "Defesa Civil investiga possível tornado que causou estragos em Itaiópolis",
-    "guid": "sc1multi:d63c9693ceb6d64be9c43e0b3bfac814d14a73b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d63c9693ceb6d64be9c43e0b3bfac814d14a73b6/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:647da8c773cfe5e8da3da556dbde5ff9baf2091b": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/frio-florianopolis-110826",
-    "title": "Defesa Civil alerta para frio intenso em Florianópolis nesta terça-feira",
-    "guid": "sc1multi:b91d7a9da3abdf1eb3672e668678b9e4ffd62308",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b91d7a9da3abdf1eb3672e668678b9e4ffd62308/",
-    "usedAt": 1786400044397,
-    "usedAtIso": "2026-08-10T22:14:04.397Z"
-  },
-  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
-    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
-    "title": "Florianópolis convoca população para Campanha Nacional de Multivacinação",
-    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
-    "usedAt": 1786418044327,
-    "usedAtIso": "2026-08-11T03:14:04.327Z"
+  "source:a47e57739cc45ffd9acff0858e216773813f41d1": {
+    "url": "https://tudoaquisc.com.br/oportunidades/celesc-concurso-salarios-69-000",
+    "title": "Celesc abre concurso com salários de até R$ 6,9 mil em Santa Catarina",
+    "guid": "sc1multi:c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c13dc86a0ce39fc7ba7bde131df99dbaf31d9ba2/",
+    "usedAt": 1786425244492,
+    "usedAtIso": "2026-08-11T05:14:04.492Z"
   }
 }
