@@ -1,4 +1,12 @@
 {
+  "source:d1ed2270f6bae5ab598e1a6c0f1af66b4b977ac7": {
+    "url": "https://tudoaquisc.com.br/policia/sogra-esfaqueia-nora-7-vezes-10",
+    "title": "Sogra esfaqueia nora sete vezes em Joaçaba, SC",
+    "guid": "sc1multi:43a1b9b45b6be829ada57db63fe1a1eb77edd10a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_43a1b9b45b6be829ada57db63fe1a1eb77edd10a/",
+    "usedAt": 1786432444984,
+    "usedAtIso": "2026-08-11T07:14:04.984Z"
+  },
   "source:437502a0b1bd47315411b94f47e03a3a609e01fe": {
     "url": "https://ocp.news/seguranca/menina-de-11-anos-beijada-a-forca-em-frente-a-mercado-sera-indenizada-em-sc",
     "title": "Menina de 11 anos será indenizada por agressão em Santa Catarina",
@@ -23,20 +31,12 @@
     "usedAt": 1786418044327,
     "usedAtIso": "2026-08-11T03:14:04.327Z"
   },
-  "source:6f75d9f1c392acd28693001d9a792f239e6e96d8": {
-    "url": "https://tudoaquisc.com.br/policia/prf-eletronicos-remedios-br-101",
-    "title": "PRF apreende eletrônicos e remédios na BR-101 em Santa Catarina",
-    "guid": "sc1multi:4575b2c84cd3013079253a51e51586bbf82fc382",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4575b2c84cd3013079253a51e51586bbf82fc382/",
-    "usedAt": 1786414444868,
-    "usedAtIso": "2026-08-11T02:14:04.868Z"
-  },
-  "source:d1ed2270f6bae5ab598e1a6c0f1af66b4b977ac7": {
-    "url": "https://tudoaquisc.com.br/policia/sogra-esfaqueia-nora-7-vezes-10",
-    "title": "Sogra esfaqueia nora sete vezes em Joaçaba, SC",
-    "guid": "sc1multi:43a1b9b45b6be829ada57db63fe1a1eb77edd10a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_43a1b9b45b6be829ada57db63fe1a1eb77edd10a/",
-    "usedAt": 1786432444984,
-    "usedAtIso": "2026-08-11T07:14:04.984Z"
+  "source:e64cb56c84b975bbddf9133034190c52a9019a84": {
+    "url": "https://tudoaquisc.com.br/saude/vacinacao-mobiliza-1-setembro-1",
+    "title": "Florianópolis mobiliza vacinação até 1º de setembro para todas as idades",
+    "guid": "sc1multi:6972395bc3694a33c1251bc9eb31764117c0a3df",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6972395bc3694a33c1251bc9eb31764117c0a3df/",
+    "usedAt": 1786439644246,
+    "usedAtIso": "2026-08-11T09:14:04.246Z"
   }
 }
