@@ -1,4 +1,36 @@
 {
+  "source:153c14266a0c382b785b5f9462a3842d22729f09": {
+    "url": "https://ocp.news/cotidiano/rua-e-interditada-nesta-quarta-feira-12-em-guaramirim-para-servicos-da-rumo-logistica",
+    "title": "Rua em Guaramirim será interditada para serviços da Rumo Logística",
+    "guid": "sc1multi:153c14266a0c382b785b5f9462a3842d22729f09",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_153c14266a0c382b785b5f9462a3842d22729f09/",
+    "usedAt": 1786540444559,
+    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  },
+  "source:5dee7b08eb0b084fc404293430074ac4c094adff": {
+    "url": "https://ocp.news/cotidiano/acao-integrada-de-abordagem-social-percorre-quatro-bairros-de-blumenau-durante-a-madrugada",
+    "title": "Blumenau realiza ação social e reordenamento em quatro bairros da cidade",
+    "guid": "sc1multi:5dee7b08eb0b084fc404293430074ac4c094adff",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5dee7b08eb0b084fc404293430074ac4c094adff/",
+    "usedAt": 1786540444559,
+    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  },
+  "source:ed62f51c8ab1a66d66f495018c86bf5fe70af043": {
+    "url": "https://ocp.news/esporte/criciuma-prepara-campeonato-de-futebol-para-atletas-acima-dos-50-anos",
+    "title": "Criciúma organiza campeonato de futebol para atletas acima de 50 anos",
+    "guid": "sc1multi:ed62f51c8ab1a66d66f495018c86bf5fe70af043",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed62f51c8ab1a66d66f495018c86bf5fe70af043/",
+    "usedAt": 1786540444559,
+    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  },
+  "source:2e7065099e429f2f02d7caade64d9f61f6bcc893": {
+    "url": "https://ocp.news/politica/saiba-o-que-causou-o-desmaio-de-pedro-uczai-na-camara-dos-deputados",
+    "title": "Deputado catarinense Pedro Uczai sofre AVC e tem sessão suspensa na Câmara",
+    "guid": "sc1multi:2e7065099e429f2f02d7caade64d9f61f6bcc893",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e7065099e429f2f02d7caade64d9f61f6bcc893/",
+    "usedAt": 1786540444559,
+    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  },
   "source:af3a15c23d6deea13fd3780c483dd8dccc0e0fa0": {
     "url": "https://ocp.news/seguranca/estabelecimento-irregular-e-fechado-apos-fiscalizacao-da-pm-em-jaragua-do-sul",
     "title": "Estabelecimento irregular é fechado após fiscalização da PM em Jaraguá do Sul",
@@ -95,44 +127,44 @@
     "usedAt": 1786526044690,
     "usedAtIso": "2026-08-12T09:14:04.690Z"
   },
-  "source:e76c1935d12bb14ee298fe52d7a1a4b14e90ff09": {
-    "url": "https://tudoaquisc.com.br/meio-ambiente/poluicao-beira-mar-mpsc-0826",
-    "title": "Ministério Público investiga poluição por esgoto na Beira-Mar Norte em Florianópolis",
-    "guid": "sc1multi:6788f9c5224f5499dd0003ad531d31d9c6bc91b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6788f9c5224f5499dd0003ad531d31d9c6bc91b6/",
-    "usedAt": 1786522444374,
-    "usedAtIso": "2026-08-12T08:14:04.374Z"
+  "source:30f2a94f9f6ec356ce648cfa705d4ecc3e9405dc": {
+    "url": "https://tnsul.com/2026/08/12/bebe-de-4-meses-morre-apos-passar-mal-em-creche-de-cacador",
+    "title": "Bebê de 4 meses morre após passar mal em creche de Caçador",
+    "guid": "sc1multi:d84c037778fd845c2240740c76c95d0d4b555d86",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d84c037778fd845c2240740c76c95d0d4b555d86/",
+    "usedAt": 1786544046279,
+    "usedAtIso": "2026-08-12T14:14:06.279Z"
   },
-  "source:153c14266a0c382b785b5f9462a3842d22729f09": {
-    "url": "https://ocp.news/cotidiano/rua-e-interditada-nesta-quarta-feira-12-em-guaramirim-para-servicos-da-rumo-logistica",
-    "title": "Rua em Guaramirim será interditada para serviços da Rumo Logística",
-    "guid": "sc1multi:153c14266a0c382b785b5f9462a3842d22729f09",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_153c14266a0c382b785b5f9462a3842d22729f09/",
-    "usedAt": 1786540444559,
-    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  "source:a0dd8de7c022ca7e2843fed4a7f43226235ac33f": {
+    "url": "https://tnsul.com/2026/08/12/sc-fica-em-alerta-para-risco-de-temporais-nesta-quinta-e-sexta-feira",
+    "title": "Santa Catarina em alerta para temporais intensos nesta quinta e sexta-feira",
+    "guid": "sc1multi:1540ff802f64f9f3cdb7befecf9126de7d7ae047",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1540ff802f64f9f3cdb7befecf9126de7d7ae047/",
+    "usedAt": 1786544046279,
+    "usedAtIso": "2026-08-12T14:14:06.279Z"
   },
-  "source:5dee7b08eb0b084fc404293430074ac4c094adff": {
-    "url": "https://ocp.news/cotidiano/acao-integrada-de-abordagem-social-percorre-quatro-bairros-de-blumenau-durante-a-madrugada",
-    "title": "Blumenau realiza ação social e reordenamento em quatro bairros da cidade",
-    "guid": "sc1multi:5dee7b08eb0b084fc404293430074ac4c094adff",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5dee7b08eb0b084fc404293430074ac4c094adff/",
-    "usedAt": 1786540444559,
-    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  "source:75e7e3d23e18cbead998b386ee88a220d37b4f67": {
+    "url": "https://ocp.news/cotidiano/queda1-de-torre-assusta-moradores-e-deixa-cerca-de-60-imoveis-sem-energia-em-jaragua-do-sul",
+    "title": "Queda de torre deixa 60 imóveis sem energia em Jaraguá do Sul",
+    "guid": "sc1multi:75e7e3d23e18cbead998b386ee88a220d37b4f67",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75e7e3d23e18cbead998b386ee88a220d37b4f67/",
+    "usedAt": 1786544046279,
+    "usedAtIso": "2026-08-12T14:14:06.279Z"
   },
-  "source:ed62f51c8ab1a66d66f495018c86bf5fe70af043": {
-    "url": "https://ocp.news/esporte/criciuma-prepara-campeonato-de-futebol-para-atletas-acima-dos-50-anos",
-    "title": "Criciúma organiza campeonato de futebol para atletas acima de 50 anos",
-    "guid": "sc1multi:ed62f51c8ab1a66d66f495018c86bf5fe70af043",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed62f51c8ab1a66d66f495018c86bf5fe70af043/",
-    "usedAt": 1786540444559,
-    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  "source:f51ba40d7566ecee401617bf0b6300151c204bc4": {
+    "url": "https://ocp.news/esporte/handebol-de-massaranduba-avanca-as-finais-da-liga-sc-infantil-com-campanha-perfeita",
+    "title": "Handebol feminino de Massaranduba avança invicto às finais da Liga SC Infantil",
+    "guid": "sc1multi:f51ba40d7566ecee401617bf0b6300151c204bc4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f51ba40d7566ecee401617bf0b6300151c204bc4/",
+    "usedAt": 1786544046279,
+    "usedAtIso": "2026-08-12T14:14:06.279Z"
   },
-  "source:2e7065099e429f2f02d7caade64d9f61f6bcc893": {
-    "url": "https://ocp.news/politica/saiba-o-que-causou-o-desmaio-de-pedro-uczai-na-camara-dos-deputados",
-    "title": "Deputado catarinense Pedro Uczai sofre AVC e tem sessão suspensa na Câmara",
-    "guid": "sc1multi:2e7065099e429f2f02d7caade64d9f61f6bcc893",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2e7065099e429f2f02d7caade64d9f61f6bcc893/",
-    "usedAt": 1786540444559,
-    "usedAtIso": "2026-08-12T13:14:04.559Z"
+  "source:673567b9f3510c31cfb74bed2d3c4d87b1850201": {
+    "url": "https://tudoaquisc.com.br/policia/ecstasy-em-blumenau-24-mil-11-8",
+    "title": "PM apreende mais de 24 mil comprimidos de ecstasy em Blumenau",
+    "guid": "sc1multi:518247718b45cd937116efc282bcfe7308d75404",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_518247718b45cd937116efc282bcfe7308d75404/",
+    "usedAt": 1786544046279,
+    "usedAtIso": "2026-08-12T14:14:06.279Z"
   }
 }
