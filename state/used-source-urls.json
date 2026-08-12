@@ -1,4 +1,44 @@
 {
+  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
+    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
+    "title": "Câmara de Jaraguá do Sul aprova estudos para sistema binário no bairro João Pessoa",
+    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
+    "usedAt": 1786569245059,
+    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  },
+  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
+    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
+    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
+    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
+    "usedAt": 1786569245059,
+    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  },
+  "source:9be148584328531d73facf1572bb156b3026521e": {
+    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
+    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
+    "usedAt": 1786569245059,
+    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  },
+  "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
+    "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
+    "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
+    "guid": "sc1multi:5fa1d1d2d2f74c560ebbb976de44076870d5aa06",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa1d1d2d2f74c560ebbb976de44076870d5aa06/",
+    "usedAt": 1786569245059,
+    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  },
+  "source:77af00f266be3d34e82d1c4b02cb405b03f0604b": {
+    "url": "https://ocp.news/seguranca/pcc-e-alvo-de-mandados-em-sp-e-sc-por-sequestro-e-tortura-de-advogado",
+    "title": "Mandados são cumpridos em Florianópolis contra integrantes do PCC",
+    "guid": "sc1multi:77af00f266be3d34e82d1c4b02cb405b03f0604b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_77af00f266be3d34e82d1c4b02cb405b03f0604b/",
+    "usedAt": 1786569245059,
+    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  },
   "source:57d2f8a02f03c4da09f41dc2045c3b153f7c4250": {
     "url": "https://ocp.news/cotidiano/cachorrinha-alerta-familia-e-ajuda-a-encontrar-cobra-coral-dentro-de-casa-em-jaragua-do-sul",
     "title": "Cachorra alerta família sobre cobra-coral em residência de Jaraguá do Sul",
@@ -212,47 +252,7 @@
     "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
     "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
-    "usedAt": 1786551244907,
-    "usedAtIso": "2026-08-12T16:14:04.907Z"
-  },
-  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
-    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
-    "title": "Câmara de Jaraguá do Sul aprova estudos para sistema binário no bairro João Pessoa",
-    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
-    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
-    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
-    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:9be148584328531d73facf1572bb156b3026521e": {
-    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
-    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
-    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
-    "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
-    "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
-    "guid": "sc1multi:5fa1d1d2d2f74c560ebbb976de44076870d5aa06",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa1d1d2d2f74c560ebbb976de44076870d5aa06/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:77af00f266be3d34e82d1c4b02cb405b03f0604b": {
-    "url": "https://ocp.news/seguranca/pcc-e-alvo-de-mandados-em-sp-e-sc-por-sequestro-e-tortura-de-advogado",
-    "title": "Mandados são cumpridos em Florianópolis contra integrantes do PCC",
-    "guid": "sc1multi:77af00f266be3d34e82d1c4b02cb405b03f0604b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_77af00f266be3d34e82d1c4b02cb405b03f0604b/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
+    "usedAt": 1786572844858,
+    "usedAtIso": "2026-08-12T22:14:04.858Z"
   }
 }
