@@ -1,4 +1,12 @@
 {
+  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
+    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
+    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
+    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
+    "usedAt": 1786504444241,
+    "usedAtIso": "2026-08-12T03:14:04.241Z"
+  },
   "source:e2a7731fba050ea18fb2028776c6c85bb9f0b7f9": {
     "url": "https://ocp.news/seguranca/cresce-numero-de-atropelamentos-na-br-470-e-situacao-preocupa-moradores",
     "title": "Aumento de atropelamentos na BR-470 preocupa moradores de Santa Catarina",
@@ -79,36 +87,12 @@
     "usedAt": 1786493644566,
     "usedAtIso": "2026-08-12T00:14:04.566Z"
   },
-  "source:673567b9f3510c31cfb74bed2d3c4d87b1850201": {
-    "url": "https://tudoaquisc.com.br/policia/ecstasy-em-blumenau-24-mil-11-8",
-    "title": "PM apreende mais de 24 mil comprimidos de ecstasy em Blumenau",
-    "guid": "sc1multi:518247718b45cd937116efc282bcfe7308d75404",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_518247718b45cd937116efc282bcfe7308d75404/",
-    "usedAt": 1786486444557,
-    "usedAtIso": "2026-08-11T22:14:04.557Z"
-  },
-  "source:166ee08e0fa2e787277e392552d70eb0f84fe5b3": {
-    "url": "https://ocp.news/seguranca/estudante-e-encontrada-morta-uma-semana-apos-iniciar-faculdade-em-sc-namorado-confessa-crime",
-    "title": "Estudante é encontrada morta em Sangão uma semana após iniciar faculdade",
-    "guid": "sc1multi:166ee08e0fa2e787277e392552d70eb0f84fe5b3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_166ee08e0fa2e787277e392552d70eb0f84fe5b3/",
-    "usedAt": 1786486444557,
-    "usedAtIso": "2026-08-11T22:14:04.557Z"
-  },
-  "source:6ec015bd923b92cd5c0c904a278caa6c4ad7ef5f": {
-    "url": "https://tnsul.com/2026/08/11/colisao-frontal-entre-carro-e-moto-deixa-homem-ferido-na-sc-161",
-    "title": "Colisão entre carro e moto deixa homem ferido na SC-161 em Anchieta",
-    "guid": "sc1multi:f85da50bef44d2d210ae69e018250cf4747a66f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f85da50bef44d2d210ae69e018250cf4747a66f7/",
-    "usedAt": 1786486444557,
-    "usedAtIso": "2026-08-11T22:14:04.557Z"
-  },
-  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
-    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
-    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
-    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
-    "usedAt": 1786504444241,
-    "usedAtIso": "2026-08-12T03:14:04.241Z"
+  "source:827b41b0deaf59a86e26432d7bcd5e7bd2a1c59b": {
+    "url": "https://tudoaquisc.com.br/esporte/avai-crb-ressacada-2026",
+    "title": "Avaí perde em casa para o CRB pela Série B do Brasileirão",
+    "guid": "sc1multi:6435ffd9364c66e9fa5b675a48df046e4b567e16",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6435ffd9364c66e9fa5b675a48df046e4b567e16/",
+    "usedAt": 1786511644074,
+    "usedAtIso": "2026-08-12T05:14:04.074Z"
   }
 }
