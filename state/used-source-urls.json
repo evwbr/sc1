@@ -1,4 +1,12 @@
 {
+  "source:e07318f25acfd0fdc76c29207c5d972b3c5957bb": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-ingleses-110826",
+    "title": "Incêndio destrói quatro veículos em oficina nos Ingleses, Florianópolis",
+    "guid": "sc1multi:f1c34e1eb65cba99681c88c74b98d61285d7db05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1c34e1eb65cba99681c88c74b98d61285d7db05/",
+    "usedAt": 1786515245170,
+    "usedAtIso": "2026-08-12T06:14:05.170Z"
+  },
   "source:827b41b0deaf59a86e26432d7bcd5e7bd2a1c59b": {
     "url": "https://tudoaquisc.com.br/esporte/avai-crb-ressacada-2026",
     "title": "Avaí perde em casa para o CRB pela Série B do Brasileirão",
@@ -31,36 +39,12 @@
     "usedAt": 1786500844696,
     "usedAtIso": "2026-08-12T02:14:04.696Z"
   },
-  "source:6e5b859330a57441fb97e769ffcfce996e240265": {
-    "url": "https://ocp.news/cotidiano/fundacao-somar-promove-segunda-edicao-da-feira-de-brecho-social",
-    "title": "Fundação Somar realiza segunda edição da Feira de Brechó Social em Florianópolis",
-    "guid": "sc1multi:6e5b859330a57441fb97e769ffcfce996e240265",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e5b859330a57441fb97e769ffcfce996e240265/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
-  },
-  "source:402f3045d2ab4af9b940b859a0f4055188cda176": {
-    "url": "https://ocp.news/politica/guaramirim-inaugura-nova-sede-da-secretaria-municipal-de-educacao",
-    "title": "Guaramirim inaugura nova sede da Secretaria Municipal de Educação",
-    "guid": "sc1multi:402f3045d2ab4af9b940b859a0f4055188cda176",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_402f3045d2ab4af9b940b859a0f4055188cda176/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
-  },
-  "source:40c601765c3a48dcfdac34e68b2f276969ae33f2": {
-    "url": "https://ocp.news/esporte/1a-e-2a-divisao-da-liga-jaraguaense-de-futebol-tem-detalhes-definidos",
-    "title": "Liga Jaraguaense de Futebol define detalhes das divisões amadoras",
-    "guid": "sc1multi:40c601765c3a48dcfdac34e68b2f276969ae33f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40c601765c3a48dcfdac34e68b2f276969ae33f2/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
-  },
-  "source:e07318f25acfd0fdc76c29207c5d972b3c5957bb": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-ingleses-110826",
-    "title": "Incêndio destrói quatro veículos em oficina nos Ingleses, Florianópolis",
-    "guid": "sc1multi:f1c34e1eb65cba99681c88c74b98d61285d7db05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1c34e1eb65cba99681c88c74b98d61285d7db05/",
-    "usedAt": 1786515245170,
-    "usedAtIso": "2026-08-12T06:14:05.170Z"
+  "source:e76c1935d12bb14ee298fe52d7a1a4b14e90ff09": {
+    "url": "https://tudoaquisc.com.br/meio-ambiente/poluicao-beira-mar-mpsc-0826",
+    "title": "Ministério Público investiga poluição por esgoto na Beira-Mar Norte em Florianópolis",
+    "guid": "sc1multi:6788f9c5224f5499dd0003ad531d31d9c6bc91b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6788f9c5224f5499dd0003ad531d31d9c6bc91b6/",
+    "usedAt": 1786522444374,
+    "usedAtIso": "2026-08-12T08:14:04.374Z"
   }
 }
