@@ -1,4 +1,28 @@
 {
+  "source:6e5b859330a57441fb97e769ffcfce996e240265": {
+    "url": "https://ocp.news/cotidiano/fundacao-somar-promove-segunda-edicao-da-feira-de-brecho-social",
+    "title": "Fundação Somar realiza segunda edição da Feira de Brechó Social em Florianópolis",
+    "guid": "sc1multi:6e5b859330a57441fb97e769ffcfce996e240265",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e5b859330a57441fb97e769ffcfce996e240265/",
+    "usedAt": 1786497244048,
+    "usedAtIso": "2026-08-12T01:14:04.048Z"
+  },
+  "source:402f3045d2ab4af9b940b859a0f4055188cda176": {
+    "url": "https://ocp.news/politica/guaramirim-inaugura-nova-sede-da-secretaria-municipal-de-educacao",
+    "title": "Guaramirim inaugura nova sede da Secretaria Municipal de Educação",
+    "guid": "sc1multi:402f3045d2ab4af9b940b859a0f4055188cda176",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_402f3045d2ab4af9b940b859a0f4055188cda176/",
+    "usedAt": 1786497244048,
+    "usedAtIso": "2026-08-12T01:14:04.048Z"
+  },
+  "source:40c601765c3a48dcfdac34e68b2f276969ae33f2": {
+    "url": "https://ocp.news/esporte/1a-e-2a-divisao-da-liga-jaraguaense-de-futebol-tem-detalhes-definidos",
+    "title": "Liga Jaraguaense de Futebol define detalhes das divisões amadoras",
+    "guid": "sc1multi:40c601765c3a48dcfdac34e68b2f276969ae33f2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40c601765c3a48dcfdac34e68b2f276969ae33f2/",
+    "usedAt": 1786497244048,
+    "usedAtIso": "2026-08-12T01:14:04.048Z"
+  },
   "source:b419d72597d1572fceadcc2fceeb94c59c10c795": {
     "url": "https://rbatv.com.br/noticias/idoso-fica-ferido-apos-colisao-entre-carro-e-caminhao-em-trombudo-central",
     "title": "Idoso fica ferido após colisão entre carro e caminhão na BR-470 em Trombudo Central",
@@ -127,92 +151,20 @@
     "usedAt": 1786482844080,
     "usedAtIso": "2026-08-11T21:14:04.080Z"
   },
-  "source:32fda97d00297109e94fd134d8c555e9d242affd": {
-    "url": "https://scportais.com.br/2026/08/10/cisamrec-tce-sc-suspende-licitacao-de-r-38-milhoes-para-servicos-de-verificacao-de-obitos",
-    "title": "TCE/SC suspende licitação de R$ 3,8 milhões do Cisamrec para verificação de óbitos",
-    "guid": "sc1multi:b4b6abf46f2af9a27ee8340d50c8e19f6267ca60",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4b6abf46f2af9a27ee8340d50c8e19f6267ca60/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
+  "source:e2a7731fba050ea18fb2028776c6c85bb9f0b7f9": {
+    "url": "https://ocp.news/seguranca/cresce-numero-de-atropelamentos-na-br-470-e-situacao-preocupa-moradores",
+    "title": "Aumento de atropelamentos na BR-470 preocupa moradores de Santa Catarina",
+    "guid": "sc1multi:e2a7731fba050ea18fb2028776c6c85bb9f0b7f9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e2a7731fba050ea18fb2028776c6c85bb9f0b7f9/",
+    "usedAt": 1786500844696,
+    "usedAtIso": "2026-08-12T02:14:04.696Z"
   },
-  "source:6f75d9f1c392acd28693001d9a792f239e6e96d8": {
-    "url": "https://tudoaquisc.com.br/policia/prf-eletronicos-remedios-br-101",
-    "title": "PRF apreende eletrônicos e remédios na BR-101 em Santa Catarina",
-    "guid": "sc1multi:4575b2c84cd3013079253a51e51586bbf82fc382",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4575b2c84cd3013079253a51e51586bbf82fc382/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:83bedf6044f0734cedd4528c6c8779a6acc15b00": {
-    "url": "https://ocp.news/esporte/florianopolis-participa-do-parajasc-2026-com-mais-de-120-atletas",
-    "title": "Florianópolis participa do Parajasc 2026 com 126 atletas",
-    "guid": "sc1multi:83bedf6044f0734cedd4528c6c8779a6acc15b00",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83bedf6044f0734cedd4528c6c8779a6acc15b00/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:ace44e5650dfdbbdc879e16b1ed2f125e2cd7467": {
-    "url": "https://ocp.news/economia/sem-previsao-para-sair-caminhoneiro-de-sc-segue-retido-em-meio-a-nevasca-na-argentina",
-    "title": "Caminhoneiro de Sombrio segue retido em nevasca na Argentina há 26 dias",
-    "guid": "sc1multi:ace44e5650dfdbbdc879e16b1ed2f125e2cd7467",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ace44e5650dfdbbdc879e16b1ed2f125e2cd7467/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:42c2d09569fee7ec2edd23507aa1b15dcce7079f": {
-    "url": "https://ocp.news/esporte/clube-de-atiradores-jaragua-e-vice-campeao-de-etapa-do-estadual-de-carabina-deitado",
-    "title": "Clube de Atiradores Jaraguá é vice-campeão no Estadual de Carabina Deitado",
-    "guid": "sc1multi:42c2d09569fee7ec2edd23507aa1b15dcce7079f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42c2d09569fee7ec2edd23507aa1b15dcce7079f/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:6e077950b316ce3ef48829d815cb2f6fbea431ca": {
-    "url": "https://tnsul.com/2026/08/11/celesc-reforca-orientacoes-de-seguranca-diante-da-previsao-de-temporais",
-    "title": "Celesc reforça orientações de segurança para temporais em Santa Catarina",
-    "guid": "sc1multi:bbf07f177a0586dfeed2582684dda82661fc7f6d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bbf07f177a0586dfeed2582684dda82661fc7f6d/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:f82fed4bc9e095634d9b979e7f4907af45ec7252": {
-    "url": "https://ocp.news/politica/ministro-dos-transportes-vai-ao-gabinete-do-senador-amin-para-tratar-de-obras-prioritarias-de-sc",
-    "title": "Senador Amin recebe ministro para tratar de obras prioritárias em Santa Catarina",
-    "guid": "sc1multi:f82fed4bc9e095634d9b979e7f4907af45ec7252",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f82fed4bc9e095634d9b979e7f4907af45ec7252/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9": {
-    "url": "https://ocp.news/seguranca/tjsc-determina-que-comprador-responda-por-multas-e-debitos-de-veiculo-apos-negociacao",
-    "title": "TJSC decide que comprador responde por multas e débitos após negociação de veículo",
-    "guid": "sc1multi:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9/",
-    "usedAt": 1786475644586,
-    "usedAtIso": "2026-08-11T19:14:04.586Z"
-  },
-  "source:6e5b859330a57441fb97e769ffcfce996e240265": {
-    "url": "https://ocp.news/cotidiano/fundacao-somar-promove-segunda-edicao-da-feira-de-brecho-social",
-    "title": "Fundação Somar realiza segunda edição da Feira de Brechó Social em Florianópolis",
-    "guid": "sc1multi:6e5b859330a57441fb97e769ffcfce996e240265",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6e5b859330a57441fb97e769ffcfce996e240265/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
-  },
-  "source:402f3045d2ab4af9b940b859a0f4055188cda176": {
-    "url": "https://ocp.news/politica/guaramirim-inaugura-nova-sede-da-secretaria-municipal-de-educacao",
-    "title": "Guaramirim inaugura nova sede da Secretaria Municipal de Educação",
-    "guid": "sc1multi:402f3045d2ab4af9b940b859a0f4055188cda176",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_402f3045d2ab4af9b940b859a0f4055188cda176/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
-  },
-  "source:40c601765c3a48dcfdac34e68b2f276969ae33f2": {
-    "url": "https://ocp.news/esporte/1a-e-2a-divisao-da-liga-jaraguaense-de-futebol-tem-detalhes-definidos",
-    "title": "Liga Jaraguaense de Futebol define detalhes das divisões amadoras",
-    "guid": "sc1multi:40c601765c3a48dcfdac34e68b2f276969ae33f2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40c601765c3a48dcfdac34e68b2f276969ae33f2/",
-    "usedAt": 1786497244048,
-    "usedAtIso": "2026-08-12T01:14:04.048Z"
+  "source:65f2b9ab29b3919f0d37de47883e9019c565ada4": {
+    "url": "https://ocp.news/seguranca/suspeito-foge-para-area-de-mata-durante-apreensao-de-121-kg-de-crack-na-grande-florianopolis",
+    "title": "Polícia apreende 121 kg de crack em Palhoça na Grande Florianópolis",
+    "guid": "sc1multi:65f2b9ab29b3919f0d37de47883e9019c565ada4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_65f2b9ab29b3919f0d37de47883e9019c565ada4/",
+    "usedAt": 1786500844696,
+    "usedAtIso": "2026-08-12T02:14:04.696Z"
   }
 }
