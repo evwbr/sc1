@@ -1,4 +1,12 @@
 {
+  "source:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9": {
+    "url": "https://ocp.news/seguranca/tjsc-determina-que-comprador-responda-por-multas-e-debitos-de-veiculo-apos-negociacao",
+    "title": "TJSC decide que comprador responde por multas após negociação de veículo",
+    "guid": "sc1multi:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9/",
+    "usedAt": 1786526044690,
+    "usedAtIso": "2026-08-12T09:14:04.690Z"
+  },
   "source:e76c1935d12bb14ee298fe52d7a1a4b14e90ff09": {
     "url": "https://tudoaquisc.com.br/meio-ambiente/poluicao-beira-mar-mpsc-0826",
     "title": "Ministério Público investiga poluição por esgoto na Beira-Mar Norte em Florianópolis",
@@ -23,12 +31,20 @@
     "usedAt": 1786511644074,
     "usedAtIso": "2026-08-12T05:14:04.074Z"
   },
-  "source:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9": {
-    "url": "https://ocp.news/seguranca/tjsc-determina-que-comprador-responda-por-multas-e-debitos-de-veiculo-apos-negociacao",
-    "title": "TJSC decide que comprador responde por multas após negociação de veículo",
-    "guid": "sc1multi:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9/",
-    "usedAt": 1786526044690,
-    "usedAtIso": "2026-08-12T09:14:04.690Z"
+  "source:fd062e349f79498204407116f91138b2ccc890b7": {
+    "url": "https://ocp.news/seguranca/antigo-proprietario-nao-responde-por-multas-apos-a-entrega-de-veiculo-decide-tjsc",
+    "title": "TJSC decide que antigo proprietário não responde por multas após entrega de veículo",
+    "guid": "sc1multi:fd062e349f79498204407116f91138b2ccc890b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd062e349f79498204407116f91138b2ccc890b7/",
+    "usedAt": 1786529644152,
+    "usedAtIso": "2026-08-12T10:14:04.152Z"
+  },
+  "source:f82fed4bc9e095634d9b979e7f4907af45ec7252": {
+    "url": "https://ocp.news/politica/ministro-dos-transportes-vai-ao-gabinete-do-senador-amin-para-tratar-de-obras-prioritarias-de-sc",
+    "title": "Senador Amin recebe ministro para tratar de obras prioritárias em Santa Catarina",
+    "guid": "sc1multi:f82fed4bc9e095634d9b979e7f4907af45ec7252",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f82fed4bc9e095634d9b979e7f4907af45ec7252/",
+    "usedAt": 1786529644152,
+    "usedAtIso": "2026-08-12T10:14:04.152Z"
   }
 }
