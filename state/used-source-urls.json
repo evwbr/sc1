@@ -1,4 +1,36 @@
 {
+  "source:051b8ee266077de6885d86675093b46ba4115c80": {
+    "url": "https://ocp.news/cotidiano/joinville-inicia-nesta-semana-a-terceira-fase-de-implantacao-do-metodo-wolbachia-de-combate-a-dengue",
+    "title": "Joinville amplia implantação do Método Wolbachia contra a dengue",
+    "guid": "sc1multi:051b8ee266077de6885d86675093b46ba4115c80",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_051b8ee266077de6885d86675093b46ba4115c80/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  },
+  "source:cad4252cb87475e6716578b6f77834f52feb429f": {
+    "url": "https://tnsul.com/2026/08/12/corpo-de-venezuelano-e-encontrado-com-sinais-de-violencia-no-oeste",
+    "title": "Corpo de venezuelano é encontrado com sinais de violência no Oeste de SC",
+    "guid": "sc1multi:f1446da527433d5307240aadfebb0ec47deaf0bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1446da527433d5307240aadfebb0ec47deaf0bc/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  },
+  "source:faa2e79a4064cfc0b9d005bd32da6b055e2cea13": {
+    "url": "https://tnsul.com/2026/08/12/jovem-e-resgatado-apos-se-ferir-com-motosserra-durante-trabalho-em-sc",
+    "title": "Jovem é resgatado após acidente com motosserra em Rio Fortuna",
+    "guid": "sc1multi:2246df427c42b11e16a0d52e4d7934e2ec6eee8b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2246df427c42b11e16a0d52e4d7934e2ec6eee8b/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  },
+  "source:54d6193d74199698e92f11fc12ae7d6117c9730b": {
+    "url": "https://rbatv.com.br/noticias/furto-de-veiculo-e-registrado-em-timbo",
+    "title": "Veículo é furtado no bairro Quintino em Timbó",
+    "guid": "sc1multi:f3e9f00f693c8aac2b9e06828ceb14811d657a13",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e9f00f693c8aac2b9e06828ceb14811d657a13/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  },
   "source:fd062e349f79498204407116f91138b2ccc890b7": {
     "url": "https://ocp.news/seguranca/antigo-proprietario-nao-responde-por-multas-apos-a-entrega-de-veiculo-decide-tjsc",
     "title": "TJSC decide que antigo proprietário não responde por multas após entrega de veículo",
@@ -31,44 +63,44 @@
     "usedAt": 1786522444374,
     "usedAtIso": "2026-08-12T08:14:04.374Z"
   },
-  "source:e07318f25acfd0fdc76c29207c5d972b3c5957bb": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/incendio-ingleses-110826",
-    "title": "Incêndio destrói quatro veículos em oficina nos Ingleses, Florianópolis",
-    "guid": "sc1multi:f1c34e1eb65cba99681c88c74b98d61285d7db05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1c34e1eb65cba99681c88c74b98d61285d7db05/",
-    "usedAt": 1786515245170,
-    "usedAtIso": "2026-08-12T06:14:05.170Z"
+  "source:af3a15c23d6deea13fd3780c483dd8dccc0e0fa0": {
+    "url": "https://ocp.news/seguranca/estabelecimento-irregular-e-fechado-apos-fiscalizacao-da-pm-em-jaragua-do-sul",
+    "title": "Estabelecimento irregular é fechado após fiscalização da PM em Jaraguá do Sul",
+    "guid": "sc1multi:af3a15c23d6deea13fd3780c483dd8dccc0e0fa0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af3a15c23d6deea13fd3780c483dd8dccc0e0fa0/",
+    "usedAt": 1786536845844,
+    "usedAtIso": "2026-08-12T12:14:05.844Z"
   },
-  "source:051b8ee266077de6885d86675093b46ba4115c80": {
-    "url": "https://ocp.news/cotidiano/joinville-inicia-nesta-semana-a-terceira-fase-de-implantacao-do-metodo-wolbachia-de-combate-a-dengue",
-    "title": "Joinville amplia implantação do Método Wolbachia contra a dengue",
-    "guid": "sc1multi:051b8ee266077de6885d86675093b46ba4115c80",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_051b8ee266077de6885d86675093b46ba4115c80/",
-    "usedAt": 1786533244148,
-    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  "source:ce826e18af8134644070fe4c387b821c3afe4b1a": {
+    "url": "https://tnsul.com/2026/08/12/mulher-esfaqueia-homem-apos-discussao-por-pagamento-de-relacao-sexual-em-sc",
+    "title": "Mulher esfaqueia homem após discussão em Dionísio Cerqueira, SC",
+    "guid": "sc1multi:3aff5f2441a16cb0859764c38e721f5853884140",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3aff5f2441a16cb0859764c38e721f5853884140/",
+    "usedAt": 1786536845844,
+    "usedAtIso": "2026-08-12T12:14:05.844Z"
   },
-  "source:cad4252cb87475e6716578b6f77834f52feb429f": {
-    "url": "https://tnsul.com/2026/08/12/corpo-de-venezuelano-e-encontrado-com-sinais-de-violencia-no-oeste",
-    "title": "Corpo de venezuelano é encontrado com sinais de violência no Oeste de SC",
-    "guid": "sc1multi:f1446da527433d5307240aadfebb0ec47deaf0bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1446da527433d5307240aadfebb0ec47deaf0bc/",
-    "usedAt": 1786533244148,
-    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
+    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
+    "title": "Nacional Handebol vence Osasco e avança para semifinal em São José",
+    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
+    "usedAt": 1786536845844,
+    "usedAtIso": "2026-08-12T12:14:05.844Z"
   },
-  "source:faa2e79a4064cfc0b9d005bd32da6b055e2cea13": {
-    "url": "https://tnsul.com/2026/08/12/jovem-e-resgatado-apos-se-ferir-com-motosserra-durante-trabalho-em-sc",
-    "title": "Jovem é resgatado após acidente com motosserra em Rio Fortuna",
-    "guid": "sc1multi:2246df427c42b11e16a0d52e4d7934e2ec6eee8b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2246df427c42b11e16a0d52e4d7934e2ec6eee8b/",
-    "usedAt": 1786533244148,
-    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  "source:13a24deb9f02b80618c68866d41d8223a3fb38ab": {
+    "url": "https://correiosc.com.br/florianopolis-convoca-populacao-para-vacinacao-contra-mais-de-20-doencas",
+    "title": "Florianópolis convoca população para campanha de multivacinação até 1º de setembro",
+    "guid": "sc1multi:056fcfa9909e137e5987466b18768c9a4ed71944",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_056fcfa9909e137e5987466b18768c9a4ed71944/",
+    "usedAt": 1786536845844,
+    "usedAtIso": "2026-08-12T12:14:05.844Z"
   },
-  "source:54d6193d74199698e92f11fc12ae7d6117c9730b": {
-    "url": "https://rbatv.com.br/noticias/furto-de-veiculo-e-registrado-em-timbo",
-    "title": "Veículo é furtado no bairro Quintino em Timbó",
-    "guid": "sc1multi:f3e9f00f693c8aac2b9e06828ceb14811d657a13",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e9f00f693c8aac2b9e06828ceb14811d657a13/",
-    "usedAt": 1786533244148,
-    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  "source:31ffbc62c47544e1df261943bbcd428bd7f81a03": {
+    "url": "https://scportais.com.br/2026/08/10/governador-veta-criacao-de-incentivo-financeiro-para-abate-de-javali-europeu-em-sc",
+    "title": "Governador veta incentivo financeiro para abate de javali-europeu em Santa Catarina",
+    "guid": "sc1multi:37f4b9f1cd9d9dba49717e8256a35d55073aa308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37f4b9f1cd9d9dba49717e8256a35d55073aa308/",
+    "usedAt": 1786536845844,
+    "usedAtIso": "2026-08-12T12:14:05.844Z"
   }
 }
