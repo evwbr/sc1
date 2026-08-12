@@ -1,4 +1,20 @@
 {
+  "source:fd062e349f79498204407116f91138b2ccc890b7": {
+    "url": "https://ocp.news/seguranca/antigo-proprietario-nao-responde-por-multas-apos-a-entrega-de-veiculo-decide-tjsc",
+    "title": "TJSC decide que antigo proprietário não responde por multas após entrega de veículo",
+    "guid": "sc1multi:fd062e349f79498204407116f91138b2ccc890b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd062e349f79498204407116f91138b2ccc890b7/",
+    "usedAt": 1786529644152,
+    "usedAtIso": "2026-08-12T10:14:04.152Z"
+  },
+  "source:f82fed4bc9e095634d9b979e7f4907af45ec7252": {
+    "url": "https://ocp.news/politica/ministro-dos-transportes-vai-ao-gabinete-do-senador-amin-para-tratar-de-obras-prioritarias-de-sc",
+    "title": "Senador Amin recebe ministro para tratar de obras prioritárias em Santa Catarina",
+    "guid": "sc1multi:f82fed4bc9e095634d9b979e7f4907af45ec7252",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f82fed4bc9e095634d9b979e7f4907af45ec7252/",
+    "usedAt": 1786529644152,
+    "usedAtIso": "2026-08-12T10:14:04.152Z"
+  },
   "source:99b2e1e8c00039a919da8eb7fbdf1f66c6faeed9": {
     "url": "https://ocp.news/seguranca/tjsc-determina-que-comprador-responda-por-multas-e-debitos-de-veiculo-apos-negociacao",
     "title": "TJSC decide que comprador responde por multas após negociação de veículo",
@@ -23,28 +39,36 @@
     "usedAt": 1786515245170,
     "usedAtIso": "2026-08-12T06:14:05.170Z"
   },
-  "source:827b41b0deaf59a86e26432d7bcd5e7bd2a1c59b": {
-    "url": "https://tudoaquisc.com.br/esporte/avai-crb-ressacada-2026",
-    "title": "Avaí perde em casa para o CRB pela Série B do Brasileirão",
-    "guid": "sc1multi:6435ffd9364c66e9fa5b675a48df046e4b567e16",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6435ffd9364c66e9fa5b675a48df046e4b567e16/",
-    "usedAt": 1786511644074,
-    "usedAtIso": "2026-08-12T05:14:04.074Z"
+  "source:051b8ee266077de6885d86675093b46ba4115c80": {
+    "url": "https://ocp.news/cotidiano/joinville-inicia-nesta-semana-a-terceira-fase-de-implantacao-do-metodo-wolbachia-de-combate-a-dengue",
+    "title": "Joinville amplia implantação do Método Wolbachia contra a dengue",
+    "guid": "sc1multi:051b8ee266077de6885d86675093b46ba4115c80",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_051b8ee266077de6885d86675093b46ba4115c80/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
   },
-  "source:fd062e349f79498204407116f91138b2ccc890b7": {
-    "url": "https://ocp.news/seguranca/antigo-proprietario-nao-responde-por-multas-apos-a-entrega-de-veiculo-decide-tjsc",
-    "title": "TJSC decide que antigo proprietário não responde por multas após entrega de veículo",
-    "guid": "sc1multi:fd062e349f79498204407116f91138b2ccc890b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fd062e349f79498204407116f91138b2ccc890b7/",
-    "usedAt": 1786529644152,
-    "usedAtIso": "2026-08-12T10:14:04.152Z"
+  "source:cad4252cb87475e6716578b6f77834f52feb429f": {
+    "url": "https://tnsul.com/2026/08/12/corpo-de-venezuelano-e-encontrado-com-sinais-de-violencia-no-oeste",
+    "title": "Corpo de venezuelano é encontrado com sinais de violência no Oeste de SC",
+    "guid": "sc1multi:f1446da527433d5307240aadfebb0ec47deaf0bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f1446da527433d5307240aadfebb0ec47deaf0bc/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
   },
-  "source:f82fed4bc9e095634d9b979e7f4907af45ec7252": {
-    "url": "https://ocp.news/politica/ministro-dos-transportes-vai-ao-gabinete-do-senador-amin-para-tratar-de-obras-prioritarias-de-sc",
-    "title": "Senador Amin recebe ministro para tratar de obras prioritárias em Santa Catarina",
-    "guid": "sc1multi:f82fed4bc9e095634d9b979e7f4907af45ec7252",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f82fed4bc9e095634d9b979e7f4907af45ec7252/",
-    "usedAt": 1786529644152,
-    "usedAtIso": "2026-08-12T10:14:04.152Z"
+  "source:faa2e79a4064cfc0b9d005bd32da6b055e2cea13": {
+    "url": "https://tnsul.com/2026/08/12/jovem-e-resgatado-apos-se-ferir-com-motosserra-durante-trabalho-em-sc",
+    "title": "Jovem é resgatado após acidente com motosserra em Rio Fortuna",
+    "guid": "sc1multi:2246df427c42b11e16a0d52e4d7934e2ec6eee8b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2246df427c42b11e16a0d52e4d7934e2ec6eee8b/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
+  },
+  "source:54d6193d74199698e92f11fc12ae7d6117c9730b": {
+    "url": "https://rbatv.com.br/noticias/furto-de-veiculo-e-registrado-em-timbo",
+    "title": "Veículo é furtado no bairro Quintino em Timbó",
+    "guid": "sc1multi:f3e9f00f693c8aac2b9e06828ceb14811d657a13",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e9f00f693c8aac2b9e06828ceb14811d657a13/",
+    "usedAt": 1786533244148,
+    "usedAtIso": "2026-08-12T11:14:04.148Z"
   }
 }
