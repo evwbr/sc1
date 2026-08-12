@@ -1,4 +1,44 @@
 {
+  "source:673567b9f3510c31cfb74bed2d3c4d87b1850201": {
+    "url": "https://tudoaquisc.com.br/policia/ecstasy-em-blumenau-24-mil-11-8",
+    "title": "PM apreende mais de 24 mil comprimidos de ecstasy em Blumenau",
+    "guid": "sc1multi:518247718b45cd937116efc282bcfe7308d75404",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_518247718b45cd937116efc282bcfe7308d75404/",
+    "usedAt": 1786562045143,
+    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  },
+  "source:ace5dade294209b283b5f4efac580b68d9bd13b7": {
+    "url": "https://tnsul.com/2026/08/12/rede-de-protecao-a-vida-retoma-atividades-em-criciuma",
+    "title": "Rede de Proteção à Vida retoma atividades em Criciúma para prevenção ao suicídio",
+    "guid": "sc1multi:409eeb605542e51ec6578f6b93500b1e6ae6e0a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_409eeb605542e51ec6578f6b93500b1e6ae6e0a8/",
+    "usedAt": 1786562045143,
+    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  },
+  "source:425ffe3fa405cca794169b62ade7c25af46abc4c": {
+    "url": "https://ocp.news/esporte/arena-jaragua-e-palco-da-copa-brasil-de-tenis-de-mesa-com-mais-de-500-atletas",
+    "title": "Arena Jaraguá recebe Copa Brasil de Tênis de Mesa com 549 atletas",
+    "guid": "sc1multi:425ffe3fa405cca794169b62ade7c25af46abc4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_425ffe3fa405cca794169b62ade7c25af46abc4c/",
+    "usedAt": 1786562045143,
+    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  },
+  "source:1450c5d74e558e87cd108c317ed5330c89dcce40": {
+    "url": "https://ocp.news/esporte/sub-17-do-jaragua-futsal-massacra-adversario-na-arena-e-dispara-na-ponta-do-estadual",
+    "title": "Sub-17 do Jaraguá Futsal goleia Fube e lidera Campeonato Catarinense",
+    "guid": "sc1multi:1450c5d74e558e87cd108c317ed5330c89dcce40",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1450c5d74e558e87cd108c317ed5330c89dcce40/",
+    "usedAt": 1786562045143,
+    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  },
+  "source:153c14266a0c382b785b5f9462a3842d22729f09": {
+    "url": "https://ocp.news/cotidiano/rua-e-interditada-nesta-quarta-feira-12-em-guaramirim-para-servicos-da-rumo-logistica",
+    "title": "Rua é interditada em Guaramirim para serviços da Rumo Logística",
+    "guid": "sc1multi:153c14266a0c382b785b5f9462a3842d22729f09",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_153c14266a0c382b785b5f9462a3842d22729f09/",
+    "usedAt": 1786562045143,
+    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  },
   "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
     "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
     "title": "Nacional Handebol vence Osasco e garante semifinal em São José",
@@ -180,8 +220,8 @@
     "title": "Cachorra alerta família sobre cobra-coral em residência de Jaraguá do Sul",
     "guid": "sc1multi:57d2f8a02f03c4da09f41dc2045c3b153f7c4250",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_57d2f8a02f03c4da09f41dc2045c3b153f7c4250/",
-    "usedAt": 1786547644407,
-    "usedAtIso": "2026-08-12T15:14:04.407Z"
+    "usedAt": 1786565644482,
+    "usedAtIso": "2026-08-12T20:14:04.482Z"
   },
   "source:eabe3866da86dc487d7eef4d3c4922d13a5a8067": {
     "url": "https://tudoaquisc.com.br/policia/material-de-abuso-sexual-011-08",
@@ -223,44 +263,28 @@
     "usedAt": 1786544046279,
     "usedAtIso": "2026-08-12T14:14:06.279Z"
   },
-  "source:673567b9f3510c31cfb74bed2d3c4d87b1850201": {
-    "url": "https://tudoaquisc.com.br/policia/ecstasy-em-blumenau-24-mil-11-8",
-    "title": "PM apreende mais de 24 mil comprimidos de ecstasy em Blumenau",
-    "guid": "sc1multi:518247718b45cd937116efc282bcfe7308d75404",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_518247718b45cd937116efc282bcfe7308d75404/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  "source:0a4bf33032564a9702832763944a690e93cc6d29": {
+    "url": "https://ocp.news/esporte/liga-nacional-de-futsal-confira-as-datas-e-horarios-das-oitavas-de-final",
+    "title": "Liga Nacional de Futsal confirma datas das oitavas de final com times de SC",
+    "guid": "sc1multi:0a4bf33032564a9702832763944a690e93cc6d29",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0a4bf33032564a9702832763944a690e93cc6d29/",
+    "usedAt": 1786565644482,
+    "usedAtIso": "2026-08-12T20:14:04.482Z"
   },
-  "source:ace5dade294209b283b5f4efac580b68d9bd13b7": {
-    "url": "https://tnsul.com/2026/08/12/rede-de-protecao-a-vida-retoma-atividades-em-criciuma",
-    "title": "Rede de Proteção à Vida retoma atividades em Criciúma para prevenção ao suicídio",
-    "guid": "sc1multi:409eeb605542e51ec6578f6b93500b1e6ae6e0a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_409eeb605542e51ec6578f6b93500b1e6ae6e0a8/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  "source:ea0417336e45bd5fc309fd848cf18d7a235cde9d": {
+    "url": "https://ocp.news/seguranca/bebe-de-4-meses-morre-apos-passar-mal-em-creche-em-sc-policia-investiga",
+    "title": "Bebê de quatro meses morre após passar mal em creche de Caçador",
+    "guid": "sc1multi:ea0417336e45bd5fc309fd848cf18d7a235cde9d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ea0417336e45bd5fc309fd848cf18d7a235cde9d/",
+    "usedAt": 1786565644482,
+    "usedAtIso": "2026-08-12T20:14:04.482Z"
   },
-  "source:425ffe3fa405cca794169b62ade7c25af46abc4c": {
-    "url": "https://ocp.news/esporte/arena-jaragua-e-palco-da-copa-brasil-de-tenis-de-mesa-com-mais-de-500-atletas",
-    "title": "Arena Jaraguá recebe Copa Brasil de Tênis de Mesa com 549 atletas",
-    "guid": "sc1multi:425ffe3fa405cca794169b62ade7c25af46abc4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_425ffe3fa405cca794169b62ade7c25af46abc4c/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:1450c5d74e558e87cd108c317ed5330c89dcce40": {
-    "url": "https://ocp.news/esporte/sub-17-do-jaragua-futsal-massacra-adversario-na-arena-e-dispara-na-ponta-do-estadual",
-    "title": "Sub-17 do Jaraguá Futsal goleia Fube e lidera Campeonato Catarinense",
-    "guid": "sc1multi:1450c5d74e558e87cd108c317ed5330c89dcce40",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1450c5d74e558e87cd108c317ed5330c89dcce40/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:153c14266a0c382b785b5f9462a3842d22729f09": {
-    "url": "https://ocp.news/cotidiano/rua-e-interditada-nesta-quarta-feira-12-em-guaramirim-para-servicos-da-rumo-logistica",
-    "title": "Rua é interditada em Guaramirim para serviços da Rumo Logística",
-    "guid": "sc1multi:153c14266a0c382b785b5f9462a3842d22729f09",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_153c14266a0c382b785b5f9462a3842d22729f09/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
+  "source:0a5b0e9e8befa6349c3d53ddae24c7e70c5a576f": {
+    "url": "https://tudoaquisc.com.br/ultimas-noticias/caminhao-nao-sobe-morro-0826",
+    "title": "Caminhão fica preso em morro da Costeira, em Florianópolis, e é resgatado",
+    "guid": "sc1multi:53c59d9155f617fafa21389231d31aca4ea0cf23",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53c59d9155f617fafa21389231d31aca4ea0cf23/",
+    "usedAt": 1786565644482,
+    "usedAtIso": "2026-08-12T20:14:04.482Z"
   }
 }
