@@ -1,4 +1,36 @@
 {
+  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
+    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
+    "title": "João Rodrigues lança campanha para governo em Chapecó",
+    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  },
+  "source:dca39a11a645116a4f54b645007293e59f36565f": {
+    "url": "https://ocp.news/politica/joao-rodrigues-escolhe-local-para-o-lancamento-da-sua-campanha",
+    "title": "João Rodrigues anuncia lançamento da campanha em Chapecó",
+    "guid": "sc1multi:dca39a11a645116a4f54b645007293e59f36565f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dca39a11a645116a4f54b645007293e59f36565f/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  },
+  "source:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c": {
+    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-promovem-feijoada-neste-domingo-em-comemoracao-aos-60-anos",
+    "title": "Bombeiros Voluntários de Jaraguá do Sul comemoram 60 anos com feijoada",
+    "guid": "sc1multi:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  },
+  "source:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f": {
+    "url": "https://ocp.news/seguranca/policia-civil-prende-suspeito-de-feminicidio-em-cidade-de-sc",
+    "title": "Polícia Civil prende suspeito de feminicídio em Sangão, Santa Catarina",
+    "guid": "sc1multi:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  },
   "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
     "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
     "title": "Trabalhador morre após elevador despencar em obra de Camboriú",
@@ -111,76 +143,28 @@
     "usedAt": 1786572844858,
     "usedAtIso": "2026-08-12T22:14:04.858Z"
   },
-  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
-    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
-    "title": "Câmara de Jaraguá do Sul aprova estudos para sistema binário no bairro João Pessoa",
-    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  "source:ace5dade294209b283b5f4efac580b68d9bd13b7": {
+    "url": "https://tnsul.com/2026/08/12/rede-de-protecao-a-vida-retoma-atividades-em-criciuma",
+    "title": "Rede de Proteção à Vida retoma atividades em Criciúma para prevenção ao suicídio",
+    "guid": "sc1multi:409eeb605542e51ec6578f6b93500b1e6ae6e0a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_409eeb605542e51ec6578f6b93500b1e6ae6e0a8/",
+    "usedAt": 1786594444801,
+    "usedAtIso": "2026-08-13T04:14:04.801Z"
   },
-  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
-    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
-    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
-    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
+  "source:425ffe3fa405cca794169b62ade7c25af46abc4c": {
+    "url": "https://ocp.news/esporte/arena-jaragua-e-palco-da-copa-brasil-de-tenis-de-mesa-com-mais-de-500-atletas",
+    "title": "Arena Jaraguá recebe Copa Brasil de Tênis de Mesa com 549 atletas",
+    "guid": "sc1multi:425ffe3fa405cca794169b62ade7c25af46abc4c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_425ffe3fa405cca794169b62ade7c25af46abc4c/",
+    "usedAt": 1786594444801,
+    "usedAtIso": "2026-08-13T04:14:04.801Z"
   },
-  "source:9be148584328531d73facf1572bb156b3026521e": {
-    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
-    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
-    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
-    "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
-    "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
-    "guid": "sc1multi:5fa1d1d2d2f74c560ebbb976de44076870d5aa06",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa1d1d2d2f74c560ebbb976de44076870d5aa06/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:77af00f266be3d34e82d1c4b02cb405b03f0604b": {
-    "url": "https://ocp.news/seguranca/pcc-e-alvo-de-mandados-em-sp-e-sc-por-sequestro-e-tortura-de-advogado",
-    "title": "Mandados são cumpridos em Florianópolis contra integrantes do PCC",
-    "guid": "sc1multi:77af00f266be3d34e82d1c4b02cb405b03f0604b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_77af00f266be3d34e82d1c4b02cb405b03f0604b/",
-    "usedAt": 1786569245059,
-    "usedAtIso": "2026-08-12T21:14:05.059Z"
-  },
-  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
-    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
-    "title": "João Rodrigues lança campanha para governo em Chapecó",
-    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:dca39a11a645116a4f54b645007293e59f36565f": {
-    "url": "https://ocp.news/politica/joao-rodrigues-escolhe-local-para-o-lancamento-da-sua-campanha",
-    "title": "João Rodrigues anuncia lançamento da campanha em Chapecó",
-    "guid": "sc1multi:dca39a11a645116a4f54b645007293e59f36565f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dca39a11a645116a4f54b645007293e59f36565f/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c": {
-    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-promovem-feijoada-neste-domingo-em-comemoracao-aos-60-anos",
-    "title": "Bombeiros Voluntários de Jaraguá do Sul comemoram 60 anos com feijoada",
-    "guid": "sc1multi:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f": {
-    "url": "https://ocp.news/seguranca/policia-civil-prende-suspeito-de-feminicidio-em-cidade-de-sc",
-    "title": "Polícia Civil prende suspeito de feminicídio em Sangão, Santa Catarina",
-    "guid": "sc1multi:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  "source:1450c5d74e558e87cd108c317ed5330c89dcce40": {
+    "url": "https://ocp.news/esporte/sub-17-do-jaragua-futsal-massacra-adversario-na-arena-e-dispara-na-ponta-do-estadual",
+    "title": "Sub-17 do Jaraguá Futsal goleia Fube e lidera Campeonato Catarinense",
+    "guid": "sc1multi:1450c5d74e558e87cd108c317ed5330c89dcce40",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1450c5d74e558e87cd108c317ed5330c89dcce40/",
+    "usedAt": 1786594444801,
+    "usedAtIso": "2026-08-13T04:14:04.801Z"
   }
 }
