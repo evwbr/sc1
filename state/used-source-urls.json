@@ -1,4 +1,12 @@
 {
+  "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
+    "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
+    "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
+    "guid": "sc1multi:5fa1d1d2d2f74c560ebbb976de44076870d5aa06",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa1d1d2d2f74c560ebbb976de44076870d5aa06/",
+    "usedAt": 1786605244960,
+    "usedAtIso": "2026-08-13T07:14:04.960Z"
+  },
   "source:0a4bf33032564a9702832763944a690e93cc6d29": {
     "url": "https://ocp.news/esporte/liga-nacional-de-futsal-confira-as-datas-e-horarios-das-oitavas-de-final",
     "title": "Liga Nacional de Futsal confirma datas das oitavas de final com times de SC",
@@ -111,12 +119,12 @@
     "usedAt": 1786587247011,
     "usedAtIso": "2026-08-13T02:14:07.011Z"
   },
-  "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
-    "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
-    "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
-    "guid": "sc1multi:5fa1d1d2d2f74c560ebbb976de44076870d5aa06",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa1d1d2d2f74c560ebbb976de44076870d5aa06/",
-    "usedAt": 1786605244960,
-    "usedAtIso": "2026-08-13T07:14:04.960Z"
+  "source:9be148584328531d73facf1572bb156b3026521e": {
+    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
+    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
+    "usedAt": 1786608844591,
+    "usedAtIso": "2026-08-13T08:14:04.591Z"
   }
 }
