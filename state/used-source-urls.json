@@ -1,4 +1,36 @@
 {
+  "source:68a469eb72babfd7ab61193270dc88e37e4e0d30": {
+    "url": "https://rbatv.com.br/noticias/pedro-uczai-apresenta-boa-evolucao-apos-avc-e-recebe-visitas-em-hospital-de-brasilia",
+    "title": "Deputado catarinense Pedro Uczai apresenta boa evolução após AVC",
+    "guid": "sc1multi:5a28781fe9edb651bb1386ce5a111f92d2367a96",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5a28781fe9edb651bb1386ce5a111f92d2367a96/",
+    "usedAt": 1786583644556,
+    "usedAtIso": "2026-08-13T01:14:04.556Z"
+  },
+  "source:9a60289fbfe200633965a7f440f5a44f45e97a05": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-crime-de-peculato-em-vidal-ramos",
+    "title": "Homem é preso por peculato em Vidal Ramos, Santa Catarina",
+    "guid": "sc1multi:69681bbb8fc09159c4869cdb49f86e99a48a30b6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69681bbb8fc09159c4869cdb49f86e99a48a30b6/",
+    "usedAt": 1786583644556,
+    "usedAtIso": "2026-08-13T01:14:04.556Z"
+  },
+  "source:62f0218ec2e098f7f9f6f4e750da303ec09a5386": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-realiza-mutirao-veterinario-para-animais-de-pessoas-em-situacao-de-rua",
+    "title": "Mutirão veterinário atende cães de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:62f0218ec2e098f7f9f6f4e750da303ec09a5386",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62f0218ec2e098f7f9f6f4e750da303ec09a5386/",
+    "usedAt": 1786583644556,
+    "usedAtIso": "2026-08-13T01:14:04.556Z"
+  },
+  "source:b7e9d57140f4d1e758b3b36d3f61b29ca4a34606": {
+    "url": "https://ocp.news/politica/vereadores-pedem-instalacao-de-lombofaixas-em-frente-a-escolas-creches-e-igrejas-de-guaramirim",
+    "title": "Vereadores de Guaramirim solicitam lombofaixas em locais de grande circulação",
+    "guid": "sc1multi:b7e9d57140f4d1e758b3b36d3f61b29ca4a34606",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b7e9d57140f4d1e758b3b36d3f61b29ca4a34606/",
+    "usedAt": 1786583644556,
+    "usedAtIso": "2026-08-13T01:14:04.556Z"
+  },
   "source:07f019dc7e1ec24c131cae06ea9ecf71ef285586": {
     "url": "https://tnsul.com/2026/08/12/operacao-nacional-contra-anabolizantes-adulterados-prende-alvo-em-criciuma",
     "title": "Operação prende suspeito de anabolizantes adulterados em Criciúma",
@@ -87,108 +119,36 @@
     "usedAt": 1786569245059,
     "usedAtIso": "2026-08-12T21:14:05.059Z"
   },
-  "source:57d2f8a02f03c4da09f41dc2045c3b153f7c4250": {
-    "url": "https://ocp.news/cotidiano/cachorrinha-alerta-familia-e-ajuda-a-encontrar-cobra-coral-dentro-de-casa-em-jaragua-do-sul",
-    "title": "Cachorra alerta família sobre cobra-coral em residência de Jaraguá do Sul",
-    "guid": "sc1multi:57d2f8a02f03c4da09f41dc2045c3b153f7c4250",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_57d2f8a02f03c4da09f41dc2045c3b153f7c4250/",
-    "usedAt": 1786565644482,
-    "usedAtIso": "2026-08-12T20:14:04.482Z"
+  "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
+    "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
+    "title": "Trabalhador morre após elevador despencar em obra de Camboriú",
+    "guid": "sc1multi:d2c0242302f5e662b230d483c6281fae3080c1eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c0242302f5e662b230d483c6281fae3080c1eb/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
   },
-  "source:0a4bf33032564a9702832763944a690e93cc6d29": {
-    "url": "https://ocp.news/esporte/liga-nacional-de-futsal-confira-as-datas-e-horarios-das-oitavas-de-final",
-    "title": "Liga Nacional de Futsal confirma datas das oitavas de final com times de SC",
-    "guid": "sc1multi:0a4bf33032564a9702832763944a690e93cc6d29",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0a4bf33032564a9702832763944a690e93cc6d29/",
-    "usedAt": 1786565644482,
-    "usedAtIso": "2026-08-12T20:14:04.482Z"
+  "source:2bb49ddfeacc1a9105d9e3eff25f177d00757f89": {
+    "url": "https://ocp.news/cotidiano/tradicional-feijoada-do-hospital-jaragua-ganha-edicao-especial-em-comemoracao-aos-60-anos",
+    "title": "Hospital Jaraguá realiza feijoada especial pelos 60 anos em Jaraguá do Sul",
+    "guid": "sc1multi:2bb49ddfeacc1a9105d9e3eff25f177d00757f89",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2bb49ddfeacc1a9105d9e3eff25f177d00757f89/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
   },
-  "source:ea0417336e45bd5fc309fd848cf18d7a235cde9d": {
-    "url": "https://ocp.news/seguranca/bebe-de-4-meses-morre-apos-passar-mal-em-creche-em-sc-policia-investiga",
-    "title": "Bebê de quatro meses morre após passar mal em creche de Caçador",
-    "guid": "sc1multi:ea0417336e45bd5fc309fd848cf18d7a235cde9d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ea0417336e45bd5fc309fd848cf18d7a235cde9d/",
-    "usedAt": 1786565644482,
-    "usedAtIso": "2026-08-12T20:14:04.482Z"
+  "source:2c94004a3d8fae0cb230389a7208d50287f4d029": {
+    "url": "https://ocp.news/seguranca/homem-e-socorrido-apos-acidente-com-guindaste-em-bairro-de-florianopolis",
+    "title": "Homem sofre acidente com guindaste no Campeche, em Florianópolis",
+    "guid": "sc1multi:2c94004a3d8fae0cb230389a7208d50287f4d029",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c94004a3d8fae0cb230389a7208d50287f4d029/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
   },
-  "source:0a5b0e9e8befa6349c3d53ddae24c7e70c5a576f": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/caminhao-nao-sobe-morro-0826",
-    "title": "Caminhão fica preso em morro da Costeira, em Florianópolis, e é resgatado",
-    "guid": "sc1multi:53c59d9155f617fafa21389231d31aca4ea0cf23",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53c59d9155f617fafa21389231d31aca4ea0cf23/",
-    "usedAt": 1786565644482,
-    "usedAtIso": "2026-08-12T20:14:04.482Z"
-  },
-  "source:673567b9f3510c31cfb74bed2d3c4d87b1850201": {
-    "url": "https://tudoaquisc.com.br/policia/ecstasy-em-blumenau-24-mil-11-8",
-    "title": "PM apreende mais de 24 mil comprimidos de ecstasy em Blumenau",
-    "guid": "sc1multi:518247718b45cd937116efc282bcfe7308d75404",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_518247718b45cd937116efc282bcfe7308d75404/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:ace5dade294209b283b5f4efac580b68d9bd13b7": {
-    "url": "https://tnsul.com/2026/08/12/rede-de-protecao-a-vida-retoma-atividades-em-criciuma",
-    "title": "Rede de Proteção à Vida retoma atividades em Criciúma para prevenção ao suicídio",
-    "guid": "sc1multi:409eeb605542e51ec6578f6b93500b1e6ae6e0a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_409eeb605542e51ec6578f6b93500b1e6ae6e0a8/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:425ffe3fa405cca794169b62ade7c25af46abc4c": {
-    "url": "https://ocp.news/esporte/arena-jaragua-e-palco-da-copa-brasil-de-tenis-de-mesa-com-mais-de-500-atletas",
-    "title": "Arena Jaraguá recebe Copa Brasil de Tênis de Mesa com 549 atletas",
-    "guid": "sc1multi:425ffe3fa405cca794169b62ade7c25af46abc4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_425ffe3fa405cca794169b62ade7c25af46abc4c/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:1450c5d74e558e87cd108c317ed5330c89dcce40": {
-    "url": "https://ocp.news/esporte/sub-17-do-jaragua-futsal-massacra-adversario-na-arena-e-dispara-na-ponta-do-estadual",
-    "title": "Sub-17 do Jaraguá Futsal goleia Fube e lidera Campeonato Catarinense",
-    "guid": "sc1multi:1450c5d74e558e87cd108c317ed5330c89dcce40",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1450c5d74e558e87cd108c317ed5330c89dcce40/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:153c14266a0c382b785b5f9462a3842d22729f09": {
-    "url": "https://ocp.news/cotidiano/rua-e-interditada-nesta-quarta-feira-12-em-guaramirim-para-servicos-da-rumo-logistica",
-    "title": "Rua é interditada em Guaramirim para serviços da Rumo Logística",
-    "guid": "sc1multi:153c14266a0c382b785b5f9462a3842d22729f09",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_153c14266a0c382b785b5f9462a3842d22729f09/",
-    "usedAt": 1786562045143,
-    "usedAtIso": "2026-08-12T19:14:05.143Z"
-  },
-  "source:68a469eb72babfd7ab61193270dc88e37e4e0d30": {
-    "url": "https://rbatv.com.br/noticias/pedro-uczai-apresenta-boa-evolucao-apos-avc-e-recebe-visitas-em-hospital-de-brasilia",
-    "title": "Deputado catarinense Pedro Uczai apresenta boa evolução após AVC",
-    "guid": "sc1multi:5a28781fe9edb651bb1386ce5a111f92d2367a96",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5a28781fe9edb651bb1386ce5a111f92d2367a96/",
-    "usedAt": 1786583644556,
-    "usedAtIso": "2026-08-13T01:14:04.556Z"
-  },
-  "source:9a60289fbfe200633965a7f440f5a44f45e97a05": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-crime-de-peculato-em-vidal-ramos",
-    "title": "Homem é preso por peculato em Vidal Ramos, Santa Catarina",
-    "guid": "sc1multi:69681bbb8fc09159c4869cdb49f86e99a48a30b6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_69681bbb8fc09159c4869cdb49f86e99a48a30b6/",
-    "usedAt": 1786583644556,
-    "usedAtIso": "2026-08-13T01:14:04.556Z"
-  },
-  "source:62f0218ec2e098f7f9f6f4e750da303ec09a5386": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-florianopolis-realiza-mutirao-veterinario-para-animais-de-pessoas-em-situacao-de-rua",
-    "title": "Mutirão veterinário atende cães de pessoas em situação de rua em Florianópolis",
-    "guid": "sc1multi:62f0218ec2e098f7f9f6f4e750da303ec09a5386",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_62f0218ec2e098f7f9f6f4e750da303ec09a5386/",
-    "usedAt": 1786583644556,
-    "usedAtIso": "2026-08-13T01:14:04.556Z"
-  },
-  "source:b7e9d57140f4d1e758b3b36d3f61b29ca4a34606": {
-    "url": "https://ocp.news/politica/vereadores-pedem-instalacao-de-lombofaixas-em-frente-a-escolas-creches-e-igrejas-de-guaramirim",
-    "title": "Vereadores de Guaramirim solicitam lombofaixas em locais de grande circulação",
-    "guid": "sc1multi:b7e9d57140f4d1e758b3b36d3f61b29ca4a34606",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b7e9d57140f4d1e758b3b36d3f61b29ca4a34606/",
-    "usedAt": 1786583644556,
-    "usedAtIso": "2026-08-13T01:14:04.556Z"
+  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
+    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
+    "title": "Nacional Handebol vence Osasco e avança para semifinal em São José",
+    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
   }
 }
