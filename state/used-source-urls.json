@@ -1,4 +1,84 @@
 {
+  "source:3edc5a6ffb719ae7915c011bdd54a5e1fac43e3f": {
+    "url": "https://tudoaquisc.com.br/esporte/skate-florianopolis-2026",
+    "title": "Florianópolis recebe etapa do Circuito Brasileiro de Skate Pro 2026",
+    "guid": "sc1multi:d40f9e6762296d4c35d135dc416aefb9017825c1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d40f9e6762296d4c35d135dc416aefb9017825c1/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:6771ad652995f841cacbf4b3dd5321a4535fc25f": {
+    "url": "https://rbatv.com.br/noticias/mulher-denuncia-ex-companheiro-por-perseguicao-apos-mudar-de-endereco-em-timbo",
+    "title": "Mulher denuncia ex-companheiro por perseguição em Timbó",
+    "guid": "sc1multi:afa3809ee514b33065993b391cfd11d9b2876aa2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_afa3809ee514b33065993b391cfd11d9b2876aa2/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:1a8424a1f08feb74664d6830a1585a29b0378db8": {
+    "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-preso-durante-rondas-da-pm-em-rio-do-sul",
+    "title": "Homem com mandado de prisão por roubo é preso em Rio do Sul",
+    "guid": "sc1multi:cbd9685d9924f70cd50acb4658381f1c6f643f21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cbd9685d9924f70cd50acb4658381f1c6f643f21/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:7da70fd7651a8e7e1835fb743eeea58224d433d5": {
+    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-em-colisao-entre-carro-e-moto-proximo-ao-portal-de-presidente-getulio",
+    "title": "Motociclista fica ferido em colisão próximo ao Portal de Presidente Getúlio",
+    "guid": "sc1multi:3cab1a186f3d7c7e60944956f9b0c6108c4a2886",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3cab1a186f3d7c7e60944956f9b0c6108c4a2886/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:c6c93b74acf2a2aacf77b33e1afe4e610e6342ab": {
+    "url": "https://rbatv.com.br/noticias/produtos-furtados-em-dois-estabelecimentos-sao-recuperados-e-suspeitos-acabam-presos-em-flagrante",
+    "title": "Suspeitos são presos em flagrante após furtos em dois estabelecimentos no Centro de Rio do Sul",
+    "guid": "sc1multi:cab5b4dbffeaf551cf91b506164af4dacc5aa2e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cab5b4dbffeaf551cf91b506164af4dacc5aa2e8/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:af1b9721d58144ec8ddd62e2f09299825b91101d": {
+    "url": "https://tnsul.com/2026/08/13/jovem-aponta-revolver-para-pm-e-morre-apos-confronto-em-sc",
+    "title": "Jovem morre após confronto com PM em ação contra tráfico em Xanxerê",
+    "guid": "sc1multi:656452385b7b7112b5e711eb22b9d20ec405b316",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_656452385b7b7112b5e711eb22b9d20ec405b316/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:d714c6c4b7baa399e86a4fd700e4a43da5578f0a": {
+    "url": "https://rbatv.com.br/noticias/duas-mulheres-morrem-e-homem-e-levado-em-estado-grave-ao-hospital-apos-acidente-na-br-470-em-pouso-redondo",
+    "title": "Duas mulheres morrem em acidente na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:7db88db79312d33c765db423865ff21d7d25bfa9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7db88db79312d33c765db423865ff21d7d25bfa9/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5": {
+    "url": "https://ocp.news/cotidiano/segunda-edicao-do-mutirao-realiza-386-castracoes-gratuitas-em-guaramirim",
+    "title": "Mutirão de Castração Gratuita atende 386 animais em Guaramirim",
+    "guid": "sc1multi:a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:264e04ef00015a7de4ffe86bd9d6db9ef5a93387": {
+    "url": "https://correiosc.com.br/trinda-times-pro-florianopolis-segunda-etapa-circuito-brasileiro-pro-2026",
+    "title": "Florianópolis recebe 2ª etapa do Trinda Times Pro 2026 de skate",
+    "guid": "sc1multi:c3c3c31e0e36a35080b6815023d031d108ea57e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3c3c31e0e36a35080b6815023d031d108ea57e7/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
+  "source:f8518321d41461cdba5db587395290db9ce9d954": {
+    "url": "https://ocp.news/economia/weg-destaca-forca-da-logistica-global-e-avancos-sustentaveis-no-logistique-summit-2026",
+    "title": "WEG destaca avanços sustentáveis em logística no Logistique Summit em Balneário Camboriú",
+    "guid": "sc1multi:f8518321d41461cdba5db587395290db9ce9d954",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8518321d41461cdba5db587395290db9ce9d954/",
+    "usedAt": 1786634044313,
+    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  },
   "source:07ec71b4da15df93b617c44d942c433016c04556": {
     "url": "https://ocp.news/economia/norte-de-sc-reune-cadeia-do-plastico-na-maior-feira-do-setor-no-estado",
     "title": "Joinville recebe a 13ª Interplast, maior feira do setor plástico em SC",
@@ -140,8 +220,8 @@
     "title": "Chuva intensa com risco alto atinge Florianópolis a partir desta quinta-feira",
     "guid": "sc1multi:7d734ae0312773eb502b7f1777ffc22cf059c2e1",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d734ae0312773eb502b7f1777ffc22cf059c2e1/",
-    "usedAt": 1786626849195,
-    "usedAtIso": "2026-08-13T13:14:09.195Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
     "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
@@ -164,24 +244,24 @@
     "title": "Motorista morre em colisão na BR-282 em Santo Amaro da Imperatriz",
     "guid": "sc1multi:9783dd5d510782aa17b3f99c6b34a180fb3aee3d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9783dd5d510782aa17b3f99c6b34a180fb3aee3d/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:79d941985f347d792e34857f7eef17366249b61c": {
     "url": "https://ocp.news/cotidiano/prefeitura-de-blumenau-recebe-mais-de-20-casinhas-para-animais-comunitarios",
     "title": "Blumenau recebe mais 20 casinhas para animais comunitários",
     "guid": "sc1multi:79d941985f347d792e34857f7eef17366249b61c",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_79d941985f347d792e34857f7eef17366249b61c/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:f5cab354cbd5348cb1fc6a145b3854bdc0b65706": {
     "url": "https://ocp.news/cotidiano/reforma-da-escola-municipal-francisco-skrabski-avanca-no-bairro-brasilia-em-criciuma",
     "title": "Reforma da Escola Francisco Skrabski avança em Criciúma",
     "guid": "sc1multi:f5cab354cbd5348cb1fc6a145b3854bdc0b65706",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f5cab354cbd5348cb1fc6a145b3854bdc0b65706/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:1a10dac2b95aef6a08a85e432c368ef6af09970b": {
     "url": "https://tnsul.com/2026/08/13/homem-atira-tres-vezes-durante-briga-com-vizinho-e-acaba-preso-em-laguna",
@@ -193,11 +273,11 @@
   },
   "source:3c828fdf72fed739e0a9bc7f99fce0d7242e470f": {
     "url": "https://ocp.news/cotidiano/plano-de-arborizacao-de-florianopolis-chega-aos-bairros-em-cinco-oficinas-confira-a-programacao",
-    "title": "Plano de Arborização de Florianópolis promove oficinas em cinco regiões da cidade",
+    "title": "Plano de Arborização de Florianópolis promove cinco oficinas nos bairros da cidade",
     "guid": "sc1multi:3c828fdf72fed739e0a9bc7f99fce0d7242e470f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3c828fdf72fed739e0a9bc7f99fce0d7242e470f/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:f72b8d734115839fb08706bf8cef04c5282d847b": {
     "url": "https://ocp.news/seguranca/operacao-complexa-dos-bombeiros-resgata-caminhao-em-morro-de-florianopolis",
@@ -220,24 +300,16 @@
     "title": "Três pessoas são detidas por pichação em Florianópolis",
     "guid": "sc1multi:0a8dec8d70937da4edb8c69c5a2bc60bb160f151",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0a8dec8d70937da4edb8c69c5a2bc60bb160f151/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
-  },
-  "source:3edc5a6ffb719ae7915c011bdd54a5e1fac43e3f": {
-    "url": "https://tudoaquisc.com.br/esporte/skate-florianopolis-2026",
-    "title": "Florianópolis recebe etapa do Circuito Brasileiro de Skate Pro 2026",
-    "guid": "sc1multi:d40f9e6762296d4c35d135dc416aefb9017825c1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d40f9e6762296d4c35d135dc416aefb9017825c1/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:5d5187a253949fb377d4911c5b0ace586e787942": {
     "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
-    "title": "Prefeitura de São José alerta sobre golpes com boletos falsos",
+    "title": "Prefeitura de São José alerta sobre golpes com falsos boletos",
     "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
-    "usedAt": 1786623244907,
-    "usedAtIso": "2026-08-13T12:14:04.907Z"
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
   "source:f74e6afd8456f668115e9cfa5b95029f032db782": {
     "url": "https://tnsul.com/2026/08/13/elevador-de-predio-em-obras-despenca-e-trabalhador-morre-em-camboriu",
@@ -247,22 +319,6 @@
     "usedAt": 1786619644583,
     "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:6771ad652995f841cacbf4b3dd5321a4535fc25f": {
-    "url": "https://rbatv.com.br/noticias/mulher-denuncia-ex-companheiro-por-perseguicao-apos-mudar-de-endereco-em-timbo",
-    "title": "Mulher denuncia ex-companheiro por perseguição em Timbó",
-    "guid": "sc1multi:afa3809ee514b33065993b391cfd11d9b2876aa2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_afa3809ee514b33065993b391cfd11d9b2876aa2/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:1a8424a1f08feb74664d6830a1585a29b0378db8": {
-    "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-preso-durante-rondas-da-pm-em-rio-do-sul",
-    "title": "Homem com mandado de prisão por roubo é preso em Rio do Sul",
-    "guid": "sc1multi:cbd9685d9924f70cd50acb4658381f1c6f643f21",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cbd9685d9924f70cd50acb4658381f1c6f643f21/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
   "source:d65bf9420eac212342cf71eca49d43948e0c19c1": {
     "url": "https://tnsul.com/2026/08/13/carro-capota-apos-motorista-perder-o-controle-em-curva-em-laguna",
     "title": "Carro capota em curva no bairro Praia do Gi, em Laguna",
@@ -270,22 +326,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6f40692e57891fe6ed61041db266674c8a8c1158/",
     "usedAt": 1786619644583,
     "usedAtIso": "2026-08-13T11:14:04.583Z"
-  },
-  "source:7da70fd7651a8e7e1835fb743eeea58224d433d5": {
-    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-em-colisao-entre-carro-e-moto-proximo-ao-portal-de-presidente-getulio",
-    "title": "Motociclista fica ferido em colisão próximo ao Portal de Presidente Getúlio",
-    "guid": "sc1multi:3cab1a186f3d7c7e60944956f9b0c6108c4a2886",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3cab1a186f3d7c7e60944956f9b0c6108c4a2886/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:c6c93b74acf2a2aacf77b33e1afe4e610e6342ab": {
-    "url": "https://rbatv.com.br/noticias/produtos-furtados-em-dois-estabelecimentos-sao-recuperados-e-suspeitos-acabam-presos-em-flagrante",
-    "title": "Suspeitos são presos em flagrante após furtos em dois estabelecimentos no Centro de Rio do Sul",
-    "guid": "sc1multi:cab5b4dbffeaf551cf91b506164af4dacc5aa2e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cab5b4dbffeaf551cf91b506164af4dacc5aa2e8/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
   },
   "source:a0df4565ba328fb084b71c2e14a126cdacbf99fd": {
     "url": "https://ocp.news/cotidiano/defesa-civil-de-florianopolis-emite-alerta-laranja-para-chuva-intensa-entre-quinta-e-sabado",
@@ -295,60 +335,20 @@
     "usedAt": 1786619644583,
     "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
-    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
-    "title": "Jaraguá do Sul estuda implantação de sistema binário no bairro João Pessoa",
-    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
-    "usedAt": 1786616044447,
-    "usedAtIso": "2026-08-13T10:14:04.447Z"
+  "source:b8fa39e4576abfca9a382f22d00931984229bd32": {
+    "url": "https://ocp.news/cotidiano/deu-ruim-trabalhador-e-flagrado-dancando-na-oktoberfest-durante-licenca-medica-e-acaba-demitido-por-justa-causa-em-sc",
+    "title": "Trabalhador é demitido por justa causa após ser flagrado na Oktoberfest em Blumenau",
+    "guid": "sc1multi:b8fa39e4576abfca9a382f22d00931984229bd32",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8fa39e4576abfca9a382f22d00931984229bd32/",
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
-  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
-    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
-    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
-    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
-    "usedAt": 1786612444371,
-    "usedAtIso": "2026-08-13T09:14:04.371Z"
-  },
-  "source:af1b9721d58144ec8ddd62e2f09299825b91101d": {
-    "url": "https://tnsul.com/2026/08/13/jovem-aponta-revolver-para-pm-e-morre-apos-confronto-em-sc",
-    "title": "Jovem morre após confronto com PM em ação contra tráfico em Xanxerê",
-    "guid": "sc1multi:656452385b7b7112b5e711eb22b9d20ec405b316",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_656452385b7b7112b5e711eb22b9d20ec405b316/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:d714c6c4b7baa399e86a4fd700e4a43da5578f0a": {
-    "url": "https://rbatv.com.br/noticias/duas-mulheres-morrem-e-homem-e-levado-em-estado-grave-ao-hospital-apos-acidente-na-br-470-em-pouso-redondo",
-    "title": "Duas mulheres morrem em acidente na BR-470 em Pouso Redondo",
-    "guid": "sc1multi:7db88db79312d33c765db423865ff21d7d25bfa9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7db88db79312d33c765db423865ff21d7d25bfa9/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5": {
-    "url": "https://ocp.news/cotidiano/segunda-edicao-do-mutirao-realiza-386-castracoes-gratuitas-em-guaramirim",
-    "title": "Mutirão de Castração Gratuita atende 386 animais em Guaramirim",
-    "guid": "sc1multi:a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6489cf64ffb61c99fdfc0ed25d4370b7fc003d5/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:264e04ef00015a7de4ffe86bd9d6db9ef5a93387": {
-    "url": "https://correiosc.com.br/trinda-times-pro-florianopolis-segunda-etapa-circuito-brasileiro-pro-2026",
-    "title": "Florianópolis recebe 2ª etapa do Trinda Times Pro 2026 de skate",
-    "guid": "sc1multi:c3c3c31e0e36a35080b6815023d031d108ea57e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3c3c31e0e36a35080b6815023d031d108ea57e7/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
-  },
-  "source:f8518321d41461cdba5db587395290db9ce9d954": {
-    "url": "https://ocp.news/economia/weg-destaca-forca-da-logistica-global-e-avancos-sustentaveis-no-logistique-summit-2026",
-    "title": "WEG destaca avanços sustentáveis em logística no Logistique Summit em Balneário Camboriú",
-    "guid": "sc1multi:f8518321d41461cdba5db587395290db9ce9d954",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f8518321d41461cdba5db587395290db9ce9d954/",
-    "usedAt": 1786634044313,
-    "usedAtIso": "2026-08-13T15:14:04.313Z"
+  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
+    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
+    "title": "Nacional Handebol vence Osasco e garante semifinal em São José",
+    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
+    "usedAt": 1786637644480,
+    "usedAtIso": "2026-08-13T16:14:04.480Z"
   }
 }
