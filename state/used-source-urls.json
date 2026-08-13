@@ -1,4 +1,44 @@
 {
+  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
+    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
+    "title": "João Rodrigues lança campanha ao governo em Chapecó",
+    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
+    "usedAt": 1786652044444,
+    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  },
+  "source:5d5187a253949fb377d4911c5b0ace586e787942": {
+    "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
+    "title": "Prefeitura de São José alerta para golpes com falsos boletos e mensagens",
+    "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
+    "usedAt": 1786652044444,
+    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  },
+  "source:b8fa39e4576abfca9a382f22d00931984229bd32": {
+    "url": "https://ocp.news/cotidiano/deu-ruim-trabalhador-e-flagrado-dancando-na-oktoberfest-durante-licenca-medica-e-acaba-demitido-por-justa-causa-em-sc",
+    "title": "Trabalhador é demitido por justa causa após ser flagrado na Oktoberfest em Blumenau",
+    "guid": "sc1multi:b8fa39e4576abfca9a382f22d00931984229bd32",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8fa39e4576abfca9a382f22d00931984229bd32/",
+    "usedAt": 1786652044444,
+    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  },
+  "source:3b7004e78a5673f3546fef5c1b51561f9b0f2755": {
+    "url": "https://tnsul.com/2026/08/13/pm-destina-28-bicicletas-apreendidas-a-entidade-beneficente-de-criciuma",
+    "title": "PM de Criciúma doa 28 bicicletas apreendidas para entidade beneficente",
+    "guid": "sc1multi:1d0eb6831f8709baf46502e2cf634722909e880d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1d0eb6831f8709baf46502e2cf634722909e880d/",
+    "usedAt": 1786652044444,
+    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  },
+  "source:6fb53151ff4c00ca32a29d29ec623cf328cefa05": {
+    "url": "https://ocp.news/economia/weg-vai-construir-fabrica-de-baterias-para-armazenamento-de-energia-em-itajai",
+    "title": "WEG anuncia fábrica de baterias para armazenamento de energia em Itajaí",
+    "guid": "sc1multi:6fb53151ff4c00ca32a29d29ec623cf328cefa05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6fb53151ff4c00ca32a29d29ec623cf328cefa05/",
+    "usedAt": 1786652044444,
+    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  },
   "source:af1b9721d58144ec8ddd62e2f09299825b91101d": {
     "url": "https://tnsul.com/2026/08/13/jovem-aponta-revolver-para-pm-e-morre-apos-confronto-em-sc",
     "title": "Jovem morre após confronto com PM em ação contra tráfico em Xanxerê",
@@ -159,14 +199,6 @@
     "usedAt": 1786644844592,
     "usedAtIso": "2026-08-13T18:14:04.592Z"
   },
-  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
-    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
-    "title": "João Rodrigues lança campanha ao governo em Chapecó",
-    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
-    "usedAt": 1786652044444,
-    "usedAtIso": "2026-08-13T20:14:04.444Z"
-  },
   "source:302c0d9f322eea29c80b02412894b5ce09e3d470": {
     "url": "https://ocp.news/economia/cfo-da-weg-troca-caminho-tradicional-por-ia-e-cria-nova-estrategia-de-capacitacao-na-empresa",
     "title": "CFO da WEG cria programa de capacitação em inteligência artificial na empresa",
@@ -233,11 +265,11 @@
   },
   "source:621806e032c08ad634da1faec4788dd8fb3c85e2": {
     "url": "https://tudoaquisc.com.br/esporte/beatriz-silva-futsal-espanha",
-    "title": "Goleira catarinense Beatriz Silva muda de clube no futsal espanhol",
+    "title": "Goleira catarinense Beatriz Silva muda de clube no futsal espanhol para 2026/27",
     "guid": "sc1multi:01f4ee2479f55022246733c0c475ee98d0554247",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01f4ee2479f55022246733c0c475ee98d0554247/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
+    "usedAt": 1786655644209,
+    "usedAtIso": "2026-08-13T21:14:04.209Z"
   },
   "source:03ae5ba03ded62b4d06aac515f845390526cd0b7": {
     "url": "https://tudoaquisc.com.br/tempo/chuva-intensa-florianopolis-0826",
@@ -287,22 +319,6 @@
     "usedAt": 1786637644480,
     "usedAtIso": "2026-08-13T16:14:04.480Z"
   },
-  "source:5d5187a253949fb377d4911c5b0ace586e787942": {
-    "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
-    "title": "Prefeitura de São José alerta para golpes com falsos boletos e mensagens",
-    "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
-    "usedAt": 1786652044444,
-    "usedAtIso": "2026-08-13T20:14:04.444Z"
-  },
-  "source:b8fa39e4576abfca9a382f22d00931984229bd32": {
-    "url": "https://ocp.news/cotidiano/deu-ruim-trabalhador-e-flagrado-dancando-na-oktoberfest-durante-licenca-medica-e-acaba-demitido-por-justa-causa-em-sc",
-    "title": "Trabalhador é demitido por justa causa após ser flagrado na Oktoberfest em Blumenau",
-    "guid": "sc1multi:b8fa39e4576abfca9a382f22d00931984229bd32",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b8fa39e4576abfca9a382f22d00931984229bd32/",
-    "usedAt": 1786652044444,
-    "usedAtIso": "2026-08-13T20:14:04.444Z"
-  },
   "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
     "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
     "title": "Nacional Handebol vence Osasco e garante semifinal em São José",
@@ -351,44 +367,28 @@
     "usedAt": 1786634044313,
     "usedAtIso": "2026-08-13T15:14:04.313Z"
   },
-  "source:07ec71b4da15df93b617c44d942c433016c04556": {
-    "url": "https://ocp.news/economia/norte-de-sc-reune-cadeia-do-plastico-na-maior-feira-do-setor-no-estado",
-    "title": "Joinville recebe a 13ª Interplast, maior feira do setor plástico em SC",
-    "guid": "sc1multi:07ec71b4da15df93b617c44d942c433016c04556",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07ec71b4da15df93b617c44d942c433016c04556/",
-    "usedAt": 1786630444745,
-    "usedAtIso": "2026-08-13T14:14:04.745Z"
+  "source:cb6c0fe07a73b5c477a1d762c09fd410fe39a04b": {
+    "url": "https://rbatv.com.br/noticias/defesa-civil-de-rio-do-sul-monitora-elevacao-dos-rios-e-convoca-reuniao-tecnica-para-amanha",
+    "title": "Defesa Civil de Rio do Sul convoca reunião por elevação dos rios",
+    "guid": "sc1multi:f3e72209c91fc914d6b7e0968b802b8409a56298",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e72209c91fc914d6b7e0968b802b8409a56298/",
+    "usedAt": 1786655644209,
+    "usedAtIso": "2026-08-13T21:14:04.209Z"
   },
-  "source:cb976aac1badab2eeb8860a73599d0257686f860": {
-    "url": "https://ocp.news/esporte/professor-de-tenis-de-jaragua-do-sul-disputa-maior-torneio-por-equipes-do-mundo",
-    "title": "Professor de tênis de Jaraguá do Sul disputa maior torneio por equipes do mundo",
-    "guid": "sc1multi:cb976aac1badab2eeb8860a73599d0257686f860",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cb976aac1badab2eeb8860a73599d0257686f860/",
-    "usedAt": 1786630444745,
-    "usedAtIso": "2026-08-13T14:14:04.745Z"
+  "source:a7c1087f4d1fc9fec4c63ec2695006f8b78f36b0": {
+    "url": "https://tnsul.com/2026/08/13/azul-conecta-tera-voos-de-forquilhinha-a-florianopolis-pelo-programa-voasc",
+    "title": "Azul Conecta iniciará voos de Florianópolis a Forquilhinha pelo Programa VOA+SC",
+    "guid": "sc1multi:37a8e93e66e585e44139f3107e5942d91f00b064",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37a8e93e66e585e44139f3107e5942d91f00b064/",
+    "usedAt": 1786655644209,
+    "usedAtIso": "2026-08-13T21:14:04.209Z"
   },
-  "source:0a5b0e9e8befa6349c3d53ddae24c7e70c5a576f": {
-    "url": "https://tudoaquisc.com.br/ultimas-noticias/caminhao-nao-sobe-morro-0826",
-    "title": "Caminhão fica preso em morro da Costeira, em Florianópolis, e é resgatado",
-    "guid": "sc1multi:53c59d9155f617fafa21389231d31aca4ea0cf23",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_53c59d9155f617fafa21389231d31aca4ea0cf23/",
-    "usedAt": 1786630444745,
-    "usedAtIso": "2026-08-13T14:14:04.745Z"
-  },
-  "source:3b7004e78a5673f3546fef5c1b51561f9b0f2755": {
-    "url": "https://tnsul.com/2026/08/13/pm-destina-28-bicicletas-apreendidas-a-entidade-beneficente-de-criciuma",
-    "title": "PM de Criciúma doa 28 bicicletas apreendidas para entidade beneficente",
-    "guid": "sc1multi:1d0eb6831f8709baf46502e2cf634722909e880d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1d0eb6831f8709baf46502e2cf634722909e880d/",
-    "usedAt": 1786652044444,
-    "usedAtIso": "2026-08-13T20:14:04.444Z"
-  },
-  "source:6fb53151ff4c00ca32a29d29ec623cf328cefa05": {
-    "url": "https://ocp.news/economia/weg-vai-construir-fabrica-de-baterias-para-armazenamento-de-energia-em-itajai",
-    "title": "WEG anuncia fábrica de baterias para armazenamento de energia em Itajaí",
-    "guid": "sc1multi:6fb53151ff4c00ca32a29d29ec623cf328cefa05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6fb53151ff4c00ca32a29d29ec623cf328cefa05/",
-    "usedAt": 1786652044444,
-    "usedAtIso": "2026-08-13T20:14:04.444Z"
+  "source:b078c63df471de81f4b415a71a2c44d77a218be2": {
+    "url": "https://ocp.news/economia/qualifica-jaragua-forma-turmas-do-1o-semestre-de-2026",
+    "title": "Qualifica Jaraguá forma 104 alunos em oito capacitações no 1º semestre de 2026",
+    "guid": "sc1multi:b078c63df471de81f4b415a71a2c44d77a218be2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b078c63df471de81f4b415a71a2c44d77a218be2/",
+    "usedAt": 1786655644209,
+    "usedAtIso": "2026-08-13T21:14:04.209Z"
   }
 }
