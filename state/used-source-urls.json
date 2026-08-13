@@ -1,4 +1,36 @@
 {
+  "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
+    "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
+    "title": "Trabalhador morre após elevador despencar em obra de Camboriú",
+    "guid": "sc1multi:d2c0242302f5e662b230d483c6281fae3080c1eb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c0242302f5e662b230d483c6281fae3080c1eb/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  },
+  "source:2bb49ddfeacc1a9105d9e3eff25f177d00757f89": {
+    "url": "https://ocp.news/cotidiano/tradicional-feijoada-do-hospital-jaragua-ganha-edicao-especial-em-comemoracao-aos-60-anos",
+    "title": "Hospital Jaraguá realiza feijoada especial pelos 60 anos em Jaraguá do Sul",
+    "guid": "sc1multi:2bb49ddfeacc1a9105d9e3eff25f177d00757f89",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2bb49ddfeacc1a9105d9e3eff25f177d00757f89/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  },
+  "source:2c94004a3d8fae0cb230389a7208d50287f4d029": {
+    "url": "https://ocp.news/seguranca/homem-e-socorrido-apos-acidente-com-guindaste-em-bairro-de-florianopolis",
+    "title": "Homem sofre acidente com guindaste no Campeche, em Florianópolis",
+    "guid": "sc1multi:2c94004a3d8fae0cb230389a7208d50287f4d029",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c94004a3d8fae0cb230389a7208d50287f4d029/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  },
+  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
+    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
+    "title": "Nacional Handebol vence Osasco e avança para semifinal em São José",
+    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
+    "usedAt": 1786587247011,
+    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  },
   "source:68a469eb72babfd7ab61193270dc88e37e4e0d30": {
     "url": "https://rbatv.com.br/noticias/pedro-uczai-apresenta-boa-evolucao-apos-avc-e-recebe-visitas-em-hospital-de-brasilia",
     "title": "Deputado catarinense Pedro Uczai apresenta boa evolução após AVC",
@@ -119,36 +151,36 @@
     "usedAt": 1786569245059,
     "usedAtIso": "2026-08-12T21:14:05.059Z"
   },
-  "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
-    "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
-    "title": "Trabalhador morre após elevador despencar em obra de Camboriú",
-    "guid": "sc1multi:d2c0242302f5e662b230d483c6281fae3080c1eb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c0242302f5e662b230d483c6281fae3080c1eb/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
+    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
+    "title": "João Rodrigues lança campanha para governo em Chapecó",
+    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
   },
-  "source:2bb49ddfeacc1a9105d9e3eff25f177d00757f89": {
-    "url": "https://ocp.news/cotidiano/tradicional-feijoada-do-hospital-jaragua-ganha-edicao-especial-em-comemoracao-aos-60-anos",
-    "title": "Hospital Jaraguá realiza feijoada especial pelos 60 anos em Jaraguá do Sul",
-    "guid": "sc1multi:2bb49ddfeacc1a9105d9e3eff25f177d00757f89",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2bb49ddfeacc1a9105d9e3eff25f177d00757f89/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  "source:dca39a11a645116a4f54b645007293e59f36565f": {
+    "url": "https://ocp.news/politica/joao-rodrigues-escolhe-local-para-o-lancamento-da-sua-campanha",
+    "title": "João Rodrigues anuncia lançamento da campanha em Chapecó",
+    "guid": "sc1multi:dca39a11a645116a4f54b645007293e59f36565f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dca39a11a645116a4f54b645007293e59f36565f/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
   },
-  "source:2c94004a3d8fae0cb230389a7208d50287f4d029": {
-    "url": "https://ocp.news/seguranca/homem-e-socorrido-apos-acidente-com-guindaste-em-bairro-de-florianopolis",
-    "title": "Homem sofre acidente com guindaste no Campeche, em Florianópolis",
-    "guid": "sc1multi:2c94004a3d8fae0cb230389a7208d50287f4d029",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c94004a3d8fae0cb230389a7208d50287f4d029/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  "source:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c": {
+    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-promovem-feijoada-neste-domingo-em-comemoracao-aos-60-anos",
+    "title": "Bombeiros Voluntários de Jaraguá do Sul comemoram 60 anos com feijoada",
+    "guid": "sc1multi:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
   },
-  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
-    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
-    "title": "Nacional Handebol vence Osasco e avança para semifinal em São José",
-    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
+  "source:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f": {
+    "url": "https://ocp.news/seguranca/policia-civil-prende-suspeito-de-feminicidio-em-cidade-de-sc",
+    "title": "Polícia Civil prende suspeito de feminicídio em Sangão, Santa Catarina",
+    "guid": "sc1multi:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f/",
+    "usedAt": 1786590844521,
+    "usedAtIso": "2026-08-13T03:14:04.521Z"
   }
 }
