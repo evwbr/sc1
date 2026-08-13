@@ -1,4 +1,12 @@
 {
+  "source:9be148584328531d73facf1572bb156b3026521e": {
+    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
+    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
+    "usedAt": 1786608844591,
+    "usedAtIso": "2026-08-13T08:14:04.591Z"
+  },
   "source:5fa1d1d2d2f74c560ebbb976de44076870d5aa06": {
     "url": "https://ocp.news/esporte/sete-jaraguaenses-vao-ao-podio-no-campeonato-regional-de-judo",
     "title": "Sete atletas de Jaraguá do Sul conquistam medalhas no Campeonato Regional de Judô",
@@ -87,44 +95,12 @@
     "usedAt": 1786590844521,
     "usedAtIso": "2026-08-13T03:14:04.521Z"
   },
-  "source:f52d62c784bd67ebbcf5b37631dd1dd4fe97ddca": {
-    "url": "https://rbatv.com.br/noticias/trabalhador-morre-apos-elevador-de-obra-despencar-em-sc",
-    "title": "Trabalhador morre após elevador despencar em obra de Camboriú",
-    "guid": "sc1multi:d2c0242302f5e662b230d483c6281fae3080c1eb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d2c0242302f5e662b230d483c6281fae3080c1eb/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
-  },
-  "source:2bb49ddfeacc1a9105d9e3eff25f177d00757f89": {
-    "url": "https://ocp.news/cotidiano/tradicional-feijoada-do-hospital-jaragua-ganha-edicao-especial-em-comemoracao-aos-60-anos",
-    "title": "Hospital Jaraguá realiza feijoada especial pelos 60 anos em Jaraguá do Sul",
-    "guid": "sc1multi:2bb49ddfeacc1a9105d9e3eff25f177d00757f89",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2bb49ddfeacc1a9105d9e3eff25f177d00757f89/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
-  },
-  "source:2c94004a3d8fae0cb230389a7208d50287f4d029": {
-    "url": "https://ocp.news/seguranca/homem-e-socorrido-apos-acidente-com-guindaste-em-bairro-de-florianopolis",
-    "title": "Homem sofre acidente com guindaste no Campeche, em Florianópolis",
-    "guid": "sc1multi:2c94004a3d8fae0cb230389a7208d50287f4d029",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2c94004a3d8fae0cb230389a7208d50287f4d029/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
-  },
-  "source:01a982c2ced64182c2a4e6dec39a6c5709779741": {
-    "url": "https://correiosc.com.br/nacional-handebol-sao-jose-vence-osasco-semifinal-liga-nacional",
-    "title": "Nacional Handebol vence Osasco e avança para semifinal em São José",
-    "guid": "sc1multi:6c934039853675d8ce8237bb46b0945dc7cbdd1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6c934039853675d8ce8237bb46b0945dc7cbdd1e/",
-    "usedAt": 1786587247011,
-    "usedAtIso": "2026-08-13T02:14:07.011Z"
-  },
-  "source:9be148584328531d73facf1572bb156b3026521e": {
-    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
-    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
-    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
-    "usedAt": 1786608844591,
-    "usedAtIso": "2026-08-13T08:14:04.591Z"
+  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
+    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
+    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
+    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
+    "usedAt": 1786612444371,
+    "usedAtIso": "2026-08-13T09:14:04.371Z"
   }
 }
