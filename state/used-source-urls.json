@@ -1,4 +1,20 @@
 {
+  "source:07ec71b4da15df93b617c44d942c433016c04556": {
+    "url": "https://ocp.news/economia/norte-de-sc-reune-cadeia-do-plastico-na-maior-feira-do-setor-no-estado",
+    "title": "Joinville recebe a 13ª Interplast, maior feira do setor plástico em SC",
+    "guid": "sc1multi:07ec71b4da15df93b617c44d942c433016c04556",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07ec71b4da15df93b617c44d942c433016c04556/",
+    "usedAt": 1786616044447,
+    "usedAtIso": "2026-08-13T10:14:04.447Z"
+  },
+  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
+    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
+    "title": "Jaraguá do Sul estuda implantação de sistema binário no bairro João Pessoa",
+    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
+    "usedAt": 1786616044447,
+    "usedAtIso": "2026-08-13T10:14:04.447Z"
+  },
   "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
     "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
     "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
@@ -47,44 +63,60 @@
     "usedAt": 1786598045058,
     "usedAtIso": "2026-08-13T05:14:05.058Z"
   },
-  "source:ace5dade294209b283b5f4efac580b68d9bd13b7": {
-    "url": "https://tnsul.com/2026/08/12/rede-de-protecao-a-vida-retoma-atividades-em-criciuma",
-    "title": "Rede de Proteção à Vida retoma atividades em Criciúma para prevenção ao suicídio",
-    "guid": "sc1multi:409eeb605542e51ec6578f6b93500b1e6ae6e0a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_409eeb605542e51ec6578f6b93500b1e6ae6e0a8/",
-    "usedAt": 1786594444801,
-    "usedAtIso": "2026-08-13T04:14:04.801Z"
+  "source:f74e6afd8456f668115e9cfa5b95029f032db782": {
+    "url": "https://tnsul.com/2026/08/13/elevador-de-predio-em-obras-despenca-e-trabalhador-morre-em-camboriu",
+    "title": "Elevador despenca em obra e trabalhador morre em Camboriú",
+    "guid": "sc1multi:f78c1dba9333795ea8047908ea9695f8f3246e0e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f78c1dba9333795ea8047908ea9695f8f3246e0e/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:425ffe3fa405cca794169b62ade7c25af46abc4c": {
-    "url": "https://ocp.news/esporte/arena-jaragua-e-palco-da-copa-brasil-de-tenis-de-mesa-com-mais-de-500-atletas",
-    "title": "Arena Jaraguá recebe Copa Brasil de Tênis de Mesa com 549 atletas",
-    "guid": "sc1multi:425ffe3fa405cca794169b62ade7c25af46abc4c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_425ffe3fa405cca794169b62ade7c25af46abc4c/",
-    "usedAt": 1786594444801,
-    "usedAtIso": "2026-08-13T04:14:04.801Z"
+  "source:6771ad652995f841cacbf4b3dd5321a4535fc25f": {
+    "url": "https://rbatv.com.br/noticias/mulher-denuncia-ex-companheiro-por-perseguicao-apos-mudar-de-endereco-em-timbo",
+    "title": "Mulher denuncia ex-companheiro por perseguição em Timbó",
+    "guid": "sc1multi:afa3809ee514b33065993b391cfd11d9b2876aa2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_afa3809ee514b33065993b391cfd11d9b2876aa2/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:1450c5d74e558e87cd108c317ed5330c89dcce40": {
-    "url": "https://ocp.news/esporte/sub-17-do-jaragua-futsal-massacra-adversario-na-arena-e-dispara-na-ponta-do-estadual",
-    "title": "Sub-17 do Jaraguá Futsal goleia Fube e lidera Campeonato Catarinense",
-    "guid": "sc1multi:1450c5d74e558e87cd108c317ed5330c89dcce40",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1450c5d74e558e87cd108c317ed5330c89dcce40/",
-    "usedAt": 1786594444801,
-    "usedAtIso": "2026-08-13T04:14:04.801Z"
+  "source:1a8424a1f08feb74664d6830a1585a29b0378db8": {
+    "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-preso-durante-rondas-da-pm-em-rio-do-sul",
+    "title": "Homem com mandado de prisão por roubo é preso em Rio do Sul",
+    "guid": "sc1multi:cbd9685d9924f70cd50acb4658381f1c6f643f21",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cbd9685d9924f70cd50acb4658381f1c6f643f21/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:07ec71b4da15df93b617c44d942c433016c04556": {
-    "url": "https://ocp.news/economia/norte-de-sc-reune-cadeia-do-plastico-na-maior-feira-do-setor-no-estado",
-    "title": "Joinville recebe a 13ª Interplast, maior feira do setor plástico em SC",
-    "guid": "sc1multi:07ec71b4da15df93b617c44d942c433016c04556",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07ec71b4da15df93b617c44d942c433016c04556/",
-    "usedAt": 1786616044447,
-    "usedAtIso": "2026-08-13T10:14:04.447Z"
+  "source:d65bf9420eac212342cf71eca49d43948e0c19c1": {
+    "url": "https://tnsul.com/2026/08/13/carro-capota-apos-motorista-perder-o-controle-em-curva-em-laguna",
+    "title": "Carro capota em curva no bairro Praia do Gi, em Laguna",
+    "guid": "sc1multi:6f40692e57891fe6ed61041db266674c8a8c1158",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6f40692e57891fe6ed61041db266674c8a8c1158/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
   },
-  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
-    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
-    "title": "Jaraguá do Sul estuda implantação de sistema binário no bairro João Pessoa",
-    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
-    "usedAt": 1786616044447,
-    "usedAtIso": "2026-08-13T10:14:04.447Z"
+  "source:7da70fd7651a8e7e1835fb743eeea58224d433d5": {
+    "url": "https://rbatv.com.br/noticias/motociclista-fica-ferido-em-colisao-entre-carro-e-moto-proximo-ao-portal-de-presidente-getulio",
+    "title": "Motociclista fica ferido em colisão próximo ao Portal de Presidente Getúlio",
+    "guid": "sc1multi:3cab1a186f3d7c7e60944956f9b0c6108c4a2886",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3cab1a186f3d7c7e60944956f9b0c6108c4a2886/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
+  },
+  "source:c6c93b74acf2a2aacf77b33e1afe4e610e6342ab": {
+    "url": "https://rbatv.com.br/noticias/produtos-furtados-em-dois-estabelecimentos-sao-recuperados-e-suspeitos-acabam-presos-em-flagrante",
+    "title": "Suspeitos são presos em flagrante após furtos em dois estabelecimentos no Centro de Rio do Sul",
+    "guid": "sc1multi:cab5b4dbffeaf551cf91b506164af4dacc5aa2e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cab5b4dbffeaf551cf91b506164af4dacc5aa2e8/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
+  },
+  "source:a0df4565ba328fb084b71c2e14a126cdacbf99fd": {
+    "url": "https://ocp.news/cotidiano/defesa-civil-de-florianopolis-emite-alerta-laranja-para-chuva-intensa-entre-quinta-e-sabado",
+    "title": "Defesa Civil de Florianópolis emite alerta laranja para temporais entre quinta e sábado",
+    "guid": "sc1multi:a0df4565ba328fb084b71c2e14a126cdacbf99fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a0df4565ba328fb084b71c2e14a126cdacbf99fd/",
+    "usedAt": 1786619644583,
+    "usedAtIso": "2026-08-13T11:14:04.583Z"
   }
 }
