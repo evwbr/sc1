@@ -1,4 +1,20 @@
 {
+  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
+    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
+    "title": "João Rodrigues lança campanha para governo em Chapecó",
+    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
+    "usedAt": 1786659244774,
+    "usedAtIso": "2026-08-13T22:14:04.774Z"
+  },
+  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
+    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
+    "title": "Santa Catarina enfrenta alerta laranja para chuvas intensas e temporais",
+    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
+    "usedAt": 1786659244774,
+    "usedAtIso": "2026-08-13T22:14:04.774Z"
+  },
   "source:621806e032c08ad634da1faec4788dd8fb3c85e2": {
     "url": "https://tudoaquisc.com.br/esporte/beatriz-silva-futsal-espanha",
     "title": "Goleira catarinense Beatriz Silva muda de clube no futsal espanhol para 2026/27",
@@ -183,14 +199,6 @@
     "usedAt": 1786644844592,
     "usedAtIso": "2026-08-13T18:14:04.592Z"
   },
-  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
-    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
-    "title": "João Rodrigues lança campanha para governo em Chapecó",
-    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
-    "usedAt": 1786659244774,
-    "usedAtIso": "2026-08-13T22:14:04.774Z"
-  },
   "source:1db7088855b1d89521214eb2aaf109f2470b2faf": {
     "url": "https://rbatv.com.br/noticias/homem-fica-gravemente-ferido-apos-caminhonete-capotar-de-ponte-em-witmarsum",
     "title": "Homem fica gravemente ferido após caminhonete capotar em ponte de Witmarsum",
@@ -231,68 +239,12 @@
     "usedAt": 1786644844592,
     "usedAtIso": "2026-08-13T18:14:04.592Z"
   },
-  "source:302c0d9f322eea29c80b02412894b5ce09e3d470": {
-    "url": "https://ocp.news/economia/cfo-da-weg-troca-caminho-tradicional-por-ia-e-cria-nova-estrategia-de-capacitacao-na-empresa",
-    "title": "CFO da WEG cria programa de capacitação em inteligência artificial na empresa",
-    "guid": "sc1multi:302c0d9f322eea29c80b02412894b5ce09e3d470",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_302c0d9f322eea29c80b02412894b5ce09e3d470/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:98a98c4d288355c49e7742877099e6a7727d3470": {
-    "url": "https://ocp.news/seguranca/mulher-morre-apos-possivel-descarga-eletrica-dentro-de-residencia-em-chapeco",
-    "title": "Mulher morre após possível descarga elétrica em residência de Chapecó",
-    "guid": "sc1multi:98a98c4d288355c49e7742877099e6a7727d3470",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98a98c4d288355c49e7742877099e6a7727d3470/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:8f348b0dfb3727b27cce33422f14f18edd7e7bb4": {
-    "url": "https://rbatv.com.br/noticias/colisao-entre-dois-veiculos-deixa-uma-pessoa-morta-na-br-282-em-santo-amaro-da-imperatriz",
-    "title": "Colisão na BR-282 em Santo Amaro da Imperatriz deixa uma pessoa morta",
-    "guid": "sc1multi:0b63a1cd4e0ccfd3caea8ca1000e5c2b1ef7f37e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0b63a1cd4e0ccfd3caea8ca1000e5c2b1ef7f37e/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:a5d8a61707276321ca0e96ba7da3289a1ebd7841": {
-    "url": "https://ocp.news/seguranca/tres-pessoas-sao-presas-em-operacao-contra-o-trafico-de-drogas-na-grande-florianopolis",
-    "title": "Três pessoas são presas em operação contra tráfico na Grande Florianópolis",
-    "guid": "sc1multi:a5d8a61707276321ca0e96ba7da3289a1ebd7841",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a5d8a61707276321ca0e96ba7da3289a1ebd7841/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:13f6b6be12f7b231b7750a6a165b1c7d099852e5": {
-    "url": "https://ocp.news/seguranca/ciclista-sob-efeito-de-drogas-colide-contra-viatura-durante-fuga-em-jaragua-do-sul",
-    "title": "Ciclista colide contra viatura durante fuga em Jaraguá do Sul",
-    "guid": "sc1multi:13f6b6be12f7b231b7750a6a165b1c7d099852e5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_13f6b6be12f7b231b7750a6a165b1c7d099852e5/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:f72b8d734115839fb08706bf8cef04c5282d847b": {
-    "url": "https://ocp.news/seguranca/operacao-complexa-dos-bombeiros-resgata-caminhao-em-morro-de-florianopolis",
-    "title": "Bombeiros resgatam caminhão instável em morro de Florianópolis",
-    "guid": "sc1multi:f72b8d734115839fb08706bf8cef04c5282d847b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f72b8d734115839fb08706bf8cef04c5282d847b/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:0ed935fc8cd69a76873942f4699856aff82dc518": {
-    "url": "https://rbatv.com.br/noticias/rio-itajai-acu-pode-chegar-a-95-metros-em-rio-do-sul-apos-previsao-de-chuva-intensa",
-    "title": "Rio Itajaí-Açu pode atingir 9,5 metros em Rio do Sul com chuvas intensas",
-    "guid": "sc1multi:bea09c698c763cae0d8204ff698cbcd09ec9e9ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bea09c698c763cae0d8204ff698cbcd09ec9e9ef/",
-    "usedAt": 1786641244446,
-    "usedAtIso": "2026-08-13T17:14:04.446Z"
-  },
-  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
-    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
-    "title": "Santa Catarina enfrenta alerta laranja para chuvas intensas e temporais",
-    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
-    "usedAt": 1786659244774,
-    "usedAtIso": "2026-08-13T22:14:04.774Z"
+  "source:8ea22540ee2b74fc942927961fe9aeff9d86b54a": {
+    "url": "https://tnsul.com/2026/08/13/forca-tarefa-une-municipios-na-limpeza-dos-rios-para-prevenir-alagamentos",
+    "title": "Municípios de Içara e Jaguaruna fazem limpeza preventiva no Rio Urussanga",
+    "guid": "sc1multi:a17668ae81736d2bef36bc55f0b1f89ea5da623c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a17668ae81736d2bef36bc55f0b1f89ea5da623c/",
+    "usedAt": 1786662845719,
+    "usedAtIso": "2026-08-13T23:14:05.719Z"
   }
 }
