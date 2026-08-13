@@ -1,4 +1,12 @@
 {
+  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
+    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
+    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
+    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
+    "usedAt": 1786612444371,
+    "usedAtIso": "2026-08-13T09:14:04.371Z"
+  },
   "source:9be148584328531d73facf1572bb156b3026521e": {
     "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
     "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
@@ -63,44 +71,20 @@
     "usedAt": 1786594444801,
     "usedAtIso": "2026-08-13T04:14:04.801Z"
   },
-  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
-    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
-    "title": "João Rodrigues lança campanha para governo em Chapecó",
-    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
+  "source:07ec71b4da15df93b617c44d942c433016c04556": {
+    "url": "https://ocp.news/economia/norte-de-sc-reune-cadeia-do-plastico-na-maior-feira-do-setor-no-estado",
+    "title": "Joinville recebe a 13ª Interplast, maior feira do setor plástico em SC",
+    "guid": "sc1multi:07ec71b4da15df93b617c44d942c433016c04556",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_07ec71b4da15df93b617c44d942c433016c04556/",
+    "usedAt": 1786616044447,
+    "usedAtIso": "2026-08-13T10:14:04.447Z"
   },
-  "source:dca39a11a645116a4f54b645007293e59f36565f": {
-    "url": "https://ocp.news/politica/joao-rodrigues-escolhe-local-para-o-lancamento-da-sua-campanha",
-    "title": "João Rodrigues anuncia lançamento da campanha em Chapecó",
-    "guid": "sc1multi:dca39a11a645116a4f54b645007293e59f36565f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dca39a11a645116a4f54b645007293e59f36565f/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c": {
-    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-promovem-feijoada-neste-domingo-em-comemoracao-aos-60-anos",
-    "title": "Bombeiros Voluntários de Jaraguá do Sul comemoram 60 anos com feijoada",
-    "guid": "sc1multi:40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_40e3c7d84ee3bcf8057d1f6a6c75b9dd7b2d859c/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f": {
-    "url": "https://ocp.news/seguranca/policia-civil-prende-suspeito-de-feminicidio-em-cidade-de-sc",
-    "title": "Polícia Civil prende suspeito de feminicídio em Sangão, Santa Catarina",
-    "guid": "sc1multi:3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3b59d8ab87f865e61ad4b3fdf3b66497a4ddf40f/",
-    "usedAt": 1786590844521,
-    "usedAtIso": "2026-08-13T03:14:04.521Z"
-  },
-  "source:62f41ea28661c7bb677c42eb6d9c61e976bc3618": {
-    "url": "https://tudoaquisc.com.br/educacao/ufsc-ifc-inscricoes-vestibular-2026",
-    "title": "UFSC e IFC abrem inscrições para vestibular com vagas em Santa Catarina",
-    "guid": "sc1multi:15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15b3e6b7d5ada4a4a00c076e2bee0f5802d651e8/",
-    "usedAt": 1786612444371,
-    "usedAtIso": "2026-08-13T09:14:04.371Z"
+  "source:94ce4369adba9a3a4d183db5fa33d34b06fa84b7": {
+    "url": "https://ocp.news/seguranca/camara-aprova-pedido-de-estudos-para-possivel-sistema-binario-no-bairro-joao-pessoa",
+    "title": "Jaraguá do Sul estuda implantação de sistema binário no bairro João Pessoa",
+    "guid": "sc1multi:94ce4369adba9a3a4d183db5fa33d34b06fa84b7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_94ce4369adba9a3a4d183db5fa33d34b06fa84b7/",
+    "usedAt": 1786616044447,
+    "usedAtIso": "2026-08-13T10:14:04.447Z"
   }
 }
