@@ -1,4 +1,20 @@
 {
+  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
+    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
+    "title": "Alerta laranja para temporais e chuva intensa em Santa Catarina",
+    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
+    "usedAt": 1786695244935,
+    "usedAtIso": "2026-08-14T08:14:04.935Z"
+  },
+  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
+    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
+    "title": "João Rodrigues lança campanha para governo em Chapecó",
+    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
+    "usedAt": 1786695244935,
+    "usedAtIso": "2026-08-14T08:14:04.935Z"
+  },
   "source:cb6c0fe07a73b5c477a1d762c09fd410fe39a04b": {
     "url": "https://rbatv.com.br/noticias/defesa-civil-de-rio-do-sul-monitora-elevacao-dos-rios-e-convoca-reuniao-tecnica-para-amanha",
     "title": "Defesa Civil de Rio do Sul convoca reunião por elevação dos rios",
@@ -119,36 +135,28 @@
     "usedAt": 1786677251213,
     "usedAtIso": "2026-08-14T03:14:11.213Z"
   },
-  "source:e03e30d7c30ceafa3591dc790336b4881c084eae": {
-    "url": "https://tnsul.com/2026/08/13/criciuma-fica-em-quarto-no-basquete",
-    "title": "Criciúma termina em quarto no Campeonato Brasileiro Sub-17 Feminino",
-    "guid": "sc1multi:fa7ec18e4e3ecd23a96246b39c5c2a09e4e70d65",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fa7ec18e4e3ecd23a96246b39c5c2a09e4e70d65/",
-    "usedAt": 1786673645273,
-    "usedAtIso": "2026-08-14T02:14:05.273Z"
+  "source:8ea22540ee2b74fc942927961fe9aeff9d86b54a": {
+    "url": "https://tnsul.com/2026/08/13/forca-tarefa-une-municipios-na-limpeza-dos-rios-para-prevenir-alagamentos",
+    "title": "Municípios de Içara e Jaguaruna fazem limpeza preventiva no Rio Urussanga",
+    "guid": "sc1multi:a17668ae81736d2bef36bc55f0b1f89ea5da623c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a17668ae81736d2bef36bc55f0b1f89ea5da623c/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
   },
-  "source:6bf9af5ed5b35015e83c93d21a681749d6bbe557": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/golpe-boletos-sao-jose-0826",
-    "title": "Golpistas usam falsos boletos em nome da Prefeitura de São José",
-    "guid": "sc1multi:f6f3791da223602b59500d768c9b0ba2599d8649",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6f3791da223602b59500d768c9b0ba2599d8649/",
-    "usedAt": 1786673645273,
-    "usedAtIso": "2026-08-14T02:14:05.273Z"
+  "source:087454ba98c486e18a7db06febceff6334cae49a": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/reservatorio-casan-130826",
+    "title": "Casan interrompe abastecimento para limpeza de reservatórios em Florianópolis",
+    "guid": "sc1multi:165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
   },
-  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
-    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
-    "title": "Alerta laranja para temporais e chuva intensa em Santa Catarina",
-    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
-    "usedAt": 1786695244935,
-    "usedAtIso": "2026-08-14T08:14:04.935Z"
-  },
-  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
-    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
-    "title": "João Rodrigues lança campanha para governo em Chapecó",
-    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
-    "usedAt": 1786695244935,
-    "usedAtIso": "2026-08-14T08:14:04.935Z"
+  "source:9be148584328531d73facf1572bb156b3026521e": {
+    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
+    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
   }
 }
