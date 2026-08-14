@@ -1,4 +1,36 @@
 {
+  "source:7e34bb7b22eb9f99f510789440cc734f63b99726": {
+    "url": "https://ocp.news/seguranca/carga-com-964-ampolas-de-tirzepatida-e-descoberta-durante-fiscalizacao-em-sc",
+    "title": "Polícia Militar apreende 964 ampolas de tirzepatida em Painel, SC",
+    "guid": "sc1multi:7e34bb7b22eb9f99f510789440cc734f63b99726",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e34bb7b22eb9f99f510789440cc734f63b99726/",
+    "usedAt": 1786666444444,
+    "usedAtIso": "2026-08-14T00:14:04.444Z"
+  },
+  "source:ad483bac8218686a08aca3e9f0128fbbd1612c84": {
+    "url": "https://ocp.news/seguranca/justica-determina-retirada-de-familias-da-area-de-seguranca-em-barragem-de-sc",
+    "title": "Justiça determina retirada de famílias da área de segurança em barragem de Santa Catarina",
+    "guid": "sc1multi:ad483bac8218686a08aca3e9f0128fbbd1612c84",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad483bac8218686a08aca3e9f0128fbbd1612c84/",
+    "usedAt": 1786666444444,
+    "usedAtIso": "2026-08-14T00:14:04.444Z"
+  },
+  "source:9a5d8eb97cd81150270aa085f9db0455ded7fbd2": {
+    "url": "https://ocp.news/seguranca/municipio-de-sc-e-condenado-a-pagar-pensao-vitalicia-apos-mulher-cair-em-via-publica",
+    "title": "Município de São Francisco do Sul é condenado a pagar pensão vitalícia",
+    "guid": "sc1multi:9a5d8eb97cd81150270aa085f9db0455ded7fbd2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9a5d8eb97cd81150270aa085f9db0455ded7fbd2/",
+    "usedAt": 1786666444444,
+    "usedAtIso": "2026-08-14T00:14:04.444Z"
+  },
+  "source:087454ba98c486e18a7db06febceff6334cae49a": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/reservatorio-casan-130826",
+    "title": "Casan interrompe abastecimento para limpeza de reservatórios em Florianópolis",
+    "guid": "sc1multi:165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc/",
+    "usedAt": 1786666444444,
+    "usedAtIso": "2026-08-14T00:14:04.444Z"
+  },
   "source:8ea22540ee2b74fc942927961fe9aeff9d86b54a": {
     "url": "https://tnsul.com/2026/08/13/forca-tarefa-une-municipios-na-limpeza-dos-rios-para-prevenir-alagamentos",
     "title": "Municípios de Içara e Jaguaruna fazem limpeza preventiva no Rio Urussanga",
@@ -175,108 +207,44 @@
     "usedAt": 1786648444210,
     "usedAtIso": "2026-08-13T19:14:04.210Z"
   },
-  "source:3edc5a6ffb719ae7915c011bdd54a5e1fac43e3f": {
-    "url": "https://tudoaquisc.com.br/esporte/skate-florianopolis-2026",
-    "title": "Florianópolis recebe etapa do Circuito Brasileiro de Skate Pro 2026",
-    "guid": "sc1multi:d40f9e6762296d4c35d135dc416aefb9017825c1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d40f9e6762296d4c35d135dc416aefb9017825c1/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
-  },
-  "source:9ca01ddbb78755f280dbe1265ec933aa29bd5690": {
-    "url": "https://tnsul.com/2026/08/13/homem-morre-e-mulher-fica-ferida-apos-colisao-entre-dois-carros-na-br-282",
-    "title": "Homem morre e mulher fica ferida em colisão na BR-282 em Santo Amaro da Imperatriz",
-    "guid": "sc1multi:f6aaeb8c003142147f51579bc1c4a1b9ba072d2a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f6aaeb8c003142147f51579bc1c4a1b9ba072d2a/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
-  },
-  "source:c90d0653ee67a380414fdeb13749812473c9f7f7": {
-    "url": "https://ocp.news/seguranca/estudante-encontrada-morta-em-sc-namorado-teria-escondido-corpo-por-dias-dentro-de-quarto-trancado",
-    "title": "Estudante é encontrada morta em Sangão; namorado confessa agressão",
-    "guid": "sc1multi:c90d0653ee67a380414fdeb13749812473c9f7f7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c90d0653ee67a380414fdeb13749812473c9f7f7/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
-  },
-  "source:0f4c88762f201dd1451b5cab44da3c1670eb33fb": {
-    "url": "https://ocp.news/seguranca/bebe-de-45-dias-morre-apos-atendimento-em-hospital-de-sc-caso-e-apurado",
-    "title": "Bebê de 45 dias morre após atendimento em hospital de Camboriú",
-    "guid": "sc1multi:0f4c88762f201dd1451b5cab44da3c1670eb33fb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f4c88762f201dd1451b5cab44da3c1670eb33fb/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
-  },
-  "source:1db7088855b1d89521214eb2aaf109f2470b2faf": {
-    "url": "https://rbatv.com.br/noticias/homem-fica-gravemente-ferido-apos-caminhonete-capotar-de-ponte-em-witmarsum",
-    "title": "Homem fica gravemente ferido após caminhonete capotar em ponte de Witmarsum",
-    "guid": "sc1multi:6eebec1cc5637bf7671f8244fb761e506ce35131",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eebec1cc5637bf7671f8244fb761e506ce35131/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
+  "source:90cefec21ad2bdd472aff9614fc155f74d6c10ce": {
+    "url": "https://tnsul.com/2026/08/13/onibus-escolar-atola-no-acesso-a-escola-de-jaguaruna",
+    "title": "Ônibus escolar atola em acesso sem pavimentação em Jaguaruna",
+    "guid": "sc1multi:32ea7e77e324f1db3cd26dd64d5b1c1371e5593e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32ea7e77e324f1db3cd26dd64d5b1c1371e5593e/",
+    "usedAt": 1786670044208,
+    "usedAtIso": "2026-08-14T01:14:04.208Z"
   },
   "source:ff59285985415dcc8952c7862761c4b8f2754677": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-inicia-campanha-no-parajasc-2026-nesta-sexta-feira",
-    "title": "Jaraguá do Sul participa do 19º Parajasc em Chapecó",
+    "title": "Jaraguá do Sul inicia participação no 19º Parajasc em Chapecó",
     "guid": "sc1multi:ff59285985415dcc8952c7862761c4b8f2754677",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff59285985415dcc8952c7862761c4b8f2754677/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
+    "usedAt": 1786670044208,
+    "usedAtIso": "2026-08-14T01:14:04.208Z"
   },
   "source:ef1f1ad6808b6c00fa12c4800709a37ed00b0949": {
     "url": "https://correiosc.com.br/sao-jose-interdita-tres-estabelecimentos-funerarios-e-abre-credenciamento-para-novas-empresas",
-    "title": "São José interdita três funerárias por descumprimento de normas municipais",
+    "title": "São José interdita três estabelecimentos funerários por irregularidades",
     "guid": "sc1multi:aa2a8409563e08a0229b6474e316756bef9d86c5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aa2a8409563e08a0229b6474e316756bef9d86c5/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
+    "usedAt": 1786670044208,
+    "usedAtIso": "2026-08-14T01:14:04.208Z"
   },
   "source:cfe4b2b3be7edcd2092754624a7b7f34e6ce8406": {
     "url": "https://ocp.news/cotidiano/el-nino-se-intensifica-e-defesa-civil-mantem-monitoramento-saiba-o-que-pode-acontecer-em-sc",
     "title": "Defesa Civil de SC monitora intensificação do El Niño e seus impactos",
     "guid": "sc1multi:cfe4b2b3be7edcd2092754624a7b7f34e6ce8406",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cfe4b2b3be7edcd2092754624a7b7f34e6ce8406/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
+    "usedAt": 1786670044208,
+    "usedAtIso": "2026-08-14T01:14:04.208Z"
   },
   "source:a6817d742e640313222150172917f8b1a1d8fadf": {
     "url": "https://ocp.news/entretenimento/largo-da-catedral-recebe-13-edicao-da-orquestra-de-baterias-em-florianopolis",
-    "title": "Largo da Catedral recebe 13ª Orquestra de Baterias em Florianópolis",
+    "title": "Largo da Catedral recebe 13ª edição da Orquestra de Baterias em Florianópolis",
     "guid": "sc1multi:a6817d742e640313222150172917f8b1a1d8fadf",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6817d742e640313222150172917f8b1a1d8fadf/",
-    "usedAt": 1786644844592,
-    "usedAtIso": "2026-08-13T18:14:04.592Z"
-  },
-  "source:7e34bb7b22eb9f99f510789440cc734f63b99726": {
-    "url": "https://ocp.news/seguranca/carga-com-964-ampolas-de-tirzepatida-e-descoberta-durante-fiscalizacao-em-sc",
-    "title": "Polícia Militar apreende 964 ampolas de tirzepatida em Painel, SC",
-    "guid": "sc1multi:7e34bb7b22eb9f99f510789440cc734f63b99726",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e34bb7b22eb9f99f510789440cc734f63b99726/",
-    "usedAt": 1786666444444,
-    "usedAtIso": "2026-08-14T00:14:04.444Z"
-  },
-  "source:ad483bac8218686a08aca3e9f0128fbbd1612c84": {
-    "url": "https://ocp.news/seguranca/justica-determina-retirada-de-familias-da-area-de-seguranca-em-barragem-de-sc",
-    "title": "Justiça determina retirada de famílias da área de segurança em barragem de Santa Catarina",
-    "guid": "sc1multi:ad483bac8218686a08aca3e9f0128fbbd1612c84",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad483bac8218686a08aca3e9f0128fbbd1612c84/",
-    "usedAt": 1786666444444,
-    "usedAtIso": "2026-08-14T00:14:04.444Z"
-  },
-  "source:9a5d8eb97cd81150270aa085f9db0455ded7fbd2": {
-    "url": "https://ocp.news/seguranca/municipio-de-sc-e-condenado-a-pagar-pensao-vitalicia-apos-mulher-cair-em-via-publica",
-    "title": "Município de São Francisco do Sul é condenado a pagar pensão vitalícia",
-    "guid": "sc1multi:9a5d8eb97cd81150270aa085f9db0455ded7fbd2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9a5d8eb97cd81150270aa085f9db0455ded7fbd2/",
-    "usedAt": 1786666444444,
-    "usedAtIso": "2026-08-14T00:14:04.444Z"
-  },
-  "source:087454ba98c486e18a7db06febceff6334cae49a": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/reservatorio-casan-130826",
-    "title": "Casan interrompe abastecimento para limpeza de reservatórios em Florianópolis",
-    "guid": "sc1multi:165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc/",
-    "usedAt": 1786666444444,
-    "usedAtIso": "2026-08-14T00:14:04.444Z"
+    "usedAt": 1786670044208,
+    "usedAtIso": "2026-08-14T01:14:04.208Z"
   }
 }
