@@ -1,4 +1,28 @@
 {
+  "source:8ea22540ee2b74fc942927961fe9aeff9d86b54a": {
+    "url": "https://tnsul.com/2026/08/13/forca-tarefa-une-municipios-na-limpeza-dos-rios-para-prevenir-alagamentos",
+    "title": "Municípios de Içara e Jaguaruna fazem limpeza preventiva no Rio Urussanga",
+    "guid": "sc1multi:a17668ae81736d2bef36bc55f0b1f89ea5da623c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a17668ae81736d2bef36bc55f0b1f89ea5da623c/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
+  },
+  "source:087454ba98c486e18a7db06febceff6334cae49a": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/reservatorio-casan-130826",
+    "title": "Casan interrompe abastecimento para limpeza de reservatórios em Florianópolis",
+    "guid": "sc1multi:165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
+  },
+  "source:9be148584328531d73facf1572bb156b3026521e": {
+    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
+    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
+    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
+    "usedAt": 1786698844865,
+    "usedAtIso": "2026-08-14T09:14:04.865Z"
+  },
   "source:c72641f553b99fb1180f5130648843be26c75fb9": {
     "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
     "title": "Alerta laranja para temporais e chuva intensa em Santa Catarina",
@@ -47,116 +71,84 @@
     "usedAt": 1786688044382,
     "usedAtIso": "2026-08-14T06:14:04.382Z"
   },
-  "source:813521980444f641276c3010aee7f56b57bc572a": {
-    "url": "https://scportais.com.br/2026/08/14/pelo-estado-14-08-nova-politica-de-cotas-da-udesc",
-    "title": "Udesc aprova nova política de cotas com 50% das vagas reservadas",
-    "guid": "sc1multi:4b700d4513a03927a828a7b08efef0e1931f9472",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b700d4513a03927a828a7b08efef0e1931f9472/",
-    "usedAt": 1786684444382,
-    "usedAtIso": "2026-08-14T05:14:04.382Z"
+  "source:03346bd75042e04d895ece53438b4e91e1b82686": {
+    "url": "https://tnsul.com/2026/08/14/incendio-atinge-galpao-abandonado-e-mobiliza-bombeiros-em-criciuma",
+    "title": "Incêndio atinge galpão abandonado no bairro Pinheirinho em Criciúma",
+    "guid": "sc1multi:d7b42a4fc9cee0e4121da9435e5c88b3a5652109",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7b42a4fc9cee0e4121da9435e5c88b3a5652109/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:6fb53151ff4c00ca32a29d29ec623cf328cefa05": {
-    "url": "https://ocp.news/economia/weg-vai-construir-fabrica-de-baterias-para-armazenamento-de-energia-em-itajai",
-    "title": "WEG anuncia fábrica de baterias para energia em Itajaí",
-    "guid": "sc1multi:6fb53151ff4c00ca32a29d29ec623cf328cefa05",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6fb53151ff4c00ca32a29d29ec623cf328cefa05/",
-    "usedAt": 1786684444382,
-    "usedAtIso": "2026-08-14T05:14:04.382Z"
+  "source:61d65793a140ef3d8549aaf9eae42bccfa196747": {
+    "url": "https://rbatv.com.br/noticias/homem-tem-veiculo-levado-apos-ser-ameacado-durante-cobranca-de-suposta-divida-em-indaial",
+    "title": "Homem tem veículo roubado após ameaça em cobrança de dívida em Indaial",
+    "guid": "sc1multi:985e6375fa7251fea72949b3e899b5b14761a00c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_985e6375fa7251fea72949b3e899b5b14761a00c/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
-    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
-    "title": "João Rodrigues lança campanha ao governo em Chapecó",
-    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
-    "usedAt": 1786684444382,
-    "usedAtIso": "2026-08-14T05:14:04.382Z"
+  "source:74865238cf4ee15e636c3908f042fd21174c6120": {
+    "url": "https://tnsul.com/2026/08/14/incendio-destroi-cada-e-deixa-duas-pessoas-com-queimaduras-em-chapeco",
+    "title": "Incêndio destrói casa e deixa duas pessoas feridas em Chapecó",
+    "guid": "sc1multi:1f2f9c2028b2a2e0efcddfbd65b90836af9fbe3a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1f2f9c2028b2a2e0efcddfbd65b90836af9fbe3a/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:49bc7ba55b721240a398df4f875b861c630c5a34": {
-    "url": "https://ocp.news/seguranca/reuniao-em-jaragua-do-sul-debate-prevencao-a-eventos-climaticos-extremos",
-    "title": "Jaraguá do Sul promove reunião sobre prevenção a desastres climáticos",
-    "guid": "sc1multi:49bc7ba55b721240a398df4f875b861c630c5a34",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49bc7ba55b721240a398df4f875b861c630c5a34/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  "source:6719cdf4f3c3196d0dd0b7c99305e198163f2b5f": {
+    "url": "https://rbatv.com.br/noticias/homem-procurado-por-furto-em-sao-paulo-e-preso-ao-chegar-de-onibus-em-rio-do-sul",
+    "title": "Homem procurado por furto em São Paulo é preso em Rio do Sul",
+    "guid": "sc1multi:bdcc9f3640331f29470f9d11eae8c55aa8571584",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdcc9f3640331f29470f9d11eae8c55aa8571584/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:121d3dc739769a87c04d21cb53631a0b05acc952": {
-    "url": "https://correiosc.com.br/florianopolis-recebe-13-edicao-da-orquestra-de-baterias-neste-domingo",
-    "title": "Florianópolis recebe 13ª edição da Orquestra de Baterias neste domingo",
-    "guid": "sc1multi:b3716ae28aefaa7fb8f101e02a18a44555896bb1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3716ae28aefaa7fb8f101e02a18a44555896bb1/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  "source:c9e9e4488b837295aabe140a016b4d5b2352a7cc": {
+    "url": "https://rbatv.com.br/noticias/dupla-e-presa-com-15-kg-de-maconha-na-br-470-em-ibirama",
+    "title": "Dupla é presa com 15 kg de maconha na BR-470 em Ibirama",
+    "guid": "sc1multi:8f7d0d3f0440e0d9e5f600d9bcebfc05a4a6de57",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f7d0d3f0440e0d9e5f600d9bcebfc05a4a6de57/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:5d5187a253949fb377d4911c5b0ace586e787942": {
-    "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
-    "title": "Prefeitura de São José alerta sobre golpes com falsos boletos municipais",
-    "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  "source:1b2d5fa6b0ced760979fb21aa4a7e071b93e989f": {
+    "url": "https://rbatv.com.br/noticias/mulher-condenada-a-14-anos-por-trafico-e-presa-pela-pm-em-indaial",
+    "title": "Mulher condenada por tráfico é presa em Indaial pela Polícia Militar",
+    "guid": "sc1multi:4cef3b1e54f852b2d1e2634e619100189c274e02",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4cef3b1e54f852b2d1e2634e619100189c274e02/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:4127b463009626ed49164ed88ebb3bddb0e64fb4": {
-    "url": "https://rbatv.com.br/noticias/chuva-intensa-provoca-alagamentos-granizo-e-deslizamento-no-sul-de-sc",
-    "title": "Chuva intensa causa alagamentos, granizo e deslizamentos no Sul de Santa Catarina",
-    "guid": "sc1multi:4222b539f90e235fae3dc2f4845cd02dcc8f9cc0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4222b539f90e235fae3dc2f4845cd02dcc8f9cc0/",
-    "usedAt": 1786677251213,
-    "usedAtIso": "2026-08-14T03:14:11.213Z"
+  "source:fc76e74ca247111a4f7a89762c96e3482405fac6": {
+    "url": "https://ocp.news/economia/governo-do-estado-assina-ordem-de-servico-do-programa-voasc",
+    "title": "Governo de SC inicia Programa VOA+SC para voos regionais",
+    "guid": "sc1multi:fc76e74ca247111a4f7a89762c96e3482405fac6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc76e74ca247111a4f7a89762c96e3482405fac6/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:73a1d3cd0a74c8dc8c7a951959c15ad1905579b2": {
-    "url": "https://rbatv.com.br/noticias/homem-de-65-anos-e-preso-por-falsificacao-de-documento-publico-em-rio-do-sul",
-    "title": "Homem de 65 anos é preso por falsificação de documento público em Rio do Sul",
-    "guid": "sc1multi:c754ce9911b018487786d507925211daa03b2ddd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c754ce9911b018487786d507925211daa03b2ddd/",
-    "usedAt": 1786677251213,
-    "usedAtIso": "2026-08-14T03:14:11.213Z"
+  "source:d7c1a05b95178a2743896d30435e195fe1860719": {
+    "url": "https://ocp.news/cotidiano/sexta-feira-14-tera-maxima-de-apenas-18c-na-regiao",
+    "title": "Sexta-feira terá máxima de 18°C com risco de temporais em Santa Catarina",
+    "guid": "sc1multi:d7c1a05b95178a2743896d30435e195fe1860719",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7c1a05b95178a2743896d30435e195fe1860719/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:7ba3e2dd427078f463f0e8572593fdbf2b2e62be": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/1000-ampolas-mounjaro-jeep",
-    "title": "Quase 1.000 ampolas de Mounjaro são apreendidas em Jeep em Painel, SC",
-    "guid": "sc1multi:5fa2257753e217ca068f01863a31d270fe217ca4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fa2257753e217ca068f01863a31d270fe217ca4/",
-    "usedAt": 1786677251213,
-    "usedAtIso": "2026-08-14T03:14:11.213Z"
+  "source:7e34bb7b22eb9f99f510789440cc734f63b99726": {
+    "url": "https://ocp.news/seguranca/carga-com-964-ampolas-de-tirzepatida-e-descoberta-durante-fiscalizacao-em-sc",
+    "title": "Polícia Militar apreende 964 ampolas de tirzepatida em Painel, SC",
+    "guid": "sc1multi:7e34bb7b22eb9f99f510789440cc734f63b99726",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7e34bb7b22eb9f99f510789440cc734f63b99726/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   },
-  "source:264e04ef00015a7de4ffe86bd9d6db9ef5a93387": {
-    "url": "https://correiosc.com.br/trinda-times-pro-florianopolis-segunda-etapa-circuito-brasileiro-pro-2026",
-    "title": "Florianópolis recebe 2ª etapa do Trinda Times Pro 2026 de skate",
-    "guid": "sc1multi:c3c3c31e0e36a35080b6815023d031d108ea57e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3c3c31e0e36a35080b6815023d031d108ea57e7/",
-    "usedAt": 1786677251213,
-    "usedAtIso": "2026-08-14T03:14:11.213Z"
-  },
-  "source:1cac9bc60d705dafd9b6e6673698eb600550766c": {
-    "url": "https://tudoaquisc.com.br/economia/centrosul-evento-em-sp-b3",
-    "title": "Concessão do CentroSul em Florianópolis é anunciada em evento nacional",
-    "guid": "sc1multi:9d2045324c9ab9e4e8e15b4f42d482dea018cd9c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9d2045324c9ab9e4e8e15b4f42d482dea018cd9c/",
-    "usedAt": 1786677251213,
-    "usedAtIso": "2026-08-14T03:14:11.213Z"
-  },
-  "source:8ea22540ee2b74fc942927961fe9aeff9d86b54a": {
-    "url": "https://tnsul.com/2026/08/13/forca-tarefa-une-municipios-na-limpeza-dos-rios-para-prevenir-alagamentos",
-    "title": "Municípios de Içara e Jaguaruna fazem limpeza preventiva no Rio Urussanga",
-    "guid": "sc1multi:a17668ae81736d2bef36bc55f0b1f89ea5da623c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a17668ae81736d2bef36bc55f0b1f89ea5da623c/",
-    "usedAt": 1786698844865,
-    "usedAtIso": "2026-08-14T09:14:04.865Z"
-  },
-  "source:087454ba98c486e18a7db06febceff6334cae49a": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/reservatorio-casan-130826",
-    "title": "Casan interrompe abastecimento para limpeza de reservatórios em Florianópolis",
-    "guid": "sc1multi:165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_165dd3b655ea83df01da2be0b2da2f5bb9c6f7fc/",
-    "usedAt": 1786698844865,
-    "usedAtIso": "2026-08-14T09:14:04.865Z"
-  },
-  "source:9be148584328531d73facf1572bb156b3026521e": {
-    "url": "https://correiosc.com.br/florianopolis-realiza-mutirao-veterinario-animais-pessoas-situacao-rua",
-    "title": "Mutirão veterinário atende animais de pessoas em situação de rua em Florianópolis",
-    "guid": "sc1multi:6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6d7aa99d9b843fc636e37cb2c3cb93b9c9946e82/",
-    "usedAt": 1786698844865,
-    "usedAtIso": "2026-08-14T09:14:04.865Z"
+  "source:ad483bac8218686a08aca3e9f0128fbbd1612c84": {
+    "url": "https://ocp.news/seguranca/justica-determina-retirada-de-familias-da-area-de-seguranca-em-barragem-de-sc",
+    "title": "Justiça determina retirada de famílias da área de segurança em barragem de Santa Catarina",
+    "guid": "sc1multi:ad483bac8218686a08aca3e9f0128fbbd1612c84",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ad483bac8218686a08aca3e9f0128fbbd1612c84/",
+    "usedAt": 1786706044553,
+    "usedAtIso": "2026-08-14T11:14:04.553Z"
   }
 }
