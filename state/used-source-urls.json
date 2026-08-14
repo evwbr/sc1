@@ -1,4 +1,44 @@
 {
+  "source:121d3dc739769a87c04d21cb53631a0b05acc952": {
+    "url": "https://correiosc.com.br/florianopolis-recebe-13-edicao-da-orquestra-de-baterias-neste-domingo",
+    "title": "Florianópolis recebe 13ª edição da Orquestra de Baterias neste domingo",
+    "guid": "sc1multi:b3716ae28aefaa7fb8f101e02a18a44555896bb1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3716ae28aefaa7fb8f101e02a18a44555896bb1/",
+    "usedAt": 1786742044317,
+    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  },
+  "source:264e04ef00015a7de4ffe86bd9d6db9ef5a93387": {
+    "url": "https://correiosc.com.br/trinda-times-pro-florianopolis-segunda-etapa-circuito-brasileiro-pro-2026",
+    "title": "Florianópolis recebe 2ª etapa do Trinda Times Pro 2026 de skate",
+    "guid": "sc1multi:c3c3c31e0e36a35080b6815023d031d108ea57e7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3c3c31e0e36a35080b6815023d031d108ea57e7/",
+    "usedAt": 1786742044317,
+    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  },
+  "source:73038f67c3584256e46cad544d20afa3f3d83ad5": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/jet-ski-400-mil-palhoca",
+    "title": "Jet ski e R$ 400 mil em bens furtados são recuperados em galpão na Palhoça",
+    "guid": "sc1multi:0094a29f99b2340476cf92a3dc5fe9ebea92f880",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0094a29f99b2340476cf92a3dc5fe9ebea92f880/",
+    "usedAt": 1786742044317,
+    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  },
+  "source:ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495": {
+    "url": "https://ocp.news/seguranca/pm-cumpre-tres-mandados-e-registra-posse-de-drogas-em-guaramirim-e-jaragua-do-sul",
+    "title": "Polícia Militar cumpre mandados e registra posse de drogas em Guaramirim e Jaraguá do Sul",
+    "guid": "sc1multi:ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495/",
+    "usedAt": 1786742044317,
+    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  },
+  "source:0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad": {
+    "url": "https://ocp.news/esporte/copa-dipil-de-futsal-menor-inicia-maior-edicao-da-historia-neste-fim-de-semana-em-massaranduba",
+    "title": "Copa Dipil de Futsal Menor começa com recorde de equipes em Massaranduba",
+    "guid": "sc1multi:0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad/",
+    "usedAt": 1786742044317,
+    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  },
   "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
     "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
     "title": "João Rodrigues lança campanha ao governo em Chapecó",
@@ -180,24 +220,16 @@
     "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
     "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
-    "usedAt": 1786731244298,
-    "usedAtIso": "2026-08-14T18:14:04.298Z"
+    "usedAt": 1786745644156,
+    "usedAtIso": "2026-08-14T22:14:04.156Z"
   },
   "source:bf10e4b8b569cd50769e0ec78b91aad619bd0a25": {
     "url": "https://tudoaquisc.com.br/seguranca/escorrega-cai-predio-0826",
     "title": "Mulher cai do 4º andar de prédio durante chuva em Florianópolis",
     "guid": "sc1multi:0469b8e7c71c86c91c81380659e0d4c916eac4c3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0469b8e7c71c86c91c81380659e0d4c916eac4c3/",
-    "usedAt": 1786731244298,
-    "usedAtIso": "2026-08-14T18:14:04.298Z"
-  },
-  "source:121d3dc739769a87c04d21cb53631a0b05acc952": {
-    "url": "https://correiosc.com.br/florianopolis-recebe-13-edicao-da-orquestra-de-baterias-neste-domingo",
-    "title": "Florianópolis recebe 13ª edição da Orquestra de Baterias neste domingo",
-    "guid": "sc1multi:b3716ae28aefaa7fb8f101e02a18a44555896bb1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3716ae28aefaa7fb8f101e02a18a44555896bb1/",
-    "usedAt": 1786742044317,
-    "usedAtIso": "2026-08-14T21:14:04.317Z"
+    "usedAt": 1786745644156,
+    "usedAtIso": "2026-08-14T22:14:04.156Z"
   },
   "source:65c7b237208a9a5e86f4f266bcf1ff53055254ab": {
     "url": "https://ocp.news/seguranca/acumulo-de-agua-por-causa-da-chuva-trava-transito-em-varias-vias-de-florianopolis",
@@ -206,14 +238,6 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_65c7b237208a9a5e86f4f266bcf1ff53055254ab/",
     "usedAt": 1786724044579,
     "usedAtIso": "2026-08-14T16:14:04.579Z"
-  },
-  "source:264e04ef00015a7de4ffe86bd9d6db9ef5a93387": {
-    "url": "https://correiosc.com.br/trinda-times-pro-florianopolis-segunda-etapa-circuito-brasileiro-pro-2026",
-    "title": "Florianópolis recebe 2ª etapa do Trinda Times Pro 2026 de skate",
-    "guid": "sc1multi:c3c3c31e0e36a35080b6815023d031d108ea57e7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c3c3c31e0e36a35080b6815023d031d108ea57e7/",
-    "usedAt": 1786742044317,
-    "usedAtIso": "2026-08-14T21:14:04.317Z"
   },
   "source:1b2d5fa6b0ced760979fb21aa4a7e071b93e989f": {
     "url": "https://rbatv.com.br/noticias/mulher-condenada-a-14-anos-por-trafico-e-presa-pela-pm-em-indaial",
@@ -239,100 +263,28 @@
     "usedAt": 1786724044579,
     "usedAtIso": "2026-08-14T16:14:04.579Z"
   },
-  "source:73038f67c3584256e46cad544d20afa3f3d83ad5": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/jet-ski-400-mil-palhoca",
-    "title": "Jet ski e R$ 400 mil em bens furtados são recuperados em galpão na Palhoça",
-    "guid": "sc1multi:0094a29f99b2340476cf92a3dc5fe9ebea92f880",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0094a29f99b2340476cf92a3dc5fe9ebea92f880/",
-    "usedAt": 1786742044317,
-    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  "source:54087fb41f42c1533a82ae1f1442fb5db9582cd9": {
+    "url": "https://rbatv.com.br/noticias/homem-e-levado-a-delegacia-apos-danificar-equipamento-de-clube-em-rio-do-sul",
+    "title": "Homem é levado à delegacia após danificar equipamento em clube de Rio do Sul",
+    "guid": "sc1multi:15137bb840808ed84d9975e494520a5947d4c5fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_15137bb840808ed84d9975e494520a5947d4c5fa/",
+    "usedAt": 1786745644156,
+    "usedAtIso": "2026-08-14T22:14:04.156Z"
   },
-  "source:03346bd75042e04d895ece53438b4e91e1b82686": {
-    "url": "https://tnsul.com/2026/08/14/incendio-atinge-galpao-abandonado-e-mobiliza-bombeiros-em-criciuma",
-    "title": "Incêndio atinge galpão abandonado no bairro Pinheirinho, Criciúma",
-    "guid": "sc1multi:d7b42a4fc9cee0e4121da9435e5c88b3a5652109",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7b42a4fc9cee0e4121da9435e5c88b3a5652109/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
+  "source:993945d378a20b6b462a2931481ce9f907b1740e": {
+    "url": "https://ocp.news/economia/weg-e-novamente-destaque-no-top-of-mind-com-reconhecimentos-em-tres-categorias-e-homenagem-a-decio-da-silva",
+    "title": "WEG é destaque no Top of Mind em três categorias em Santa Catarina",
+    "guid": "sc1multi:993945d378a20b6b462a2931481ce9f907b1740e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_993945d378a20b6b462a2931481ce9f907b1740e/",
+    "usedAt": 1786745644156,
+    "usedAtIso": "2026-08-14T22:14:04.156Z"
   },
-  "source:61d65793a140ef3d8549aaf9eae42bccfa196747": {
-    "url": "https://rbatv.com.br/noticias/homem-tem-veiculo-levado-apos-ser-ameacado-durante-cobranca-de-suposta-divida-em-indaial",
-    "title": "Homem tem veículo roubado após ameaça em cobrança de dívida em Indaial",
-    "guid": "sc1multi:985e6375fa7251fea72949b3e899b5b14761a00c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_985e6375fa7251fea72949b3e899b5b14761a00c/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:6719cdf4f3c3196d0dd0b7c99305e198163f2b5f": {
-    "url": "https://rbatv.com.br/noticias/homem-procurado-por-furto-em-sao-paulo-e-preso-ao-chegar-de-onibus-em-rio-do-sul",
-    "title": "Homem procurado por furto em São Paulo é preso em Rio do Sul",
-    "guid": "sc1multi:bdcc9f3640331f29470f9d11eae8c55aa8571584",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdcc9f3640331f29470f9d11eae8c55aa8571584/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:c9e9e4488b837295aabe140a016b4d5b2352a7cc": {
-    "url": "https://rbatv.com.br/noticias/dupla-e-presa-com-15-kg-de-maconha-na-br-470-em-ibirama",
-    "title": "Dupla é presa com 15 kg de maconha na BR-470 em Ibirama",
-    "guid": "sc1multi:8f7d0d3f0440e0d9e5f600d9bcebfc05a4a6de57",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f7d0d3f0440e0d9e5f600d9bcebfc05a4a6de57/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:fc76e74ca247111a4f7a89762c96e3482405fac6": {
-    "url": "https://ocp.news/economia/governo-do-estado-assina-ordem-de-servico-do-programa-voasc",
-    "title": "Governo de SC inicia Programa VOA + SC para voos regionais",
-    "guid": "sc1multi:fc76e74ca247111a4f7a89762c96e3482405fac6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fc76e74ca247111a4f7a89762c96e3482405fac6/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:d7c1a05b95178a2743896d30435e195fe1860719": {
-    "url": "https://ocp.news/cotidiano/sexta-feira-14-tera-maxima-de-apenas-18c-na-regiao",
-    "title": "Sexta-feira terá máxima de 18°C com risco de temporais em Santa Catarina",
-    "guid": "sc1multi:d7c1a05b95178a2743896d30435e195fe1860719",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7c1a05b95178a2743896d30435e195fe1860719/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:f5cbedebdf8d23f895d3aac71539b0b6ce20842b": {
-    "url": "https://rbatv.com.br/noticias/defesa-civil-alerta-para-elevacao-do-nivel-do-rio-itajai-acu-em-rio-do-sul",
-    "title": "Defesa Civil alerta para elevação do Rio Itajaí-Açu em Rio do Sul",
-    "guid": "sc1multi:204b61c7eb3c5d93c11528539f527ba2330b122c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_204b61c7eb3c5d93c11528539f527ba2330b122c/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:883416fbe55eccbc1f6ec936c8fa89efc3272986": {
-    "url": "https://ocp.news/cotidiano/apos-resgate-de-400-gatos-cidade-de-sc-realiza-primeira-feira-de-adocao",
-    "title": "Concórdia realiza primeira feira de adoção após resgate de 400 gatos",
-    "guid": "sc1multi:883416fbe55eccbc1f6ec936c8fa89efc3272986",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_883416fbe55eccbc1f6ec936c8fa89efc3272986/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:d9da355c17202c0e63187684a5d5dfd3f9b2937d": {
-    "url": "https://rbatv.com.br/noticias/quase-meia-tonelada-de-maconha-transportada-em-guincho-e-apreendida-em-sc",
-    "title": "Quase meia tonelada de maconha é apreendida em guincho na BR-101 em Porto Belo",
-    "guid": "sc1multi:0ca69e4f378ca7c7be6678c658968604238e36dc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0ca69e4f378ca7c7be6678c658968604238e36dc/",
-    "usedAt": 1786720444580,
-    "usedAtIso": "2026-08-14T15:14:04.580Z"
-  },
-  "source:ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495": {
-    "url": "https://ocp.news/seguranca/pm-cumpre-tres-mandados-e-registra-posse-de-drogas-em-guaramirim-e-jaragua-do-sul",
-    "title": "Polícia Militar cumpre mandados e registra posse de drogas em Guaramirim e Jaraguá do Sul",
-    "guid": "sc1multi:ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495/",
-    "usedAt": 1786742044317,
-    "usedAtIso": "2026-08-14T21:14:04.317Z"
-  },
-  "source:0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad": {
-    "url": "https://ocp.news/esporte/copa-dipil-de-futsal-menor-inicia-maior-edicao-da-historia-neste-fim-de-semana-em-massaranduba",
-    "title": "Copa Dipil de Futsal Menor começa com recorde de equipes em Massaranduba",
-    "guid": "sc1multi:0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e5be6711215a74fb79f2d3cf3ad87653ecbe0ad/",
-    "usedAt": 1786742044317,
-    "usedAtIso": "2026-08-14T21:14:04.317Z"
+  "source:af2a971779e8ec41704e29efeb9b264ea9655b3c": {
+    "url": "https://tudoaquisc.com.br/tempo/chuva-destruicao-sc-140826",
+    "title": "Fortes chuvas causam danos em mais de 50 casas em Santa Catarina",
+    "guid": "sc1multi:1cb8e034e9ffd5ee36e66eb885a51162bf569e89",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1cb8e034e9ffd5ee36e66eb885a51162bf569e89/",
+    "usedAt": 1786745644156,
+    "usedAtIso": "2026-08-14T22:14:04.156Z"
   }
 }
