@@ -1,4 +1,20 @@
 {
+  "source:cb6c0fe07a73b5c477a1d762c09fd410fe39a04b": {
+    "url": "https://rbatv.com.br/noticias/defesa-civil-de-rio-do-sul-monitora-elevacao-dos-rios-e-convoca-reuniao-tecnica-para-amanha",
+    "title": "Defesa Civil de Rio do Sul convoca reunião por elevação dos rios",
+    "guid": "sc1multi:f3e72209c91fc914d6b7e0968b802b8409a56298",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e72209c91fc914d6b7e0968b802b8409a56298/",
+    "usedAt": 1786691644483,
+    "usedAtIso": "2026-08-14T07:14:04.483Z"
+  },
+  "source:a7c1087f4d1fc9fec4c63ec2695006f8b78f36b0": {
+    "url": "https://tnsul.com/2026/08/13/azul-conecta-tera-voos-de-forquilhinha-a-florianopolis-pelo-programa-voasc",
+    "title": "Azul Conecta iniciará voos de Florianópolis a Forquilhinha pelo Programa VOA+SC",
+    "guid": "sc1multi:37a8e93e66e585e44139f3107e5942d91f00b064",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37a8e93e66e585e44139f3107e5942d91f00b064/",
+    "usedAt": 1786691644483,
+    "usedAtIso": "2026-08-14T07:14:04.483Z"
+  },
   "source:b078c63df471de81f4b415a71a2c44d77a218be2": {
     "url": "https://ocp.news/economia/qualifica-jaragua-forma-turmas-do-1o-semestre-de-2026",
     "title": "Qualifica Jaraguá forma 104 alunos em oito cursos no 1º semestre de 2026",
@@ -119,20 +135,20 @@
     "usedAt": 1786673645273,
     "usedAtIso": "2026-08-14T02:14:05.273Z"
   },
-  "source:cb6c0fe07a73b5c477a1d762c09fd410fe39a04b": {
-    "url": "https://rbatv.com.br/noticias/defesa-civil-de-rio-do-sul-monitora-elevacao-dos-rios-e-convoca-reuniao-tecnica-para-amanha",
-    "title": "Defesa Civil de Rio do Sul convoca reunião por elevação dos rios",
-    "guid": "sc1multi:f3e72209c91fc914d6b7e0968b802b8409a56298",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f3e72209c91fc914d6b7e0968b802b8409a56298/",
-    "usedAt": 1786691644483,
-    "usedAtIso": "2026-08-14T07:14:04.483Z"
+  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
+    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
+    "title": "Alerta laranja para temporais e chuva intensa em Santa Catarina",
+    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
+    "usedAt": 1786695244935,
+    "usedAtIso": "2026-08-14T08:14:04.935Z"
   },
-  "source:a7c1087f4d1fc9fec4c63ec2695006f8b78f36b0": {
-    "url": "https://tnsul.com/2026/08/13/azul-conecta-tera-voos-de-forquilhinha-a-florianopolis-pelo-programa-voasc",
-    "title": "Azul Conecta iniciará voos de Florianópolis a Forquilhinha pelo Programa VOA+SC",
-    "guid": "sc1multi:37a8e93e66e585e44139f3107e5942d91f00b064",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_37a8e93e66e585e44139f3107e5942d91f00b064/",
-    "usedAt": 1786691644483,
-    "usedAtIso": "2026-08-14T07:14:04.483Z"
+  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
+    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
+    "title": "João Rodrigues lança campanha para governo em Chapecó",
+    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
+    "usedAt": 1786695244935,
+    "usedAtIso": "2026-08-14T08:14:04.935Z"
   }
 }
