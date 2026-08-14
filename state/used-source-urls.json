@@ -1,4 +1,28 @@
 {
+  "source:49bc7ba55b721240a398df4f875b861c630c5a34": {
+    "url": "https://ocp.news/seguranca/reuniao-em-jaragua-do-sul-debate-prevencao-a-eventos-climaticos-extremos",
+    "title": "Jaraguá do Sul promove reunião sobre prevenção a desastres climáticos",
+    "guid": "sc1multi:49bc7ba55b721240a398df4f875b861c630c5a34",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49bc7ba55b721240a398df4f875b861c630c5a34/",
+    "usedAt": 1786680844551,
+    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  },
+  "source:121d3dc739769a87c04d21cb53631a0b05acc952": {
+    "url": "https://correiosc.com.br/florianopolis-recebe-13-edicao-da-orquestra-de-baterias-neste-domingo",
+    "title": "Florianópolis recebe 13ª edição da Orquestra de Baterias neste domingo",
+    "guid": "sc1multi:b3716ae28aefaa7fb8f101e02a18a44555896bb1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3716ae28aefaa7fb8f101e02a18a44555896bb1/",
+    "usedAt": 1786680844551,
+    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  },
+  "source:5d5187a253949fb377d4911c5b0ace586e787942": {
+    "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
+    "title": "Prefeitura de São José alerta sobre golpes com falsos boletos municipais",
+    "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
+    "usedAt": 1786680844551,
+    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  },
   "source:4127b463009626ed49164ed88ebb3bddb0e64fb4": {
     "url": "https://rbatv.com.br/noticias/chuva-intensa-provoca-alagamentos-granizo-e-deslizamento-no-sul-de-sc",
     "title": "Chuva intensa causa alagamentos, granizo e deslizamentos no Sul de Santa Catarina",
@@ -135,44 +159,28 @@
     "usedAt": 1786662845719,
     "usedAtIso": "2026-08-13T23:14:05.719Z"
   },
-  "source:74f2892ffaa5e8c14fa4b21b71358afda84c739d": {
-    "url": "https://correiosc.com.br/joao-rodrigues-fara-lancamento-campanha-chapeco-dia-22",
-    "title": "João Rodrigues lança campanha para governo em Chapecó",
-    "guid": "sc1multi:39a94454dc77ff637be0239e4617f2977470f36d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39a94454dc77ff637be0239e4617f2977470f36d/",
-    "usedAt": 1786659244774,
-    "usedAtIso": "2026-08-13T22:14:04.774Z"
+  "source:813521980444f641276c3010aee7f56b57bc572a": {
+    "url": "https://scportais.com.br/2026/08/14/pelo-estado-14-08-nova-politica-de-cotas-da-udesc",
+    "title": "Udesc aprova nova política de cotas com 50% das vagas reservadas",
+    "guid": "sc1multi:4b700d4513a03927a828a7b08efef0e1931f9472",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b700d4513a03927a828a7b08efef0e1931f9472/",
+    "usedAt": 1786684444382,
+    "usedAtIso": "2026-08-14T05:14:04.382Z"
   },
-  "source:c72641f553b99fb1180f5130648843be26c75fb9": {
-    "url": "https://correiosc.com.br/alerta-laranja-chuva-pode-chegar-120-mm-algumas-regioes-sc",
-    "title": "Santa Catarina enfrenta alerta laranja para chuvas intensas e temporais",
-    "guid": "sc1multi:7a7f855879d58e574ec87b618fe8d0d2cb2ccf77",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7a7f855879d58e574ec87b618fe8d0d2cb2ccf77/",
-    "usedAt": 1786659244774,
-    "usedAtIso": "2026-08-13T22:14:04.774Z"
+  "source:6fb53151ff4c00ca32a29d29ec623cf328cefa05": {
+    "url": "https://ocp.news/economia/weg-vai-construir-fabrica-de-baterias-para-armazenamento-de-energia-em-itajai",
+    "title": "WEG anuncia fábrica de baterias para energia em Itajaí",
+    "guid": "sc1multi:6fb53151ff4c00ca32a29d29ec623cf328cefa05",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6fb53151ff4c00ca32a29d29ec623cf328cefa05/",
+    "usedAt": 1786684444382,
+    "usedAtIso": "2026-08-14T05:14:04.382Z"
   },
-  "source:49bc7ba55b721240a398df4f875b861c630c5a34": {
-    "url": "https://ocp.news/seguranca/reuniao-em-jaragua-do-sul-debate-prevencao-a-eventos-climaticos-extremos",
-    "title": "Jaraguá do Sul promove reunião sobre prevenção a desastres climáticos",
-    "guid": "sc1multi:49bc7ba55b721240a398df4f875b861c630c5a34",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49bc7ba55b721240a398df4f875b861c630c5a34/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
-  },
-  "source:121d3dc739769a87c04d21cb53631a0b05acc952": {
-    "url": "https://correiosc.com.br/florianopolis-recebe-13-edicao-da-orquestra-de-baterias-neste-domingo",
-    "title": "Florianópolis recebe 13ª edição da Orquestra de Baterias neste domingo",
-    "guid": "sc1multi:b3716ae28aefaa7fb8f101e02a18a44555896bb1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b3716ae28aefaa7fb8f101e02a18a44555896bb1/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
-  },
-  "source:5d5187a253949fb377d4911c5b0ace586e787942": {
-    "url": "https://correiosc.com.br/prefeitura-sao-jose-alerta-golpes-falsos-boletos-mensagens-alvaras",
-    "title": "Prefeitura de São José alerta sobre golpes com falsos boletos municipais",
-    "guid": "sc1multi:a863ffaf9c7e242e7afc7ee106eec78585b0ad7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a863ffaf9c7e242e7afc7ee106eec78585b0ad7e/",
-    "usedAt": 1786680844551,
-    "usedAtIso": "2026-08-14T04:14:04.551Z"
+  "source:4088916d036123145402f18e7c9c8ddfe2a5152c": {
+    "url": "https://scportais.com.br/2026/08/12/joao-rodrigues-escolhe-chapeco-para-lancamento-da-campanha",
+    "title": "João Rodrigues lança campanha ao governo em Chapecó",
+    "guid": "sc1multi:3e3de9caa42f41f4d5f81073ee021f3b00c601fd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3e3de9caa42f41f4d5f81073ee021f3b00c601fd/",
+    "usedAt": 1786684444382,
+    "usedAtIso": "2026-08-14T05:14:04.382Z"
   }
 }
