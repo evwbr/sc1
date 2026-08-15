@@ -1,4 +1,60 @@
 {
+  "source:8f43db480e26222ddd93b5da92e18f27321da0fb": {
+    "url": "https://ocp.news/seguranca/granizo-e-temporais-deixam-estragos-em-14-municipios-sc-segue-em-alerta",
+    "title": "Granizo e temporais causam danos em 14 municípios de Santa Catarina",
+    "guid": "sc1multi:8f43db480e26222ddd93b5da92e18f27321da0fb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f43db480e26222ddd93b5da92e18f27321da0fb/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:993945d378a20b6b462a2931481ce9f907b1740e": {
+    "url": "https://ocp.news/economia/weg-e-novamente-destaque-no-top-of-mind-com-reconhecimentos-em-tres-categorias-e-homenagem-a-decio-da-silva",
+    "title": "WEG é destaque no Top of Mind em três categorias em Santa Catarina",
+    "guid": "sc1multi:993945d378a20b6b462a2931481ce9f907b1740e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_993945d378a20b6b462a2931481ce9f907b1740e/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
+    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
+    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
+    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:bf10e4b8b569cd50769e0ec78b91aad619bd0a25": {
+    "url": "https://tudoaquisc.com.br/seguranca/escorrega-cai-predio-0826",
+    "title": "Mulher cai do 4º andar de prédio durante chuva em Florianópolis",
+    "guid": "sc1multi:0469b8e7c71c86c91c81380659e0d4c916eac4c3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0469b8e7c71c86c91c81380659e0d4c916eac4c3/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:98c3594204b92cf09bc1d7dd9fc770f589a71552": {
+    "url": "https://tudoaquisc.com.br/obras/indigenas-desocupam-barragem-0826",
+    "title": "Justiça determina desocupação de indígenas para obras em barragem de José Boiteux",
+    "guid": "sc1multi:12d71fad64fa349aa2f828810cba8ed60ad1399a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12d71fad64fa349aa2f828810cba8ed60ad1399a/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:af2a971779e8ec41704e29efeb9b264ea9655b3c": {
+    "url": "https://tudoaquisc.com.br/tempo/chuva-destruicao-sc-140826",
+    "title": "Fortes chuvas causam danos em mais de 50 casas em Santa Catarina",
+    "guid": "sc1multi:1cb8e034e9ffd5ee36e66eb885a51162bf569e89",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1cb8e034e9ffd5ee36e66eb885a51162bf569e89/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
+  "source:73038f67c3584256e46cad544d20afa3f3d83ad5": {
+    "url": "https://tudoaquisc.com.br/ocorrencias/jet-ski-400-mil-palhoca",
+    "title": "Jet ski e R$ 400 mil em bens furtados são recuperados em galpão em Palhoça",
+    "guid": "sc1multi:0094a29f99b2340476cf92a3dc5fe9ebea92f880",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0094a29f99b2340476cf92a3dc5fe9ebea92f880/",
+    "usedAt": 1786824844109,
+    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  },
   "source:6e75af4ebd3b1541b7c4c5bc7a66a78769b0ca88": {
     "url": "https://rbatv.com.br/noticias/defesa-civil-reduz-cota-de-alerta-em-rio-do-sul-volume-de-chuva-ficou-abaixo-do-previsto",
     "title": "Defesa Civil reduz cota de alerta para o rio Itajaí-Açu em Rio do Sul",
@@ -159,60 +215,44 @@
     "usedAt": 1786817644141,
     "usedAtIso": "2026-08-15T18:14:04.141Z"
   },
-  "source:8f43db480e26222ddd93b5da92e18f27321da0fb": {
-    "url": "https://ocp.news/seguranca/granizo-e-temporais-deixam-estragos-em-14-municipios-sc-segue-em-alerta",
-    "title": "Granizo e temporais causam danos em 14 municípios de Santa Catarina",
-    "guid": "sc1multi:8f43db480e26222ddd93b5da92e18f27321da0fb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f43db480e26222ddd93b5da92e18f27321da0fb/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  "source:cde1844778357b80dcc20211e5867e6c7effc81b": {
+    "url": "https://tnsul.com/2026/08/15/tigre-vence-e-segue-na-lideranca-da-serie-b-do-brasileiro",
+    "title": "Criciúma vence Goiás e mantém liderança da Série B no Heriberto Hülse",
+    "guid": "sc1multi:d009e952e272f65a413250702dfc29438c188564",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d009e952e272f65a413250702dfc29438c188564/",
+    "usedAt": 1786828444605,
+    "usedAtIso": "2026-08-15T21:14:04.605Z"
   },
-  "source:993945d378a20b6b462a2931481ce9f907b1740e": {
-    "url": "https://ocp.news/economia/weg-e-novamente-destaque-no-top-of-mind-com-reconhecimentos-em-tres-categorias-e-homenagem-a-decio-da-silva",
-    "title": "WEG é destaque no Top of Mind em três categorias em Santa Catarina",
-    "guid": "sc1multi:993945d378a20b6b462a2931481ce9f907b1740e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_993945d378a20b6b462a2931481ce9f907b1740e/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  "source:d8154fd2773fcb70810bdad2842aa9138cbf38de": {
+    "url": "https://rbatv.com.br/noticias/recapeamento-da-ponte-dos-arcos-sera-realizado-no-domingo-16",
+    "title": "Recapeamento da Ponte dos Arcos em Rio do Sul será realizado no domingo",
+    "guid": "sc1multi:7bc30df6db9a87ad815bfd40e0f50910cf340e78",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bc30df6db9a87ad815bfd40e0f50910cf340e78/",
+    "usedAt": 1786828444605,
+    "usedAtIso": "2026-08-15T21:14:04.605Z"
   },
-  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
-    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
-    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
-    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  "source:09eb050dd0243da23c5c2fb67e3a210c1da0977c": {
+    "url": "https://rbatv.com.br/noticias/suv-e-destruido-por-incendio-na-br-470-em-blumenau",
+    "title": "SUV é destruído por incêndio na BR-470, em Blumenau",
+    "guid": "sc1multi:ccbb9dc27cdfb847db4d8b03ff4442bac06547b2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccbb9dc27cdfb847db4d8b03ff4442bac06547b2/",
+    "usedAt": 1786828444605,
+    "usedAtIso": "2026-08-15T21:14:04.605Z"
   },
-  "source:bf10e4b8b569cd50769e0ec78b91aad619bd0a25": {
-    "url": "https://tudoaquisc.com.br/seguranca/escorrega-cai-predio-0826",
-    "title": "Mulher cai do 4º andar de prédio durante chuva em Florianópolis",
-    "guid": "sc1multi:0469b8e7c71c86c91c81380659e0d4c916eac4c3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0469b8e7c71c86c91c81380659e0d4c916eac4c3/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
+    "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
+    "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
+    "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
+    "usedAt": 1786828444605,
+    "usedAtIso": "2026-08-15T21:14:04.605Z"
   },
-  "source:98c3594204b92cf09bc1d7dd9fc770f589a71552": {
-    "url": "https://tudoaquisc.com.br/obras/indigenas-desocupam-barragem-0826",
-    "title": "Justiça determina desocupação de indígenas para obras em barragem de José Boiteux",
-    "guid": "sc1multi:12d71fad64fa349aa2f828810cba8ed60ad1399a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12d71fad64fa349aa2f828810cba8ed60ad1399a/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
-  },
-  "source:af2a971779e8ec41704e29efeb9b264ea9655b3c": {
-    "url": "https://tudoaquisc.com.br/tempo/chuva-destruicao-sc-140826",
-    "title": "Fortes chuvas causam danos em mais de 50 casas em Santa Catarina",
-    "guid": "sc1multi:1cb8e034e9ffd5ee36e66eb885a51162bf569e89",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_1cb8e034e9ffd5ee36e66eb885a51162bf569e89/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
-  },
-  "source:73038f67c3584256e46cad544d20afa3f3d83ad5": {
-    "url": "https://tudoaquisc.com.br/ocorrencias/jet-ski-400-mil-palhoca",
-    "title": "Jet ski e R$ 400 mil em bens furtados são recuperados em galpão em Palhoça",
-    "guid": "sc1multi:0094a29f99b2340476cf92a3dc5fe9ebea92f880",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0094a29f99b2340476cf92a3dc5fe9ebea92f880/",
-    "usedAt": 1786824844109,
-    "usedAtIso": "2026-08-15T20:14:04.109Z"
+  "source:813521980444f641276c3010aee7f56b57bc572a": {
+    "url": "https://scportais.com.br/2026/08/14/pelo-estado-14-08-nova-politica-de-cotas-da-udesc",
+    "title": "Udesc aprova nova política de cotas com 50% das vagas reservadas",
+    "guid": "sc1multi:4b700d4513a03927a828a7b08efef0e1931f9472",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b700d4513a03927a828a7b08efef0e1931f9472/",
+    "usedAt": 1786828444605,
+    "usedAtIso": "2026-08-15T21:14:04.605Z"
   }
 }
