@@ -1,4 +1,44 @@
 {
+  "source:a997564c6081f7694153a7214cce30ef11ff381b": {
+    "url": "https://tnsul.com/2026/08/16/corsa-e-destruido-por-incendio-na-rua-joao-pessoa-em-criciuma",
+    "title": "Carro é destruído por incêndio na Rua João Pessoa, em Criciúma",
+    "guid": "sc1multi:01f9e0332cf21668f002879d350c73e6055653d3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01f9e0332cf21668f002879d350c73e6055653d3/",
+    "usedAt": 1786878844400,
+    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  },
+  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
+    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
+    "title": "Incêndio atinge paiol em residência de Forquilhinha",
+    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
+    "usedAt": 1786878844400,
+    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  },
+  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
+    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
+    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
+    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
+    "usedAt": 1786878844400,
+    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  },
+  "source:220a28fefc006c332216dbe3e4a187ac35902f26": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-denuncia-de-disparo-de-arma-de-fogo-em-blumenau",
+    "title": "Homem é preso após disparo de arma de fogo em Blumenau",
+    "guid": "sc1multi:7109da180b7f195a6a95571811c22d8485777f9d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7109da180b7f195a6a95571811c22d8485777f9d/",
+    "usedAt": 1786878844400,
+    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  },
+  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
+    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
+    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
+    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
+    "usedAt": 1786878844400,
+    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  },
   "source:cde1844778357b80dcc20211e5867e6c7effc81b": {
     "url": "https://tnsul.com/2026/08/15/tigre-vence-e-segue-na-lideranca-da-serie-b-do-brasileiro",
     "title": "Criciúma vence Goiás e mantém liderança da Série B no Heriberto Hülse",
@@ -167,44 +207,68 @@
     "usedAt": 1786860845094,
     "usedAtIso": "2026-08-16T06:14:05.094Z"
   },
-  "source:a997564c6081f7694153a7214cce30ef11ff381b": {
-    "url": "https://tnsul.com/2026/08/16/corsa-e-destruido-por-incendio-na-rua-joao-pessoa-em-criciuma",
-    "title": "Carro é destruído por incêndio na Rua João Pessoa, em Criciúma",
-    "guid": "sc1multi:01f9e0332cf21668f002879d350c73e6055653d3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_01f9e0332cf21668f002879d350c73e6055653d3/",
-    "usedAt": 1786878844400,
-    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  "source:0d8aab8ffc8eee61607ea82d9af475f0ae778fe6": {
+    "url": "https://rbatv.com.br/noticias/homem-e-baleado-na-cabeca-e-suspeito-foge-em-direcao-a-br-470-em-gaspar",
+    "title": "Homem é baleado na cabeça em tentativa de homicídio em Gaspar",
+    "guid": "sc1multi:f360b7689a2103a8f7151209fb55a7a9c4ea1405",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f360b7689a2103a8f7151209fb55a7a9c4ea1405/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
   },
-  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
-    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
-    "title": "Incêndio atinge paiol em residência de Forquilhinha",
-    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
-    "usedAt": 1786878844400,
-    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  "source:de08402da7c1bde4c84aff86f6743acb4b4823a4": {
+    "url": "https://rbatv.com.br/noticias/denuncia-de-motorista-em-zigue-zague-leva-pm-a-homem-procurado-pela-justica-em-lontras",
+    "title": "Homem procurado pela Justiça é preso em Lontras após denúncia de direção perigosa",
+    "guid": "sc1multi:43795f654208195c68c32ec1c7fd7383387d852e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_43795f654208195c68c32ec1c7fd7383387d852e/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
   },
-  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
-    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
-    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
-    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
-    "usedAt": 1786878844400,
-    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  "source:e7dd2cd677233e9e904142e5ce74221f80869670": {
+    "url": "https://ocp.news/seguranca/denuncias-de-disparos-levam-a-apreensao-de-espingarda-e-municoes-em-jaragua-do-sul",
+    "title": "Denúncias de disparos resultam em apreensão de espingarda em Jaraguá do Sul",
+    "guid": "sc1multi:e7dd2cd677233e9e904142e5ce74221f80869670",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7dd2cd677233e9e904142e5ce74221f80869670/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
   },
-  "source:220a28fefc006c332216dbe3e4a187ac35902f26": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-denuncia-de-disparo-de-arma-de-fogo-em-blumenau",
-    "title": "Homem é preso após disparo de arma de fogo em Blumenau",
-    "guid": "sc1multi:7109da180b7f195a6a95571811c22d8485777f9d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7109da180b7f195a6a95571811c22d8485777f9d/",
-    "usedAt": 1786878844400,
-    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
+    "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
+    "title": "Técnico do Criciúma elogia entrega do time na vitória sobre Goiás",
+    "guid": "sc1multi:5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
   },
-  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
-    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
-    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
-    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
-    "usedAt": 1786878844400,
-    "usedAtIso": "2026-08-16T11:14:04.400Z"
+  "source:3445456b667787f061f5316b7ee08df17344cb28": {
+    "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
+    "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
+    "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
+  },
+  "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
+    "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
+    "title": "JEC e Nação devem mandar jogos da Copa SC em Jaraguá do Sul",
+    "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
+  },
+  "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
+    "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
+    "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
+    "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
+  },
+  "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
+    "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
+    "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
+    "usedAt": 1786882444518,
+    "usedAtIso": "2026-08-16T12:14:04.518Z"
   }
 }
