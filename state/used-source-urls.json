@@ -1,4 +1,36 @@
 {
+  "source:87a9fbb0cc3ebc47c0f3f5205cb40334986b8347": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-divida-de-pensao-alimenticia-apos-desentendimento-familiar-em-rio-do-sul",
+    "title": "Homem é preso em Rio do Sul por dívida de pensão alimentícia",
+    "guid": "sc1multi:e91bf8be7e986427715f4416f666a168b2e7f153",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e91bf8be7e986427715f4416f666a168b2e7f153/",
+    "usedAt": 1786889644354,
+    "usedAtIso": "2026-08-16T14:14:04.354Z"
+  },
+  "source:7d06062865da6853e245b43953d43958e9dd9cea": {
+    "url": "https://ocp.news/seguranca/homem-de-72-anos-fica-ferido-apos-colisao-entre-dois-carros-em-pomerode",
+    "title": "Homem de 72 anos fica ferido após colisão em Pomerode",
+    "guid": "sc1multi:7d06062865da6853e245b43953d43958e9dd9cea",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d06062865da6853e245b43953d43958e9dd9cea/",
+    "usedAt": 1786889644354,
+    "usedAtIso": "2026-08-16T14:14:04.354Z"
+  },
+  "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
+    "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
+    "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
+    "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
+    "usedAt": 1786889644354,
+    "usedAtIso": "2026-08-16T14:14:04.354Z"
+  },
+  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
+    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
+    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
+    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
+    "usedAt": 1786889644354,
+    "usedAtIso": "2026-08-16T14:14:04.354Z"
+  },
   "source:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5": {
     "url": "https://ocp.news/politica/lunelli-inicia-campanha-ao-senado-propondo-foco-em-reformas-estruturais-do-pais",
     "title": "Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais",
@@ -183,68 +215,44 @@
     "usedAt": 1786875245050,
     "usedAtIso": "2026-08-16T10:14:05.050Z"
   },
-  "source:02055a8c907c91453cb0aa5b01cdc5e33f6724ab": {
-    "url": "https://rbatv.com.br/noticias/capotamento-na-br-470-deixa-adolescente-ferido-em-ibirama",
-    "title": "Adolescente fica ferido em capotamento na BR-470 em Ibirama",
-    "guid": "sc1multi:ca1f5ce5aa615c25febef8a3950d8eb2c47871e3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ca1f5ce5aa615c25febef8a3950d8eb2c47871e3/",
-    "usedAt": 1786871644260,
-    "usedAtIso": "2026-08-16T09:14:04.260Z"
+  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
+    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
+    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
+    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
+    "usedAt": 1786893244572,
+    "usedAtIso": "2026-08-16T15:14:04.572Z"
+  },
+  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
+    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
+    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos em SC",
+    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
+    "usedAt": 1786893244572,
+    "usedAtIso": "2026-08-16T15:14:04.572Z"
+  },
+  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
+    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
+    "title": "Deslizamento de terra atinge casa e deixa menina em estado grave em Santo Amaro da Imperatriz",
+    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
+    "usedAt": 1786893244572,
+    "usedAtIso": "2026-08-16T15:14:04.572Z"
+  },
+  "source:7180f41d88a04a78434bd3c48b944b7301ed5ab0": {
+    "url": "https://rbatv.com.br/noticias/morre-motorista-de-caminhonete-que-caiu-de-ponte-em-witmarsum",
+    "title": "Motorista morre após caminhonete cair de ponte em Witmarsum",
+    "guid": "sc1multi:ac5e4ee36b77e020b6b8d02237fe5c69def63157",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac5e4ee36b77e020b6b8d02237fe5c69def63157/",
+    "usedAt": 1786893244572,
+    "usedAtIso": "2026-08-16T15:14:04.572Z"
   },
   "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
     "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
     "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
     "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
-    "usedAt": 1786871644260,
-    "usedAtIso": "2026-08-16T09:14:04.260Z"
-  },
-  "source:8f43db480e26222ddd93b5da92e18f27321da0fb": {
-    "url": "https://ocp.news/seguranca/granizo-e-temporais-deixam-estragos-em-14-municipios-sc-segue-em-alerta",
-    "title": "Granizo e temporais causam danos em 14 municípios de Santa Catarina",
-    "guid": "sc1multi:8f43db480e26222ddd93b5da92e18f27321da0fb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f43db480e26222ddd93b5da92e18f27321da0fb/",
-    "usedAt": 1786871644260,
-    "usedAtIso": "2026-08-16T09:14:04.260Z"
-  },
-  "source:bf10e4b8b569cd50769e0ec78b91aad619bd0a25": {
-    "url": "https://tudoaquisc.com.br/seguranca/escorrega-cai-predio-0826",
-    "title": "Mulher cai do 4º andar de prédio durante chuva em Florianópolis",
-    "guid": "sc1multi:0469b8e7c71c86c91c81380659e0d4c916eac4c3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0469b8e7c71c86c91c81380659e0d4c916eac4c3/",
-    "usedAt": 1786871644260,
-    "usedAtIso": "2026-08-16T09:14:04.260Z"
-  },
-  "source:87a9fbb0cc3ebc47c0f3f5205cb40334986b8347": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-divida-de-pensao-alimenticia-apos-desentendimento-familiar-em-rio-do-sul",
-    "title": "Homem é preso em Rio do Sul por dívida de pensão alimentícia",
-    "guid": "sc1multi:e91bf8be7e986427715f4416f666a168b2e7f153",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e91bf8be7e986427715f4416f666a168b2e7f153/",
-    "usedAt": 1786889644354,
-    "usedAtIso": "2026-08-16T14:14:04.354Z"
-  },
-  "source:7d06062865da6853e245b43953d43958e9dd9cea": {
-    "url": "https://ocp.news/seguranca/homem-de-72-anos-fica-ferido-apos-colisao-entre-dois-carros-em-pomerode",
-    "title": "Homem de 72 anos fica ferido após colisão em Pomerode",
-    "guid": "sc1multi:7d06062865da6853e245b43953d43958e9dd9cea",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d06062865da6853e245b43953d43958e9dd9cea/",
-    "usedAt": 1786889644354,
-    "usedAtIso": "2026-08-16T14:14:04.354Z"
-  },
-  "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
-    "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
-    "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
-    "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
-    "usedAt": 1786889644354,
-    "usedAtIso": "2026-08-16T14:14:04.354Z"
-  },
-  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
-    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
-    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
-    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
-    "usedAt": 1786889644354,
-    "usedAtIso": "2026-08-16T14:14:04.354Z"
+    "usedAt": 1786893244572,
+    "usedAtIso": "2026-08-16T15:14:04.572Z"
   }
 }
