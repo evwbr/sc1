@@ -1,4 +1,44 @@
 {
+  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
+    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
+    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
+    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
+  "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
+    "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
+    "title": "Tigre mantém liderança da Série B com vitória sobre Goiás",
+    "guid": "sc1multi:5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
+  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
+    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
+    "title": "Paiol pega fogo em residência de Forquilhinha",
+    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
+  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
+    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
+    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
+    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
+  "source:220a28fefc006c332216dbe3e4a187ac35902f26": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-denuncia-de-disparo-de-arma-de-fogo-em-blumenau",
+    "title": "Homem é preso após disparo de arma de fogo em Blumenau",
+    "guid": "sc1multi:7109da180b7f195a6a95571811c22d8485777f9d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7109da180b7f195a6a95571811c22d8485777f9d/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
   "source:baa30f42e0b0c68bf84e3f3bcbd49ae58c9dc681": {
     "url": "https://rbatv.com.br/noticias/grupo-suspeito-de-atacar-cooperativa-de-credito-em-indaial-e-alvo-de-operacao",
     "title": "Homem é preso em Joinville por ataques a cooperativa em Indaial",
@@ -167,45 +207,37 @@
     "usedAt": 1786839244137,
     "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
-  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
-    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
-    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
-    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
-    "usedAt": 1786853644356,
-    "usedAtIso": "2026-08-16T04:14:04.356Z"
-  },
   "source:3445456b667787f061f5316b7ee08df17344cb28": {
     "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
     "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
     "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786857244166,
+    "usedAtIso": "2026-08-16T05:14:04.166Z"
   },
   "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
     "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
-    "title": "JEC e Nação devem mandar jogos da Copa SC na Arena TopSun em Jaraguá do Sul",
+    "title": "JEC e Nação devem mandar jogos da Copa SC em Jaraguá do Sul",
     "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786857244166,
+    "usedAtIso": "2026-08-16T05:14:04.166Z"
   },
   "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
     "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
     "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
     "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786857244166,
+    "usedAtIso": "2026-08-16T05:14:04.166Z"
   },
   "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
     "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
     "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
     "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786857244166,
+    "usedAtIso": "2026-08-16T05:14:04.166Z"
   },
   "source:270af9c6004e954a30169f48f54c3115e442b6be": {
     "url": "https://tnsul.com/2026/08/15/morro-da-fumaca-atencao-para-sentido-unico-na-avenida-celeste-recco",
@@ -217,42 +249,10 @@
   },
   "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
     "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
-    "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
+    "title": "Joinville vira e vence Jaraguá Futsal no Estadual de Santa Catarina",
     "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
-  "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
-    "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
-    "title": "Tigre mantém liderança da Série B com vitória sobre Goiás",
-    "guid": "sc1multi:5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0/",
-    "usedAt": 1786853644356,
-    "usedAtIso": "2026-08-16T04:14:04.356Z"
-  },
-  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
-    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
-    "title": "Paiol pega fogo em residência de Forquilhinha",
-    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
-    "usedAt": 1786853644356,
-    "usedAtIso": "2026-08-16T04:14:04.356Z"
-  },
-  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
-    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
-    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
-    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
-    "usedAt": 1786853644356,
-    "usedAtIso": "2026-08-16T04:14:04.356Z"
-  },
-  "source:220a28fefc006c332216dbe3e4a187ac35902f26": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-denuncia-de-disparo-de-arma-de-fogo-em-blumenau",
-    "title": "Homem é preso após disparo de arma de fogo em Blumenau",
-    "guid": "sc1multi:7109da180b7f195a6a95571811c22d8485777f9d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7109da180b7f195a6a95571811c22d8485777f9d/",
-    "usedAt": 1786853644356,
-    "usedAtIso": "2026-08-16T04:14:04.356Z"
+    "usedAt": 1786857244166,
+    "usedAtIso": "2026-08-16T05:14:04.166Z"
   }
 }
