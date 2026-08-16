@@ -1,4 +1,44 @@
 {
+  "source:baa30f42e0b0c68bf84e3f3bcbd49ae58c9dc681": {
+    "url": "https://rbatv.com.br/noticias/grupo-suspeito-de-atacar-cooperativa-de-credito-em-indaial-e-alvo-de-operacao",
+    "title": "Homem é preso em Joinville por ataques a cooperativa em Indaial",
+    "guid": "sc1multi:e6f81c2f356ed5b22e05d02d364ac6e339c6f10f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6f81c2f356ed5b22e05d02d364ac6e339c6f10f/",
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
+  },
+  "source:02055a8c907c91453cb0aa5b01cdc5e33f6724ab": {
+    "url": "https://rbatv.com.br/noticias/capotamento-na-br-470-deixa-adolescente-ferido-em-ibirama",
+    "title": "Adolescente fica ferido em capotamento na BR-470 em Ibirama",
+    "guid": "sc1multi:ca1f5ce5aa615c25febef8a3950d8eb2c47871e3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ca1f5ce5aa615c25febef8a3950d8eb2c47871e3/",
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
+  },
+  "source:cde1844778357b80dcc20211e5867e6c7effc81b": {
+    "url": "https://tnsul.com/2026/08/15/tigre-vence-e-segue-na-lideranca-da-serie-b-do-brasileiro",
+    "title": "Criciúma vence Goiás e mantém liderança da Série B no Heriberto Hülse",
+    "guid": "sc1multi:d009e952e272f65a413250702dfc29438c188564",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d009e952e272f65a413250702dfc29438c188564/",
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
+  },
+  "source:d8154fd2773fcb70810bdad2842aa9138cbf38de": {
+    "url": "https://rbatv.com.br/noticias/recapeamento-da-ponte-dos-arcos-sera-realizado-no-domingo-16",
+    "title": "Recapeamento da Ponte dos Arcos em Rio do Sul será realizado no domingo",
+    "guid": "sc1multi:7bc30df6db9a87ad815bfd40e0f50910cf340e78",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bc30df6db9a87ad815bfd40e0f50910cf340e78/",
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
+  },
+  "source:09eb050dd0243da23c5c2fb67e3a210c1da0977c": {
+    "url": "https://rbatv.com.br/noticias/suv-e-destruido-por-incendio-na-br-470-em-blumenau",
+    "title": "SUV é destruído por incêndio na BR-470, em Blumenau",
+    "guid": "sc1multi:ccbb9dc27cdfb847db4d8b03ff4442bac06547b2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccbb9dc27cdfb847db4d8b03ff4442bac06547b2/",
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
+  },
   "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
     "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
     "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
@@ -132,8 +172,8 @@
     "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
     "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
   },
   "source:3445456b667787f061f5316b7ee08df17344cb28": {
     "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
@@ -183,76 +223,36 @@
     "usedAt": 1786835644245,
     "usedAtIso": "2026-08-15T23:14:04.245Z"
   },
+  "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
+    "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
+    "title": "Tigre mantém liderança da Série B com vitória sobre Goiás",
+    "guid": "sc1multi:5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
+  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
+    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
+    "title": "Paiol pega fogo em residência de Forquilhinha",
+    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
+  },
   "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
     "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
     "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
     "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
   },
   "source:220a28fefc006c332216dbe3e4a187ac35902f26": {
     "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-denuncia-de-disparo-de-arma-de-fogo-em-blumenau",
     "title": "Homem é preso após disparo de arma de fogo em Blumenau",
     "guid": "sc1multi:7109da180b7f195a6a95571811c22d8485777f9d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7109da180b7f195a6a95571811c22d8485777f9d/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
-  },
-  "source:baa30f42e0b0c68bf84e3f3bcbd49ae58c9dc681": {
-    "url": "https://rbatv.com.br/noticias/grupo-suspeito-de-atacar-cooperativa-de-credito-em-indaial-e-alvo-de-operacao",
-    "title": "Homem é preso em Joinville por ataques a cooperativa em Indaial",
-    "guid": "sc1multi:e6f81c2f356ed5b22e05d02d364ac6e339c6f10f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6f81c2f356ed5b22e05d02d364ac6e339c6f10f/",
-    "usedAt": 1786850044455,
-    "usedAtIso": "2026-08-16T03:14:04.455Z"
-  },
-  "source:02055a8c907c91453cb0aa5b01cdc5e33f6724ab": {
-    "url": "https://rbatv.com.br/noticias/capotamento-na-br-470-deixa-adolescente-ferido-em-ibirama",
-    "title": "Adolescente fica ferido em capotamento na BR-470 em Ibirama",
-    "guid": "sc1multi:ca1f5ce5aa615c25febef8a3950d8eb2c47871e3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ca1f5ce5aa615c25febef8a3950d8eb2c47871e3/",
-    "usedAt": 1786850044455,
-    "usedAtIso": "2026-08-16T03:14:04.455Z"
-  },
-  "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
-    "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
-    "title": "Técnico do Criciúma elogia entrega da equipe na vitória sobre Goiás",
-    "guid": "sc1multi:5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5fc3e7668ca85d77b8ca7693e0b0a7879e61a2a0/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
-  },
-  "source:76fc5ce7b70e3b7a0b8dfdde7315bdaf380f1be6": {
-    "url": "https://tnsul.com/2026/08/15/forquilhinha-paiol-pega-fogo-em-residencia",
-    "title": "Paiol de residência pega fogo em Forquilhinha",
-    "guid": "sc1multi:dfd354812014d3b76cd7aa858125fb51f4ee4bee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_dfd354812014d3b76cd7aa858125fb51f4ee4bee/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
-  },
-  "source:cde1844778357b80dcc20211e5867e6c7effc81b": {
-    "url": "https://tnsul.com/2026/08/15/tigre-vence-e-segue-na-lideranca-da-serie-b-do-brasileiro",
-    "title": "Criciúma vence Goiás e mantém liderança da Série B no Heriberto Hülse",
-    "guid": "sc1multi:d009e952e272f65a413250702dfc29438c188564",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d009e952e272f65a413250702dfc29438c188564/",
-    "usedAt": 1786850044455,
-    "usedAtIso": "2026-08-16T03:14:04.455Z"
-  },
-  "source:d8154fd2773fcb70810bdad2842aa9138cbf38de": {
-    "url": "https://rbatv.com.br/noticias/recapeamento-da-ponte-dos-arcos-sera-realizado-no-domingo-16",
-    "title": "Recapeamento da Ponte dos Arcos em Rio do Sul será realizado no domingo",
-    "guid": "sc1multi:7bc30df6db9a87ad815bfd40e0f50910cf340e78",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bc30df6db9a87ad815bfd40e0f50910cf340e78/",
-    "usedAt": 1786850044455,
-    "usedAtIso": "2026-08-16T03:14:04.455Z"
-  },
-  "source:09eb050dd0243da23c5c2fb67e3a210c1da0977c": {
-    "url": "https://rbatv.com.br/noticias/suv-e-destruido-por-incendio-na-br-470-em-blumenau",
-    "title": "SUV é destruído por incêndio na BR-470, em Blumenau",
-    "guid": "sc1multi:ccbb9dc27cdfb847db4d8b03ff4442bac06547b2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccbb9dc27cdfb847db4d8b03ff4442bac06547b2/",
-    "usedAt": 1786850044455,
-    "usedAtIso": "2026-08-16T03:14:04.455Z"
+    "usedAt": 1786853644356,
+    "usedAtIso": "2026-08-16T04:14:04.356Z"
   }
 }
