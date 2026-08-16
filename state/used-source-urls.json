@@ -1,4 +1,28 @@
 {
+  "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
+    "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
+    "guid": "sc1multi:e4093720ac612be56226e0e6c013815b70d83504",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e4093720ac612be56226e0e6c013815b70d83504/",
+    "usedAt": 1786914844802,
+    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  },
+  "source:e52284e4e5d1a732314349d7faa542ea6d36cec4": {
+    "url": "https://rbatv.com.br/noticias/colisao-traseira-deixa-mulher-ferida-na-br-470-em-ascurra",
+    "title": "Colisão traseira fere mulher na BR-470 em Ascurra, SC",
+    "guid": "sc1multi:55d1f567134ac432821520b931a8f3255e352226",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55d1f567134ac432821520b931a8f3255e352226/",
+    "usedAt": 1786914844802,
+    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  },
+  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
+    "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
+    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
+    "usedAt": 1786914844802,
+    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  },
   "source:b3c6fe98ed26711b6073143dfa007c6fe9d95f67": {
     "url": "https://tnsul.com/2026/08/16/criciuma-vazamento-de-gas-causa-incendio-em-churrasqueira-de-clube",
     "title": "Incêndio em churrasqueira de clube mobiliza bombeiros em Criciúma",
@@ -135,28 +159,28 @@
     "usedAt": 1786896844740,
     "usedAtIso": "2026-08-16T16:14:04.740Z"
   },
-  "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
-    "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
-    "guid": "sc1multi:e4093720ac612be56226e0e6c013815b70d83504",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e4093720ac612be56226e0e6c013815b70d83504/",
-    "usedAt": 1786914844802,
-    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
+    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
+    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
+    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
   },
-  "source:e52284e4e5d1a732314349d7faa542ea6d36cec4": {
-    "url": "https://rbatv.com.br/noticias/colisao-traseira-deixa-mulher-ferida-na-br-470-em-ascurra",
-    "title": "Colisão traseira fere mulher na BR-470 em Ascurra, SC",
-    "guid": "sc1multi:55d1f567134ac432821520b931a8f3255e352226",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55d1f567134ac432821520b931a8f3255e352226/",
-    "usedAt": 1786914844802,
-    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  "source:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5": {
+    "url": "https://ocp.news/politica/lunelli-inicia-campanha-ao-senado-propondo-foco-em-reformas-estruturais-do-pais",
+    "title": "Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais",
+    "guid": "sc1multi:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2cec5b56fd9a6581baae148ed8ee899d36aeb5/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
   },
-  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
-    "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
-    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
-    "usedAt": 1786914844802,
-    "usedAtIso": "2026-08-16T21:14:04.802Z"
+  "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
+    "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
+    "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
+    "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
   }
 }
