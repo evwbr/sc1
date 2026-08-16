@@ -1,4 +1,60 @@
 {
+  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
+    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
+    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
+    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:3445456b667787f061f5316b7ee08df17344cb28": {
+    "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
+    "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
+    "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
+    "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
+    "title": "JEC e Nação devem mandar jogos da Copa SC na Arena TopSun em Jaraguá do Sul",
+    "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
+    "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
+    "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
+    "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
+    "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
+    "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:270af9c6004e954a30169f48f54c3115e442b6be": {
+    "url": "https://tnsul.com/2026/08/15/morro-da-fumaca-atencao-para-sentido-unico-na-avenida-celeste-recco",
+    "title": "Avenida Celeste Recco em Morro da Fumaça passa a ter sentido único",
+    "guid": "sc1multi:365b598bb59c48a708e0911d390cfafb44e5d632",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_365b598bb59c48a708e0911d390cfafb44e5d632/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
+  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
+    "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
+    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
+    "usedAt": 1786835644245,
+    "usedAtIso": "2026-08-15T23:14:04.245Z"
+  },
   "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
     "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
     "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
@@ -164,32 +220,32 @@
     "title": "Homem de 72 anos fica ferido após colisão em Pomerode",
     "guid": "sc1multi:7d06062865da6853e245b43953d43958e9dd9cea",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d06062865da6853e245b43953d43958e9dd9cea/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
     "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
     "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
     "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:ccaf1bf5cfa978c70d1d9811f1baeaa419ed1282": {
     "url": "https://ocp.news/cotidiano/fim-de-semana-tera-elevacao-gradual-nas-temperaturas-confira",
     "title": "Fim de semana terá elevação gradual das temperaturas em Santa Catarina",
     "guid": "sc1multi:ccaf1bf5cfa978c70d1d9811f1baeaa419ed1282",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccaf1bf5cfa978c70d1d9811f1baeaa419ed1282/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:325f815304b8f1877aadc59dc4e268f3c677d2d0": {
     "url": "https://ocp.news/esporte/jaragua-futsal-visita-jec-em-busca-da-primeira-vitoria-no-classico-em-2026",
     "title": "Jaraguá Futsal enfrenta Joinville em clássico do Campeonato Catarinense",
     "guid": "sc1multi:325f815304b8f1877aadc59dc4e268f3c677d2d0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_325f815304b8f1877aadc59dc4e268f3c677d2d0/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:3f10e99c8f7a301bcfd54925c4a931329aecac2e": {
     "url": "https://rbatv.com.br/noticias/homem-morre-apos-maquina-agricola-cair-de-sete-metros-em-apiuna",
@@ -204,32 +260,16 @@
     "title": "PM cumpre mandados e registra posse de drogas em Guaramirim e Jaraguá do Sul",
     "guid": "sc1multi:ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ff14fb7f1e377fa82b3c14b56f0d3a4f8eee3495/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:bb26af125efec1b9da4f131dee7459a1341308bd": {
     "url": "https://tudoaquisc.com.br/ocorrencias/2-toneladas-maconha-140826",
     "title": "1,5 tonelada de maconha é apreendida em Lajeado Grande, SC",
     "guid": "sc1multi:ac4dbc7f57d8ef45041c2651652ac7558275415d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ac4dbc7f57d8ef45041c2651652ac7558275415d/",
-    "usedAt": 1786821244210,
-    "usedAtIso": "2026-08-15T19:14:04.210Z"
-  },
-  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
-    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
-    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
-    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
-  "source:3445456b667787f061f5316b7ee08df17344cb28": {
-    "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
-    "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
-    "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
+    "usedAt": 1786839244137,
+    "usedAtIso": "2026-08-16T00:14:04.137Z"
   },
   "source:6daaea5752304339f0ed242436123a3cf88b197f": {
     "url": "https://tnsul.com/2026/08/15/defesa-civil-deslizamento-deixa-tres-familias-desalojadas-na-regiao",
@@ -239,30 +279,6 @@
     "usedAt": 1786817644141,
     "usedAtIso": "2026-08-15T18:14:04.141Z"
   },
-  "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
-    "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
-    "title": "JEC e Nação devem mandar jogos da Copa SC na Arena TopSun em Jaraguá do Sul",
-    "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
-  "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
-    "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
-    "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
-    "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
-  "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
-    "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
-    "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
   "source:bbe5afab0918567a53ea0f565b1fe6b6e67e364c": {
     "url": "https://tnsul.com/2026/08/15/adolescente-e-apreendido-apos-resistir-a-abordagem-policial-em-jaguaruna",
     "title": "Adolescente é apreendido após resistir à abordagem em Jaguaruna",
@@ -270,21 +286,5 @@
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47e778460ade0b91deb169b595496b156e493abc/",
     "usedAt": 1786817644141,
     "usedAtIso": "2026-08-15T18:14:04.141Z"
-  },
-  "source:270af9c6004e954a30169f48f54c3115e442b6be": {
-    "url": "https://tnsul.com/2026/08/15/morro-da-fumaca-atencao-para-sentido-unico-na-avenida-celeste-recco",
-    "title": "Avenida Celeste Recco em Morro da Fumaça passa a ter sentido único",
-    "guid": "sc1multi:365b598bb59c48a708e0911d390cfafb44e5d632",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_365b598bb59c48a708e0911d390cfafb44e5d632/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
-  },
-  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
-    "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
-    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
-    "usedAt": 1786835644245,
-    "usedAtIso": "2026-08-15T23:14:04.245Z"
   }
 }
