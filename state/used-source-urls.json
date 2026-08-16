@@ -1,4 +1,44 @@
 {
+  "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
+    "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
+    "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
+    "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
+    "usedAt": 1786846444095,
+    "usedAtIso": "2026-08-16T02:14:04.095Z"
+  },
+  "source:813521980444f641276c3010aee7f56b57bc572a": {
+    "url": "https://scportais.com.br/2026/08/14/pelo-estado-14-08-nova-politica-de-cotas-da-udesc",
+    "title": "Udesc aprova nova política de cotas com 50% das vagas reservadas",
+    "guid": "sc1multi:4b700d4513a03927a828a7b08efef0e1931f9472",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b700d4513a03927a828a7b08efef0e1931f9472/",
+    "usedAt": 1786846444095,
+    "usedAtIso": "2026-08-16T02:14:04.095Z"
+  },
+  "source:8f43db480e26222ddd93b5da92e18f27321da0fb": {
+    "url": "https://ocp.news/seguranca/granizo-e-temporais-deixam-estragos-em-14-municipios-sc-segue-em-alerta",
+    "title": "Granizo e temporais causam danos em 14 municípios de Santa Catarina",
+    "guid": "sc1multi:8f43db480e26222ddd93b5da92e18f27321da0fb",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f43db480e26222ddd93b5da92e18f27321da0fb/",
+    "usedAt": 1786846444095,
+    "usedAtIso": "2026-08-16T02:14:04.095Z"
+  },
+  "source:993945d378a20b6b462a2931481ce9f907b1740e": {
+    "url": "https://ocp.news/economia/weg-e-novamente-destaque-no-top-of-mind-com-reconhecimentos-em-tres-categorias-e-homenagem-a-decio-da-silva",
+    "title": "WEG é destaque no Top of Mind em três categorias em Santa Catarina",
+    "guid": "sc1multi:993945d378a20b6b462a2931481ce9f907b1740e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_993945d378a20b6b462a2931481ce9f907b1740e/",
+    "usedAt": 1786846444095,
+    "usedAtIso": "2026-08-16T02:14:04.095Z"
+  },
+  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
+    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
+    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
+    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
+    "usedAt": 1786846444095,
+    "usedAtIso": "2026-08-16T02:14:04.095Z"
+  },
   "source:bf10e4b8b569cd50769e0ec78b91aad619bd0a25": {
     "url": "https://tudoaquisc.com.br/seguranca/escorrega-cai-predio-0826",
     "title": "Mulher cai do 4º andar de prédio durante chuva em Florianópolis",
@@ -164,16 +204,16 @@
     "title": "Homem é preso em Joinville por ataques a cooperativa em Indaial",
     "guid": "sc1multi:e6f81c2f356ed5b22e05d02d364ac6e339c6f10f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e6f81c2f356ed5b22e05d02d364ac6e339c6f10f/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
   },
   "source:02055a8c907c91453cb0aa5b01cdc5e33f6724ab": {
     "url": "https://rbatv.com.br/noticias/capotamento-na-br-470-deixa-adolescente-ferido-em-ibirama",
     "title": "Adolescente fica ferido em capotamento na BR-470 em Ibirama",
     "guid": "sc1multi:ca1f5ce5aa615c25febef8a3950d8eb2c47871e3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ca1f5ce5aa615c25febef8a3950d8eb2c47871e3/",
-    "usedAt": 1786832044257,
-    "usedAtIso": "2026-08-15T22:14:04.257Z"
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
   },
   "source:e68a17dc3528092bf6b1b1f8bc566a70d716f6da": {
     "url": "https://tnsul.com/2026/08/15/tigre-baptista-elogia-entrega-e-dedicacao-do-time",
@@ -196,63 +236,23 @@
     "title": "Criciúma vence Goiás e mantém liderança da Série B no Heriberto Hülse",
     "guid": "sc1multi:d009e952e272f65a413250702dfc29438c188564",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d009e952e272f65a413250702dfc29438c188564/",
-    "usedAt": 1786828444605,
-    "usedAtIso": "2026-08-15T21:14:04.605Z"
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
   },
   "source:d8154fd2773fcb70810bdad2842aa9138cbf38de": {
     "url": "https://rbatv.com.br/noticias/recapeamento-da-ponte-dos-arcos-sera-realizado-no-domingo-16",
     "title": "Recapeamento da Ponte dos Arcos em Rio do Sul será realizado no domingo",
     "guid": "sc1multi:7bc30df6db9a87ad815bfd40e0f50910cf340e78",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7bc30df6db9a87ad815bfd40e0f50910cf340e78/",
-    "usedAt": 1786828444605,
-    "usedAtIso": "2026-08-15T21:14:04.605Z"
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
   },
   "source:09eb050dd0243da23c5c2fb67e3a210c1da0977c": {
     "url": "https://rbatv.com.br/noticias/suv-e-destruido-por-incendio-na-br-470-em-blumenau",
     "title": "SUV é destruído por incêndio na BR-470, em Blumenau",
     "guid": "sc1multi:ccbb9dc27cdfb847db4d8b03ff4442bac06547b2",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccbb9dc27cdfb847db4d8b03ff4442bac06547b2/",
-    "usedAt": 1786828444605,
-    "usedAtIso": "2026-08-15T21:14:04.605Z"
-  },
-  "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
-    "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
-    "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
-    "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
-    "usedAt": 1786846444095,
-    "usedAtIso": "2026-08-16T02:14:04.095Z"
-  },
-  "source:813521980444f641276c3010aee7f56b57bc572a": {
-    "url": "https://scportais.com.br/2026/08/14/pelo-estado-14-08-nova-politica-de-cotas-da-udesc",
-    "title": "Udesc aprova nova política de cotas com 50% das vagas reservadas",
-    "guid": "sc1multi:4b700d4513a03927a828a7b08efef0e1931f9472",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4b700d4513a03927a828a7b08efef0e1931f9472/",
-    "usedAt": 1786846444095,
-    "usedAtIso": "2026-08-16T02:14:04.095Z"
-  },
-  "source:8f43db480e26222ddd93b5da92e18f27321da0fb": {
-    "url": "https://ocp.news/seguranca/granizo-e-temporais-deixam-estragos-em-14-municipios-sc-segue-em-alerta",
-    "title": "Granizo e temporais causam danos em 14 municípios de Santa Catarina",
-    "guid": "sc1multi:8f43db480e26222ddd93b5da92e18f27321da0fb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8f43db480e26222ddd93b5da92e18f27321da0fb/",
-    "usedAt": 1786846444095,
-    "usedAtIso": "2026-08-16T02:14:04.095Z"
-  },
-  "source:993945d378a20b6b462a2931481ce9f907b1740e": {
-    "url": "https://ocp.news/economia/weg-e-novamente-destaque-no-top-of-mind-com-reconhecimentos-em-tres-categorias-e-homenagem-a-decio-da-silva",
-    "title": "WEG é destaque no Top of Mind em três categorias em Santa Catarina",
-    "guid": "sc1multi:993945d378a20b6b462a2931481ce9f907b1740e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_993945d378a20b6b462a2931481ce9f907b1740e/",
-    "usedAt": 1786846444095,
-    "usedAtIso": "2026-08-16T02:14:04.095Z"
-  },
-  "source:c660d8119d7c7b2da3107c8f4f3e23cef30063c1": {
-    "url": "https://correiosc.com.br/sao-jose-sera-sede-do-campeonato-brasileiro-de-judo-junior-em-agosto",
-    "title": "São José recebe Campeonato Brasileiro de Judô Júnior com mais de 600 atletas",
-    "guid": "sc1multi:55e22ed4a3f6c6a981ec3994972868280677de43",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e22ed4a3f6c6a981ec3994972868280677de43/",
-    "usedAt": 1786846444095,
-    "usedAtIso": "2026-08-16T02:14:04.095Z"
+    "usedAt": 1786850044455,
+    "usedAtIso": "2026-08-16T03:14:04.455Z"
   }
 }
