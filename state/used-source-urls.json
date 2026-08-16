@@ -1,4 +1,28 @@
 {
+  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
+    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
+    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
+    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
+  },
+  "source:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5": {
+    "url": "https://ocp.news/politica/lunelli-inicia-campanha-ao-senado-propondo-foco-em-reformas-estruturais-do-pais",
+    "title": "Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais",
+    "guid": "sc1multi:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2cec5b56fd9a6581baae148ed8ee899d36aeb5/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
+  },
+  "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
+    "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
+    "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
+    "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
+    "usedAt": 1786918444444,
+    "usedAtIso": "2026-08-16T22:14:04.444Z"
+  },
   "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
     "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
     "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
@@ -135,52 +159,36 @@
     "usedAt": 1786900445808,
     "usedAtIso": "2026-08-16T17:14:05.808Z"
   },
-  "source:819338cf4c5fd98ded3ffcd14b4f3252587db6f0": {
-    "url": "https://tudoaquisc.com.br/politica/matson-ce-cpi-do-lixo-1408",
-    "title": "Presidente da Câmara de São José apoia instalação da CPI do Lixo",
-    "guid": "sc1multi:ccc0c99bc4025ab3bf75d488403200e1139cd272",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ccc0c99bc4025ab3bf75d488403200e1139cd272/",
-    "usedAt": 1786896844740,
-    "usedAtIso": "2026-08-16T16:14:04.740Z"
+  "source:46229a72b01cc682d2c93167a5344756d3d683b9": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-denuncia-de-estupro-em-ituporanga",
+    "title": "Homem é levado à delegacia após denúncia de estupro em Ituporanga",
+    "guid": "sc1multi:6af77dd2614fb93ade3a64014f2bae6322e5c107",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6af77dd2614fb93ade3a64014f2bae6322e5c107/",
+    "usedAt": 1786922044622,
+    "usedAtIso": "2026-08-16T23:14:04.622Z"
   },
-  "source:c06b2dd8df77188f0a510a9d17ae3f7f12a2f68d": {
-    "url": "https://tnsul.com/2026/08/16/acidente-na-br-101-deixa-dois-feridos-durante-a-madrugada-em-ararangua",
-    "title": "Acidente na BR-101 deixa dois feridos em Araranguá",
-    "guid": "sc1multi:0462f23a077ffe4a9445641be34ea6c51be32290",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0462f23a077ffe4a9445641be34ea6c51be32290/",
-    "usedAt": 1786896844740,
-    "usedAtIso": "2026-08-16T16:14:04.740Z"
+  "source:87a9fbb0cc3ebc47c0f3f5205cb40334986b8347": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-por-divida-de-pensao-alimenticia-apos-desentendimento-familiar-em-rio-do-sul",
+    "title": "Homem é preso em Rio do Sul por dívida de pensão alimentícia",
+    "guid": "sc1multi:e91bf8be7e986427715f4416f666a168b2e7f153",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e91bf8be7e986427715f4416f666a168b2e7f153/",
+    "usedAt": 1786922044622,
+    "usedAtIso": "2026-08-16T23:14:04.622Z"
   },
-  "source:b853984a1327c94f1bcda667f33e528c99695e52": {
-    "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
-    "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
-    "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1786896844740,
-    "usedAtIso": "2026-08-16T16:14:04.740Z"
+  "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
+    "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
+    "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
+    "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
+    "usedAt": 1786922044622,
+    "usedAtIso": "2026-08-16T23:14:04.622Z"
   },
-  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
-    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
-    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
-    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
-    "usedAt": 1786918444444,
-    "usedAtIso": "2026-08-16T22:14:04.444Z"
-  },
-  "source:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5": {
-    "url": "https://ocp.news/politica/lunelli-inicia-campanha-ao-senado-propondo-foco-em-reformas-estruturais-do-pais",
-    "title": "Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais",
-    "guid": "sc1multi:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2cec5b56fd9a6581baae148ed8ee899d36aeb5/",
-    "usedAt": 1786918444444,
-    "usedAtIso": "2026-08-16T22:14:04.444Z"
-  },
-  "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
-    "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
-    "title": "Bioluminescência ilumina praias de São Francisco do Sul em Santa Catarina",
-    "guid": "sc1multi:edec5957f669eabb8de09d55b0e9aaff3e9cfd25",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_edec5957f669eabb8de09d55b0e9aaff3e9cfd25/",
-    "usedAt": 1786918444444,
-    "usedAtIso": "2026-08-16T22:14:04.444Z"
+  "source:7d06062865da6853e245b43953d43958e9dd9cea": {
+    "url": "https://ocp.news/seguranca/homem-de-72-anos-fica-ferido-apos-colisao-entre-dois-carros-em-pomerode",
+    "title": "Homem de 72 anos fica ferido após colisão em Pomerode",
+    "guid": "sc1multi:7d06062865da6853e245b43953d43958e9dd9cea",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7d06062865da6853e245b43953d43958e9dd9cea/",
+    "usedAt": 1786922044622,
+    "usedAtIso": "2026-08-16T23:14:04.622Z"
   }
 }
