@@ -9,191 +9,170 @@
 <atom:link href="https://evwbr.github.io/sc1/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/sc1/</link>
 <description>Notícias de Santa Catarina - SC1 (últimas 48h) - Evo Web News</description>
-<lastBuildDate>Mon, 17 Aug 2026 12:16:46 GMT</lastBuildDate>
+<lastBuildDate>Mon, 17 Aug 2026 13:17:34 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Homem é morto com tiro na cabeça após conflito por dívida em Blumenau]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_be9e38ad80cf7831ce5743d54812a0f8a9ea2b41/?rssretry=43</link>
+<title><![CDATA[Colisão frontal deixa dois feridos na SC-108 em Orleans]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_33d2f8db182c3e271cd0074aafa02f12404bba8a/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 12:02:52 GMT</pubDate>
+<pubDate>Mon, 17 Aug 2026 12:30:00 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:be9e38ad80cf7831ce5743d54812a0f8a9ea2b41:rssretry43]]></guid>
+<guid isPermaLink="false"><![CDATA[sc1multi:33d2f8db182c3e271cd0074aafa02f12404bba8a:rssretry43]]></guid>
+<description><![CDATA[Duas pessoas ficaram feridas em uma colisão frontal na SC-108, em Orleans.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-20.27.33.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-20.27.33.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-20.27.33.jpeg"/>
+<content:encoded><![CDATA[
+<p>O acidente ocorreu na noite de domingo, 16, no bairro São Gerônimo, envolvendo dois carros.</p>
+<p>A motorista de 23 anos, que conduzia um Celta, estava consciente, mas sentia fortes dores no tórax e abdômen.</p>
+<p>Ela foi retirada do veículo pelos bombeiros, estabilizada e levada ao Hospital de Orleans para atendimento.</p>
+<p>O outro motorista, um homem de 42 anos, dirigia um Renault Clio e também ficou preso no carro, porém sem lesões aparentes.</p>
+<p>Após o resgate, a Polícia Militar Rodoviária assumiu o controle da situação na rodovia.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Homem de 51 anos morre em acidente entre carro e moto em Jaraguá do Sul]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_0301352ac4a4dccf41ffdb2ff05c6ce14a9fa1fb/?rssretry=43</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 17 Aug 2026 11:31:18 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:0301352ac4a4dccf41ffdb2ff05c6ce14a9fa1fb:rssretry43]]></guid>
+<description><![CDATA[Um homem de 51 anos morreu em uma colisão entre carro e motocicleta na Ilha da Figueira, Jaraguá do Sul.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FACIDENTE-MORTE-JARAGUA.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FACIDENTE-MORTE-JARAGUA.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FACIDENTE-MORTE-JARAGUA.jpg"/>
+<content:encoded><![CDATA[
+<p>O acidente ocorreu na manhã desta segunda-feira (17) enquanto a vítima seguia para o trabalho.</p>
+<p>Equipes dos Bombeiros, do SAMU e da Polícia foram acionadas e constataram o óbito ainda no local.</p>
+<p>A colisão envolveu um carro e uma motocicleta na região da Ilha da Figueira, em Jaraguá do Sul.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Santa Catarina terá calor e sol entre nuvens nesta segunda e terça-feira]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_68e124d923874aa98e379acf7da3e72347e8e708/?rssretry=43</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Mon, 17 Aug 2026 08:00:35 GMT</pubDate>
+<category><![CDATA[Santa Catarina]]></category>
+<guid isPermaLink="false"><![CDATA[sc1multi:68e124d923874aa98e379acf7da3e72347e8e708:rssretry43]]></guid>
 <description><![CDATA[Atualização de Santa Catarina.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-17-at-08.54.16.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-17-at-08.54.16.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-17-at-08.54.16.jpeg"/>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fimagem-do-whatsapp-de-2023-04-28-as-092743.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fimagem-do-whatsapp-de-2023-04-28-as-092743.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fimagem-do-whatsapp-de-2023-04-28-as-092743.jpg"/>
 <content:encoded><![CDATA[
-<p>O crime ocorreu após um conflito relacionado a uma dívida de aproximadamente R$ 800. A vítima recebeu os primeiros atendimentos e foi levada ao Hospital Santa Isabel, mas não resistiu aos ferimentos.</p>
-<p>No local do crime, a polícia encontrou um estojo de munição calibre 9mm Luger. Testemunhas e imagens de câmeras de monitoramento ajudaram a identificar um suspeito do disparo.</p>
-<p>As imagens mostram uma pessoa com características compatíveis com o suspeito se deslocando rapidamente em direção à BR-470 após o provável horário do disparo. Buscas foram feitas em endereços ligados ao homem e nas proximidades da rodovia, mas ele não foi encontrado.</p>
-<p>A Polícia Civil investiga o caso para esclarecer a motivação, a dinâmica e as circunstâncias do homicídio. A Polícia Militar informou que as informações divulgadas até o momento são preliminares.</p>
+<p>Na segunda-feira (17), o estado terá mais nuvens e chuva fraca e isolada no início do dia, especialmente no Litoral Norte e na Grande Florianópolis, onde o sol aparecerá entre nuvens durante a tarde.</p>
+<p>As temperaturas subirão rapidamente, com máximas entre 26°C e 30°C na maior parte do estado, e entre 32°C e 35°C no Extremo Oeste, Oeste e Litoral Sul.</p>
+<p>O vento soprará de nordeste, fraco a moderado, com rajadas de 50 a 70 km/h no Oeste e no Litoral, devido ao avanço de uma alta pressão pelo oeste do estado e circulação marítima no litoral.</p>
+<p>Os ventos variarão entre nordeste e norte, fracos a moderados, com rajadas mais intensas de 50 a 70 km/h no Oeste e no Litoral.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Blumenau oferece curso intermediário de informática para pessoas com deficiência]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_5f2a5de4fdfa0b129ad5101da3c6aa12fbd458a5/?rssretry=43</link>
+<title><![CDATA[Figueirense vence Caxias e mantém esperança de acesso na Série C]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_af76ba42615deb5519f8597b300ae843d4dde77a/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 11:54:40 GMT</pubDate>
+<pubDate>Sun, 16 Aug 2026 21:29:20 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:5f2a5de4fdfa0b129ad5101da3c6aa12fbd458a5:rssretry43]]></guid>
-<description><![CDATA[A Prefeitura de Blumenau abriu inscrições para curso intermediário de informática voltado a pessoas com deficiência.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FCURSO-INFORMATICA-BLUMENAU.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FCURSO-INFORMATICA-BLUMENAU.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FCURSO-INFORMATICA-BLUMENAU.jpg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:af76ba42615deb5519f8597b300ae843d4dde77a:rssretry43]]></guid>
+<description><![CDATA[O Figueirense venceu o Caxias por 2 a 1 no estádio Centenário e segue na briga pela classificação na Série C do Brasileiro.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fjhonnathan-figueirense-caxias-2026.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fjhonnathan-figueirense-caxias-2026.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftudoaquisc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fjhonnathan-figueirense-caxias-2026.jpg"/>
 <content:encoded><![CDATA[
-<p>O curso (In)FORMA – Formação em Informática é uma parceria entre a Prefeitura de Blumenau e a UniSociesc, destinado a pessoas com deficiência que já possuem noções básicas de informática.</p>
-<p>As aulas começam no dia 25 de agosto e ocorrerão às terças-feiras, das 14h às 16h, na UniSociesc, totalizando 15 encontros.</p>
-<p>O conteúdo inclui atividades práticas com Excel e Word em nível intermediário, além da elaboração de currículo, visando ampliar a autonomia e as oportunidades no mercado de trabalho.</p>
-<p>A iniciativa é promovida pela Secretaria de Inclusão da Pessoa com Deficiência e Paradesporto (Seidep) e busca fortalecer a inclusão e acessibilidade na cidade.</p>
+<p>O Alvinegro conquistou sua primeira vitória contra o Caxias no estádio Centenário, em Caxias do Sul, com gols de Emerson Galego e Jhonnathan, após o time da casa abrir o placar com Dentinho.</p>
+<p>Com o resultado, o Figueirense alcançou a mesma pontuação da zona de classificação, ficando atrás apenas nos critérios de desempate, e soma quatro vitórias fora de casa na competição.</p>
+<p>A equipe catarinense está invicta há quatro jogos contra o Caxias e depende apenas de si para garantir a vaga na segunda fase do campeonato.</p>
+<p>Restam duas rodadas na primeira fase, com o próximo desafio do Figueirense sendo contra a Inter de Limeira fora de casa, seguido de um jogo decisivo no estádio Orlando Scarpelli.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Joinville amplia serviço de tapa-buraco e reduz ordens pendentes]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_b7b9226f482d947197d7299eaa9c467ce8fe1800/?rssretry=43</link>
+<title><![CDATA[Colisão frontal na SC-355 em Videira deixa seis feridos]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_bc4babee4a9445792e8fdf913d9c5207c16dc412/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 11:43:26 GMT</pubDate>
+<pubDate>Sun, 16 Aug 2026 19:29:44 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:b7b9226f482d947197d7299eaa9c467ce8fe1800:rssretry43]]></guid>
-<description><![CDATA[A Prefeitura de Joinville aumentou o número de equipes e serviços de tapa-buraco, ampliando as áreas recuperadas na cidade.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTAPA-BURACO-JOINVILLE.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTAPA-BURACO-JOINVILLE.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FTAPA-BURACO-JOINVILLE.jpeg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:bc4babee4a9445792e8fdf913d9c5207c16dc412:rssretry43]]></guid>
+<description><![CDATA[Seis pessoas ficaram feridas em um acidente na SC-355, em Videira, no Meio-Oeste de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Facidente-sc-355.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Facidente-sc-355.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Facidente-sc-355.jpg"/>
 <content:encoded><![CDATA[
-<p>O número de serviços de tapa-buraco realizados em Joinville subiu de 837 para 1.562, com a ampliação das equipes de quatro para pelo menos seis atuando na cidade.</p>
-<p>As intervenções ocorreram em diversas regiões, incluindo ruas importantes para a mobilidade, como Monsenhor Gercino, Minas Gerais, Boehmerwald, Quinze de Outubro e Ayrton Senna.</p>
-<p>Em julho, foram concluídas 540 ordens de serviço, mais que o dobro das 269 executadas em junho, reduzindo as solicitações pendentes de 514 para 312, uma queda de 39,8%.</p>
-<p>O planejamento diário das equipes é baseado em demandas registradas pela Ouvidoria, setores da Prefeitura e fiscalização, garantindo atendimento organizado e eficiente.</p>
-<p>Além do tapa-buraco, a Águas de Joinville realiza repavimentação após obras hidráulicas, com cerca de 19 mil serviços executados no primeiro semestre, utilizando asfalto a frio para pavimentação provisória.</p>
+<p>Dois veículos colidiram frontalmente na noite de sábado (15) na SC-355, em Videira, resultando em seis feridos e destruição total dos carros.</p>
+<p>A Polícia Militar Rodoviária informou que um dos veículos invadiu a pista contrária e atingiu o outro automóvel que seguia no sentido oposto.</p>
+<p>Duas vítimas ficaram em estado grave e foram entubadas pelas equipes de atendimento, sendo todas socorridas pelo Corpo de Bombeiros e levadas ao Hospital Divino Salvador.</p>
+<p>Uma das pessoas feridas precisou ser transferida para Caçador para receber atendimento especializado.</p>
+<p>Duas testemunhas relataram que um dos veículos cruzou a faixa contrária, enquanto os demais ocupantes ainda recebiam atendimento médico no momento.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Mulher morre e criança é internada após deslizamento em Santo Amaro da Imperatriz]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_d1fde8739fbf3587ea11b38d6e860389b73bb5da/?rssretry=43</link>
+<title><![CDATA[Bombeiros Voluntários de Jaraguá do Sul celebram 60 anos com feijoada especial]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_83280aaf29472b9741e3216fba32edef40ecfe22/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 11:25:00 GMT</pubDate>
+<pubDate>Sun, 16 Aug 2026 16:39:01 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:d1fde8739fbf3587ea11b38d6e860389b73bb5da:rssretry43]]></guid>
-<description><![CDATA[Uma mulher morreu e uma criança de 10 anos foi internada na UTI após deslizamento de terra em Santo Amaro da Imperatriz.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FDESLIZAMENTO-GRANDE-FLORIANOPOLIS.jpg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FDESLIZAMENTO-GRANDE-FLORIANOPOLIS.jpg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FDESLIZAMENTO-GRANDE-FLORIANOPOLIS.jpg"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:83280aaf29472b9741e3216fba32edef40ecfe22:rssretry43]]></guid>
+<description><![CDATA[Os Bombeiros Voluntários de Jaraguá do Sul comemoraram 60 anos com uma feijoada especial no Parque Municipal de Eventos.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fb00b0a4f-2b80-4508-9c16-04225d644043.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fb00b0a4f-2b80-4508-9c16-04225d644043.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2Fb00b0a4f-2b80-4508-9c16-04225d644043.jpg"/>
 <content:encoded><![CDATA[
-<p>O deslizamento ocorreu neste domingo (16) em Santo Amaro da Imperatriz, na Grande Florianópolis, durante as fortes chuvas que atingiram a região.</p>
-<p>A terra atingiu a casa onde a mulher estava com familiares, destruindo parte da residência e deixando outras três pessoas feridas.</p>
-<p>A criança de 10 anos sofreu uma parada cardiorrespiratória, foi socorrida e permanece internada na Unidade de Terapia Intensiva (UTI).</p>
-<p>A mulher foi retirada do local com vida, mas não resistiu aos ferimentos causados pelo deslizamento.</p>
-<p>As chuvas também causaram danos em outras regiões de Santa Catarina, afetando mais de 100 residências, além de quedas de pontes e postes.</p>
+<p>O evento reuniu integrantes da comunidade em uma celebração que destacou a história e o reconhecimento do trabalho da corporação ao longo de seis décadas.</p>
+<p>Fundada em 1966, a instituição é referência no atendimento de emergências, salvamento e ações de prevenção no município.</p>
+<p>O comandante Neilor Vincenzi ressaltou a importância da comemoração e da proximidade com a população, afirmando que a feijoada faz parte de uma série de atividades planejadas.</p>
+<p>Atualmente, cerca de 140 bombeiros voluntários atuam diretamente nos atendimentos, totalizando mais de 200 pessoas envolvidas nas atividades operacionais e administrativas.</p>
+<p>A programação dos 60 anos seguirá com uma solenidade no dia 25 de agosto na Sociedade Cultura Artística, reunindo bombeiros, familiares e representantes da comunidade.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Colisão entre dois carros é registrada na SC-340 em Presidente Getúlio]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_52ba5446741a22e3fc35622b3513808a2809cca0/?rssretry=43</link>
+<title><![CDATA[Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_4e2cec5b56fd9a6581baae148ed8ee899d36aeb5/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 01:09:16 GMT</pubDate>
+<pubDate>Sun, 16 Aug 2026 12:49:22 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:52ba5446741a22e3fc35622b3513808a2809cca0:rssretry43]]></guid>
-<description><![CDATA[Uma colisão entre dois carros foi registrada na SC-340, em Presidente Getúlio, no fim da tarde deste domingo.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.35.18-1024x769.webp%3Foc%3D1786968881" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.35.18-1024x769.webp%3Foc%3D1786968881" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.35.18-1024x769.webp%3Foc%3D1786968881"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5:rssretry43]]></guid>
+<description><![CDATA[O deputado estadual Antídio Lunelli inicia sua campanha ao Senado propondo reformas estruturais para o Brasil, com prioridade para Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-09.24.19.jpeg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-09.24.19.jpeg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Focp.news%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-09.24.19.jpeg"/>
 <content:encoded><![CDATA[
-<p>O acidente ocorreu pouco antes das 18h, no sentido ao bairro Niterói, em frente à Prefeitura de Presidente Getúlio.</p>
-<p>A condutora de um Fiat Siena, de 24 anos, estava consciente e orientada, apresentando apenas nervosismo e sem ferimentos aparentes.</p>
-<p>Após avaliação dos socorristas dos Bombeiros Voluntários de Presidente Getúlio, a mulher recusou encaminhamento ao Hospital Maria Auxiliadora.</p>
-<p>O condutor do outro veículo deixou o local antes da chegada das equipes de emergência, seguindo com o próprio carro.</p>
-<p>A Polícia Militar Rodoviária Estadual foi acionada para realizar os procedimentos relacionados à ocorrência.</p>
+<p>Antídio Lunelli, deputado estadual e ex-prefeito catarinense, oficializa sua candidatura ao Senado com uma agenda centrada em reformas estruturais que o país precisa enfrentar nos próximos anos.</p>
+<p>Ele defende que o debate sobre as contas públicas deve ir além do aumento de impostos, abordando o custo da máquina pública e a eficiência na utilização dos recursos arrecadados.</p>
+<p>A reforma administrativa é um dos pilares da proposta, buscando maior eficiência na gestão pública, valorização dos servidores e revisão de privilégios e estruturas excessivas.</p>
+<p>Lunelli destaca que, apesar do alcance nacional das reformas, Santa Catarina será sua prioridade, pois conhece a realidade dos municípios e do setor produtivo do estado.</p>
+<p>O candidato afirma que pretende trabalhar para dar mais voz a Santa Catarina em Brasília, garantir respeito à arrecadação estadual e melhorar os serviços públicos para a população catarinense.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Mulher é presa por furtar 36 barras de chocolate em Rio do Sul]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_39102c7154da6186825abc3f3dc4a45460fcac1e/?rssretry=43</link>
+<title><![CDATA[Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 01:04:43 GMT</pubDate>
+<pubDate>Sat, 15 Aug 2026 14:20:54 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:39102c7154da6186825abc3f3dc4a45460fcac1e:rssretry43]]></guid>
-<description><![CDATA[Uma mulher foi presa após ser flagrada furtando 36 barras de chocolate em um supermercado de Rio do Sul.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.53.12-1024x576.webp%3Foc%3D1786968882" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.53.12-1024x576.webp%3Foc%3D1786968882" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.53.12-1024x576.webp%3Foc%3D1786968882"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f:rssretry43]]></guid>
+<description><![CDATA[O governador Jorginho Mello iniciou a campanha eleitoral em Florianópolis e inaugurou comitê em Joinville.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FJorginho-Mello-inicia-campanha.webp" type="image/webp"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FJorginho-Mello-inicia-campanha.webp" medium="image" type="image/webp"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FJorginho-Mello-inicia-campanha.webp"/>
 <content:encoded><![CDATA[
-<p>O furto ocorreu em um supermercado localizado às margens da BR-470, em Rio do Sul.</p>
-<p>A Guarda Municipal foi acionada após o gerente do estabelecimento deter a suspeita no local.</p>
-<p>A mulher foi encaminhada à Delegacia de Polícia Civil, onde foi lavrado o auto de prisão em flagrante.</p>
-<p>Posteriormente, ela foi levada ao presídio de Ituporanga para cumprimento da prisão.</p>
+<p>À tarde, Jorginho Mello e o candidato a vice-governador Adriano Silva inauguraram o comitê eleitoral no Centro de Joinville, que servirá para ampliar o contato com moradores e lideranças das regiões Norte e Nordeste de Santa Catarina.</p>
+<p>Joinville, maior colégio eleitoral do estado e importante polo industrial, foi escolhida estrategicamente para reforçar a relação da campanha com a população local, destacando a experiência de Jorginho Mello como ex-prefeito da cidade.</p>
+<p>Adriano Silva ressaltou a intenção de levar as práticas de gestão desenvolvidas em Joinville para todo o estado, enquanto os candidatos também apresentaram as principais linhas do Plano de Governo em coletiva de imprensa.</p>
 ]]></content:encoded>
 </item>
 <item>
-<title><![CDATA[Homem é socorrido após engasgar com alimento em Dona Emma]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_b67e64391d587ac6eb2347f809581ab51e21c9a8/?rssretry=43</link>
+<title><![CDATA[Alesc realiza sessão solene em homenagem à Fecomércio SC, Sesc e Senac]]></title>
+<link>https://evwbr.github.io/sc1/p/sc1multi_b4466e626cd2edaa2b033e2342a3b77f2a2f9a20/?rssretry=43</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 00:59:26 GMT</pubDate>
+<pubDate>Sat, 15 Aug 2026 13:14:08 GMT</pubDate>
 <category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:b67e64391d587ac6eb2347f809581ab51e21c9a8:rssretry43]]></guid>
-<description><![CDATA[Um homem de 48 anos recebeu atendimento de emergência após se engasgar com alimento em Dona Emma.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.21.21-1024x516.webp%3Foc%3D1786968883" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.21.21-1024x516.webp%3Foc%3D1786968883" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.21.21-1024x516.webp%3Foc%3D1786968883"/>
+<guid isPermaLink="false"><![CDATA[sc1multi:b4466e626cd2edaa2b033e2342a3b77f2a2f9a20:rssretry43]]></guid>
+<description><![CDATA[Atualização de Santa Catarina.]]></description>
+<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fscportais.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Ffecomerciosescsenac-sc-alesc-homenagem.jpg" type="image/jpeg"/>
+<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fscportais.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Ffecomerciosescsenac-sc-alesc-homenagem.jpg" medium="image" type="image/jpeg"/>
+<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fscportais.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Ffecomerciosescsenac-sc-alesc-homenagem.jpg"/>
 <content:encoded><![CDATA[
-<p>O incidente ocorreu na tarde de domingo, durante um momento em família na cidade de Dona Emma.</p>
-<p>Antes da chegada dos Bombeiros Voluntários de Presidente Getúlio, uma bombeira voluntária que mora nas proximidades prestou os primeiros socorros.</p>
-<p>Como a vítima ainda conseguia respirar com dificuldade, policiais militares iniciaram o transporte na viatura para agilizar o atendimento.</p>
-<p>Na localidade de Rio Krauel, a equipe da Polícia Militar encontrou os bombeiros, que assumiram o atendimento e levaram o homem ao Hospital Maria Auxiliadora, em Presidente Getúlio.</p>
-<p>A equipe médica conseguiu desobstruir as vias aéreas e estabilizar o paciente, que estava bem após o atendimento.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/?rssretry=43</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 00:39:57 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc:rssretry43]]></guid>
-<description><![CDATA[A construção do Parque Urbano e Marina na Beira-Mar Norte, em Florianópolis, avança com a formação da base estrutural e lançamento de rochas na Baía Norte.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FParque-Urbano-e-Marina-Beira-Mar-Norte.webp" type="image/webp"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FParque-Urbano-e-Marina-Beira-Mar-Norte.webp" medium="image" type="image/webp"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.correiosc.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FParque-Urbano-e-Marina-Beira-Mar-Norte.webp"/>
-<content:encoded><![CDATA[
-<p>Mais de 16 mil metros cúbicos de material, equivalentes a 27 mil toneladas, já foram lançados na Baía Norte, com avanço linear de 405 metros na primeira etapa da obra.</p>
-<p>O enrocamento, com cerca de 4,5 metros de altura, está sendo formado para servir de base estrutural ao parque, seguindo como referência o trapiche existente na região.</p>
-<p>Para garantir segurança e minimizar impactos ambientais, estruturas de contenção e sinalização permanecem instaladas durante os trabalhos, que são realizados de forma gradual e controlada.</p>
-<p>Após o enrocamento, a obra seguirá para a dragagem da areia do fundo da Baía Norte, ampliando progressivamente a área destinada ao novo parque urbano.</p>
-<p>O projeto, executado pela Construtora JL com investimento privado de aproximadamente R$ 350 milhões, prevê 140 mil metros quadrados de parque e uma marina, estimulando o turismo náutico e gerando mais de 2 mil empregos diretos e indiretos.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem morre em colisão envolvendo três veículos em Criciúma]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_663858bd92a5562c5b132ec6cb6abdd0c271b556/?rssretry=43</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 17 Aug 2026 00:34:54 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:663858bd92a5562c5b132ec6cb6abdd0c271b556:rssretry43]]></guid>
-<description><![CDATA[Um homem de 62 anos morreu após uma colisão entre três veículos na noite de domingo em Criciúma.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.23.58.jpeg" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.23.58.jpeg" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Ftnsul.com%2Fwp-content%2Fuploads%2F2026%2F08%2FWhatsApp-Image-2026-08-16-at-21.23.58.jpeg"/>
-<content:encoded><![CDATA[
-<p>O acidente envolveu um Honda CR-V, um Renault Sandero e um Honda City na cidade de Criciúma, Santa Catarina.</p>
-<p>O condutor do Renault Sandero ficou preso no veículo, caracterizando um encarceramento físico tipo II, e não resistiu aos ferimentos, morrendo no local.</p>
-<p>O Honda City transportava cinco pessoas, incluindo uma menina de oito anos e duas mulheres de 35 e 22 anos, que foram encaminhadas a hospitais da região.</p>
-<p>As equipes de resgate de Criciúma e Içara participaram da operação, utilizando diversas viaturas e contando com o apoio do Samu e da Polícia Militar.</p>
-]]></content:encoded>
-</item>
-<item>
-<title><![CDATA[Homem é levado à delegacia após denúncia de estupro em Ituporanga]]></title>
-<link>https://evwbr.github.io/sc1/p/sc1multi_6af77dd2614fb93ade3a64014f2bae6322e5c107/?rssretry=43</link>
-<dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 16 Aug 2026 23:06:48 GMT</pubDate>
-<category><![CDATA[Santa Catarina]]></category>
-<guid isPermaLink="false"><![CDATA[sc1multi:6af77dd2614fb93ade3a64014f2bae6322e5c107:rssretry43]]></guid>
-<description><![CDATA[Um homem foi conduzido à delegacia após uma mulher denunciar estupro em Ituporanga.]]></description>
-<enclosure url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fpolicia-militar-1024x597.webp%3Foc%3D1786968884" type="image/jpeg"/>
-<media:content url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fpolicia-militar-1024x597.webp%3Foc%3D1786968884" medium="image" type="image/jpeg"/>
-<media:thumbnail url="https://res.cloudinary.com/dq2l8okgc/image/fetch/f_jpg,q_auto:good,c_fill,g_auto,w_1200,h_675/https%3A%2F%2Fwww.rbatv.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2Fpolicia-militar-1024x597.webp%3Foc%3D1786968884"/>
-<content:encoded><![CDATA[
-<p>A vítima relatou que conheceu o homem durante uma formatura em um salão de igreja e, após conversarem e se beijarem, saíram juntos no veículo dele com mais dois amigos.</p>
-<p>Após deixar os amigos, o homem teria se recusado a levá-la para casa e a carregou até um apartamento, onde a forçou a manter relação sexual sem consentimento.</p>
-<p>A mulher entrou em contato com a filha, que a buscou e a levou ao Hospital Bom Jesus.</p>
-<p>O homem permitiu a entrada dos policiais no apartamento e confirmou a relação sexual, sendo conduzido de forma cooperativa à Central de Plantão Policial de Rio do Sul para os procedimentos legais.</p>
+<p>A cerimônia destacou a contribuição do Sistema Comércio para o crescimento econômico e social de Santa Catarina e do Brasil nas últimas décadas.</p>
+<p>O evento reuniu lideranças nacionais e regionais do Sistema Comércio, incluindo o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros.</p>
+<p>As autoridades ressaltaram o papel fundamental da Fecomércio SC, do Sesc e do Senac na representação do setor e na construção de uma rede que fortalece os negócios em todo o estado.</p>
+<p>José Roberto Tadros enfatizou que Santa Catarina ocupa um lugar de destaque na história do Sistema, destacando o espírito empreendedor catarinense como decisivo para o setor do comércio no país.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
