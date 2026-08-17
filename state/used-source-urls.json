@@ -1,4 +1,44 @@
 {
+  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
+    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
+    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos no estado",
+    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
+    "usedAt": 1786961645398,
+    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  },
+  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
+    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
+    "title": "Deslizamento de terra deixa menina em estado grave em Santo Amaro da Imperatriz",
+    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
+    "usedAt": 1786961645398,
+    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  },
+  "source:a830b45067198e5a44dcc329a5eb7e87a9a9f326": {
+    "url": "https://ocp.news/politica/santa-catarina-tem-692-candidaturas-registradas-para-as-eleicoes-2026",
+    "title": "Santa Catarina registra 692 candidaturas para as Eleições 2026",
+    "guid": "sc1multi:a830b45067198e5a44dcc329a5eb7e87a9a9f326",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a830b45067198e5a44dcc329a5eb7e87a9a9f326/",
+    "usedAt": 1786961645398,
+    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  },
+  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
+    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
+    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
+    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
+    "usedAt": 1786961645398,
+    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  },
+  "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
+    "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
+    "guid": "sc1multi:e4093720ac612be56226e0e6c013815b70d83504",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e4093720ac612be56226e0e6c013815b70d83504/",
+    "usedAt": 1786961645398,
+    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  },
   "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
     "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
     "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
@@ -180,16 +220,16 @@
     "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
     "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
   "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
     "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
     "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
     "guid": "sc1multi:b5910d76d76ea5410a7e846e350b3c3647ba4054",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5910d76d76ea5410a7e846e350b3c3647ba4054/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
   "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
     "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
@@ -204,32 +244,16 @@
     "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
     "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
   "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
     "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
     "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
     "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
-    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
-    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos no estado",
-    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
-  },
-  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
-    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
-    "title": "Deslizamento de terra deixa menina em estado grave em Santo Amaro da Imperatriz",
-    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
   "source:46229a72b01cc682d2c93167a5344756d3d683b9": {
     "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-denuncia-de-estupro-em-ituporanga",
@@ -239,28 +263,52 @@
     "usedAt": 1786943645012,
     "usedAtIso": "2026-08-17T05:14:05.012Z"
   },
-  "source:a830b45067198e5a44dcc329a5eb7e87a9a9f326": {
-    "url": "https://ocp.news/politica/santa-catarina-tem-692-candidaturas-registradas-para-as-eleicoes-2026",
-    "title": "Santa Catarina registra 692 candidaturas para as Eleições 2026",
-    "guid": "sc1multi:a830b45067198e5a44dcc329a5eb7e87a9a9f326",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a830b45067198e5a44dcc329a5eb7e87a9a9f326/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  "source:db9a73651cf6b5d0d50768b7f38466cf4b6885ea": {
+    "url": "https://rbatv.com.br/noticias/prf-apreende-ecstasy-maconha-e-material-usado-para-produzir-lanca-perfume-em-onibus-na-br-116",
+    "title": "PRF apreende drogas e lança-perfume em ônibus na BR-116 em Mafra",
+    "guid": "sc1multi:df5f033643f5fc6689b6f2e9fa1c90b10548a18d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df5f033643f5fc6689b6f2e9fa1c90b10548a18d/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
-  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
-    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
-    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
-    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  "source:06e0cf619a903d3f6bd4d16b827025e32b6a3436": {
+    "url": "https://rbatv.com.br/noticias/van-de-rio-do-sul-se-envolve-em-colisao-que-matou-motociclista-na-br-282",
+    "title": "Van de Rio do Sul se envolve em colisão fatal na BR-282 em Herval d'Oeste",
+    "guid": "sc1multi:e74183bc576bdaf7085b549f7436bb68e2dc638c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e74183bc576bdaf7085b549f7436bb68e2dc638c/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   },
-  "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
-    "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
-    "guid": "sc1multi:e4093720ac612be56226e0e6c013815b70d83504",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e4093720ac612be56226e0e6c013815b70d83504/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
+  "source:0582c588827164b1d7f7c00c193c21854d24972d": {
+    "url": "https://rbatv.com.br/noticias/692-candidaturas-sao-registradas-em-santa-catarina-para-as-eleicoes-2026",
+    "title": "TRE-SC registra 692 candidaturas para as Eleições 2026 em Santa Catarina",
+    "guid": "sc1multi:cf43eaa85fa8eda6fbcc6ff194dd789743f2159e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf43eaa85fa8eda6fbcc6ff194dd789743f2159e/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
+  },
+  "source:f46dc4ede8b4a5526c62c60e02b74089eb1c2c6a": {
+    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-dois-carros-deixa-quatro-feridos-na-br-282-em-bocaina-do-sul",
+    "title": "Colisão frontal na BR-282 em Bocaina do Sul deixa quatro feridos",
+    "guid": "sc1multi:876bfcbe250fa26b759ac418ce191fa2f7d0c92f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876bfcbe250fa26b759ac418ce191fa2f7d0c92f/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
+  },
+  "source:3ff8fec206686496d33472a38e49f84371a4fe80": {
+    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-saveiro-e-celta-deixa-seis-feridos-na-br-470",
+    "title": "Colisão frontal na BR-470 em Trombudo Central deixa seis feridos",
+    "guid": "sc1multi:c6ac034f55a7066962128852dbf2469be4d710f3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ac034f55a7066962128852dbf2469be4d710f3/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
+  },
+  "source:d1a1cc39944931e5a6a198fa8506ff7585491967": {
+    "url": "https://tudoaquisc.com.br/esporte/avai-vence-operario-serie-b",
+    "title": "Avaí vence Operário por 2 a 1 e se aproxima da saída do Z4 na Série B",
+    "guid": "sc1multi:80d151669ea35f89d642ea9e9e1cc53740f76bbd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_80d151669ea35f89d642ea9e9e1cc53740f76bbd/",
+    "usedAt": 1786965244436,
+    "usedAtIso": "2026-08-17T11:14:04.436Z"
   }
 }
