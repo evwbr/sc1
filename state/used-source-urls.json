@@ -1,4 +1,52 @@
 {
+  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
+    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
+    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
+    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
+  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
+    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
+    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
+    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
+  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
+    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
+    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos em SC",
+    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
+  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
+    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
+    "title": "Deslizamento de terra atinge casa e deixa menina em estado grave em Santo Amaro da Imperatriz",
+    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
+  "source:46229a72b01cc682d2c93167a5344756d3d683b9": {
+    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-denuncia-de-estupro-em-ituporanga",
+    "title": "Homem é levado à delegacia após denúncia de estupro em Ituporanga",
+    "guid": "sc1multi:6af77dd2614fb93ade3a64014f2bae6322e5c107",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6af77dd2614fb93ade3a64014f2bae6322e5c107/",
+    "usedAt": 1786943645012,
+    "usedAtIso": "2026-08-17T05:14:05.012Z"
+  },
   "source:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4": {
     "url": "https://ocp.news/cotidiano/santa-catarina-entra-em-alerta-de-perigo-para-tempestades-com-ventos-de-ate-100-km-h",
     "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
@@ -172,95 +220,47 @@
     "title": "Mulher é presa por furtar 36 barras de chocolate em Rio do Sul",
     "guid": "sc1multi:39102c7154da6186825abc3f3dc4a45460fcac1e",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39102c7154da6186825abc3f3dc4a45460fcac1e/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   },
   "source:65e7acad5826cdc34bdd9445410ba6f2a619c6bb": {
     "url": "https://rbatv.com.br/noticias/homem-e-socorrido-apos-se-engasgar-com-alimento-em-dona-emma",
     "title": "Homem é socorrido após engasgar com alimento em Dona Emma",
     "guid": "sc1multi:b67e64391d587ac6eb2347f809581ab51e21c9a8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b67e64391d587ac6eb2347f809581ab51e21c9a8/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   },
   "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
     "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
     "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
     "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   },
   "source:35eb8f965e1d2a7166e831e000d0e19430c0a0ff": {
     "url": "https://tnsul.com/2026/08/16/atualizacao-homem-morre-apos-colisao-envolvendo-tres-veiculos-em-criciuma",
     "title": "Homem morre em colisão envolvendo três veículos em Criciúma",
     "guid": "sc1multi:663858bd92a5562c5b132ec6cb6abdd0c271b556",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_663858bd92a5562c5b132ec6cb6abdd0c271b556/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   },
   "source:b853984a1327c94f1bcda667f33e528c99695e52": {
     "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
     "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
     "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   },
   "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
     "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
     "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
     "guid": "sc1multi:b5910d76d76ea5410a7e846e350b3c3647ba4054",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5910d76d76ea5410a7e846e350b3c3647ba4054/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
-  },
-  "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
-    "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
-    "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
-    "guid": "sc1multi:df3930aa65da75ddfee0d85652e3d3e680898af5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df3930aa65da75ddfee0d85652e3d3e680898af5/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
-    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
-    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
-    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
-    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
-    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
-    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
-    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
-    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos em SC",
-    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
-    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
-    "title": "Deslizamento de terra atinge casa e deixa menina em estado grave em Santo Amaro da Imperatriz",
-    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
-  },
-  "source:46229a72b01cc682d2c93167a5344756d3d683b9": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-denuncia-de-estupro-em-ituporanga",
-    "title": "Homem é levado à delegacia após denúncia de estupro em Ituporanga",
-    "guid": "sc1multi:6af77dd2614fb93ade3a64014f2bae6322e5c107",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6af77dd2614fb93ade3a64014f2bae6322e5c107/",
-    "usedAt": 1786943645012,
-    "usedAtIso": "2026-08-17T05:14:05.012Z"
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
   }
 }
