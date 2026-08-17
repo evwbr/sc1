@@ -1,4 +1,60 @@
 {
+  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
+    "title": "Joinville vira e vence Jaraguá Futsal no Estadual de Santa Catarina",
+    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:bc4babee4a9445792e8fdf913d9c5207c16dc412": {
+    "url": "https://ocp.news/seguranca/carro-fica-partido-ao-meio-apos-colisao-frontal-na-sc-355-e-deixa-seis-feridos",
+    "title": "Colisão frontal na SC-355 em Videira deixa seis feridos",
+    "guid": "sc1multi:bc4babee4a9445792e8fdf913d9c5207c16dc412",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc4babee4a9445792e8fdf913d9c5207c16dc412/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:ec00cea3fced1764f762993b5843a1831f2a2b28": {
+    "url": "https://tnsul.com/2026/08/16/vestidos-da-corte-da-cocalfest-ganham-destaque-pelos-detalhes",
+    "title": "Vestidos da corte da CocalFest destacam identidade cultural de Cocal do Sul",
+    "guid": "sc1multi:125c1656b9670794f256b8fa5dec56787d17bf7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_125c1656b9670794f256b8fa5dec56787d17bf7e/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:e7dd2cd677233e9e904142e5ce74221f80869670": {
+    "url": "https://ocp.news/seguranca/denuncias-de-disparos-levam-a-apreensao-de-espingarda-e-municoes-em-jaragua-do-sul",
+    "title": "Denúncias de disparos resultam em apreensão de espingarda em Jaraguá do Sul",
+    "guid": "sc1multi:e7dd2cd677233e9e904142e5ce74221f80869670",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7dd2cd677233e9e904142e5ce74221f80869670/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:68e124d923874aa98e379acf7da3e72347e8e708": {
+    "url": "https://ocp.news/cotidiano/santa-catarina-tera-calor-e-sol-entre-nuvens-nesta-segunda-e-terca-feira",
+    "title": "Santa Catarina terá calor e sol entre nuvens nesta segunda e terça-feira",
+    "guid": "sc1multi:68e124d923874aa98e379acf7da3e72347e8e708",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68e124d923874aa98e379acf7da3e72347e8e708/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:959c309f64c5046dc540d3d5845bb3cbaed77d13": {
+    "url": "https://tudoaquisc.com.br/esporte/figueirense-vence-caxias",
+    "title": "Figueirense vence Caxias e mantém esperança de acesso na Série C",
+    "guid": "sc1multi:af76ba42615deb5519f8597b300ae843d4dde77a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af76ba42615deb5519f8597b300ae843d4dde77a/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
+  "source:83280aaf29472b9741e3216fba32edef40ecfe22": {
+    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-de-jaragua-do-sul-comemoram-60-anos-com-feijoada-especial",
+    "title": "Bombeiros Voluntários de Jaraguá do Sul celebram 60 anos com feijoada especial",
+    "guid": "sc1multi:83280aaf29472b9741e3216fba32edef40ecfe22",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83280aaf29472b9741e3216fba32edef40ecfe22/",
+    "usedAt": 1786954444793,
+    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  },
   "source:3445456b667787f061f5316b7ee08df17344cb28": {
     "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
     "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
@@ -148,8 +204,8 @@
     "title": "Santa Catarina emite alerta de tempestades com ventos de até 100 km/h",
     "guid": "sc1multi:214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_214ae9fa6811bf9f7fe69a710cc4dabe2d5c3ca4/",
-    "usedAt": 1786940044328,
-    "usedAtIso": "2026-08-17T04:14:04.328Z"
+    "usedAt": 1786958044344,
+    "usedAtIso": "2026-08-17T09:14:04.344Z"
   },
   "source:7d06062865da6853e245b43953d43958e9dd9cea": {
     "url": "https://ocp.news/seguranca/homem-de-72-anos-fica-ferido-apos-colisao-entre-dois-carros-em-pomerode",
@@ -172,8 +228,8 @@
     "title": "Antídio Lunelli lança campanha ao Senado com foco em reformas estruturais",
     "guid": "sc1multi:4e2cec5b56fd9a6581baae148ed8ee899d36aeb5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4e2cec5b56fd9a6581baae148ed8ee899d36aeb5/",
-    "usedAt": 1786940044328,
-    "usedAtIso": "2026-08-17T04:14:04.328Z"
+    "usedAt": 1786958044344,
+    "usedAtIso": "2026-08-17T09:14:04.344Z"
   },
   "source:edec5957f669eabb8de09d55b0e9aaff3e9cfd25": {
     "url": "https://ocp.news/cotidiano/luzes-azuis-no-mar-de-santa-catarina-impressionam-moradores-fenomeno-e-causado-por-bioluminescencia",
@@ -204,71 +260,23 @@
     "title": "Colisão traseira deixa mulher ferida na BR-470, em Ascurra",
     "guid": "sc1multi:55d1f567134ac432821520b931a8f3255e352226",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55d1f567134ac432821520b931a8f3255e352226/",
-    "usedAt": 1786936444379,
-    "usedAtIso": "2026-08-17T03:14:04.379Z"
-  },
-  "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
-    "title": "Joinville vira e vence Jaraguá Futsal no Estadual de Santa Catarina",
-    "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
+    "usedAt": 1786958044344,
+    "usedAtIso": "2026-08-17T09:14:04.344Z"
   },
   "source:b3c6fe98ed26711b6073143dfa007c6fe9d95f67": {
     "url": "https://tnsul.com/2026/08/16/criciuma-vazamento-de-gas-causa-incendio-em-churrasqueira-de-clube",
     "title": "Incêndio em churrasqueira de clube mobiliza bombeiros em Criciúma",
     "guid": "sc1multi:0f0bbe250e051547c09e4e008c20371502de3c6d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f0bbe250e051547c09e4e008c20371502de3c6d/",
-    "usedAt": 1786936444379,
-    "usedAtIso": "2026-08-17T03:14:04.379Z"
+    "usedAt": 1786958044344,
+    "usedAtIso": "2026-08-17T09:14:04.344Z"
   },
-  "source:bc4babee4a9445792e8fdf913d9c5207c16dc412": {
-    "url": "https://ocp.news/seguranca/carro-fica-partido-ao-meio-apos-colisao-frontal-na-sc-355-e-deixa-seis-feridos",
-    "title": "Colisão frontal na SC-355 em Videira deixa seis feridos",
-    "guid": "sc1multi:bc4babee4a9445792e8fdf913d9c5207c16dc412",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc4babee4a9445792e8fdf913d9c5207c16dc412/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
-  },
-  "source:ec00cea3fced1764f762993b5843a1831f2a2b28": {
-    "url": "https://tnsul.com/2026/08/16/vestidos-da-corte-da-cocalfest-ganham-destaque-pelos-detalhes",
-    "title": "Vestidos da corte da CocalFest destacam identidade cultural de Cocal do Sul",
-    "guid": "sc1multi:125c1656b9670794f256b8fa5dec56787d17bf7e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_125c1656b9670794f256b8fa5dec56787d17bf7e/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
-  },
-  "source:e7dd2cd677233e9e904142e5ce74221f80869670": {
-    "url": "https://ocp.news/seguranca/denuncias-de-disparos-levam-a-apreensao-de-espingarda-e-municoes-em-jaragua-do-sul",
-    "title": "Denúncias de disparos resultam em apreensão de espingarda em Jaraguá do Sul",
-    "guid": "sc1multi:e7dd2cd677233e9e904142e5ce74221f80869670",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7dd2cd677233e9e904142e5ce74221f80869670/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
-  },
-  "source:68e124d923874aa98e379acf7da3e72347e8e708": {
-    "url": "https://ocp.news/cotidiano/santa-catarina-tera-calor-e-sol-entre-nuvens-nesta-segunda-e-terca-feira",
-    "title": "Santa Catarina terá calor e sol entre nuvens nesta segunda e terça-feira",
-    "guid": "sc1multi:68e124d923874aa98e379acf7da3e72347e8e708",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68e124d923874aa98e379acf7da3e72347e8e708/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
-  },
-  "source:959c309f64c5046dc540d3d5845bb3cbaed77d13": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-vence-caxias",
-    "title": "Figueirense vence Caxias e mantém esperança de acesso na Série C",
-    "guid": "sc1multi:af76ba42615deb5519f8597b300ae843d4dde77a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af76ba42615deb5519f8597b300ae843d4dde77a/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
-  },
-  "source:83280aaf29472b9741e3216fba32edef40ecfe22": {
-    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-de-jaragua-do-sul-comemoram-60-anos-com-feijoada-especial",
-    "title": "Bombeiros Voluntários de Jaraguá do Sul celebram 60 anos com feijoada especial",
-    "guid": "sc1multi:83280aaf29472b9741e3216fba32edef40ecfe22",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83280aaf29472b9741e3216fba32edef40ecfe22/",
-    "usedAt": 1786954444793,
-    "usedAtIso": "2026-08-17T08:14:04.793Z"
+  "source:f0034e0478a2fc048984f3ba862cae056bdedded": {
+    "url": "https://ocp.news/seguranca/policia-militar-registra-ocorrencias-de-trafico-e-posse-de-drogas-em-jaragua-do-sul",
+    "title": "Polícia Militar registra ocorrências de drogas em Jaraguá do Sul",
+    "guid": "sc1multi:f0034e0478a2fc048984f3ba862cae056bdedded",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0034e0478a2fc048984f3ba862cae056bdedded/",
+    "usedAt": 1786958044344,
+    "usedAtIso": "2026-08-17T09:14:04.344Z"
   }
 }
