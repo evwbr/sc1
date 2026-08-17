@@ -1,4 +1,84 @@
 {
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:db9a73651cf6b5d0d50768b7f38466cf4b6885ea": {
+    "url": "https://rbatv.com.br/noticias/prf-apreende-ecstasy-maconha-e-material-usado-para-produzir-lanca-perfume-em-onibus-na-br-116",
+    "title": "PRF apreende drogas e material para lança-perfume em ônibus na BR-116 em Mafra",
+    "guid": "sc1multi:df5f033643f5fc6689b6f2e9fa1c90b10548a18d",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df5f033643f5fc6689b6f2e9fa1c90b10548a18d/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:0582c588827164b1d7f7c00c193c21854d24972d": {
+    "url": "https://rbatv.com.br/noticias/692-candidaturas-sao-registradas-em-santa-catarina-para-as-eleicoes-2026",
+    "title": "TRE-SC registra 692 candidaturas para as Eleições 2026 em Santa Catarina",
+    "guid": "sc1multi:cf43eaa85fa8eda6fbcc6ff194dd789743f2159e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf43eaa85fa8eda6fbcc6ff194dd789743f2159e/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:f46dc4ede8b4a5526c62c60e02b74089eb1c2c6a": {
+    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-dois-carros-deixa-quatro-feridos-na-br-282-em-bocaina-do-sul",
+    "title": "Colisão frontal na BR-282 em Bocaina do Sul deixa quatro feridos",
+    "guid": "sc1multi:876bfcbe250fa26b759ac418ce191fa2f7d0c92f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876bfcbe250fa26b759ac418ce191fa2f7d0c92f/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:3ff8fec206686496d33472a38e49f84371a4fe80": {
+    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-saveiro-e-celta-deixa-seis-feridos-na-br-470",
+    "title": "Colisão frontal na BR-470 em Trombudo Central deixa seis feridos",
+    "guid": "sc1multi:c6ac034f55a7066962128852dbf2469be4d710f3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ac034f55a7066962128852dbf2469be4d710f3/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:eb37f20e22707e8180446cfe2ebe7b86f6bdfaf3": {
+    "url": "https://tnsul.com/2026/08/17/mulher-morre-apos-caminhonete-despencar-em-barranco-de-50-metros-em-sc",
+    "title": "Mulher morre após caminhonete cair em barranco de 50 metros em Concórdia",
+    "guid": "sc1multi:3ee38d093693c5721bbb9e6c1f82638baafb6518",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3ee38d093693c5721bbb9e6c1f82638baafb6518/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:0e63c98446e073c8a9cbfcc60a4fb6bbdfa10387": {
+    "url": "https://tnsul.com/2026/08/17/homem-e-atingido-com-facao-durante-briga-com-cunhado-de-17-anos-em-sc",
+    "title": "Homem é ferido com facão em briga com cunhado adolescente em Águas de Chapecó",
+    "guid": "sc1multi:ec308e391ca64cf44cc8c14df8c05a06b1421d27",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec308e391ca64cf44cc8c14df8c05a06b1421d27/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:a74bd385764f2a8374d0d249efb217198ede96bc": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-larga-no-parajasc-com-16-medalhas-no-atletismo",
+    "title": "Jaraguá do Sul conquista 16 medalhas no atletismo do Parajasc em Chapecó",
+    "guid": "sc1multi:a74bd385764f2a8374d0d249efb217198ede96bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a74bd385764f2a8374d0d249efb217198ede96bc/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:1d5debb70996f499513d7502269ede989ebc8779": {
+    "url": "https://tudoaquisc.com.br/politica/justica-reconhece-pesquisa-jp",
+    "title": "TRE-SC reconhece legalidade da pesquisa eleitoral do Instituto Mapa",
+    "guid": "sc1multi:e34d9c1584df813299d0ea27d4b335ddd0ea80df",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e34d9c1584df813299d0ea27d4b335ddd0ea80df/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
+  "source:f0034e0478a2fc048984f3ba862cae056bdedded": {
+    "url": "https://ocp.news/seguranca/policia-militar-registra-ocorrencias-de-trafico-e-posse-de-drogas-em-jaragua-do-sul",
+    "title": "Polícia Militar registra ocorrências de drogas em Jaraguá do Sul",
+    "guid": "sc1multi:f0034e0478a2fc048984f3ba862cae056bdedded",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0034e0478a2fc048984f3ba862cae056bdedded/",
+    "usedAt": 1786983245098,
+    "usedAtIso": "2026-08-17T16:14:05.098Z"
+  },
   "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
     "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
     "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
@@ -143,220 +223,76 @@
     "usedAt": 1786972445253,
     "usedAtIso": "2026-08-17T13:14:05.253Z"
   },
-  "source:9d09b9fbc44b2fbdd3bb316541332ae8fdae312d": {
-    "url": "https://rbatv.com.br/noticias/colisao-entre-dois-carros-e-registrada-na-sc-340-em-presidente-getulio",
-    "title": "Colisão entre dois carros é registrada na SC-340 em Presidente Getúlio",
-    "guid": "sc1multi:52ba5446741a22e3fc35622b3513808a2809cca0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_52ba5446741a22e3fc35622b3513808a2809cca0/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:47aa8053fd9b757a6c12e0dc39e850cc39d145e6": {
+    "url": "https://ocp.news/cotidiano/carreta-da-saude-da-mulher-chega-a-regiao-do-vale-do-itapocu",
+    "title": "Carreta da Saúde da Mulher atende sete municípios no Vale do Itapocu",
+    "guid": "sc1multi:47aa8053fd9b757a6c12e0dc39e850cc39d145e6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47aa8053fd9b757a6c12e0dc39e850cc39d145e6/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:b70dec99aed51b8ea01cedf59e3571be5e4b2f14": {
-    "url": "https://tnsul.com/2026/08/17/homem-e-morto-com-tiro-na-cabeca-apos-conflito-por-divida-de-r-800-em-sc",
-    "title": "Homem é morto com tiro na cabeça após conflito por dívida em Blumenau",
-    "guid": "sc1multi:be9e38ad80cf7831ce5743d54812a0f8a9ea2b41",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be9e38ad80cf7831ce5743d54812a0f8a9ea2b41/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:ce2d6afa93c2f61962101bc0a1728dc18d673c28": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-faz-historia-e-conquista-titulo-inedito-na-natacao-catarinense",
+    "title": "Jaraguá do Sul conquista título inédito no Campeonato Catarinense de Natação",
+    "guid": "sc1multi:ce2d6afa93c2f61962101bc0a1728dc18d673c28",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ce2d6afa93c2f61962101bc0a1728dc18d673c28/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:5f2a5de4fdfa0b129ad5101da3c6aa12fbd458a5": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-blumenau-abre-inscricoes-para-curso-intermediario-de-informatica-para-pessoas-com-deficiencia",
-    "title": "Blumenau oferece curso intermediário de informática para pessoas com deficiência",
-    "guid": "sc1multi:5f2a5de4fdfa0b129ad5101da3c6aa12fbd458a5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5f2a5de4fdfa0b129ad5101da3c6aa12fbd458a5/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:68c24f7c76598fb36cee5c598f7f86384de8d070": {
+    "url": "https://ocp.news/esporte/invicto-time-jaraguaense-conquista-o-titulo-do-estadual-de-basquete-sub-20-masculino",
+    "title": "Jaraguá do Sul conquista título invicto no Estadual de Basquete Sub-20 Masculino",
+    "guid": "sc1multi:68c24f7c76598fb36cee5c598f7f86384de8d070",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68c24f7c76598fb36cee5c598f7f86384de8d070/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:b7b9226f482d947197d7299eaa9c467ce8fe1800": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-joinville-amplia-servico-de-tapa-buraco-e-aumenta-numero-de-areas-recuperadas",
-    "title": "Joinville amplia serviço de tapa-buraco e reduz ordens pendentes",
-    "guid": "sc1multi:b7b9226f482d947197d7299eaa9c467ce8fe1800",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b7b9226f482d947197d7299eaa9c467ce8fe1800/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:9e822b729aa9ebd1ab46006b4eeb2ced000b7842": {
+    "url": "https://ocp.news/economia/fiesc-leva-inovacao-qualificacao-profissional-e-seguranca-para-a-interplast-2026",
+    "title": "Fiesc promove inovação e qualificação na Interplast 2026 em Joinville",
+    "guid": "sc1multi:9e822b729aa9ebd1ab46006b4eeb2ced000b7842",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9e822b729aa9ebd1ab46006b4eeb2ced000b7842/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:d1fde8739fbf3587ea11b38d6e860389b73bb5da": {
-    "url": "https://ocp.news/seguranca/mulher-morre-e-crianca-de-10-anos-e-internada-na-uti-apos-deslizamento-em-sc",
-    "title": "Mulher morre e criança é internada após deslizamento em Santo Amaro da Imperatriz",
-    "guid": "sc1multi:d1fde8739fbf3587ea11b38d6e860389b73bb5da",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d1fde8739fbf3587ea11b38d6e860389b73bb5da/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:9b3664484e5093f6f00d4e047db579824715a762": {
+    "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
+    "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
+    "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:d3410d62001a95a520ba424622fde61246436062": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-presa-ao-furtar-36-barras-de-chocolate-em-supermercado-de-rio-do-sul",
-    "title": "Mulher é presa por furtar 36 barras de chocolate em Rio do Sul",
-    "guid": "sc1multi:39102c7154da6186825abc3f3dc4a45460fcac1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39102c7154da6186825abc3f3dc4a45460fcac1e/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:dbc0cb4ec605f5eb29dd79dc9da5b5e9be5b4df5": {
+    "url": "https://correiosc.com.br/turismo-aventura-encontro-santo-amaro-imperatriz",
+    "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
+    "guid": "sc1multi:76ae57f1386138c8fc220d275929803465094308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76ae57f1386138c8fc220d275929803465094308/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
-  "source:65e7acad5826cdc34bdd9445410ba6f2a619c6bb": {
-    "url": "https://rbatv.com.br/noticias/homem-e-socorrido-apos-se-engasgar-com-alimento-em-dona-emma",
-    "title": "Homem é socorrido após engasgar com alimento em Dona Emma",
-    "guid": "sc1multi:b67e64391d587ac6eb2347f809581ab51e21c9a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b67e64391d587ac6eb2347f809581ab51e21c9a8/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+  "source:4bd3f2d16613f7aec550c02d72c261e58cf76111": {
+    "url": "https://ocp.news/seguranca/bombeiros-buscam-por-crianca-de-6-anos-arrastada-por-rio-na-grande-florianopolis",
+    "title": "Bombeiros buscam criança de 6 anos arrastada por rio na Grande Florianópolis",
+    "guid": "sc1multi:4bd3f2d16613f7aec550c02d72c261e58cf76111",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bd3f2d16613f7aec550c02d72c261e58cf76111/",
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
   "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
     "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
     "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
     "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
-  },
-  "source:35eb8f965e1d2a7166e831e000d0e19430c0a0ff": {
-    "url": "https://tnsul.com/2026/08/16/atualizacao-homem-morre-apos-colisao-envolvendo-tres-veiculos-em-criciuma",
-    "title": "Homem morre em colisão envolvendo três veículos em Criciúma",
-    "guid": "sc1multi:663858bd92a5562c5b132ec6cb6abdd0c271b556",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_663858bd92a5562c5b132ec6cb6abdd0c271b556/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
-  },
-  "source:46229a72b01cc682d2c93167a5344756d3d683b9": {
-    "url": "https://rbatv.com.br/noticias/homem-e-conduzido-a-delegacia-apos-denuncia-de-estupro-em-ituporanga",
-    "title": "Homem é levado à delegacia após denúncia de estupro em Ituporanga",
-    "guid": "sc1multi:6af77dd2614fb93ade3a64014f2bae6322e5c107",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6af77dd2614fb93ade3a64014f2bae6322e5c107/",
-    "usedAt": 1786968844610,
-    "usedAtIso": "2026-08-17T12:14:04.610Z"
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   },
   "source:b853984a1327c94f1bcda667f33e528c99695e52": {
     "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
     "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
     "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1786965244436,
-    "usedAtIso": "2026-08-17T11:14:04.436Z"
-  },
-  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
-    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
-    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
-    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:db9a73651cf6b5d0d50768b7f38466cf4b6885ea": {
-    "url": "https://rbatv.com.br/noticias/prf-apreende-ecstasy-maconha-e-material-usado-para-produzir-lanca-perfume-em-onibus-na-br-116",
-    "title": "PRF apreende drogas e material para lança-perfume em ônibus na BR-116 em Mafra",
-    "guid": "sc1multi:df5f033643f5fc6689b6f2e9fa1c90b10548a18d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_df5f033643f5fc6689b6f2e9fa1c90b10548a18d/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:06e0cf619a903d3f6bd4d16b827025e32b6a3436": {
-    "url": "https://rbatv.com.br/noticias/van-de-rio-do-sul-se-envolve-em-colisao-que-matou-motociclista-na-br-282",
-    "title": "Van de Rio do Sul se envolve em colisão fatal na BR-282 em Herval d'Oeste",
-    "guid": "sc1multi:e74183bc576bdaf7085b549f7436bb68e2dc638c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e74183bc576bdaf7085b549f7436bb68e2dc638c/",
-    "usedAt": 1786965244436,
-    "usedAtIso": "2026-08-17T11:14:04.436Z"
-  },
-  "source:0582c588827164b1d7f7c00c193c21854d24972d": {
-    "url": "https://rbatv.com.br/noticias/692-candidaturas-sao-registradas-em-santa-catarina-para-as-eleicoes-2026",
-    "title": "TRE-SC registra 692 candidaturas para as Eleições 2026 em Santa Catarina",
-    "guid": "sc1multi:cf43eaa85fa8eda6fbcc6ff194dd789743f2159e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cf43eaa85fa8eda6fbcc6ff194dd789743f2159e/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:f46dc4ede8b4a5526c62c60e02b74089eb1c2c6a": {
-    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-dois-carros-deixa-quatro-feridos-na-br-282-em-bocaina-do-sul",
-    "title": "Colisão frontal na BR-282 em Bocaina do Sul deixa quatro feridos",
-    "guid": "sc1multi:876bfcbe250fa26b759ac418ce191fa2f7d0c92f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_876bfcbe250fa26b759ac418ce191fa2f7d0c92f/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:3ff8fec206686496d33472a38e49f84371a4fe80": {
-    "url": "https://rbatv.com.br/noticias/colisao-frontal-entre-saveiro-e-celta-deixa-seis-feridos-na-br-470",
-    "title": "Colisão frontal na BR-470 em Trombudo Central deixa seis feridos",
-    "guid": "sc1multi:c6ac034f55a7066962128852dbf2469be4d710f3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c6ac034f55a7066962128852dbf2469be4d710f3/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:d1a1cc39944931e5a6a198fa8506ff7585491967": {
-    "url": "https://tudoaquisc.com.br/esporte/avai-vence-operario-serie-b",
-    "title": "Avaí vence Operário por 2 a 1 e se aproxima da saída do Z4 na Série B",
-    "guid": "sc1multi:80d151669ea35f89d642ea9e9e1cc53740f76bbd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_80d151669ea35f89d642ea9e9e1cc53740f76bbd/",
-    "usedAt": 1786965244436,
-    "usedAtIso": "2026-08-17T11:14:04.436Z"
-  },
-  "source:5b76a114475bc89f4e11495434ed20dd9357e712": {
-    "url": "https://rbatv.com.br/noticias/deslizamento-soterra-parte-de-casa-e-deixa-familia-ferida-em-sc-defesa-civil-atualiza-ocorrencias-no-estado",
-    "title": "Deslizamento em Santo Amaro da Imperatriz deixa família ferida e causa danos no estado",
-    "guid": "sc1multi:114982b835e36bbaf00c3f087660c37367b61bdc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_114982b835e36bbaf00c3f087660c37367b61bdc/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
-  },
-  "source:2b965f0f7115cb85bfe891430f98b43f20cdee51": {
-    "url": "https://ocp.news/seguranca/deslizamento-de-terra-atinge-casa-e-deixa-menina-de-10-anos-em-estado-grave-na-grande-florianopolis",
-    "title": "Deslizamento de terra deixa menina em estado grave em Santo Amaro da Imperatriz",
-    "guid": "sc1multi:2b965f0f7115cb85bfe891430f98b43f20cdee51",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_2b965f0f7115cb85bfe891430f98b43f20cdee51/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
-  },
-  "source:78af36968a596e9651bccb5e63c1a65168c54929": {
-    "url": "https://ocp.news/seguranca/mae-de-duas-criancas-e-encontrada-morta-com-sinais-de-estrangulamento-em-sc",
-    "title": "Mulher é encontrada morta com sinais de estrangulamento em Criciúma",
-    "guid": "sc1multi:78af36968a596e9651bccb5e63c1a65168c54929",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_78af36968a596e9651bccb5e63c1a65168c54929/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
-  },
-  "source:da333ba44ac270c0674cf53a5bc3242715611b13": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-apos-ameacar-esposa-e-filha-com-armas-de-fogo-em-blumenau",
-    "title": "Homem é preso por ameaçar esposa e filha com armas em Blumenau",
-    "guid": "sc1multi:e4093720ac612be56226e0e6c013815b70d83504",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e4093720ac612be56226e0e6c013815b70d83504/",
-    "usedAt": 1786961645398,
-    "usedAtIso": "2026-08-17T10:14:05.398Z"
-  },
-  "source:eb37f20e22707e8180446cfe2ebe7b86f6bdfaf3": {
-    "url": "https://tnsul.com/2026/08/17/mulher-morre-apos-caminhonete-despencar-em-barranco-de-50-metros-em-sc",
-    "title": "Mulher morre após caminhonete cair em barranco de 50 metros em Concórdia",
-    "guid": "sc1multi:3ee38d093693c5721bbb9e6c1f82638baafb6518",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3ee38d093693c5721bbb9e6c1f82638baafb6518/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:0e63c98446e073c8a9cbfcc60a4fb6bbdfa10387": {
-    "url": "https://tnsul.com/2026/08/17/homem-e-atingido-com-facao-durante-briga-com-cunhado-de-17-anos-em-sc",
-    "title": "Homem é ferido com facão em briga com cunhado adolescente em Águas de Chapecó",
-    "guid": "sc1multi:ec308e391ca64cf44cc8c14df8c05a06b1421d27",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ec308e391ca64cf44cc8c14df8c05a06b1421d27/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:a74bd385764f2a8374d0d249efb217198ede96bc": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-larga-no-parajasc-com-16-medalhas-no-atletismo",
-    "title": "Jaraguá do Sul conquista 16 medalhas no atletismo do Parajasc em Chapecó",
-    "guid": "sc1multi:a74bd385764f2a8374d0d249efb217198ede96bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a74bd385764f2a8374d0d249efb217198ede96bc/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:1d5debb70996f499513d7502269ede989ebc8779": {
-    "url": "https://tudoaquisc.com.br/politica/justica-reconhece-pesquisa-jp",
-    "title": "TRE-SC reconhece legalidade da pesquisa eleitoral do Instituto Mapa",
-    "guid": "sc1multi:e34d9c1584df813299d0ea27d4b335ddd0ea80df",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e34d9c1584df813299d0ea27d4b335ddd0ea80df/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
-  },
-  "source:f0034e0478a2fc048984f3ba862cae056bdedded": {
-    "url": "https://ocp.news/seguranca/policia-militar-registra-ocorrencias-de-trafico-e-posse-de-drogas-em-jaragua-do-sul",
-    "title": "Polícia Militar registra ocorrências de drogas em Jaraguá do Sul",
-    "guid": "sc1multi:f0034e0478a2fc048984f3ba862cae056bdedded",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f0034e0478a2fc048984f3ba862cae056bdedded/",
-    "usedAt": 1786983245098,
-    "usedAtIso": "2026-08-17T16:14:05.098Z"
+    "usedAt": 1786994045240,
+    "usedAtIso": "2026-08-17T19:14:05.240Z"
   }
 }
