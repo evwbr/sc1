@@ -1,4 +1,52 @@
 {
+  "source:d3410d62001a95a520ba424622fde61246436062": {
+    "url": "https://rbatv.com.br/noticias/mulher-e-presa-ao-furtar-36-barras-de-chocolate-em-supermercado-de-rio-do-sul",
+    "title": "Mulher é presa por furtar 36 barras de chocolate em Rio do Sul",
+    "guid": "sc1multi:39102c7154da6186825abc3f3dc4a45460fcac1e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39102c7154da6186825abc3f3dc4a45460fcac1e/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
+  "source:65e7acad5826cdc34bdd9445410ba6f2a619c6bb": {
+    "url": "https://rbatv.com.br/noticias/homem-e-socorrido-apos-se-engasgar-com-alimento-em-dona-emma",
+    "title": "Homem é socorrido após engasgar com alimento em Dona Emma",
+    "guid": "sc1multi:b67e64391d587ac6eb2347f809581ab51e21c9a8",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b67e64391d587ac6eb2347f809581ab51e21c9a8/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
+  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
+    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
+    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
+    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
+  "source:35eb8f965e1d2a7166e831e000d0e19430c0a0ff": {
+    "url": "https://tnsul.com/2026/08/16/atualizacao-homem-morre-apos-colisao-envolvendo-tres-veiculos-em-criciuma",
+    "title": "Homem morre em colisão envolvendo três veículos em Criciúma",
+    "guid": "sc1multi:663858bd92a5562c5b132ec6cb6abdd0c271b556",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_663858bd92a5562c5b132ec6cb6abdd0c271b556/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
+  "source:b853984a1327c94f1bcda667f33e528c99695e52": {
+    "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
+    "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
+    "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
+  "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
+    "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
+    "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
+    "guid": "sc1multi:b5910d76d76ea5410a7e846e350b3c3647ba4054",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5910d76d76ea5410a7e846e350b3c3647ba4054/",
+    "usedAt": 1786947244303,
+    "usedAtIso": "2026-08-17T06:14:04.303Z"
+  },
   "source:df3930aa65da75ddfee0d85652e3d3e680898af5": {
     "url": "https://ocp.news/seguranca/cbmsc-atende-vitima-presa-em-ferragem-apos-queda-de-veiculo-de-ribanceira-em-sc",
     "title": "CBMSC resgata vítima presa em ferragem após queda de retroescavadeira em ribanceira",
@@ -172,95 +220,47 @@
     "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
     "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   },
   "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
     "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
     "title": "JEC e Nação devem mandar jogos da Copa SC em Jaraguá do Sul",
     "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   },
   "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
     "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
     "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
     "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   },
   "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
     "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
     "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
     "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   },
   "source:3e23b45f158621ba572152350f9e889b7c528c09": {
     "url": "https://scportais.com.br/2026/08/15/sessao-solene-na-alesc-homenageia-fecomercio-sc-sesc-e-senac",
     "title": "Alesc realiza sessão solene em homenagem à Fecomércio SC, Sesc e Senac",
     "guid": "sc1multi:b4466e626cd2edaa2b033e2342a3b77f2a2f9a20",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4466e626cd2edaa2b033e2342a3b77f2a2f9a20/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   },
   "source:9d09b9fbc44b2fbdd3bb316541332ae8fdae312d": {
     "url": "https://rbatv.com.br/noticias/colisao-entre-dois-carros-e-registrada-na-sc-340-em-presidente-getulio",
     "title": "Colisão entre dois carros é registrada na SC-340 em Presidente Getúlio",
     "guid": "sc1multi:52ba5446741a22e3fc35622b3513808a2809cca0",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_52ba5446741a22e3fc35622b3513808a2809cca0/",
-    "usedAt": 1786929244924,
-    "usedAtIso": "2026-08-17T01:14:04.924Z"
-  },
-  "source:d3410d62001a95a520ba424622fde61246436062": {
-    "url": "https://rbatv.com.br/noticias/mulher-e-presa-ao-furtar-36-barras-de-chocolate-em-supermercado-de-rio-do-sul",
-    "title": "Mulher é presa por furtar 36 barras de chocolate em Rio do Sul",
-    "guid": "sc1multi:39102c7154da6186825abc3f3dc4a45460fcac1e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_39102c7154da6186825abc3f3dc4a45460fcac1e/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
-  },
-  "source:65e7acad5826cdc34bdd9445410ba6f2a619c6bb": {
-    "url": "https://rbatv.com.br/noticias/homem-e-socorrido-apos-se-engasgar-com-alimento-em-dona-emma",
-    "title": "Homem é socorrido após engasgar com alimento em Dona Emma",
-    "guid": "sc1multi:b67e64391d587ac6eb2347f809581ab51e21c9a8",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b67e64391d587ac6eb2347f809581ab51e21c9a8/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
-  },
-  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
-    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
-    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
-    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
-  },
-  "source:35eb8f965e1d2a7166e831e000d0e19430c0a0ff": {
-    "url": "https://tnsul.com/2026/08/16/atualizacao-homem-morre-apos-colisao-envolvendo-tres-veiculos-em-criciuma",
-    "title": "Homem morre em colisão envolvendo três veículos em Criciúma",
-    "guid": "sc1multi:663858bd92a5562c5b132ec6cb6abdd0c271b556",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_663858bd92a5562c5b132ec6cb6abdd0c271b556/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
-  },
-  "source:b853984a1327c94f1bcda667f33e528c99695e52": {
-    "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
-    "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
-    "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
-  },
-  "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
-    "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
-    "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
-    "guid": "sc1multi:b5910d76d76ea5410a7e846e350b3c3647ba4054",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5910d76d76ea5410a7e846e350b3c3647ba4054/",
-    "usedAt": 1786947244303,
-    "usedAtIso": "2026-08-17T06:14:04.303Z"
+    "usedAt": 1786950844444,
+    "usedAtIso": "2026-08-17T07:14:04.444Z"
   }
 }
