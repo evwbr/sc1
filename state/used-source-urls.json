@@ -1,4 +1,60 @@
 {
+  "source:959c309f64c5046dc540d3d5845bb3cbaed77d13": {
+    "url": "https://tudoaquisc.com.br/esporte/figueirense-vence-caxias",
+    "title": "Figueirense vence Caxias e mantém esperança de acesso na Série C",
+    "guid": "sc1multi:af76ba42615deb5519f8597b300ae843d4dde77a",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af76ba42615deb5519f8597b300ae843d4dde77a/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:83280aaf29472b9741e3216fba32edef40ecfe22": {
+    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-de-jaragua-do-sul-comemoram-60-anos-com-feijoada-especial",
+    "title": "Bombeiros Voluntários de Jaraguá do Sul celebram 60 anos com feijoada especial",
+    "guid": "sc1multi:83280aaf29472b9741e3216fba32edef40ecfe22",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83280aaf29472b9741e3216fba32edef40ecfe22/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:3445456b667787f061f5316b7ee08df17344cb28": {
+    "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
+    "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
+    "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
+    "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
+    "title": "JEC e Nação devem mandar jogos da Copa SC em Jaraguá do Sul",
+    "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
+    "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
+    "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
+    "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
+    "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
+    "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
+  "source:3e23b45f158621ba572152350f9e889b7c528c09": {
+    "url": "https://scportais.com.br/2026/08/15/sessao-solene-na-alesc-homenageia-fecomercio-sc-sesc-e-senac",
+    "title": "Alesc realiza sessão solene em homenagem à Fecomércio SC, Sesc e Senac",
+    "guid": "sc1multi:b4466e626cd2edaa2b033e2342a3b77f2a2f9a20",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4466e626cd2edaa2b033e2342a3b77f2a2f9a20/",
+    "usedAt": 1786932844392,
+    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  },
   "source:9d09b9fbc44b2fbdd3bb316541332ae8fdae312d": {
     "url": "https://rbatv.com.br/noticias/colisao-entre-dois-carros-e-registrada-na-sc-340-em-presidente-getulio",
     "title": "Colisão entre dois carros é registrada na SC-340 em Presidente Getúlio",
@@ -161,98 +217,50 @@
   },
   "source:e52284e4e5d1a732314349d7faa542ea6d36cec4": {
     "url": "https://rbatv.com.br/noticias/colisao-traseira-deixa-mulher-ferida-na-br-470-em-ascurra",
-    "title": "Colisão traseira fere mulher na BR-470 em Ascurra, SC",
+    "title": "Colisão traseira deixa mulher ferida na BR-470, em Ascurra",
     "guid": "sc1multi:55d1f567134ac432821520b931a8f3255e352226",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55d1f567134ac432821520b931a8f3255e352226/",
-    "usedAt": 1786914844802,
-    "usedAtIso": "2026-08-16T21:14:04.802Z"
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   },
   "source:5ffb34b769bf6a9a89aa980083c70149b85fdd53": {
     "url": "https://ocp.news/esporte/jaragua-futsal-sai-na-frente-mas-perde-de-virada-para-o-joinville-pelo-estadual",
     "title": "Joinville vira e vence Jaraguá Futsal no Estadual em Santa Catarina",
     "guid": "sc1multi:5ffb34b769bf6a9a89aa980083c70149b85fdd53",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5ffb34b769bf6a9a89aa980083c70149b85fdd53/",
-    "usedAt": 1786914844802,
-    "usedAtIso": "2026-08-16T21:14:04.802Z"
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   },
   "source:b3c6fe98ed26711b6073143dfa007c6fe9d95f67": {
     "url": "https://tnsul.com/2026/08/16/criciuma-vazamento-de-gas-causa-incendio-em-churrasqueira-de-clube",
     "title": "Incêndio em churrasqueira de clube mobiliza bombeiros em Criciúma",
     "guid": "sc1multi:0f0bbe250e051547c09e4e008c20371502de3c6d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0f0bbe250e051547c09e4e008c20371502de3c6d/",
-    "usedAt": 1786911244815,
-    "usedAtIso": "2026-08-16T20:14:04.815Z"
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   },
   "source:bc4babee4a9445792e8fdf913d9c5207c16dc412": {
     "url": "https://ocp.news/seguranca/carro-fica-partido-ao-meio-apos-colisao-frontal-na-sc-355-e-deixa-seis-feridos",
     "title": "Colisão frontal na SC-355 em Videira deixa seis feridos",
     "guid": "sc1multi:bc4babee4a9445792e8fdf913d9c5207c16dc412",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bc4babee4a9445792e8fdf913d9c5207c16dc412/",
-    "usedAt": 1786911244815,
-    "usedAtIso": "2026-08-16T20:14:04.815Z"
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   },
-  "source:0d8aab8ffc8eee61607ea82d9af475f0ae778fe6": {
-    "url": "https://rbatv.com.br/noticias/homem-e-baleado-na-cabeca-e-suspeito-foge-em-direcao-a-br-470-em-gaspar",
-    "title": "Homem é baleado na cabeça em tentativa de homicídio em Gaspar",
-    "guid": "sc1multi:f360b7689a2103a8f7151209fb55a7a9c4ea1405",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f360b7689a2103a8f7151209fb55a7a9c4ea1405/",
-    "usedAt": 1786911244815,
-    "usedAtIso": "2026-08-16T20:14:04.815Z"
+  "source:ec00cea3fced1764f762993b5843a1831f2a2b28": {
+    "url": "https://tnsul.com/2026/08/16/vestidos-da-corte-da-cocalfest-ganham-destaque-pelos-detalhes",
+    "title": "Vestidos da corte da CocalFest destacam identidade cultural de Cocal do Sul",
+    "guid": "sc1multi:125c1656b9670794f256b8fa5dec56787d17bf7e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_125c1656b9670794f256b8fa5dec56787d17bf7e/",
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   },
-  "source:959c309f64c5046dc540d3d5845bb3cbaed77d13": {
-    "url": "https://tudoaquisc.com.br/esporte/figueirense-vence-caxias",
-    "title": "Figueirense vence Caxias e mantém esperança de acesso na Série C",
-    "guid": "sc1multi:af76ba42615deb5519f8597b300ae843d4dde77a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_af76ba42615deb5519f8597b300ae843d4dde77a/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:83280aaf29472b9741e3216fba32edef40ecfe22": {
-    "url": "https://ocp.news/cotidiano/bombeiros-voluntarios-de-jaragua-do-sul-comemoram-60-anos-com-feijoada-especial",
-    "title": "Bombeiros Voluntários de Jaraguá do Sul celebram 60 anos com feijoada especial",
-    "guid": "sc1multi:83280aaf29472b9741e3216fba32edef40ecfe22",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_83280aaf29472b9741e3216fba32edef40ecfe22/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:3445456b667787f061f5316b7ee08df17344cb28": {
-    "url": "https://ocp.news/cotidiano/crise-da-casas-bahia-leva-ao-fechamento-de-lojas-e-unidade-de-jaragua-do-sul-encerra-atividades",
-    "title": "Casas Bahia fecha loja em Jaraguá do Sul durante reestruturação nacional",
-    "guid": "sc1multi:3445456b667787f061f5316b7ee08df17344cb28",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3445456b667787f061f5316b7ee08df17344cb28/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:a6ca8badfa7067b005870d9fcef41acbc2dc20ef": {
-    "url": "https://ocp.news/esporte/jec-e-nacao-devem-mandar-jogos-da-copa-santa-catarina-em-jaragua-do-sul",
-    "title": "JEC e Nação devem mandar jogos da Copa SC em Jaraguá do Sul",
-    "guid": "sc1multi:a6ca8badfa7067b005870d9fcef41acbc2dc20ef",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a6ca8badfa7067b005870d9fcef41acbc2dc20ef/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:e6f6f91c83455978a56b36d9a68c200869cca886": {
-    "url": "https://correiosc.com.br/jorginho-mello-inicia-campanha-florianopolis-inaugura-comite-joinville",
-    "title": "Jorginho Mello inicia campanha eleitoral em Florianópolis e Joinville",
-    "guid": "sc1multi:85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_85e4f27b2d0b6e9fc2c51fa2417ad2d7b413cc6f/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:12278e73e617387f5d25c978fb15f65a5e54b782": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-suspeito-de-provocar-acidente-de-carro-para-tentar-matar-companheira-em-sc",
-    "title": "Homem é preso por provocar acidente para tentar matar companheira em Maracajá",
-    "guid": "sc1multi:12278e73e617387f5d25c978fb15f65a5e54b782",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_12278e73e617387f5d25c978fb15f65a5e54b782/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
-  },
-  "source:3e23b45f158621ba572152350f9e889b7c528c09": {
-    "url": "https://scportais.com.br/2026/08/15/sessao-solene-na-alesc-homenageia-fecomercio-sc-sesc-e-senac",
-    "title": "Alesc realiza sessão solene em homenagem à Fecomércio SC, Sesc e Senac",
-    "guid": "sc1multi:b4466e626cd2edaa2b033e2342a3b77f2a2f9a20",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b4466e626cd2edaa2b033e2342a3b77f2a2f9a20/",
-    "usedAt": 1786932844392,
-    "usedAtIso": "2026-08-17T02:14:04.392Z"
+  "source:e7dd2cd677233e9e904142e5ce74221f80869670": {
+    "url": "https://ocp.news/seguranca/denuncias-de-disparos-levam-a-apreensao-de-espingarda-e-municoes-em-jaragua-do-sul",
+    "title": "Denúncias de disparos levam à apreensão de espingarda em Jaraguá do Sul",
+    "guid": "sc1multi:e7dd2cd677233e9e904142e5ce74221f80869670",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e7dd2cd677233e9e904142e5ce74221f80869670/",
+    "usedAt": 1786936444379,
+    "usedAtIso": "2026-08-17T03:14:04.379Z"
   }
 }
