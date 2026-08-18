@@ -1,4 +1,36 @@
 {
+  "source:4bd3f2d16613f7aec550c02d72c261e58cf76111": {
+    "url": "https://ocp.news/seguranca/bombeiros-buscam-por-crianca-de-6-anos-arrastada-por-rio-na-grande-florianopolis",
+    "title": "Bombeiros buscam criança de 6 anos arrastada por rio na Grande Florianópolis",
+    "guid": "sc1multi:4bd3f2d16613f7aec550c02d72c261e58cf76111",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bd3f2d16613f7aec550c02d72c261e58cf76111/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
+  },
+  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
+    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
+    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
+    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
+  },
+  "source:58ac8adb1e2e2de10cf40408ac46ef5ee65c463d": {
+    "url": "https://rbatv.com.br/noticias/incendio-deixa-residencia-completamente-destruida-em-rio-do-sul",
+    "title": "Incêndio destrói residência no bairro Boa Vista em Rio do Sul",
+    "guid": "sc1multi:fb943cec3d57caae4829d62ef5fbaeb721e13edf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb943cec3d57caae4829d62ef5fbaeb721e13edf/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
+  },
+  "source:dd5597d0fd65b4570d142092693fcdf306c0f6f3": {
+    "url": "https://rbatv.com.br/noticias/natural-de-rio-do-sul-foragido-e-suspeito-de-crime-grave-morre-em-confronto-com-a-pm-em-blumenau",
+    "title": "Homem de Rio do Sul morre em confronto com a PM em Blumenau",
+    "guid": "sc1multi:8c962bb64e142c88d98252a8b8332bc2a7823679",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c962bb64e142c88d98252a8b8332bc2a7823679/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
+  },
   "source:feb78cd937268906908c77274193a41b6afbb211": {
     "url": "https://tnsul.com/2026/08/17/serra-do-faxinal-tem-abertura-parcial-e-controlada-para-veiculos-leves",
     "title": "Serra do Faxinal tem liberação parcial para veículos leves na SC-290",
@@ -188,63 +220,31 @@
     "title": "Jaraguá do Sul conquista título invicto no Estadual de Basquete Sub-20 Masculino",
     "guid": "sc1multi:68c24f7c76598fb36cee5c598f7f86384de8d070",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68c24f7c76598fb36cee5c598f7f86384de8d070/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
+    "usedAt": 1787044444727,
+    "usedAtIso": "2026-08-18T09:14:04.727Z"
   },
   "source:9e822b729aa9ebd1ab46006b4eeb2ced000b7842": {
     "url": "https://ocp.news/economia/fiesc-leva-inovacao-qualificacao-profissional-e-seguranca-para-a-interplast-2026",
     "title": "Fiesc promove inovação e qualificação na Interplast 2026 em Joinville",
     "guid": "sc1multi:9e822b729aa9ebd1ab46006b4eeb2ced000b7842",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9e822b729aa9ebd1ab46006b4eeb2ced000b7842/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
+    "usedAt": 1787044444727,
+    "usedAtIso": "2026-08-18T09:14:04.727Z"
   },
   "source:9b3664484e5093f6f00d4e047db579824715a762": {
     "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
     "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
     "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
+    "usedAt": 1787044444727,
+    "usedAtIso": "2026-08-18T09:14:04.727Z"
   },
   "source:dbc0cb4ec605f5eb29dd79dc9da5b5e9be5b4df5": {
     "url": "https://correiosc.com.br/turismo-aventura-encontro-santo-amaro-imperatriz",
     "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
     "guid": "sc1multi:76ae57f1386138c8fc220d275929803465094308",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76ae57f1386138c8fc220d275929803465094308/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
-  },
-  "source:4bd3f2d16613f7aec550c02d72c261e58cf76111": {
-    "url": "https://ocp.news/seguranca/bombeiros-buscam-por-crianca-de-6-anos-arrastada-por-rio-na-grande-florianopolis",
-    "title": "Bombeiros buscam criança de 6 anos arrastada por rio na Grande Florianópolis",
-    "guid": "sc1multi:4bd3f2d16613f7aec550c02d72c261e58cf76111",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bd3f2d16613f7aec550c02d72c261e58cf76111/",
-    "usedAt": 1787040845315,
-    "usedAtIso": "2026-08-18T08:14:05.315Z"
-  },
-  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
-    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
-    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
-    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1787040845315,
-    "usedAtIso": "2026-08-18T08:14:05.315Z"
-  },
-  "source:58ac8adb1e2e2de10cf40408ac46ef5ee65c463d": {
-    "url": "https://rbatv.com.br/noticias/incendio-deixa-residencia-completamente-destruida-em-rio-do-sul",
-    "title": "Incêndio destrói residência no bairro Boa Vista em Rio do Sul",
-    "guid": "sc1multi:fb943cec3d57caae4829d62ef5fbaeb721e13edf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb943cec3d57caae4829d62ef5fbaeb721e13edf/",
-    "usedAt": 1787040845315,
-    "usedAtIso": "2026-08-18T08:14:05.315Z"
-  },
-  "source:dd5597d0fd65b4570d142092693fcdf306c0f6f3": {
-    "url": "https://rbatv.com.br/noticias/natural-de-rio-do-sul-foragido-e-suspeito-de-crime-grave-morre-em-confronto-com-a-pm-em-blumenau",
-    "title": "Homem de Rio do Sul morre em confronto com a PM em Blumenau",
-    "guid": "sc1multi:8c962bb64e142c88d98252a8b8332bc2a7823679",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c962bb64e142c88d98252a8b8332bc2a7823679/",
-    "usedAt": 1787040845315,
-    "usedAtIso": "2026-08-18T08:14:05.315Z"
+    "usedAt": 1787044444727,
+    "usedAtIso": "2026-08-18T09:14:04.727Z"
   }
 }
