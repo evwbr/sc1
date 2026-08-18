@@ -1,4 +1,52 @@
 {
+  "source:dbc0cb4ec605f5eb29dd79dc9da5b5e9be5b4df5": {
+    "url": "https://correiosc.com.br/turismo-aventura-encontro-santo-amaro-imperatriz",
+    "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
+    "guid": "sc1multi:76ae57f1386138c8fc220d275929803465094308",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76ae57f1386138c8fc220d275929803465094308/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
+  "source:f6e7eb0007081c7406afd11cffdd94dbab0911f8": {
+    "url": "https://tnsul.com/2026/08/18/colisao-entre-dois-carros-e-moto-deixa-uma-pessoa-morta-na-br-282",
+    "title": "Colisão na BR-282 em Santo Amaro da Imperatriz deixa uma pessoa morta",
+    "guid": "sc1multi:0d9e2e84d7ce1483ef91c47442a3f0465f7782c2",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0d9e2e84d7ce1483ef91c47442a3f0465f7782c2/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
+  "source:58ac8adb1e2e2de10cf40408ac46ef5ee65c463d": {
+    "url": "https://rbatv.com.br/noticias/incendio-deixa-residencia-completamente-destruida-em-rio-do-sul",
+    "title": "Incêndio destrói residência no bairro Boa Vista em Rio do Sul",
+    "guid": "sc1multi:fb943cec3d57caae4829d62ef5fbaeb721e13edf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb943cec3d57caae4829d62ef5fbaeb721e13edf/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
+  "source:dd5597d0fd65b4570d142092693fcdf306c0f6f3": {
+    "url": "https://rbatv.com.br/noticias/natural-de-rio-do-sul-foragido-e-suspeito-de-crime-grave-morre-em-confronto-com-a-pm-em-blumenau",
+    "title": "Foragido de Rio do Sul morre em confronto com a PM em Blumenau",
+    "guid": "sc1multi:8c962bb64e142c88d98252a8b8332bc2a7823679",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c962bb64e142c88d98252a8b8332bc2a7823679/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
+  "source:7a24eb10b1bf36cc4c521cac2baa92af806c5aff": {
+    "url": "https://tudoaquisc.com.br/economia/postos-balneario-camboriu-ago26",
+    "title": "Postos de Balneário Camboriú são multados por aumento injustificado da gasolina",
+    "guid": "sc1multi:5e235886ef009f449035f18d1b483468efc938af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e235886ef009f449035f18d1b483468efc938af/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
+  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
+    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
+    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
+    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
+    "usedAt": 1787066044330,
+    "usedAtIso": "2026-08-18T15:14:04.330Z"
+  },
   "source:fc81ec16e564a4ada8577d565a4a3c82a55c6577": {
     "url": "https://tnsul.com/2026/08/18/operacao-da-pf-contra-contrabando-tem-alvos-em-tubarao-e-nova-trento",
     "title": "PF cumpre mandados em SC contra grupo de contrabando e lavagem de dinheiro",
@@ -169,11 +217,11 @@
   },
   "source:7b5f53c9f771c08d983d4327fbb8819904281c32": {
     "url": "https://rbatv.com.br/noticias/homem-e-preso-com-motocicleta-de-leilao-e-placa-adulterada-em-pomerode",
-    "title": "Homem é preso com motocicleta adulterada em Pomerode, SC",
+    "title": "Homem é preso com motocicleta adulterada em Pomerode",
     "guid": "sc1multi:54cf0cb2b7d59da13fa3ee6ece821942f3757de3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54cf0cb2b7d59da13fa3ee6ece821942f3757de3/",
-    "usedAt": 1787051645802,
-    "usedAtIso": "2026-08-18T11:14:05.802Z"
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
   },
   "source:ce2d6afa93c2f61962101bc0a1728dc18d673c28": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-faz-historia-e-conquista-titulo-inedito-na-natacao-catarinense",
@@ -191,76 +239,36 @@
     "usedAt": 1787048046016,
     "usedAtIso": "2026-08-18T10:14:06.016Z"
   },
-  "source:68c24f7c76598fb36cee5c598f7f86384de8d070": {
-    "url": "https://ocp.news/esporte/invicto-time-jaraguaense-conquista-o-titulo-do-estadual-de-basquete-sub-20-masculino",
-    "title": "Jaraguá do Sul conquista título invicto no Estadual de Basquete Sub-20 Masculino",
-    "guid": "sc1multi:68c24f7c76598fb36cee5c598f7f86384de8d070",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_68c24f7c76598fb36cee5c598f7f86384de8d070/",
-    "usedAt": 1787044444727,
-    "usedAtIso": "2026-08-18T09:14:04.727Z"
+  "source:b1e36f19bb16f6e67f373f11a423d726e689b6a4": {
+    "url": "https://tnsul.com/2026/08/18/homem-morre-apos-perder-controle-de-moto-e-cair-em-estrada-em-sc",
+    "title": "Motociclista morre após cair em estrada de Rio do Campo, SC",
+    "guid": "sc1multi:0dffc6d278d94b216fac39fcad48c2f1d3010375",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0dffc6d278d94b216fac39fcad48c2f1d3010375/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
   },
-  "source:9e822b729aa9ebd1ab46006b4eeb2ced000b7842": {
-    "url": "https://ocp.news/economia/fiesc-leva-inovacao-qualificacao-profissional-e-seguranca-para-a-interplast-2026",
-    "title": "Fiesc promove inovação e qualificação na Interplast 2026 em Joinville",
-    "guid": "sc1multi:9e822b729aa9ebd1ab46006b4eeb2ced000b7842",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_9e822b729aa9ebd1ab46006b4eeb2ced000b7842/",
-    "usedAt": 1787044444727,
-    "usedAtIso": "2026-08-18T09:14:04.727Z"
+  "source:729aad8bac5d1b5cc311547033357d6022c303a4": {
+    "url": "https://tnsul.com/2026/08/18/demandas-da-regiao-sao-entregues-a-candidatos-que-disputam-as-eleicoes-2026",
+    "title": "Entidades de Criciúma entregam demandas regionais a candidatos de 2026",
+    "guid": "sc1multi:b937d28fe4d610bc3562a94daf1053452be20eee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b937d28fe4d610bc3562a94daf1053452be20eee/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
+  "source:804eda86ea0bad628c35e9fe5e437aea4d6f1600": {
+    "url": "https://tudoaquisc.com.br/educacao/gutierres-secretaria-educacao",
+    "title": "Eduardo Gutierres assume Secretaria de Educação de Florianópolis",
+    "guid": "sc1multi:d461456dc52a3929fac501ec601aed4c2b80cd85",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d461456dc52a3929fac501ec601aed4c2b80cd85/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
   },
   "source:9b3664484e5093f6f00d4e047db579824715a762": {
     "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
     "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
     "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
-    "usedAt": 1787044444727,
-    "usedAtIso": "2026-08-18T09:14:04.727Z"
-  },
-  "source:dbc0cb4ec605f5eb29dd79dc9da5b5e9be5b4df5": {
-    "url": "https://correiosc.com.br/turismo-aventura-encontro-santo-amaro-imperatriz",
-    "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
-    "guid": "sc1multi:76ae57f1386138c8fc220d275929803465094308",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76ae57f1386138c8fc220d275929803465094308/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
-  },
-  "source:f6e7eb0007081c7406afd11cffdd94dbab0911f8": {
-    "url": "https://tnsul.com/2026/08/18/colisao-entre-dois-carros-e-moto-deixa-uma-pessoa-morta-na-br-282",
-    "title": "Colisão na BR-282 em Santo Amaro da Imperatriz deixa uma pessoa morta",
-    "guid": "sc1multi:0d9e2e84d7ce1483ef91c47442a3f0465f7782c2",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0d9e2e84d7ce1483ef91c47442a3f0465f7782c2/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
-  },
-  "source:58ac8adb1e2e2de10cf40408ac46ef5ee65c463d": {
-    "url": "https://rbatv.com.br/noticias/incendio-deixa-residencia-completamente-destruida-em-rio-do-sul",
-    "title": "Incêndio destrói residência no bairro Boa Vista em Rio do Sul",
-    "guid": "sc1multi:fb943cec3d57caae4829d62ef5fbaeb721e13edf",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb943cec3d57caae4829d62ef5fbaeb721e13edf/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
-  },
-  "source:dd5597d0fd65b4570d142092693fcdf306c0f6f3": {
-    "url": "https://rbatv.com.br/noticias/natural-de-rio-do-sul-foragido-e-suspeito-de-crime-grave-morre-em-confronto-com-a-pm-em-blumenau",
-    "title": "Foragido de Rio do Sul morre em confronto com a PM em Blumenau",
-    "guid": "sc1multi:8c962bb64e142c88d98252a8b8332bc2a7823679",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c962bb64e142c88d98252a8b8332bc2a7823679/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
-  },
-  "source:7a24eb10b1bf36cc4c521cac2baa92af806c5aff": {
-    "url": "https://tudoaquisc.com.br/economia/postos-balneario-camboriu-ago26",
-    "title": "Postos de Balneário Camboriú são multados por aumento injustificado da gasolina",
-    "guid": "sc1multi:5e235886ef009f449035f18d1b483468efc938af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e235886ef009f449035f18d1b483468efc938af/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
-  },
-  "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
-    "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
-    "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
-    "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1787066044330,
-    "usedAtIso": "2026-08-18T15:14:04.330Z"
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
   }
 }
