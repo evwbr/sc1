@@ -1,4 +1,36 @@
 {
+  "source:06c743872e8025f138fdc1379df921173734580f": {
+    "url": "https://ocp.news/esporte/bruninho-passa-por-cirurgia-e-desfalca-o-jaragua-futsal",
+    "title": "Bruninho passa por cirurgia e desfalca Jaraguá Futsal no Catarinense",
+    "guid": "sc1multi:06c743872e8025f138fdc1379df921173734580f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_06c743872e8025f138fdc1379df921173734580f/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
+  },
+  "source:0e99e0aeb23f71c4a03ae401bf27f03d2f832133": {
+    "url": "https://tnsul.com/2026/08/17/pai-e-condenado-a-mais-de-41-anos-por-torturar-filhos-e-enteado",
+    "title": "Homem é condenado a mais de 41 anos por tortura em Palhoça, SC",
+    "guid": "sc1multi:c7a9f316b1703af28af401b7fad6accab6d27336",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c7a9f316b1703af28af401b7fad6accab6d27336/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
+  },
+  "source:a7e2d53b7650c51d38c6481bb95c3b1d402c4299": {
+    "url": "https://tnsul.com/2026/08/17/adolescente-mata-namorada-de-25-anos-com-tiro-no-rosto-em-sc",
+    "title": "Adolescente apreendido por feminicídio em Palmitos, SC",
+    "guid": "sc1multi:8a470c011c4634fc6833284a554fbc26f6181c67",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a470c011c4634fc6833284a554fbc26f6181c67/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
+  },
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
+  },
   "source:3f8cf9681042ad432f023550328f4ad786c923ec": {
     "url": "https://ocp.news/cotidiano/procon-de-florianopolis-interdita-posto-por-risco-a-seguranca-dos-consumidores",
     "title": "Procon de Florianópolis interdita posto por risco à segurança dos consumidores",
@@ -188,71 +220,31 @@
     "title": "Motociclista de 32 anos morre em acidente em Rio do Campo, SC",
     "guid": "sc1multi:d7e7e95b88417660c94caf269454089d77f1c6cb",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7e7e95b88417660c94caf269454089d77f1c6cb/",
-    "usedAt": 1787012044413,
-    "usedAtIso": "2026-08-18T00:14:04.413Z"
+    "usedAt": 1787033644611,
+    "usedAtIso": "2026-08-18T06:14:04.611Z"
   },
   "source:702980eadfe39fc6d153450582ce8b30fd500e1d": {
     "url": "https://scportais.com.br/2026/08/17/semana-comeca-com-calor-e-atencao-as-mudancas-no-tempo-em-santa-catarina",
     "title": "Semana começa com calor e previsão de temporais em Santa Catarina",
     "guid": "sc1multi:a4ad59005b307f5c617cb889587add897be64304",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4ad59005b307f5c617cb889587add897be64304/",
-    "usedAt": 1787012044413,
-    "usedAtIso": "2026-08-18T00:14:04.413Z"
+    "usedAt": 1787033644611,
+    "usedAtIso": "2026-08-18T06:14:04.611Z"
   },
   "source:781dd35078250d29fcb458e0b94e57642d28726e": {
     "url": "https://scportais.com.br/2026/08/17/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc",
     "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
     "guid": "sc1multi:0e978a1f4e6984fafc0be03268082c09f7685cb9",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e978a1f4e6984fafc0be03268082c09f7685cb9/",
-    "usedAt": 1787012044413,
-    "usedAtIso": "2026-08-18T00:14:04.413Z"
+    "usedAt": 1787033644611,
+    "usedAtIso": "2026-08-18T06:14:04.611Z"
   },
   "source:ba1ca3a530e7b04b1e97b250b581036557f704e0": {
     "url": "https://rbatv.com.br/noticias/ciclista-perde-a-vida-em-acidente-envolvendo-caminhao-em-lontras",
     "title": "Ciclista morre em acidente com caminhão em Lontras, SC",
     "guid": "sc1multi:55e509b50a69ceae5f8607b1f18fdd3e149d7506",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e509b50a69ceae5f8607b1f18fdd3e149d7506/",
-    "usedAt": 1787012044413,
-    "usedAtIso": "2026-08-18T00:14:04.413Z"
-  },
-  "source:09ae07176c459da0eab69902caf70c20f891c4d8": {
-    "url": "https://tnsul.com/2026/08/17/mulher-e-condenada-por-venda-de-medicamentos-abortivos",
-    "title": "Mulher é condenada por venda de medicamentos abortivos com entrega em Santa Catarina",
-    "guid": "sc1multi:e13acc37b31bf081a08e071a9c80127c25f3295d",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e13acc37b31bf081a08e071a9c80127c25f3295d/",
-    "usedAt": 1787012044413,
-    "usedAtIso": "2026-08-18T00:14:04.413Z"
-  },
-  "source:06c743872e8025f138fdc1379df921173734580f": {
-    "url": "https://ocp.news/esporte/bruninho-passa-por-cirurgia-e-desfalca-o-jaragua-futsal",
-    "title": "Bruninho passa por cirurgia e desfalca Jaraguá Futsal no Catarinense",
-    "guid": "sc1multi:06c743872e8025f138fdc1379df921173734580f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_06c743872e8025f138fdc1379df921173734580f/",
-    "usedAt": 1787030044596,
-    "usedAtIso": "2026-08-18T05:14:04.596Z"
-  },
-  "source:0e99e0aeb23f71c4a03ae401bf27f03d2f832133": {
-    "url": "https://tnsul.com/2026/08/17/pai-e-condenado-a-mais-de-41-anos-por-torturar-filhos-e-enteado",
-    "title": "Homem é condenado a mais de 41 anos por tortura em Palhoça, SC",
-    "guid": "sc1multi:c7a9f316b1703af28af401b7fad6accab6d27336",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c7a9f316b1703af28af401b7fad6accab6d27336/",
-    "usedAt": 1787030044596,
-    "usedAtIso": "2026-08-18T05:14:04.596Z"
-  },
-  "source:a7e2d53b7650c51d38c6481bb95c3b1d402c4299": {
-    "url": "https://tnsul.com/2026/08/17/adolescente-mata-namorada-de-25-anos-com-tiro-no-rosto-em-sc",
-    "title": "Adolescente apreendido por feminicídio em Palmitos, SC",
-    "guid": "sc1multi:8a470c011c4634fc6833284a554fbc26f6181c67",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a470c011c4634fc6833284a554fbc26f6181c67/",
-    "usedAt": 1787030044596,
-    "usedAtIso": "2026-08-18T05:14:04.596Z"
-  },
-  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
-    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
-    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
-    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1787030044596,
-    "usedAtIso": "2026-08-18T05:14:04.596Z"
+    "usedAt": 1787033644611,
+    "usedAtIso": "2026-08-18T06:14:04.611Z"
   }
 }
