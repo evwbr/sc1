@@ -1,4 +1,44 @@
 {
+  "source:7b5f53c9f771c08d983d4327fbb8819904281c32": {
+    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-motocicleta-de-leilao-e-placa-adulterada-em-pomerode",
+    "title": "Homem é preso com motocicleta adulterada em Pomerode",
+    "guid": "sc1multi:54cf0cb2b7d59da13fa3ee6ece821942f3757de3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54cf0cb2b7d59da13fa3ee6ece821942f3757de3/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
+  "source:b1e36f19bb16f6e67f373f11a423d726e689b6a4": {
+    "url": "https://tnsul.com/2026/08/18/homem-morre-apos-perder-controle-de-moto-e-cair-em-estrada-em-sc",
+    "title": "Motociclista morre após cair em estrada de Rio do Campo, SC",
+    "guid": "sc1multi:0dffc6d278d94b216fac39fcad48c2f1d3010375",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0dffc6d278d94b216fac39fcad48c2f1d3010375/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
+  "source:729aad8bac5d1b5cc311547033357d6022c303a4": {
+    "url": "https://tnsul.com/2026/08/18/demandas-da-regiao-sao-entregues-a-candidatos-que-disputam-as-eleicoes-2026",
+    "title": "Entidades de Criciúma entregam demandas regionais a candidatos de 2026",
+    "guid": "sc1multi:b937d28fe4d610bc3562a94daf1053452be20eee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b937d28fe4d610bc3562a94daf1053452be20eee/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
+  "source:804eda86ea0bad628c35e9fe5e437aea4d6f1600": {
+    "url": "https://tudoaquisc.com.br/educacao/gutierres-secretaria-educacao",
+    "title": "Eduardo Gutierres assume Secretaria de Educação de Florianópolis",
+    "guid": "sc1multi:d461456dc52a3929fac501ec601aed4c2b80cd85",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d461456dc52a3929fac501ec601aed4c2b80cd85/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
+  "source:9b3664484e5093f6f00d4e047db579824715a762": {
+    "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
+    "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
+    "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
+    "usedAt": 1787069644503,
+    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  },
   "source:dbc0cb4ec605f5eb29dd79dc9da5b5e9be5b4df5": {
     "url": "https://correiosc.com.br/turismo-aventura-encontro-santo-amaro-imperatriz",
     "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
@@ -201,11 +241,11 @@
   },
   "source:d1a9f8326c250a62f774e173c3cd8c7626230796": {
     "url": "https://rbatv.com.br/noticias/brusque-registra-prisoes-por-violencia-domestica-trafico-de-drogas-e-furto",
-    "title": "Polícia Militar prende três em Brusque por violência, drogas e furto",
+    "title": "Polícia Militar prende três suspeitos em Brusque por crimes diversos",
     "guid": "sc1multi:b77719da262d82fb6aa67dcccdf21ad3e854ba3f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b77719da262d82fb6aa67dcccdf21ad3e854ba3f/",
-    "usedAt": 1787051645802,
-    "usedAtIso": "2026-08-18T11:14:05.802Z"
+    "usedAt": 1787073244385,
+    "usedAtIso": "2026-08-18T17:14:04.385Z"
   },
   "source:e952054fd9147246928c0161db1daaff1e7802b3": {
     "url": "https://tnsul.com/2026/08/18/padrasto-denunciado-por-estrupo-morre-apos-confronto-com-a-pm-em-blumenau",
@@ -215,14 +255,6 @@
     "usedAt": 1787051645802,
     "usedAtIso": "2026-08-18T11:14:05.802Z"
   },
-  "source:7b5f53c9f771c08d983d4327fbb8819904281c32": {
-    "url": "https://rbatv.com.br/noticias/homem-e-preso-com-motocicleta-de-leilao-e-placa-adulterada-em-pomerode",
-    "title": "Homem é preso com motocicleta adulterada em Pomerode",
-    "guid": "sc1multi:54cf0cb2b7d59da13fa3ee6ece821942f3757de3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_54cf0cb2b7d59da13fa3ee6ece821942f3757de3/",
-    "usedAt": 1787069644503,
-    "usedAtIso": "2026-08-18T16:14:04.503Z"
-  },
   "source:ce2d6afa93c2f61962101bc0a1728dc18d673c28": {
     "url": "https://ocp.news/esporte/jaragua-do-sul-faz-historia-e-conquista-titulo-inedito-na-natacao-catarinense",
     "title": "Jaraguá do Sul conquista título inédito no Campeonato Catarinense de Natação",
@@ -231,44 +263,20 @@
     "usedAt": 1787051645802,
     "usedAtIso": "2026-08-18T11:14:05.802Z"
   },
-  "source:11d940eb758fa7cd609964ff5ea0f0d0c475335e": {
-    "url": "https://scportais.com.br/2026/08/16/pelo-estado-entrevista-o-desafio-e-nao-baixar-a-guarda-e-manter-o-nosso-estado-como-o-mais-prospero-e-seguro-do-brasil",
-    "title": "Jorginho Mello destaca avanços e metas para novo mandato em Santa Catarina",
-    "guid": "sc1multi:b5910d76d76ea5410a7e846e350b3c3647ba4054",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b5910d76d76ea5410a7e846e350b3c3647ba4054/",
-    "usedAt": 1787048046016,
-    "usedAtIso": "2026-08-18T10:14:06.016Z"
+  "source:58fbb9e2590ac5b637c700cc0bce72794bfa4385": {
+    "url": "https://ocp.news/cotidiano/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-em-comunidade-de-florianopolis",
+    "title": "Seis edificações irregulares são demolidas em dunas dos Ingleses, Florianópolis",
+    "guid": "sc1multi:58fbb9e2590ac5b637c700cc0bce72794bfa4385",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58fbb9e2590ac5b637c700cc0bce72794bfa4385/",
+    "usedAt": 1787073244385,
+    "usedAtIso": "2026-08-18T17:14:04.385Z"
   },
-  "source:b1e36f19bb16f6e67f373f11a423d726e689b6a4": {
-    "url": "https://tnsul.com/2026/08/18/homem-morre-apos-perder-controle-de-moto-e-cair-em-estrada-em-sc",
-    "title": "Motociclista morre após cair em estrada de Rio do Campo, SC",
-    "guid": "sc1multi:0dffc6d278d94b216fac39fcad48c2f1d3010375",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0dffc6d278d94b216fac39fcad48c2f1d3010375/",
-    "usedAt": 1787069644503,
-    "usedAtIso": "2026-08-18T16:14:04.503Z"
-  },
-  "source:729aad8bac5d1b5cc311547033357d6022c303a4": {
-    "url": "https://tnsul.com/2026/08/18/demandas-da-regiao-sao-entregues-a-candidatos-que-disputam-as-eleicoes-2026",
-    "title": "Entidades de Criciúma entregam demandas regionais a candidatos de 2026",
-    "guid": "sc1multi:b937d28fe4d610bc3562a94daf1053452be20eee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b937d28fe4d610bc3562a94daf1053452be20eee/",
-    "usedAt": 1787069644503,
-    "usedAtIso": "2026-08-18T16:14:04.503Z"
-  },
-  "source:804eda86ea0bad628c35e9fe5e437aea4d6f1600": {
-    "url": "https://tudoaquisc.com.br/educacao/gutierres-secretaria-educacao",
-    "title": "Eduardo Gutierres assume Secretaria de Educação de Florianópolis",
-    "guid": "sc1multi:d461456dc52a3929fac501ec601aed4c2b80cd85",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d461456dc52a3929fac501ec601aed4c2b80cd85/",
-    "usedAt": 1787069644503,
-    "usedAtIso": "2026-08-18T16:14:04.503Z"
-  },
-  "source:9b3664484e5093f6f00d4e047db579824715a762": {
-    "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
-    "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
-    "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
-    "usedAt": 1787069644503,
-    "usedAtIso": "2026-08-18T16:14:04.503Z"
+  "source:97b1616bd4575c750e8526a2dd4777038ed68080": {
+    "url": "https://ocp.news/politica/vereador-alerta-para-risco-de-acidentes-na-br-280-e-cobra-reparos-em-trecho",
+    "title": "Vereador de Jaraguá do Sul alerta para riscos na BR-280 e cobra reparos",
+    "guid": "sc1multi:97b1616bd4575c750e8526a2dd4777038ed68080",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97b1616bd4575c750e8526a2dd4777038ed68080/",
+    "usedAt": 1787073244385,
+    "usedAtIso": "2026-08-18T17:14:04.385Z"
   }
 }
