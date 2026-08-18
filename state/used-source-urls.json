@@ -1,4 +1,52 @@
 {
+  "source:781dd35078250d29fcb458e0b94e57642d28726e": {
+    "url": "https://scportais.com.br/2026/08/17/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc",
+    "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:0e978a1f4e6984fafc0be03268082c09f7685cb9",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e978a1f4e6984fafc0be03268082c09f7685cb9/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
+  "source:5bac2a2a088df9216a92130205db2fb1c5d2c467": {
+    "url": "https://ocp.news/cotidiano/projeto-promove-seguranca-aquatica-e-inclusao-social-a-140-criancas-de-joinville",
+    "title": "Projeto de natação social beneficia 140 crianças em Joinville",
+    "guid": "sc1multi:5bac2a2a088df9216a92130205db2fb1c5d2c467",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5bac2a2a088df9216a92130205db2fb1c5d2c467/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
+  "source:50f79c15e92e2560c304c78ea896ad94c63ab1f4": {
+    "url": "https://ocp.news/seguranca/homem-e-preso-por-trafico-de-drogas-no-bairro-agua-verde-em-jaragua-do-sul",
+    "title": "Homem é preso por tráfico de drogas no bairro Água Verde, Jaraguá do Sul",
+    "guid": "sc1multi:50f79c15e92e2560c304c78ea896ad94c63ab1f4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_50f79c15e92e2560c304c78ea896ad94c63ab1f4/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
+  "source:964c3ecbf652f750e95c31887441b661e24731ea": {
+    "url": "https://correiosc.com.br/stf-municipios-nao-podem-usar-area-do-imovel-para-definir-aliquota-do-iptu",
+    "title": "STF declara inconstitucional IPTU com alíquota baseada na área do imóvel em Chapecó",
+    "guid": "sc1multi:75e7369d0027d788b864ee763983094ae9e5fba0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75e7369d0027d788b864ee763983094ae9e5fba0/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
+  "source:35c61302256d7ad86d47331d06c885482bacf089": {
+    "url": "https://ocp.news/cotidiano/corupa1-forma-primeira-turma-de-socorristas-voluntarios-composta-por-alunos-de-medicina-do-idomed",
+    "title": "Corupá forma primeira turma de socorristas voluntários do Idomed em Jaraguá do Sul",
+    "guid": "sc1multi:35c61302256d7ad86d47331d06c885482bacf089",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35c61302256d7ad86d47331d06c885482bacf089/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
+  "source:e5af9d0fc53b3abdffb962bb025cf46c49872a8e": {
+    "url": "https://ocp.news/seguranca/homem-sobrevive-apos-levar-forte-choque-eletrico-no-centro-de-jaragua-do-sul",
+    "title": "Homem sofre choque elétrico e é hospitalizado em Jaraguá do Sul",
+    "guid": "sc1multi:e5af9d0fc53b3abdffb962bb025cf46c49872a8e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e5af9d0fc53b3abdffb962bb025cf46c49872a8e/",
+    "usedAt": 1787080444639,
+    "usedAtIso": "2026-08-18T19:14:04.639Z"
+  },
   "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
     "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
     "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
@@ -167,156 +215,52 @@
     "usedAt": 1787066044330,
     "usedAtIso": "2026-08-18T15:14:04.330Z"
   },
-  "source:fc81ec16e564a4ada8577d565a4a3c82a55c6577": {
-    "url": "https://tnsul.com/2026/08/18/operacao-da-pf-contra-contrabando-tem-alvos-em-tubarao-e-nova-trento",
-    "title": "PF cumpre mandados em SC contra grupo de contrabando e lavagem de dinheiro",
-    "guid": "sc1multi:435b5a7d582e14b4a649ec7d4bf0e4b40d4cfb23",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_435b5a7d582e14b4a649ec7d4bf0e4b40d4cfb23/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
+  "source:be63be1f788870effe8d064272545360deba080b": {
+    "url": "https://ocp.news/esporte/tres-jaraguaenses-vao-ao-podio-em-duas-ultramaratonas-pelo-brasil",
+    "title": "Três atletas de Jaraguá do Sul conquistam pódio em ultramaratonas no Brasil",
+    "guid": "sc1multi:be63be1f788870effe8d064272545360deba080b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be63be1f788870effe8d064272545360deba080b/",
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   },
-  "source:4a037736c9cc07ecebb32202e73a97d1ca2b500a": {
-    "url": "https://ocp.news/seguranca/laudo-confirma-que-estudante-de-19-anos-morta-em-sc-morreu-por-asfixia",
-    "title": "Laudo confirma morte por asfixia de jovem em Sangão, SC",
-    "guid": "sc1multi:4a037736c9cc07ecebb32202e73a97d1ca2b500a",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4a037736c9cc07ecebb32202e73a97d1ca2b500a/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
+  "source:8708a0f020b4e54d9a48376693108f20cb809569": {
+    "url": "https://ocp.news/esporte/dupla-jaraguaense-e-vice-campea-da-copa-nacional-de-volei-de-praia-sub-17",
+    "title": "Dupla de Jaraguá do Sul é vice-campeã da Copa Nacional de Vôlei de Praia Sub-17",
+    "guid": "sc1multi:8708a0f020b4e54d9a48376693108f20cb809569",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8708a0f020b4e54d9a48376693108f20cb809569/",
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   },
-  "source:32dd22b22545a610efa7e258db11e0f71ed512da": {
-    "url": "https://ocp.news/politica/matheus-cadorin-lanca-campanha-a-reeleicao-nesta-terca-feira-em-joinville",
-    "title": "Matheus Cadorin lança campanha à reeleição em Joinville",
-    "guid": "sc1multi:32dd22b22545a610efa7e258db11e0f71ed512da",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_32dd22b22545a610efa7e258db11e0f71ed512da/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
+  "source:466298fec0c208d279e24b24274d8b3aa10a9cb3": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-abre-inscricoes-para-estagio-voltado-a-alunos-do-ensino-medio",
+    "title": "Prefeitura de Jaraguá do Sul abre inscrições para estágio a alunos do Ensino Médio",
+    "guid": "sc1multi:466298fec0c208d279e24b24274d8b3aa10a9cb3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_466298fec0c208d279e24b24274d8b3aa10a9cb3/",
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   },
-  "source:caef8c1e05376c1a5478255d68b7f95531128b1c": {
-    "url": "https://ocp.news/seguranca/bombeiros-intensificam-buscas-por-menino-em-rio-na-grande-florianopolis",
-    "title": "Bombeiros intensificam buscas por menino desaparecido no Rio Cubatão",
-    "guid": "sc1multi:caef8c1e05376c1a5478255d68b7f95531128b1c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_caef8c1e05376c1a5478255d68b7f95531128b1c/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
+  "source:5b9d1e29b5d8c4b713c33ace820814b903c75866": {
+    "url": "https://ocp.news/esporte/volei-jaraguaense-faz-etapa-perfeita-e-se-garante-nas-finais-do-estadual-sub-16-masculino",
+    "title": "Vôlei de Jaraguá do Sul garante vaga nas finais do Estadual Sub-16 Masculino",
+    "guid": "sc1multi:5b9d1e29b5d8c4b713c33ace820814b903c75866",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b9d1e29b5d8c4b713c33ace820814b903c75866/",
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   },
-  "source:14d7509f3ece1fca7e830b324b229c4cbff08966": {
-    "url": "https://rbatv.com.br/noticias/homem-de-32-anos-morre-apos-acidente-de-motocicleta-em-rio-do-campo",
-    "title": "Motociclista de 32 anos morre em acidente em Rio do Campo, SC",
-    "guid": "sc1multi:d7e7e95b88417660c94caf269454089d77f1c6cb",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d7e7e95b88417660c94caf269454089d77f1c6cb/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
+  "source:5ba02727b6fa06e25e05ec9307b4c98d2035a856": {
+    "url": "https://tudoaquisc.com.br/politica/patrimonio-candidatos-governo",
+    "title": "Patrimônio declarado dos candidatos ao governo de Santa Catarina",
+    "guid": "sc1multi:3dfff465827285c6b434c2336a8cad7d7ab56b51",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dfff465827285c6b434c2336a8cad7d7ab56b51/",
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   },
   "source:702980eadfe39fc6d153450582ce8b30fd500e1d": {
     "url": "https://scportais.com.br/2026/08/17/semana-comeca-com-calor-e-atencao-as-mudancas-no-tempo-em-santa-catarina",
     "title": "Semana começa com calor e previsão de temporais em Santa Catarina",
     "guid": "sc1multi:a4ad59005b307f5c617cb889587add897be64304",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4ad59005b307f5c617cb889587add897be64304/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
-  },
-  "source:781dd35078250d29fcb458e0b94e57642d28726e": {
-    "url": "https://scportais.com.br/2026/08/17/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc",
-    "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
-    "guid": "sc1multi:0e978a1f4e6984fafc0be03268082c09f7685cb9",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_0e978a1f4e6984fafc0be03268082c09f7685cb9/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
-  },
-  "source:ba1ca3a530e7b04b1e97b250b581036557f704e0": {
-    "url": "https://rbatv.com.br/noticias/ciclista-perde-a-vida-em-acidente-envolvendo-caminhao-em-lontras",
-    "title": "Ciclista morre em acidente com caminhão em Lontras, SC",
-    "guid": "sc1multi:55e509b50a69ceae5f8607b1f18fdd3e149d7506",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_55e509b50a69ceae5f8607b1f18fdd3e149d7506/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
-  },
-  "source:06c743872e8025f138fdc1379df921173734580f": {
-    "url": "https://ocp.news/esporte/bruninho-passa-por-cirurgia-e-desfalca-o-jaragua-futsal",
-    "title": "Bruninho passa por cirurgia e desfalca Jaraguá Futsal no Catarinense",
-    "guid": "sc1multi:06c743872e8025f138fdc1379df921173734580f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_06c743872e8025f138fdc1379df921173734580f/",
-    "usedAt": 1787062444740,
-    "usedAtIso": "2026-08-18T14:14:04.740Z"
-  },
-  "source:449c591b3c1fdadfcd308858f4a80d6b75b36bd3": {
-    "url": "https://ocp.news/cotidiano/jaragua1-do-sul-reforca-importancia-da-vacinacao-contra-o-sarampo-e-convoca-populacao-para-atualizar-a-caderneta",
-    "title": "Jaraguá do Sul convoca população para atualizar vacinação contra sarampo",
-    "guid": "sc1multi:449c591b3c1fdadfcd308858f4a80d6b75b36bd3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_449c591b3c1fdadfcd308858f4a80d6b75b36bd3/",
-    "usedAt": 1787058844986,
-    "usedAtIso": "2026-08-18T13:14:04.986Z"
-  },
-  "source:11435564d81d14bf75e0719ac1cb5546a6c35ada": {
-    "url": "https://ocp.news/seguranca/operacao-cumpre-19-mandados-de-prisao-contra-faccao-em-cidades-de-sc",
-    "title": "Operação cumpre 19 mandados de prisão contra facção no Oeste de SC",
-    "guid": "sc1multi:11435564d81d14bf75e0719ac1cb5546a6c35ada",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11435564d81d14bf75e0719ac1cb5546a6c35ada/",
-    "usedAt": 1787058844986,
-    "usedAtIso": "2026-08-18T13:14:04.986Z"
-  },
-  "source:21983b5ee9167752312e73032c5743316a8ed4c7": {
-    "url": "https://ocp.news/cotidiano/obras-de-pavimentacao-e-drenagem-avancam-em-cinco-vias-de-blumenau",
-    "title": "Obras de pavimentação avançam em cinco ruas de Blumenau",
-    "guid": "sc1multi:21983b5ee9167752312e73032c5743316a8ed4c7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_21983b5ee9167752312e73032c5743316a8ed4c7/",
-    "usedAt": 1787058844986,
-    "usedAtIso": "2026-08-18T13:14:04.986Z"
-  },
-  "source:08566ad65688b6d95b1ee53a30185a143e73fde1": {
-    "url": "https://ocp.news/cotidiano/criciuma-meu-doutor-realiza-111-consultas-medicas-nos-primeiros-dias-de-funcionamento",
-    "title": "Criciúma realiza 111 consultas pelo Meu Doutor nos primeiros dias",
-    "guid": "sc1multi:08566ad65688b6d95b1ee53a30185a143e73fde1",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_08566ad65688b6d95b1ee53a30185a143e73fde1/",
-    "usedAt": 1787058844986,
-    "usedAtIso": "2026-08-18T13:14:04.986Z"
-  },
-  "source:ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44": {
-    "url": "https://ocp.news/seguranca/uma-pessoa-morre-e-duas-ficam-feridas-apos-colisao-na-br-282-na-grande-florianopolis",
-    "title": "Colisão na BR-282 em Santo Amaro da Imperatriz deixa uma morte e dois feridos",
-    "guid": "sc1multi:ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44/",
-    "usedAt": 1787058844986,
-    "usedAtIso": "2026-08-18T13:14:04.986Z"
-  },
-  "source:5bac2a2a088df9216a92130205db2fb1c5d2c467": {
-    "url": "https://ocp.news/cotidiano/projeto-promove-seguranca-aquatica-e-inclusao-social-a-140-criancas-de-joinville",
-    "title": "Projeto de natação social beneficia 140 crianças em Joinville",
-    "guid": "sc1multi:5bac2a2a088df9216a92130205db2fb1c5d2c467",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5bac2a2a088df9216a92130205db2fb1c5d2c467/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
-  },
-  "source:50f79c15e92e2560c304c78ea896ad94c63ab1f4": {
-    "url": "https://ocp.news/seguranca/homem-e-preso-por-trafico-de-drogas-no-bairro-agua-verde-em-jaragua-do-sul",
-    "title": "Homem é preso por tráfico de drogas no bairro Água Verde, Jaraguá do Sul",
-    "guid": "sc1multi:50f79c15e92e2560c304c78ea896ad94c63ab1f4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_50f79c15e92e2560c304c78ea896ad94c63ab1f4/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
-  },
-  "source:964c3ecbf652f750e95c31887441b661e24731ea": {
-    "url": "https://correiosc.com.br/stf-municipios-nao-podem-usar-area-do-imovel-para-definir-aliquota-do-iptu",
-    "title": "STF declara inconstitucional IPTU com alíquota baseada na área do imóvel em Chapecó",
-    "guid": "sc1multi:75e7369d0027d788b864ee763983094ae9e5fba0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75e7369d0027d788b864ee763983094ae9e5fba0/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
-  },
-  "source:35c61302256d7ad86d47331d06c885482bacf089": {
-    "url": "https://ocp.news/cotidiano/corupa1-forma-primeira-turma-de-socorristas-voluntarios-composta-por-alunos-de-medicina-do-idomed",
-    "title": "Corupá forma primeira turma de socorristas voluntários do Idomed em Jaraguá do Sul",
-    "guid": "sc1multi:35c61302256d7ad86d47331d06c885482bacf089",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35c61302256d7ad86d47331d06c885482bacf089/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
-  },
-  "source:e5af9d0fc53b3abdffb962bb025cf46c49872a8e": {
-    "url": "https://ocp.news/seguranca/homem-sobrevive-apos-levar-forte-choque-eletrico-no-centro-de-jaragua-do-sul",
-    "title": "Homem sofre choque elétrico e é hospitalizado em Jaraguá do Sul",
-    "guid": "sc1multi:e5af9d0fc53b3abdffb962bb025cf46c49872a8e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e5af9d0fc53b3abdffb962bb025cf46c49872a8e/",
-    "usedAt": 1787080444639,
-    "usedAtIso": "2026-08-18T19:14:04.639Z"
+    "usedAt": 1787084046791,
+    "usedAtIso": "2026-08-18T20:14:06.791Z"
   }
 }
