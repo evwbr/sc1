@@ -1,4 +1,36 @@
 {
+  "source:feb78cd937268906908c77274193a41b6afbb211": {
+    "url": "https://tnsul.com/2026/08/17/serra-do-faxinal-tem-abertura-parcial-e-controlada-para-veiculos-leves",
+    "title": "Serra do Faxinal tem liberação parcial para veículos leves na SC-290",
+    "guid": "sc1multi:bdb516e39cc6bb7bc0b10ea9e8d0a0e22c976488",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdb516e39cc6bb7bc0b10ea9e8d0a0e22c976488/",
+    "usedAt": 1787037248819,
+    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  },
+  "source:7a24eb10b1bf36cc4c521cac2baa92af806c5aff": {
+    "url": "https://tudoaquisc.com.br/economia/postos-balneario-camboriu-ago26",
+    "title": "Postos de Balneário Camboriú são multados por aumento injustificado da gasolina",
+    "guid": "sc1multi:5e235886ef009f449035f18d1b483468efc938af",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e235886ef009f449035f18d1b483468efc938af/",
+    "usedAt": 1787037248819,
+    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  },
+  "source:1d5debb70996f499513d7502269ede989ebc8779": {
+    "url": "https://tudoaquisc.com.br/politica/justica-reconhece-pesquisa-jp",
+    "title": "TRE-SC reconhece legalidade da pesquisa eleitoral do Instituto Mapa",
+    "guid": "sc1multi:e34d9c1584df813299d0ea27d4b335ddd0ea80df",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e34d9c1584df813299d0ea27d4b335ddd0ea80df/",
+    "usedAt": 1787037248819,
+    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  },
+  "source:b853984a1327c94f1bcda667f33e528c99695e52": {
+    "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
+    "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
+    "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
+    "usedAt": 1787037248819,
+    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  },
   "source:14d7509f3ece1fca7e830b324b229c4cbff08966": {
     "url": "https://rbatv.com.br/noticias/homem-de-32-anos-morre-apos-acidente-de-motocicleta-em-rio-do-campo",
     "title": "Motociclista de 32 anos morre em acidente em Rio do Campo, SC",
@@ -188,47 +220,31 @@
     "title": "Bombeiros buscam criança de 6 anos arrastada por rio na Grande Florianópolis",
     "guid": "sc1multi:4bd3f2d16613f7aec550c02d72c261e58cf76111",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_4bd3f2d16613f7aec550c02d72c261e58cf76111/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
   },
   "source:0ab49c9af1b4db2d8bb6e3392b86894d94640ec5": {
     "url": "https://correiosc.com.br/parque-urbano-marina-beira-mar-norte-completam-um-mes-obras-20-avanco-fisico",
     "title": "Obras avançam no Parque Urbano e Marina da Beira-Mar Norte em Florianópolis",
     "guid": "sc1multi:3290892b3d0d1842d1f1c950f6eba406ef33f1bc",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3290892b3d0d1842d1f1c950f6eba406ef33f1bc/",
-    "usedAt": 1787019246220,
-    "usedAtIso": "2026-08-18T02:14:06.220Z"
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
   },
-  "source:feb78cd937268906908c77274193a41b6afbb211": {
-    "url": "https://tnsul.com/2026/08/17/serra-do-faxinal-tem-abertura-parcial-e-controlada-para-veiculos-leves",
-    "title": "Serra do Faxinal tem liberação parcial para veículos leves na SC-290",
-    "guid": "sc1multi:bdb516e39cc6bb7bc0b10ea9e8d0a0e22c976488",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdb516e39cc6bb7bc0b10ea9e8d0a0e22c976488/",
-    "usedAt": 1787037248819,
-    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  "source:58ac8adb1e2e2de10cf40408ac46ef5ee65c463d": {
+    "url": "https://rbatv.com.br/noticias/incendio-deixa-residencia-completamente-destruida-em-rio-do-sul",
+    "title": "Incêndio destrói residência no bairro Boa Vista em Rio do Sul",
+    "guid": "sc1multi:fb943cec3d57caae4829d62ef5fbaeb721e13edf",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_fb943cec3d57caae4829d62ef5fbaeb721e13edf/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
   },
-  "source:7a24eb10b1bf36cc4c521cac2baa92af806c5aff": {
-    "url": "https://tudoaquisc.com.br/economia/postos-balneario-camboriu-ago26",
-    "title": "Postos de Balneário Camboriú são multados por aumento injustificado da gasolina",
-    "guid": "sc1multi:5e235886ef009f449035f18d1b483468efc938af",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5e235886ef009f449035f18d1b483468efc938af/",
-    "usedAt": 1787037248819,
-    "usedAtIso": "2026-08-18T07:14:08.819Z"
-  },
-  "source:1d5debb70996f499513d7502269ede989ebc8779": {
-    "url": "https://tudoaquisc.com.br/politica/justica-reconhece-pesquisa-jp",
-    "title": "TRE-SC reconhece legalidade da pesquisa eleitoral do Instituto Mapa",
-    "guid": "sc1multi:e34d9c1584df813299d0ea27d4b335ddd0ea80df",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_e34d9c1584df813299d0ea27d4b335ddd0ea80df/",
-    "usedAt": 1787037248819,
-    "usedAtIso": "2026-08-18T07:14:08.819Z"
-  },
-  "source:b853984a1327c94f1bcda667f33e528c99695e52": {
-    "url": "https://correiosc.com.br/mar-agitado-e-calor-devem-predominar-nos-proximos-dias-em-sc",
-    "title": "Mar agitado e calor predominam no litoral de Santa Catarina",
-    "guid": "sc1multi:6eec0453e73be786b91e1542e417b2537d3e4ea6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_6eec0453e73be786b91e1542e417b2537d3e4ea6/",
-    "usedAt": 1787037248819,
-    "usedAtIso": "2026-08-18T07:14:08.819Z"
+  "source:dd5597d0fd65b4570d142092693fcdf306c0f6f3": {
+    "url": "https://rbatv.com.br/noticias/natural-de-rio-do-sul-foragido-e-suspeito-de-crime-grave-morre-em-confronto-com-a-pm-em-blumenau",
+    "title": "Homem de Rio do Sul morre em confronto com a PM em Blumenau",
+    "guid": "sc1multi:8c962bb64e142c88d98252a8b8332bc2a7823679",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8c962bb64e142c88d98252a8b8332bc2a7823679/",
+    "usedAt": 1787040845315,
+    "usedAtIso": "2026-08-18T08:14:05.315Z"
   }
 }
