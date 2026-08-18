@@ -1,4 +1,44 @@
 {
+  "source:3f8cf9681042ad432f023550328f4ad786c923ec": {
+    "url": "https://ocp.news/cotidiano/procon-de-florianopolis-interdita-posto-por-risco-a-seguranca-dos-consumidores",
+    "title": "Procon de Florianópolis interdita posto por risco à segurança dos consumidores",
+    "guid": "sc1multi:3f8cf9681042ad432f023550328f4ad786c923ec",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f8cf9681042ad432f023550328f4ad786c923ec/",
+    "usedAt": 1787026446013,
+    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  },
+  "source:b1870edb1379c032e10d8990480f6f5ae6faa997": {
+    "url": "https://ocp.news/economia/feira-do-intercambio-em-joinville-oferece-oportunidades-para-estudar-trabalhar-e-morar-em-17-paises",
+    "title": "Joinville recebe 2ª Feira do Intercâmbio com oportunidades internacionais",
+    "guid": "sc1multi:b1870edb1379c032e10d8990480f6f5ae6faa997",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b1870edb1379c032e10d8990480f6f5ae6faa997/",
+    "usedAt": 1787026446013,
+    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  },
+  "source:aee2bf33045351fd9e5b9b70281e376bedd5e351": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-domina-em-casa-e-fatura-titulo-geral-da-copa-brasil-de-tenis-de-mesa",
+    "title": "Jaraguá do Sul conquista título geral da Copa Brasil de Tênis de Mesa",
+    "guid": "sc1multi:aee2bf33045351fd9e5b9b70281e376bedd5e351",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aee2bf33045351fd9e5b9b70281e376bedd5e351/",
+    "usedAt": 1787026446013,
+    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  },
+  "source:335034112ff78415d66e1dddaae477194676b556": {
+    "url": "https://ocp.news/cotidiano/populacao-pode-enviar-sugestoes-para-o-planejamento-de-guaramirim-de-2027",
+    "title": "Guaramirim abre consulta pública para planejamento orçamentário de 2027",
+    "guid": "sc1multi:335034112ff78415d66e1dddaae477194676b556",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_335034112ff78415d66e1dddaae477194676b556/",
+    "usedAt": 1787026446013,
+    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  },
+  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
+    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
+    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
+    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
+    "usedAt": 1787026446013,
+    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  },
   "source:47aa8053fd9b757a6c12e0dc39e850cc39d145e6": {
     "url": "https://ocp.news/cotidiano/carreta-da-saude-da-mulher-chega-a-regiao-do-vale-do-itapocu",
     "title": "Carreta da Saúde da Mulher atende sete municípios no Vale do Itapocu",
@@ -188,47 +228,31 @@
     "title": "Bruninho passa por cirurgia e desfalca Jaraguá Futsal no Catarinense",
     "guid": "sc1multi:06c743872e8025f138fdc1379df921173734580f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_06c743872e8025f138fdc1379df921173734580f/",
-    "usedAt": 1787008444829,
-    "usedAtIso": "2026-08-17T23:14:04.829Z"
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
   },
-  "source:3f8cf9681042ad432f023550328f4ad786c923ec": {
-    "url": "https://ocp.news/cotidiano/procon-de-florianopolis-interdita-posto-por-risco-a-seguranca-dos-consumidores",
-    "title": "Procon de Florianópolis interdita posto por risco à segurança dos consumidores",
-    "guid": "sc1multi:3f8cf9681042ad432f023550328f4ad786c923ec",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3f8cf9681042ad432f023550328f4ad786c923ec/",
-    "usedAt": 1787026446013,
-    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  "source:0e99e0aeb23f71c4a03ae401bf27f03d2f832133": {
+    "url": "https://tnsul.com/2026/08/17/pai-e-condenado-a-mais-de-41-anos-por-torturar-filhos-e-enteado",
+    "title": "Homem é condenado a mais de 41 anos por tortura em Palhoça, SC",
+    "guid": "sc1multi:c7a9f316b1703af28af401b7fad6accab6d27336",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c7a9f316b1703af28af401b7fad6accab6d27336/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
   },
-  "source:b1870edb1379c032e10d8990480f6f5ae6faa997": {
-    "url": "https://ocp.news/economia/feira-do-intercambio-em-joinville-oferece-oportunidades-para-estudar-trabalhar-e-morar-em-17-paises",
-    "title": "Joinville recebe 2ª Feira do Intercâmbio com oportunidades internacionais",
-    "guid": "sc1multi:b1870edb1379c032e10d8990480f6f5ae6faa997",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b1870edb1379c032e10d8990480f6f5ae6faa997/",
-    "usedAt": 1787026446013,
-    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  "source:a7e2d53b7650c51d38c6481bb95c3b1d402c4299": {
+    "url": "https://tnsul.com/2026/08/17/adolescente-mata-namorada-de-25-anos-com-tiro-no-rosto-em-sc",
+    "title": "Adolescente apreendido por feminicídio em Palmitos, SC",
+    "guid": "sc1multi:8a470c011c4634fc6833284a554fbc26f6181c67",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8a470c011c4634fc6833284a554fbc26f6181c67/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
   },
-  "source:aee2bf33045351fd9e5b9b70281e376bedd5e351": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-domina-em-casa-e-fatura-titulo-geral-da-copa-brasil-de-tenis-de-mesa",
-    "title": "Jaraguá do Sul conquista título geral da Copa Brasil de Tênis de Mesa",
-    "guid": "sc1multi:aee2bf33045351fd9e5b9b70281e376bedd5e351",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aee2bf33045351fd9e5b9b70281e376bedd5e351/",
-    "usedAt": 1787026446013,
-    "usedAtIso": "2026-08-18T04:14:06.013Z"
-  },
-  "source:335034112ff78415d66e1dddaae477194676b556": {
-    "url": "https://ocp.news/cotidiano/populacao-pode-enviar-sugestoes-para-o-planejamento-de-guaramirim-de-2027",
-    "title": "Guaramirim abre consulta pública para planejamento orçamentário de 2027",
-    "guid": "sc1multi:335034112ff78415d66e1dddaae477194676b556",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_335034112ff78415d66e1dddaae477194676b556/",
-    "usedAt": 1787026446013,
-    "usedAtIso": "2026-08-18T04:14:06.013Z"
-  },
-  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
-    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
-    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
-    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
-    "usedAt": 1787026446013,
-    "usedAtIso": "2026-08-18T04:14:06.013Z"
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1787030044596,
+    "usedAtIso": "2026-08-18T05:14:04.596Z"
   }
 }
