@@ -1,4 +1,36 @@
 {
+  "source:906df719ff2b112d2c520ba2420c2698e9daa497": {
+    "url": "https://ocp.news/seguranca/criancas-sao-flagradas-sendo-transportadas-sem-seguranca-em-rodovia-de-florianopolis",
+    "title": "Crianças são flagradas sendo transportadas sem segurança na BR-282 em Florianópolis",
+    "guid": "sc1multi:906df719ff2b112d2c520ba2420c2698e9daa497",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_906df719ff2b112d2c520ba2420c2698e9daa497/",
+    "usedAt": 1787055245481,
+    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  },
+  "source:aee2bf33045351fd9e5b9b70281e376bedd5e351": {
+    "url": "https://ocp.news/esporte/jaragua-do-sul-domina-em-casa-e-fatura-titulo-geral-da-copa-brasil-de-tenis-de-mesa",
+    "title": "Jaraguá do Sul conquista título geral da Copa Brasil de Tênis de Mesa",
+    "guid": "sc1multi:aee2bf33045351fd9e5b9b70281e376bedd5e351",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aee2bf33045351fd9e5b9b70281e376bedd5e351/",
+    "usedAt": 1787055245481,
+    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  },
+  "source:47aa8053fd9b757a6c12e0dc39e850cc39d145e6": {
+    "url": "https://ocp.news/cotidiano/carreta-da-saude-da-mulher-chega-a-regiao-do-vale-do-itapocu",
+    "title": "Carreta da Saúde da Mulher atende sete municípios no Vale do Itapocu",
+    "guid": "sc1multi:47aa8053fd9b757a6c12e0dc39e850cc39d145e6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47aa8053fd9b757a6c12e0dc39e850cc39d145e6/",
+    "usedAt": 1787055245481,
+    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  },
+  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
+    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
+    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
+    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
+    "usedAt": 1787055245481,
+    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  },
   "source:d1a9f8326c250a62f774e173c3cd8c7626230796": {
     "url": "https://rbatv.com.br/noticias/brusque-registra-prisoes-por-violencia-domestica-trafico-de-drogas-e-furto",
     "title": "Polícia Militar prende três em Brusque por violência, drogas e furto",
@@ -135,36 +167,52 @@
     "usedAt": 1787037248819,
     "usedAtIso": "2026-08-18T07:14:08.819Z"
   },
-  "source:906df719ff2b112d2c520ba2420c2698e9daa497": {
-    "url": "https://ocp.news/seguranca/criancas-sao-flagradas-sendo-transportadas-sem-seguranca-em-rodovia-de-florianopolis",
-    "title": "Crianças são flagradas sendo transportadas sem segurança na BR-282 em Florianópolis",
-    "guid": "sc1multi:906df719ff2b112d2c520ba2420c2698e9daa497",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_906df719ff2b112d2c520ba2420c2698e9daa497/",
-    "usedAt": 1787055245481,
-    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  "source:449c591b3c1fdadfcd308858f4a80d6b75b36bd3": {
+    "url": "https://ocp.news/cotidiano/jaragua1-do-sul-reforca-importancia-da-vacinacao-contra-o-sarampo-e-convoca-populacao-para-atualizar-a-caderneta",
+    "title": "Jaraguá do Sul convoca população para atualizar vacinação contra sarampo",
+    "guid": "sc1multi:449c591b3c1fdadfcd308858f4a80d6b75b36bd3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_449c591b3c1fdadfcd308858f4a80d6b75b36bd3/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
   },
-  "source:aee2bf33045351fd9e5b9b70281e376bedd5e351": {
-    "url": "https://ocp.news/esporte/jaragua-do-sul-domina-em-casa-e-fatura-titulo-geral-da-copa-brasil-de-tenis-de-mesa",
-    "title": "Jaraguá do Sul conquista título geral da Copa Brasil de Tênis de Mesa",
-    "guid": "sc1multi:aee2bf33045351fd9e5b9b70281e376bedd5e351",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_aee2bf33045351fd9e5b9b70281e376bedd5e351/",
-    "usedAt": 1787055245481,
-    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  "source:11435564d81d14bf75e0719ac1cb5546a6c35ada": {
+    "url": "https://ocp.news/seguranca/operacao-cumpre-19-mandados-de-prisao-contra-faccao-em-cidades-de-sc",
+    "title": "Operação cumpre 19 mandados de prisão contra facção no Oeste de SC",
+    "guid": "sc1multi:11435564d81d14bf75e0719ac1cb5546a6c35ada",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_11435564d81d14bf75e0719ac1cb5546a6c35ada/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
   },
-  "source:47aa8053fd9b757a6c12e0dc39e850cc39d145e6": {
-    "url": "https://ocp.news/cotidiano/carreta-da-saude-da-mulher-chega-a-regiao-do-vale-do-itapocu",
-    "title": "Carreta da Saúde da Mulher atende sete municípios no Vale do Itapocu",
-    "guid": "sc1multi:47aa8053fd9b757a6c12e0dc39e850cc39d145e6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47aa8053fd9b757a6c12e0dc39e850cc39d145e6/",
-    "usedAt": 1787055245481,
-    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  "source:21983b5ee9167752312e73032c5743316a8ed4c7": {
+    "url": "https://ocp.news/cotidiano/obras-de-pavimentacao-e-drenagem-avancam-em-cinco-vias-de-blumenau",
+    "title": "Obras de pavimentação avançam em cinco ruas de Blumenau",
+    "guid": "sc1multi:21983b5ee9167752312e73032c5743316a8ed4c7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_21983b5ee9167752312e73032c5743316a8ed4c7/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
   },
-  "source:5bf3bdc8e2f7aa49bdb0e3267c1787da1ae433bd": {
-    "url": "https://correiosc.com.br/deslizamento-atinge-casa-em-santo-amaro-da-imperatriz",
-    "title": "Deslizamento atinge casa em Santo Amaro da Imperatriz e deixa criança em estado grave",
-    "guid": "sc1multi:413b4da21f9dcce2cf90bebafb5c413f382e86d6",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_413b4da21f9dcce2cf90bebafb5c413f382e86d6/",
-    "usedAt": 1787055245481,
-    "usedAtIso": "2026-08-18T12:14:05.481Z"
+  "source:08566ad65688b6d95b1ee53a30185a143e73fde1": {
+    "url": "https://ocp.news/cotidiano/criciuma-meu-doutor-realiza-111-consultas-medicas-nos-primeiros-dias-de-funcionamento",
+    "title": "Criciúma realiza 111 consultas pelo Meu Doutor nos primeiros dias",
+    "guid": "sc1multi:08566ad65688b6d95b1ee53a30185a143e73fde1",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_08566ad65688b6d95b1ee53a30185a143e73fde1/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
+  },
+  "source:ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44": {
+    "url": "https://ocp.news/seguranca/uma-pessoa-morre-e-duas-ficam-feridas-apos-colisao-na-br-282-na-grande-florianopolis",
+    "title": "Colisão na BR-282 em Santo Amaro da Imperatriz deixa uma morte e dois feridos",
+    "guid": "sc1multi:ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ed0e7edaf1cc455b22bc9c60979e9e0b0d724d44/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
+  },
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1787058844986,
+    "usedAtIso": "2026-08-18T13:14:04.986Z"
   }
 }
