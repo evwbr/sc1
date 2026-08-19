@@ -1,4 +1,84 @@
 {
+  "source:053265185f6ee0c3a9574f42773e98e1967d743c": {
+    "url": "https://correiosc.com.br/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-na-comunidade-do-siri-no-norte-da-ilha",
+    "title": "Operação Solo Legal demole seis construções irregulares em Florianópolis",
+    "guid": "sc1multi:d066bb7862a4f1113b02c7d741e234b5333c8dba",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d066bb7862a4f1113b02c7d741e234b5333c8dba/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:35c61302256d7ad86d47331d06c885482bacf089": {
+    "url": "https://ocp.news/cotidiano/corupa1-forma-primeira-turma-de-socorristas-voluntarios-composta-por-alunos-de-medicina-do-idomed",
+    "title": "Corupá forma primeira turma de socorristas voluntários do Idomed em Jaraguá do Sul",
+    "guid": "sc1multi:35c61302256d7ad86d47331d06c885482bacf089",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35c61302256d7ad86d47331d06c885482bacf089/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:8708a0f020b4e54d9a48376693108f20cb809569": {
+    "url": "https://ocp.news/esporte/dupla-jaraguaense-e-vice-campea-da-copa-nacional-de-volei-de-praia-sub-17",
+    "title": "Dupla de Jaraguá do Sul é vice-campeã da Copa Nacional de Vôlei de Praia Sub-17",
+    "guid": "sc1multi:8708a0f020b4e54d9a48376693108f20cb809569",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8708a0f020b4e54d9a48376693108f20cb809569/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:466298fec0c208d279e24b24274d8b3aa10a9cb3": {
+    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-abre-inscricoes-para-estagio-voltado-a-alunos-do-ensino-medio",
+    "title": "Prefeitura de Jaraguá do Sul abre inscrições para estágio de Ensino Médio",
+    "guid": "sc1multi:466298fec0c208d279e24b24274d8b3aa10a9cb3",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_466298fec0c208d279e24b24274d8b3aa10a9cb3/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:5b9d1e29b5d8c4b713c33ace820814b903c75866": {
+    "url": "https://ocp.news/esporte/volei-jaraguaense-faz-etapa-perfeita-e-se-garante-nas-finais-do-estadual-sub-16-masculino",
+    "title": "Vôlei de Jaraguá do Sul garante vaga nas finais do Estadual Sub-16 Masculino",
+    "guid": "sc1multi:5b9d1e29b5d8c4b713c33ace820814b903c75866",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b9d1e29b5d8c4b713c33ace820814b903c75866/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:43dc1ef4df8cc025ec1296014890ade577365774": {
+    "url": "https://rbatv.com.br/noticias/chamas-atingem-residencia-e-deixam-vitima-com-queimaduras-em-rio-do-sul",
+    "title": "Incêndio em residência deixa vítima com queimaduras em Rio do Sul",
+    "guid": "sc1multi:bdceec3216e85e709a99d180a501176326ee767f",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdceec3216e85e709a99d180a501176326ee767f/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:c8a92a570831a064ae34b965d15302197a971c7e": {
+    "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-homicidio-e-preso-em-rio-do-sul",
+    "title": "Homem procurado por roubo e homicídio é preso em Rio do Sul",
+    "guid": "sc1multi:23d85cb22ac2c7b5c113debf7f0ff9481c68f42b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_23d85cb22ac2c7b5c113debf7f0ff9481c68f42b/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:707ce5b2af204b4e067a8dc9e86bae353bea1945": {
+    "url": "https://ocp.news/seguranca/menino-de-7-anos-fica-gravemente-ferido-apos-acidente-entre-carro-e-bicicleta-em-massaranduba",
+    "title": "Menino de 7 anos fica gravemente ferido após acidente em Massaranduba",
+    "guid": "sc1multi:707ce5b2af204b4e067a8dc9e86bae353bea1945",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_707ce5b2af204b4e067a8dc9e86bae353bea1945/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:d395ed9c125e7e5af31d8a31711fdb99f47ee1d7": {
+    "url": "https://rbatv.com.br/noticias/familia-busca-por-adolescente-desaparecido-em-rio-do-sul",
+    "title": "Família procura adolescente desaparecido em Rio do Sul",
+    "guid": "sc1multi:58d5ca449bb76edbd7923f1818090153d3e07894",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58d5ca449bb76edbd7923f1818090153d3e07894/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
+  "source:969c08d160afef8f44c3278c77ebf73308941a2c": {
+    "url": "https://rbatv.com.br/noticias/familias-aguardam-quase-13-horas-pela-liberacao-de-corpos-no-iml-de-rio-do-sul",
+    "title": "Famílias aguardam quase 13 horas para liberação de corpos no IML de Rio do Sul",
+    "guid": "sc1multi:802bdfa8768aa50f1f7ec87f895b7f08be3614fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_802bdfa8768aa50f1f7ec87f895b7f08be3614fa/",
+    "usedAt": 1787130844259,
+    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  },
   "source:702980eadfe39fc6d153450582ce8b30fd500e1d": {
     "url": "https://scportais.com.br/2026/08/17/semana-comeca-com-calor-e-atencao-as-mudancas-no-tempo-em-santa-catarina",
     "title": "Semana começa com calor e previsão de temporais em Santa Catarina",
@@ -159,21 +239,13 @@
     "usedAt": 1787123644394,
     "usedAtIso": "2026-08-19T07:14:04.394Z"
   },
-  "source:053265185f6ee0c3a9574f42773e98e1967d743c": {
-    "url": "https://correiosc.com.br/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-na-comunidade-do-siri-no-norte-da-ilha",
-    "title": "Operação Solo Legal demole seis construções irregulares em Florianópolis",
-    "guid": "sc1multi:d066bb7862a4f1113b02c7d741e234b5333c8dba",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d066bb7862a4f1113b02c7d741e234b5333c8dba/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
   "source:f70c74cf2f33735616109f88afb07598417dc9dd": {
     "url": "https://ocp.news/cotidiano/danuzio-neto-participa-de-debate-sobre-geopolitica-reforma-tributaria-e-patrimonio-em-jaragua-do-sul",
     "title": "Danuzio Neto participa de palestra sobre geopolítica em Jaraguá do Sul",
     "guid": "sc1multi:f70c74cf2f33735616109f88afb07598417dc9dd",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_f70c74cf2f33735616109f88afb07598417dc9dd/",
-    "usedAt": 1787120044600,
-    "usedAtIso": "2026-08-19T06:14:04.600Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
   "source:beb250a0129b957d892a93cbc0cff149754c9407": {
     "url": "https://rbatv.com.br/noticias/cbmsc-realiza-buscas-por-crianca-e-homem-desaparecido-em-santo-amaro-da-imperatriz",
@@ -188,16 +260,16 @@
     "title": "ANEEL anuncia aumento de 10,82% na tarifa de energia da Celesc em Santa Catarina",
     "guid": "sc1multi:ce09011f3326825823acbae0845cc836386dbe4d",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ce09011f3326825823acbae0845cc836386dbe4d/",
-    "usedAt": 1787120044600,
-    "usedAtIso": "2026-08-19T06:14:04.600Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
   "source:00340873bb19a4bb652e9c7734a1e46308cf0423": {
     "url": "https://ocp.news/cotidiano/obras-de-drenagem-alteram-estacionamento-na-avenida-getulio-vargas-em-jaragua-do-sul",
     "title": "Obras de drenagem interditam vagas na Avenida Getúlio Vargas em Jaraguá do Sul",
     "guid": "sc1multi:00340873bb19a4bb652e9c7734a1e46308cf0423",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_00340873bb19a4bb652e9c7734a1e46308cf0423/",
-    "usedAt": 1787120044600,
-    "usedAtIso": "2026-08-19T06:14:04.600Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
   "source:b1094704d3ef0c38db4d72f55fbfc096eaa965e1": {
     "url": "https://tnsul.com/2026/08/18/saer-transporta-crianca-de-3-anos-e-mulher-com-suspeita-de-avc-a-criciuma",
@@ -212,16 +284,16 @@
     "title": "Santo Amaro da Imperatriz recebe encontro de turismo de aventura",
     "guid": "sc1multi:76ae57f1386138c8fc220d275929803465094308",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_76ae57f1386138c8fc220d275929803465094308/",
-    "usedAt": 1787120044600,
-    "usedAtIso": "2026-08-19T06:14:04.600Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
   "source:be63be1f788870effe8d064272545360deba080b": {
     "url": "https://ocp.news/esporte/tres-jaraguaenses-vao-ao-podio-em-duas-ultramaratonas-pelo-brasil",
-    "title": "Três atletas de Jaraguá do Sul conquistam pódio em ultramaratonas no Brasil",
+    "title": "Três atletas de Jaraguá do Sul conquistam pódios em ultramaratonas nacionais",
     "guid": "sc1multi:be63be1f788870effe8d064272545360deba080b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_be63be1f788870effe8d064272545360deba080b/",
-    "usedAt": 1787120044600,
-    "usedAtIso": "2026-08-19T06:14:04.600Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
   "source:50f79c15e92e2560c304c78ea896ad94c63ab1f4": {
     "url": "https://ocp.news/seguranca/homem-e-preso-por-trafico-de-drogas-no-bairro-agua-verde-em-jaragua-do-sul",
@@ -231,84 +303,36 @@
     "usedAt": 1787120044600,
     "usedAtIso": "2026-08-19T06:14:04.600Z"
   },
-  "source:35c61302256d7ad86d47331d06c885482bacf089": {
-    "url": "https://ocp.news/cotidiano/corupa1-forma-primeira-turma-de-socorristas-voluntarios-composta-por-alunos-de-medicina-do-idomed",
-    "title": "Corupá forma primeira turma de socorristas voluntários do Idomed em Jaraguá do Sul",
-    "guid": "sc1multi:35c61302256d7ad86d47331d06c885482bacf089",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_35c61302256d7ad86d47331d06c885482bacf089/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
   "source:9b3664484e5093f6f00d4e047db579824715a762": {
     "url": "https://correiosc.com.br/diogo-trindade-garante-ouro-para-sao-jose-no-parajasc",
     "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
     "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
-    "usedAt": 1787116444385,
-    "usedAtIso": "2026-08-19T05:14:04.385Z"
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
-  "source:8708a0f020b4e54d9a48376693108f20cb809569": {
-    "url": "https://ocp.news/esporte/dupla-jaraguaense-e-vice-campea-da-copa-nacional-de-volei-de-praia-sub-17",
-    "title": "Dupla de Jaraguá do Sul é vice-campeã da Copa Nacional de Vôlei de Praia Sub-17",
-    "guid": "sc1multi:8708a0f020b4e54d9a48376693108f20cb809569",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8708a0f020b4e54d9a48376693108f20cb809569/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  "source:5396ba86c0ddf77af6bd0ac7e144f997d6a68622": {
+    "url": "https://ocp.news/cotidiano/tempo-firme-antecede-passagem-da-frente-fria-e-queda-de-temperatura-em-florianopolis",
+    "title": "Frente fria provoca chuva e queda de temperatura em Florianópolis",
+    "guid": "sc1multi:5396ba86c0ddf77af6bd0ac7e144f997d6a68622",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5396ba86c0ddf77af6bd0ac7e144f997d6a68622/",
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
-  "source:466298fec0c208d279e24b24274d8b3aa10a9cb3": {
-    "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-abre-inscricoes-para-estagio-voltado-a-alunos-do-ensino-medio",
-    "title": "Prefeitura de Jaraguá do Sul abre inscrições para estágio de Ensino Médio",
-    "guid": "sc1multi:466298fec0c208d279e24b24274d8b3aa10a9cb3",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_466298fec0c208d279e24b24274d8b3aa10a9cb3/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  "source:61f7bda81377de51b4ed8dda47794065fb70cb51": {
+    "url": "https://rbatv.com.br/noticias/cadela-e-12-filhotes-sao-encontrados-abandonados-em-casa-em-indaial",
+    "title": "Cadela e 12 filhotes são encontrados abandonados em Indaial",
+    "guid": "sc1multi:c048caaf525dfcdb9b38da186d241f6eddb23c95",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_c048caaf525dfcdb9b38da186d241f6eddb23c95/",
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   },
-  "source:5b9d1e29b5d8c4b713c33ace820814b903c75866": {
-    "url": "https://ocp.news/esporte/volei-jaraguaense-faz-etapa-perfeita-e-se-garante-nas-finais-do-estadual-sub-16-masculino",
-    "title": "Vôlei de Jaraguá do Sul garante vaga nas finais do Estadual Sub-16 Masculino",
-    "guid": "sc1multi:5b9d1e29b5d8c4b713c33ace820814b903c75866",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b9d1e29b5d8c4b713c33ace820814b903c75866/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
-  "source:43dc1ef4df8cc025ec1296014890ade577365774": {
-    "url": "https://rbatv.com.br/noticias/chamas-atingem-residencia-e-deixam-vitima-com-queimaduras-em-rio-do-sul",
-    "title": "Incêndio em residência deixa vítima com queimaduras em Rio do Sul",
-    "guid": "sc1multi:bdceec3216e85e709a99d180a501176326ee767f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdceec3216e85e709a99d180a501176326ee767f/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
-  "source:c8a92a570831a064ae34b965d15302197a971c7e": {
-    "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-homicidio-e-preso-em-rio-do-sul",
-    "title": "Homem procurado por roubo e homicídio é preso em Rio do Sul",
-    "guid": "sc1multi:23d85cb22ac2c7b5c113debf7f0ff9481c68f42b",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_23d85cb22ac2c7b5c113debf7f0ff9481c68f42b/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
-  "source:707ce5b2af204b4e067a8dc9e86bae353bea1945": {
-    "url": "https://ocp.news/seguranca/menino-de-7-anos-fica-gravemente-ferido-apos-acidente-entre-carro-e-bicicleta-em-massaranduba",
-    "title": "Menino de 7 anos fica gravemente ferido após acidente em Massaranduba",
-    "guid": "sc1multi:707ce5b2af204b4e067a8dc9e86bae353bea1945",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_707ce5b2af204b4e067a8dc9e86bae353bea1945/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
-  "source:d395ed9c125e7e5af31d8a31711fdb99f47ee1d7": {
-    "url": "https://rbatv.com.br/noticias/familia-busca-por-adolescente-desaparecido-em-rio-do-sul",
-    "title": "Família procura adolescente desaparecido em Rio do Sul",
-    "guid": "sc1multi:58d5ca449bb76edbd7923f1818090153d3e07894",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58d5ca449bb76edbd7923f1818090153d3e07894/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
-  },
-  "source:969c08d160afef8f44c3278c77ebf73308941a2c": {
-    "url": "https://rbatv.com.br/noticias/familias-aguardam-quase-13-horas-pela-liberacao-de-corpos-no-iml-de-rio-do-sul",
-    "title": "Famílias aguardam quase 13 horas para liberação de corpos no IML de Rio do Sul",
-    "guid": "sc1multi:802bdfa8768aa50f1f7ec87f895b7f08be3614fa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_802bdfa8768aa50f1f7ec87f895b7f08be3614fa/",
-    "usedAt": 1787130844259,
-    "usedAtIso": "2026-08-19T09:14:04.259Z"
+  "source:7cadb4a3e2fe2d21bd9ba9a538fb63332173467b": {
+    "url": "https://ocp.news/politica/eleicoes-2026-sc-registra-menor-numero-de-candidatos-desde-2014",
+    "title": "Santa Catarina registra menor número de candidatos desde 2014 para eleições de 2026",
+    "guid": "sc1multi:7cadb4a3e2fe2d21bd9ba9a538fb63332173467b",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_7cadb4a3e2fe2d21bd9ba9a538fb63332173467b/",
+    "usedAt": 1787138044323,
+    "usedAtIso": "2026-08-19T11:14:04.323Z"
   }
 }
