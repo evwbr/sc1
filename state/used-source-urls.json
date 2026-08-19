@@ -1,4 +1,84 @@
 {
+  "source:5ba02727b6fa06e25e05ec9307b4c98d2035a856": {
+    "url": "https://tudoaquisc.com.br/politica/patrimonio-candidatos-governo",
+    "title": "Patrimônio declarado dos candidatos ao governo de Santa Catarina",
+    "guid": "sc1multi:3dfff465827285c6b434c2336a8cad7d7ab56b51",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dfff465827285c6b434c2336a8cad7d7ab56b51/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:964c3ecbf652f750e95c31887441b661e24731ea": {
+    "url": "https://correiosc.com.br/stf-municipios-nao-podem-usar-area-do-imovel-para-definir-aliquota-do-iptu",
+    "title": "STF declara inconstitucional IPTU com alíquota baseada na área do imóvel em Chapecó",
+    "guid": "sc1multi:75e7369d0027d788b864ee763983094ae9e5fba0",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75e7369d0027d788b864ee763983094ae9e5fba0/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:d459afec2dea9eff356d33e9c2bda6faf47bcec4": {
+    "url": "https://ocp.news/cotidiano/cincatarina-amplia-atuacao-e-passa-a-ter-alcance-nacional",
+    "title": "CINCATARINA amplia atuação e passa a ter alcance nacional",
+    "guid": "sc1multi:d459afec2dea9eff356d33e9c2bda6faf47bcec4",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d459afec2dea9eff356d33e9c2bda6faf47bcec4/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:ffe2048a2c89da18577fd4e498f973fbf645dd33": {
+    "url": "https://rbatv.com.br/noticias/caso-de-policial-civil-que-matou-detenta-na-viatura-em-correia-pinto-e-arquivado-pelo-mpsc-apos-comprovacao-de-legitima-defesa",
+    "title": "MPSC arquiva caso de policial que matou detenta em Correia Pinto por legítima defesa",
+    "guid": "sc1multi:98e086a96a65b8a0080d69b7ebc85ddbd449875e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98e086a96a65b8a0080d69b7ebc85ddbd449875e/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:5fd20175a3e0ca8dcceba0b65842f74c37e6a39d": {
+    "url": "https://rbatv.com.br/noticias/dois-homens-com-mandados-de-prisao-sao-detidos-pela-pm-em-ituporanga",
+    "title": "Dois homens com mandados de prisão são detidos em Ituporanga",
+    "guid": "sc1multi:49130c0aae3f6e1559e44d8432e0b2a610f48313",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49130c0aae3f6e1559e44d8432e0b2a610f48313/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:9c7adf6201b882151ea718cab759e28cd1ae14d3": {
+    "url": "https://tnsul.com/2026/08/18/incendio-atinge-residencia-no-bairro-santo-antonio-em-criciuma",
+    "title": "Incêndio atinge residência no bairro Santo Antônio, em Criciúma",
+    "guid": "sc1multi:106f4ce044161b07d6111c1198b0afcdcafe23ae",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_106f4ce044161b07d6111c1198b0afcdcafe23ae/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:5edf05cf3bd6f65d3a7405b6ac788b38ac1be7a3": {
+    "url": "https://scportais.com.br/2026/08/18/operacao-cumpre-19-mandados-de-prisao-contra-faccao-em-cidades-de-sc",
+    "title": "Operação prende 19 suspeitos de facção criminosa no Oeste de SC",
+    "guid": "sc1multi:986faf55a73dfc38a0c9dc23d0118b687e0afbc7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_986faf55a73dfc38a0c9dc23d0118b687e0afbc7/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:6b3b3677dd99351b4f1c54f8c63560160bdd5005": {
+    "url": "https://scportais.com.br/2026/08/18/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc-2",
+    "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:31f0134733c7246a5094c07239f8b51a232128fe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f0134733c7246a5094c07239f8b51a232128fe/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:969c08d160afef8f44c3278c77ebf73308941a2c": {
+    "url": "https://rbatv.com.br/noticias/familias-aguardam-quase-13-horas-pela-liberacao-de-corpos-no-iml-de-rio-do-sul",
+    "title": "Famílias aguardam quase 13 horas para liberação de corpos no IML de Rio do Sul",
+    "guid": "sc1multi:802bdfa8768aa50f1f7ec87f895b7f08be3614fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_802bdfa8768aa50f1f7ec87f895b7f08be3614fa/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
+  "source:ebe66eecec50796b5f87e167d1088a966e98e89f": {
+    "url": "https://tudoaquisc.com.br/grande-florianopolis/banqueiro-desaparece-lagoa",
+    "title": "Bancário paulista desaparece após sair de hostel em Florianópolis",
+    "guid": "sc1multi:ab223add0cc3f4c8c9269f614adf328f2fccc70c",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ab223add0cc3f4c8c9269f614adf328f2fccc70c/",
+    "usedAt": 1787112844973,
+    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  },
   "source:42e535d4781b4e70d5b75d3e7c665677c757c22b": {
     "url": "https://ocp.news/seguranca/homem-condenado-por-estupro-de-vulneravel-e-preso-em-jaragua-do-sul-4",
     "title": "Homem condenado por estupro de vulnerável é preso em Jaraguá do Sul",
@@ -108,8 +188,8 @@
     "title": "Diogo Trindade conquista ouro para São José no Parajasc 2026",
     "guid": "sc1multi:d6a4add3e705ee6d69a8d34036ec7f82556918f5",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d6a4add3e705ee6d69a8d34036ec7f82556918f5/",
-    "usedAt": 1787105644375,
-    "usedAtIso": "2026-08-19T02:14:04.375Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:00340873bb19a4bb652e9c7734a1e46308cf0423": {
     "url": "https://ocp.news/cotidiano/obras-de-drenagem-alteram-estacionamento-na-avenida-getulio-vargas-em-jaragua-do-sul",
@@ -164,151 +244,71 @@
     "title": "Dupla de Jaraguá do Sul é vice-campeã da Copa Nacional de Vôlei de Praia Sub-17",
     "guid": "sc1multi:8708a0f020b4e54d9a48376693108f20cb809569",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_8708a0f020b4e54d9a48376693108f20cb809569/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:466298fec0c208d279e24b24274d8b3aa10a9cb3": {
     "url": "https://ocp.news/cotidiano/prefeitura-de-jaragua-do-sul-abre-inscricoes-para-estagio-voltado-a-alunos-do-ensino-medio",
     "title": "Prefeitura de Jaraguá do Sul abre inscrições para estágio de Ensino Médio",
     "guid": "sc1multi:466298fec0c208d279e24b24274d8b3aa10a9cb3",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_466298fec0c208d279e24b24274d8b3aa10a9cb3/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:5b9d1e29b5d8c4b713c33ace820814b903c75866": {
     "url": "https://ocp.news/esporte/volei-jaraguaense-faz-etapa-perfeita-e-se-garante-nas-finais-do-estadual-sub-16-masculino",
     "title": "Vôlei de Jaraguá do Sul garante vaga nas finais do Estadual Sub-16 Masculino",
     "guid": "sc1multi:5b9d1e29b5d8c4b713c33ace820814b903c75866",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5b9d1e29b5d8c4b713c33ace820814b903c75866/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
-  },
-  "source:5ba02727b6fa06e25e05ec9307b4c98d2035a856": {
-    "url": "https://tudoaquisc.com.br/politica/patrimonio-candidatos-governo",
-    "title": "Patrimônio declarado dos candidatos ao governo de Santa Catarina",
-    "guid": "sc1multi:3dfff465827285c6b434c2336a8cad7d7ab56b51",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_3dfff465827285c6b434c2336a8cad7d7ab56b51/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:702980eadfe39fc6d153450582ce8b30fd500e1d": {
     "url": "https://scportais.com.br/2026/08/17/semana-comeca-com-calor-e-atencao-as-mudancas-no-tempo-em-santa-catarina",
     "title": "Semana começa com calor e previsão de temporais em Santa Catarina",
     "guid": "sc1multi:a4ad59005b307f5c617cb889587add897be64304",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_a4ad59005b307f5c617cb889587add897be64304/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:43dc1ef4df8cc025ec1296014890ade577365774": {
     "url": "https://rbatv.com.br/noticias/chamas-atingem-residencia-e-deixam-vitima-com-queimaduras-em-rio-do-sul",
     "title": "Incêndio em residência deixa vítima com queimaduras em Rio do Sul",
     "guid": "sc1multi:bdceec3216e85e709a99d180a501176326ee767f",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_bdceec3216e85e709a99d180a501176326ee767f/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:c8a92a570831a064ae34b965d15302197a971c7e": {
     "url": "https://rbatv.com.br/noticias/homem-procurado-por-roubo-e-homicidio-e-preso-em-rio-do-sul",
     "title": "Homem procurado por roubo e homicídio é preso em Rio do Sul",
     "guid": "sc1multi:23d85cb22ac2c7b5c113debf7f0ff9481c68f42b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_23d85cb22ac2c7b5c113debf7f0ff9481c68f42b/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:707ce5b2af204b4e067a8dc9e86bae353bea1945": {
     "url": "https://ocp.news/seguranca/menino-de-7-anos-fica-gravemente-ferido-apos-acidente-entre-carro-e-bicicleta-em-massaranduba",
-    "title": "Menino de 7 anos fica gravemente ferido em acidente em Massaranduba",
+    "title": "Menino de 7 anos fica gravemente ferido após acidente em Massaranduba",
     "guid": "sc1multi:707ce5b2af204b4e067a8dc9e86bae353bea1945",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_707ce5b2af204b4e067a8dc9e86bae353bea1945/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
   "source:5bac2a2a088df9216a92130205db2fb1c5d2c467": {
     "url": "https://ocp.news/cotidiano/projeto-promove-seguranca-aquatica-e-inclusao-social-a-140-criancas-de-joinville",
     "title": "Projeto de natação social beneficia 140 crianças em Joinville",
     "guid": "sc1multi:5bac2a2a088df9216a92130205db2fb1c5d2c467",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5bac2a2a088df9216a92130205db2fb1c5d2c467/",
-    "usedAt": 1787102044765,
-    "usedAtIso": "2026-08-19T01:14:04.765Z"
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   },
-  "source:964c3ecbf652f750e95c31887441b661e24731ea": {
-    "url": "https://correiosc.com.br/stf-municipios-nao-podem-usar-area-do-imovel-para-definir-aliquota-do-iptu",
-    "title": "STF declara inconstitucional IPTU com alíquota baseada na área do imóvel em Chapecó",
-    "guid": "sc1multi:75e7369d0027d788b864ee763983094ae9e5fba0",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_75e7369d0027d788b864ee763983094ae9e5fba0/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:d459afec2dea9eff356d33e9c2bda6faf47bcec4": {
-    "url": "https://ocp.news/cotidiano/cincatarina-amplia-atuacao-e-passa-a-ter-alcance-nacional",
-    "title": "CINCATARINA amplia atuação e passa a ter alcance nacional",
-    "guid": "sc1multi:d459afec2dea9eff356d33e9c2bda6faf47bcec4",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d459afec2dea9eff356d33e9c2bda6faf47bcec4/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:ffe2048a2c89da18577fd4e498f973fbf645dd33": {
-    "url": "https://rbatv.com.br/noticias/caso-de-policial-civil-que-matou-detenta-na-viatura-em-correia-pinto-e-arquivado-pelo-mpsc-apos-comprovacao-de-legitima-defesa",
-    "title": "MPSC arquiva caso de policial que matou detenta em Correia Pinto por legítima defesa",
-    "guid": "sc1multi:98e086a96a65b8a0080d69b7ebc85ddbd449875e",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98e086a96a65b8a0080d69b7ebc85ddbd449875e/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:5fd20175a3e0ca8dcceba0b65842f74c37e6a39d": {
-    "url": "https://rbatv.com.br/noticias/dois-homens-com-mandados-de-prisao-sao-detidos-pela-pm-em-ituporanga",
-    "title": "Dois homens com mandados de prisão são detidos em Ituporanga",
-    "guid": "sc1multi:49130c0aae3f6e1559e44d8432e0b2a610f48313",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49130c0aae3f6e1559e44d8432e0b2a610f48313/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:9c7adf6201b882151ea718cab759e28cd1ae14d3": {
-    "url": "https://tnsul.com/2026/08/18/incendio-atinge-residencia-no-bairro-santo-antonio-em-criciuma",
-    "title": "Incêndio atinge residência no bairro Santo Antônio, em Criciúma",
-    "guid": "sc1multi:106f4ce044161b07d6111c1198b0afcdcafe23ae",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_106f4ce044161b07d6111c1198b0afcdcafe23ae/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:5edf05cf3bd6f65d3a7405b6ac788b38ac1be7a3": {
-    "url": "https://scportais.com.br/2026/08/18/operacao-cumpre-19-mandados-de-prisao-contra-faccao-em-cidades-de-sc",
-    "title": "Operação prende 19 suspeitos de facção criminosa no Oeste de SC",
-    "guid": "sc1multi:986faf55a73dfc38a0c9dc23d0118b687e0afbc7",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_986faf55a73dfc38a0c9dc23d0118b687e0afbc7/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:6b3b3677dd99351b4f1c54f8c63560160bdd5005": {
-    "url": "https://scportais.com.br/2026/08/18/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc-2",
-    "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
-    "guid": "sc1multi:31f0134733c7246a5094c07239f8b51a232128fe",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f0134733c7246a5094c07239f8b51a232128fe/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:969c08d160afef8f44c3278c77ebf73308941a2c": {
-    "url": "https://rbatv.com.br/noticias/familias-aguardam-quase-13-horas-pela-liberacao-de-corpos-no-iml-de-rio-do-sul",
-    "title": "Famílias aguardam quase 13 horas para liberação de corpos no IML de Rio do Sul",
-    "guid": "sc1multi:802bdfa8768aa50f1f7ec87f895b7f08be3614fa",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_802bdfa8768aa50f1f7ec87f895b7f08be3614fa/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
-  },
-  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
-    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
-    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
-    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
-  },
-  "source:ebe66eecec50796b5f87e167d1088a966e98e89f": {
-    "url": "https://tudoaquisc.com.br/grande-florianopolis/banqueiro-desaparece-lagoa",
-    "title": "Bancário paulista desaparece após sair de hostel em Florianópolis",
-    "guid": "sc1multi:ab223add0cc3f4c8c9269f614adf328f2fccc70c",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_ab223add0cc3f4c8c9269f614adf328f2fccc70c/",
-    "usedAt": 1787112844973,
-    "usedAtIso": "2026-08-19T04:14:04.973Z"
+  "source:d395ed9c125e7e5af31d8a31711fdb99f47ee1d7": {
+    "url": "https://rbatv.com.br/noticias/familia-busca-por-adolescente-desaparecido-em-rio-do-sul",
+    "title": "Família procura adolescente desaparecido em Rio do Sul",
+    "guid": "sc1multi:58d5ca449bb76edbd7923f1818090153d3e07894",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58d5ca449bb76edbd7923f1818090153d3e07894/",
+    "usedAt": 1787116444385,
+    "usedAtIso": "2026-08-19T05:14:04.385Z"
   }
 }
