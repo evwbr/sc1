@@ -1,4 +1,52 @@
 {
+  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
+    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
+    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
+    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
+  "source:053265185f6ee0c3a9574f42773e98e1967d743c": {
+    "url": "https://correiosc.com.br/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-na-comunidade-do-siri-no-norte-da-ilha",
+    "title": "Operação Solo Legal demole seis construções irregulares em Florianópolis",
+    "guid": "sc1multi:d066bb7862a4f1113b02c7d741e234b5333c8dba",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d066bb7862a4f1113b02c7d741e234b5333c8dba/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
+  "source:0dc4ec3f85684db54479598d5d08444c20ce66cf": {
+    "url": "https://scportais.com.br/2026/08/18/eleicoes-2026-confira-a-lista-de-candidatos-a-deputado-federal-em-santa-catarina",
+    "title": "Eleições 2026: candidatos a deputado federal em Santa Catarina",
+    "guid": "sc1multi:cd78c85a93d1c55c9cbe72337776bc73e3627320",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd78c85a93d1c55c9cbe72337776bc73e3627320/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
+  "source:4d330fe0bd2635181a7a9e4e525ca7f3bb8ffa3f": {
+    "url": "https://scportais.com.br/2026/08/18/policia-civil-e-gaeco-desarticulam-faccao-criminosa-em-chapeco-e-regiao",
+    "title": "Polícia Civil e GAECO desarticulam facção criminosa em Chapecó e região",
+    "guid": "sc1multi:47a72882262a1c505abaa5be501b426a8f23d3db",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47a72882262a1c505abaa5be501b426a8f23d3db/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
+  "source:afec51bc1d49936b92d5eb623a826d2f6a9fe4fb": {
+    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-moto-deixa-motociclista-ferido-na-br-470-em-pouso-redondo",
+    "title": "Motociclista fica ferido em acidente na BR-470 em Pouso Redondo",
+    "guid": "sc1multi:20f1dbd86b36ef16cce46aa8fa4ba2a974c65bfd",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20f1dbd86b36ef16cce46aa8fa4ba2a974c65bfd/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
+  "source:077a627d0391d57dd4824147ab25c2ff64e51460": {
+    "url": "https://ocp.news/esporte/jaragua-futsal-coloca-dois-atletas-na-selecao-brasileira-para-o-sul-americano-sub-20",
+    "title": "Jaraguá Futsal tem dois atletas convocados para Seleção Brasileira Sub-20",
+    "guid": "sc1multi:077a627d0391d57dd4824147ab25c2ff64e51460",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_077a627d0391d57dd4824147ab25c2ff64e51460/",
+    "usedAt": 1787094844306,
+    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  },
   "source:1b7bcf05d3e08de1fb8d8d7beedfb4ffb48cdb01": {
     "url": "https://tnsul.com/2026/08/18/tutora-e-denunciada-por-maus-tratos-apos-cadela-ingerir-55-pedras-de-crack",
     "title": "Tutora é denunciada por maus-tratos após cadela ingerir 55 pedras de crack em Joinville",
@@ -175,37 +223,29 @@
     "usedAt": 1787080444639,
     "usedAtIso": "2026-08-18T19:14:04.639Z"
   },
-  "source:5a3110032a96163533545419f86ff2f4132c3ad6": {
-    "url": "https://correiosc.com.br/jorginho-mello-adriano-silva-largada-campanha-florianopolis-joinville",
-    "title": "Jorginho Mello e Adriano Silva iniciam campanha eleitoral em Santa Catarina",
-    "guid": "sc1multi:26713351408930c11d1ae36819b1319ba502baee",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_26713351408930c11d1ae36819b1319ba502baee/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
-  },
   "source:d459afec2dea9eff356d33e9c2bda6faf47bcec4": {
     "url": "https://ocp.news/cotidiano/cincatarina-amplia-atuacao-e-passa-a-ter-alcance-nacional",
-    "title": "CINCATARINA amplia atuação e passa a ter alcance nacional",
+    "title": "CINCATARINA amplia atuação para todo o território nacional",
     "guid": "sc1multi:d459afec2dea9eff356d33e9c2bda6faf47bcec4",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d459afec2dea9eff356d33e9c2bda6faf47bcec4/",
-    "usedAt": 1787076845665,
-    "usedAtIso": "2026-08-18T18:14:05.665Z"
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
   "source:42e535d4781b4e70d5b75d3e7c665677c757c22b": {
     "url": "https://ocp.news/seguranca/homem-condenado-por-estupro-de-vulneravel-e-preso-em-jaragua-do-sul-4",
     "title": "Homem condenado por estupro de vulnerável é preso em Jaraguá do Sul",
     "guid": "sc1multi:42e535d4781b4e70d5b75d3e7c665677c757c22b",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_42e535d4781b4e70d5b75d3e7c665677c757c22b/",
-    "usedAt": 1787076845665,
-    "usedAtIso": "2026-08-18T18:14:05.665Z"
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
   "source:074082d440dbeb9cae6477432c98c7c5841b92f8": {
     "url": "https://ocp.news/esporte/jaraguaense-e-campea-brasileira-e-garante-vaga-no-mundial-de-corrida-de-rua",
-    "title": "Simone Ponte Ferraz é campeã brasileira e vai ao Mundial de Corrida de Rua",
+    "title": "Jaraguaense Simone Ponte Ferraz é campeã brasileira de corrida de rua",
     "guid": "sc1multi:074082d440dbeb9cae6477432c98c7c5841b92f8",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_074082d440dbeb9cae6477432c98c7c5841b92f8/",
-    "usedAt": 1787076845665,
-    "usedAtIso": "2026-08-18T18:14:05.665Z"
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
   "source:94c87c9cf427bf9208964ff68a69825ae9180f87": {
     "url": "https://rbatv.com.br/variedades/grupo-koch-abre-processo-seletivo-para-vagas-de-emprego-no-novo-komprao-de-ituporanga",
@@ -217,74 +257,58 @@
   },
   "source:5d6c96a2fa342d696f040d79d2a6c13d5618f262": {
     "url": "https://ocp.news/entretenimento/cesar-menotti-fabiano-celebram-20-anos-de-carreira-com-show-na-grande-florianopolis",
-    "title": "César Menotti e Fabiano comemoram 20 anos com show em São José",
+    "title": "César Menotti e Fabiano celebram 20 anos com show em São José",
     "guid": "sc1multi:5d6c96a2fa342d696f040d79d2a6c13d5618f262",
     "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_5d6c96a2fa342d696f040d79d2a6c13d5618f262/",
-    "usedAt": 1787076845665,
-    "usedAtIso": "2026-08-18T18:14:05.665Z"
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:053265185f6ee0c3a9574f42773e98e1967d743c": {
-    "url": "https://correiosc.com.br/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-na-comunidade-do-siri-no-norte-da-ilha",
-    "title": "Operação Solo Legal demole seis construções irregulares em Florianópolis",
-    "guid": "sc1multi:d066bb7862a4f1113b02c7d741e234b5333c8dba",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_d066bb7862a4f1113b02c7d741e234b5333c8dba/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  "source:ffe2048a2c89da18577fd4e498f973fbf645dd33": {
+    "url": "https://rbatv.com.br/noticias/caso-de-policial-civil-que-matou-detenta-na-viatura-em-correia-pinto-e-arquivado-pelo-mpsc-apos-comprovacao-de-legitima-defesa",
+    "title": "MPSC arquiva caso de policial que matou detenta em viatura em Correia Pinto",
+    "guid": "sc1multi:98e086a96a65b8a0080d69b7ebc85ddbd449875e",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_98e086a96a65b8a0080d69b7ebc85ddbd449875e/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:d1a9f8326c250a62f774e173c3cd8c7626230796": {
-    "url": "https://rbatv.com.br/noticias/brusque-registra-prisoes-por-violencia-domestica-trafico-de-drogas-e-furto",
-    "title": "Polícia Militar prende três suspeitos em Brusque por crimes diversos",
-    "guid": "sc1multi:b77719da262d82fb6aa67dcccdf21ad3e854ba3f",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_b77719da262d82fb6aa67dcccdf21ad3e854ba3f/",
-    "usedAt": 1787073244385,
-    "usedAtIso": "2026-08-18T17:14:04.385Z"
+  "source:5fd20175a3e0ca8dcceba0b65842f74c37e6a39d": {
+    "url": "https://rbatv.com.br/noticias/dois-homens-com-mandados-de-prisao-sao-detidos-pela-pm-em-ituporanga",
+    "title": "Dois homens com mandados de prisão são detidos em Ituporanga",
+    "guid": "sc1multi:49130c0aae3f6e1559e44d8432e0b2a610f48313",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_49130c0aae3f6e1559e44d8432e0b2a610f48313/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:58fbb9e2590ac5b637c700cc0bce72794bfa4385": {
-    "url": "https://ocp.news/cotidiano/operacao-solo-legal-6-edificacoes-irregulares-sao-demolidas-em-comunidade-de-florianopolis",
-    "title": "Seis edificações irregulares são demolidas em dunas dos Ingleses, Florianópolis",
-    "guid": "sc1multi:58fbb9e2590ac5b637c700cc0bce72794bfa4385",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_58fbb9e2590ac5b637c700cc0bce72794bfa4385/",
-    "usedAt": 1787073244385,
-    "usedAtIso": "2026-08-18T17:14:04.385Z"
+  "source:9c7adf6201b882151ea718cab759e28cd1ae14d3": {
+    "url": "https://tnsul.com/2026/08/18/incendio-atinge-residencia-no-bairro-santo-antonio-em-criciuma",
+    "title": "Incêndio atinge residência no bairro Santo Antônio, em Criciúma",
+    "guid": "sc1multi:106f4ce044161b07d6111c1198b0afcdcafe23ae",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_106f4ce044161b07d6111c1198b0afcdcafe23ae/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:97b1616bd4575c750e8526a2dd4777038ed68080": {
-    "url": "https://ocp.news/politica/vereador-alerta-para-risco-de-acidentes-na-br-280-e-cobra-reparos-em-trecho",
-    "title": "Vereador de Jaraguá do Sul alerta para riscos na BR-280 e cobra reparos",
-    "guid": "sc1multi:97b1616bd4575c750e8526a2dd4777038ed68080",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_97b1616bd4575c750e8526a2dd4777038ed68080/",
-    "usedAt": 1787073244385,
-    "usedAtIso": "2026-08-18T17:14:04.385Z"
+  "source:5edf05cf3bd6f65d3a7405b6ac788b38ac1be7a3": {
+    "url": "https://scportais.com.br/2026/08/18/operacao-cumpre-19-mandados-de-prisao-contra-faccao-em-cidades-de-sc",
+    "title": "Operação prende 19 suspeitos de facção criminosa no Oeste de SC",
+    "guid": "sc1multi:986faf55a73dfc38a0c9dc23d0118b687e0afbc7",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_986faf55a73dfc38a0c9dc23d0118b687e0afbc7/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:0dc4ec3f85684db54479598d5d08444c20ce66cf": {
-    "url": "https://scportais.com.br/2026/08/18/eleicoes-2026-confira-a-lista-de-candidatos-a-deputado-federal-em-santa-catarina",
-    "title": "Eleições 2026: candidatos a deputado federal em Santa Catarina",
-    "guid": "sc1multi:cd78c85a93d1c55c9cbe72337776bc73e3627320",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_cd78c85a93d1c55c9cbe72337776bc73e3627320/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  "source:6b3b3677dd99351b4f1c54f8c63560160bdd5005": {
+    "url": "https://scportais.com.br/2026/08/18/justica-eleitoral-libera-divulgacao-de-pesquisa-do-instituto-mapa-em-sc-2",
+    "title": "Justiça Eleitoral autoriza divulgação de pesquisa eleitoral em Santa Catarina",
+    "guid": "sc1multi:31f0134733c7246a5094c07239f8b51a232128fe",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_31f0134733c7246a5094c07239f8b51a232128fe/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   },
-  "source:4d330fe0bd2635181a7a9e4e525ca7f3bb8ffa3f": {
-    "url": "https://scportais.com.br/2026/08/18/policia-civil-e-gaeco-desarticulam-faccao-criminosa-em-chapeco-e-regiao",
-    "title": "Polícia Civil e GAECO desarticulam facção criminosa em Chapecó e região",
-    "guid": "sc1multi:47a72882262a1c505abaa5be501b426a8f23d3db",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_47a72882262a1c505abaa5be501b426a8f23d3db/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
-  },
-  "source:afec51bc1d49936b92d5eb623a826d2f6a9fe4fb": {
-    "url": "https://rbatv.com.br/noticias/acidente-entre-carro-e-moto-deixa-motociclista-ferido-na-br-470-em-pouso-redondo",
-    "title": "Motociclista fica ferido em acidente na BR-470 em Pouso Redondo",
-    "guid": "sc1multi:20f1dbd86b36ef16cce46aa8fa4ba2a974c65bfd",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_20f1dbd86b36ef16cce46aa8fa4ba2a974c65bfd/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
-  },
-  "source:077a627d0391d57dd4824147ab25c2ff64e51460": {
-    "url": "https://ocp.news/esporte/jaragua-futsal-coloca-dois-atletas-na-selecao-brasileira-para-o-sul-americano-sub-20",
-    "title": "Jaraguá Futsal tem dois atletas convocados para Seleção Brasileira Sub-20",
-    "guid": "sc1multi:077a627d0391d57dd4824147ab25c2ff64e51460",
-    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_077a627d0391d57dd4824147ab25c2ff64e51460/",
-    "usedAt": 1787094844306,
-    "usedAtIso": "2026-08-18T23:14:04.306Z"
+  "source:969c08d160afef8f44c3278c77ebf73308941a2c": {
+    "url": "https://rbatv.com.br/noticias/familias-aguardam-quase-13-horas-pela-liberacao-de-corpos-no-iml-de-rio-do-sul",
+    "title": "Famílias aguardam quase 13 horas para liberação de corpos no IML de Rio do Sul",
+    "guid": "sc1multi:802bdfa8768aa50f1f7ec87f895b7f08be3614fa",
+    "pageUrl": "https://evwbr.github.io/sc1/p/sc1multi_802bdfa8768aa50f1f7ec87f895b7f08be3614fa/",
+    "usedAt": 1787098444292,
+    "usedAtIso": "2026-08-19T00:14:04.292Z"
   }
 }
